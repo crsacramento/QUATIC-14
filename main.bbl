@@ -72,12 +72,6 @@ M.~J. Pacione, M.~Roper, and M.~Wood, ``A comparative evaluation of dynamic
   visualisation tools,'' in \emph{10th Working Conference on Reverse
   Engineering}, 2003, pp. 80--89.
 
-\bibitem{elbaum2003improving}
-S.~Elbaum, S.~Karre, and G.~Rothermel, ``Improving web application testing with
-  user session data,'' in \emph{Proceedings of the 25th International
-  Conference on Software Engineering}.\hskip 1em plus 0.5em minus 0.4em\relax
-  IEEE Computer Society, 2003, pp. 49--59.
-
 \bibitem{sampath2007applying}
 S.~Sampath, S.~Sprenkle, E.~Gibson, L.~Pollock, and A.~S. Greenwald, ``Applying
   concept analysis to user-session-based testing of web applications,''
@@ -114,11 +108,6 @@ L.~M. Duarte, J.~Kramer, and S.~Uchitel, ``Model extraction using context
 \bibitem{roest2010automated}
 D.~Roest, ``Automated regression testing of ajax web applications,'' Master's
   thesis, Delft University of Technology, February 2010.
-
-\bibitem{mesbah2012invariant}
-A.~Mesbah, A.~van Deursen, and D.~Roest, ``Invariant-based automatic testing of
-  modern web applications,'' \emph{Software Engineering, IEEE Transactions on},
-  vol.~38, no.~1, pp. 35--53, 2012.
 
 \bibitem{fard2013feedback}
 A.~M. Fard and A.~Mesbah, ``Feedback-directed exploration of web applications
@@ -161,7 +150,7 @@ J.~Tidwell, \emph{Designing interfaces}.\hskip 1em plus 0.5em minus 0.4em\relax
 \BIBentryALTinterwordspacing
 T.~Neil. 12 standard screen patterns. Accessed: 2014-01-22. [Online].
   Available:
-  \url{http://designingWebinterfaces.com/designingWeb-interfaces-12-screen-patterns}
+  \url{http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns}
 \BIBentrySTDinterwordspacing
 
 \bibitem{sinnig2005patterns}
@@ -190,9 +179,5 @@ S.~Brin, ``Extracting patterns and relations from the world wide web,'' in
 C.-H. Chang, C.-N. Hsu, and S.-C. Lui, ``Automatic information extraction from
   semi-structured web pages by pattern discovery,'' \emph{Decision Support
   Systems}, vol.~35, no.~1, pp. 129--147, 2003.
-
-\bibitem{freitag1998information}
-D.~Freitag, ``Information extraction from html: Application of a general
-  machine learning approach,'' in \emph{AAAI/IAAI}, 1998, pp. 517--523.
 
 \end{thebibliography}
