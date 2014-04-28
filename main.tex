@@ -6,6 +6,9 @@
 \usepackage{hyperref}
 \usepackage{listings}
 \usepackage{import}
+\usepackage{algorithm2e}
+\usepackage{tabularx}
+%\usepackage{caption}
 
 %bib
 \bibliographystyle{IEEEtran}
@@ -16,8 +19,10 @@
 % path to figures
 \graphicspath{{figures/}}
 
-%capshun space
-%\setlength{\abovecaptionskip}{5pt plus 0pt minus 0pt}
+% for CFG listing
+%\DeclareCaptionFormat{myformat}{#1#2#3}
+%\captionsetup{format=myformat}
+%\captionsetup[lstlisting]{position=bottom,belowskip=10pt}
 
 \begin{document}
 %
@@ -28,11 +33,13 @@
 % author names and affiliations
 % use a multiple column layout for up to three different
 % affiliations
-\author{\IEEEauthorblockN{Clara Sacramento, Ana C. R. Paiva}
-\IEEEauthorblockA{Departamento de Engenharia Informática\\
-Faculdade de Engenharia da Universidade do Porto\\
-Porto, Portugal\\
-ei09090@fe.up.pt; apaiva@fe.up.pt; }}
+\author{
+\IEEEauthorblockN{Clara Sacramento}
+\IEEEauthorblockA{Department of Informatics Engineering,\\ Faculty of Engineering of the \\University of Porto \\Porto, Portugal \\ei09090@fe.up.pt}
+\and
+\IEEEauthorblockN{Ana C. R. Paiva}
+\IEEEauthorblockA{INESC TEC, Department of Informatics Engineering, \\Faculty of Engineering of the \\University of Porto \\ Porto, portugal \\apaiva@fe.up.pt}}
+
 
 % use for special paper notices
 %\IEEEspecialpapernotice{(Invited Paper)}
@@ -41,10 +48,9 @@ ei09090@fe.up.pt; apaiva@fe.up.pt; }}
 \maketitle
 
 \begin{abstract}
-%\boldmath
-A great deal of effort in model-based testing is related to the creation of the model. The model itself, while a powerful tool of abstraction, can be a source of bugs. This paper presents a dynamic reverse engineering approach that aims to extract part of the model of an existing Web application through the identification of User Interface (UI) patterns. This approach explores the Web application via crawling, saves information related to the interaction (crawl history, HTML pages and their URLs), analyzes the gathered information, and infers the UI patterns via a set of heuristics rules.
+A great deal of effort in model-based testing is related to the creation of the model. The model itself, while a powerful tool of abstraction, can be a source of bugs. This paper presents a dynamic reverse engineering approach that aims to extract part of the model of an existing Web application through the identification of User Interface (UI) patterns. This approach explores the Web application via reverse engineering, records information related to the interaction (interaction history, HTML pages and their URLs), analyzes the gathered information, and infers the UI patterns via a set of heuristics rules. After complemented with additional information, the model extracted is the input for the Pattern-Based GUI Testing (PBGT) approach for testing existing applications.
 \end{abstract}
-\begin{IEEEkeywords} Reverse Engineering, Web Application, UI Patterns, Web Scraping, Web Crawling \end{IEEEkeywords}
+\begin{IEEEkeywords} Reverse Engineering, Web Application, UI Patterns, Web Scraping \end{IEEEkeywords}
 
 \IEEEpeerreviewmaketitle
 
@@ -54,18 +60,18 @@ Web applications are getting more and more important, and can now handle tasks t
 
 Graphical User Interfaces of all kinds are populated with recurring behaviors that vary slightly, an example being authentication (\textit{login/password}). These behaviors (patterns) are called User Interface (UI) patterns \cite{van2001patterns} and are recurring solutions that solve common design problems. Due to their widespread use, UI patterns allow users a sense of familiarity and comfort when using applications. 
 
-However, while UI patterns are familiar to users, their implementation may vary significantly. Even a simple pattern like authentication can be implemented in many ways. Authentication failure can trigger the appearance of an error message; but some implementations simply erase the inserted data, with no error message visible. Despite this, it is possible to define generic and reusable test strategies to test them after a configuration process to adapt the tests to those different possible applications \cite{morgado2012gui}. 
+However, while UI patterns are familiar to users, their implementation may vary significantly. Even a simple pattern like authentication can be implemented in many ways. Authentication failure can trigger the appearance of an error message; but some implementations simply erase the inserted data, with no error message visible. Despite this, it is possible to define generic and reusable test strategies (User Interface Test Patterns - UITP) to test those patterns. This requires a configuration process, in order to adapt the tests to different applications \cite{morgado2012gui}. 
 
-That is the main idea behind the PBGT (\textit{Pattern-based GUI Testing}) project, in which this research work is included. In the PBGT approach, the user builds a test model of the Web application with instantiations of UI patterns, and later uses that model to test the previous Web app.  The goal of the work described in this paper is to continue the work done in \cite{nabuco2013inferring} on the extraction process (PARADIGM-RE), and  its aim is to automatize the model process: visit a Web application automatically  via reverse engineering, search for UI patterns in its pages, and finally produce a model with the results of the search.
+That is the main idea behind the PBGT (\textit{Pattern-based GUI Testing}) project, in which this research work is included. In the PBGT approach, the user builds a test model of the Web application with instantiations of UI Test Patterns, and later uses that model to test the Web app.  The goal of the work described in this paper is to continue the work done in \cite{nabuco2013inferring} on the reverse engineering process (PARADIGM-RE), and its aim is to automatize the model construction: independently/automatically explore a Web application, infer the existing UI patterns in its pages, and finally produce a model with the UI Test Patterns that define the strategies to test the UI Patterns present in the web application.
 
-The rest of the paper is structured as follows. Section \ref{sec:intro} introduces this document, and resumes necessary background knowledge. Section \ref{sec:pbgt} presents an overview of the PBGT project, setting the context for this work. Section \ref{sec:sota} addresses the related work, as well as the tools available to perform the needed tasks. Section \ref{sec:re} describes the developed approach, its components and  their interrelations, and the results it produces. Section \ref{sec:eval} provides a practical example of the system proposed. Section \ref{sec:conc} provides the conclusions, reports some of the problems found and points out the future work. 
+The rest of the paper is structured as follows. Section \ref{sec:pbgt} presents an overview of the PBGT project, setting the context for this work.  Section \ref{sec:re} describes the developed approach, its components and  their interrelations, and the results it produces. Section \ref{sec:eval} provides a practical example of the proposed system. Section \ref{sec:sota} addresses the related work, as well as the available tools to perform the needed tasks. Section \ref{sec:conc} presents the conclusions, some of the problems encountered and a perspective on future work. 
 
 \section{PBGT Overview}\label{sec:pbgt}
 
-As mentioned before, the focus of this article is a component of an investigation project named PBGT (\textit{Pattern-based GUI Testing}) \cite{moreira2013pattern}. The goal of this investigation project is to develop a model-based GUI testing tool and approach, usable as an industrial tool. 
+As mentioned before, the focus of this paper is a component of a research project named PBGT (\textit{Pattern-based GUI Testing}) \cite{moreira2013pattern}. The goal of this project is to develop a model-based GUI testing tool and approach, usable as an industrial tool.
 
 \subsection{Architecture}
-This project has five parts: a DSL (\textit{Domain Specific Language}) named \textbf{PARADIGM} to define GUI testing models based on UI patterns; \textbf{PARADIGM-RE}, a Web application reverse engineering tool whose purpose is to extract UI patterns from Web pages without access to their source code, and use the extracted patterns to generate a test model defined in PARADIGM; a modeling and testing environment, named \textbf{PARADIGM-ME}, made to support the creation of test models; an automatic test case generation tool, named \textbf{PARADIGM-TG}, that generates test cases from test models defined in PARADIGM; and finally a test case execution tool, named \textbf{PARADIGM-TE}, which executes test cases, analyzes their coverage, and returns detailed execution reports. The architecture and workflow of the project can better be seen in Fig. \ref{fig:pbgt}.
+This project has five parts: a DSL (\textit{Domain Specific Language}) named \textbf{PARADIGM} to define GUI testing models based on UI Test Patterns; \textbf{PARADIGM-RE}, a Web application reverse engineering tool whose purpose is to extract UI patterns from Web pages without access to their source code, and use that information to generate a test model written in PARADIGM; a modeling and testing environment, named \textbf{PARADIGM-ME}, built to support the creation of test models; an automatic test case generation tool, named \textbf{PARADIGM-TG}, that generates test cases from test models defined in PARADIGM; and finally, a test case execution tool, named \textbf{PARADIGM-TE}, which executes test cases, analyzes their coverage, and returns detailed execution reports. The architecture and workflow of the project is shown in Fig. \ref{fig:pbgt}.
 
 \begin{figure}[!htb]
 \centering
@@ -74,8 +80,16 @@ This project has five parts: a DSL (\textit{Domain Specific Language}) named \te
 \label{fig:pbgt}
 \end{figure}
 
-\subsection{Supported Patterns}
-The UI Patterns defined in the PARADIGM language, and therefore supported by PARADIGM-RE, are:
+\subsection{PARADIGM}
+The definition of the PARADIGM DSL has started by analyzing a set of existing UI Patterns \cite{van2001patterns}. This DSL contains a set of UI Test Patterns that specify generic test strategies to test those UI Patterns along their different implementations. Besides UI Test Patterns, the DSL also defines a set of connectors that allows the definition of sequences of test strategies to execute.
+
+A UI Test Pattern defines a test strategy which is formally defined by a set of test goals (for later configuration) \cite{moreira2013pattern} with the form:
+
+\begin{equation}< Goal; V; A; C; P >\end{equation}\label{eq:ui}
+
+\textit{Goal} is the ID of the test. \textit{V} is a set of pairs { [\textit{variable}, \textit{inputData}] } relating test input data with the variables involved in the test. \textit{A} is the sequence of actions to perform during test case execution. \textit{C} is the set of possible checks to perform during test case execution, for example, “check if it remains in the same page”. \textit{P} is a Boolean expression (precondition) defining the set of states in which it is possible to execute the test.
+
+The UI Patterns that PARADIGM language is able to test through UI Test Patterns are:
 \begin{description}
 \item[\textit{Login}] \hfill \\
 This pattern is commonly found in Web applications, especially in the ones that restrict access to functionalities or data. Usually consists of two input fields (a normal input box for email or username, and a cyphered text for the password) and a submit button, with optionally a ``remember me'' checkbox. The authentication process has two possible outcomes: valid and invalid.
@@ -95,42 +109,222 @@ This pattern is any kind of element where a click triggers a change of page.
 
 \subsection{Produced Models}
 
-The models produced by PARADIGM-RE after the RE process consist of a XML file that contains all the information about the UI Patterns found: their definition and configurations. The PARADIGM model generated by the PARADIGM-RE tool does not contain the connectors between the UI Patterns, only the UI Patterns and their configurations. These models are meant to be loaded to the PARADIGM-ME tool and completed manually.\\
+The models produced by the reverse engineering tool PARADIGM-RE consist of a XML file that contains information about the UI Test Patterns needed to test the UI Patterns found: their name and the input values for their variables. The PARADIGM model generated by the PARADIGM-RE tool does not contain the connectors between the UI Test Patterns, the checks to perform during test case execution, or the pre-condition determining the states where the test strategy will be run. This information needs to be complemented by the tester afterwards in order to generate test cases and execute them over a web application.
 
 \section{Reverse Engineering Approach}\label{sec:re}
-The  approach described in this paper aims to improve on the previous work \cite{nabuco2013inferring} done on the PARADIGM-RE tool. The previous work extracted patterns from a
 
-%uses a dynamic method to extract execution traces from which  additional information is inferred. An execution trace is the sequence of user actions executed during the interaction with a software system, such as clicks, text inputs and also some information of the system state (e.g., the information that is being displayed). 
+The  approach described in this paper aims to improve on the previous work \cite{nabuco2013inferring} done on the PARADIGM-RE tool. The previous tool extracted information from an user's interaction with the Web application under analysis, analysed the information, produced some metrics (such as the total ratio of the LOC (\textit{lines of code}) length of all visited pages and the ratio of two subsequent pages), and finally used those metrics and the user interaction's information to infer UI patterns via a set of heuristic rules. The information saved of an user interaction is the source code and URLs of the visited pages, and the interaction's execution trace. An execution trace is the sequence of user actions executed during the interaction with a software system, such as clicks, text inputs and also some information of the system state (e.g., the information that is being displayed). An example of an execution trace file used by the tool can be seen in Section \ref{sec:fp}, in Table \ref{tab:exec}.
+
+The approach identified all the available patterns, but produced a high number of false positives \cite{nabuco2013inferring}, and the exploration process was done by saving the user interaction with the Web application under test. The work described in this paper aims to identify UI patterns in the Application Under Test (AUT) as well, but also removes the need for user interaction with the AUT providing a reverse engineering process to explore automatically the web application under analysis, and attempts to improve the pattern inferring process. The architecture of the tool is seen in Figure \ref{fig:retool}.
 
 \begin{figure}[!htb]
 \centering
 \includegraphics[width=0.45\textwidth]{retool}
-\caption{The architecture of the PARADIGM-RE tool.}
+\caption{The architecture of the approach.}
 \label{fig:retool}
 \end{figure}
 
+%ACP Este parágrafo deveria começar por fazer uma apresentção das 3 componentes mais alto nível. Por exemplo a descrição de LogProcessor deveria difer que faz um processamento dos logs anteriores e produz logs alterados que têm determinadas caracteríticas. Depois poderia falar dos passos envolvidos nesse processo. Como está acho que não se percebe... Talvez dizer que faz um parsing do log indentificando várias coisas XYZ, alterando algumas XYZ, e ignorando outras XYZ
+
+%%% check %%%
+
+The approach can be divided into three parts: \textbf{WebsiteExplorer}, \textbf{LogProcessor}, and \textbf{PatternInferrer}.
+
+\textbf{WebsiteExplorer} interacts automatically with the AUT and produces an execution trace file with the actions taken (see Table \ref{tab:exec} for an example, minus the rightmost column). \textbf{LogProcessor} is a text parser. It analyzes the previous file, parses each line, searches for important keywords, identifies the action contained in the line according to the results found, and produces an updated execution trace file (again, see Table \ref{tab:exec} for an example). Finally, \textbf{PatternInferrer} analyzes the updated execution file, identifies the existent patterns, their location in the website and any existent parameters, and produces an XML file with the results.
+
+\subsection{AUT Exploration}\label{sec:inter}
+The interaction process is described in a simplified manner in Algorithm \ref{alg:seeker}.
+
+\begin{algorithm}
+  %\SetLine
+  \KwData{number\_of\_actions, number\_of\_iterations, website\_base\_url}
+  \KwResult{written execution trace file}
+  
+  current\_action := 0; redirections := 0\;
+  invalid\_urls := parse robots.txt file\;
+  
+  \While{current\_action $<$ number\_of\_actions}{
+  	list := extract valid non-visited elements\;
+    next\_element := choose\_next\_element(list)\;
+  \eIf{next\_element == null}
+  {%then
+  	redirections++\;
+    \eIf{redirection $<$ number\_of\_iterations}
+    	{%then
+        	go to base URL\;
+            write to execution trace file\;
+        }
+        {%else
+        	end program\;
+        }
+  }
+  {%else
+  	visit element\;
+    add element to visited elements\;
+    write to execution trace file\;
+    current\_action++;
+  }
+}
+
+\caption{Pseudo-code algorithm to explore a page.}\label{alg:seeker}
+\end{algorithm}
+
+Currently the elements explored are \textit{$<$select$>$} elements, \textit{$<$input$>$} elements, and \textit{$<$a$>$} (link) elements. The way each element is visited is different: link elements are clicked; input elements get text (either a keyword or a number, depending on the type of input) and the containing form is submitted; and in the case of dropdown menus, a random option is selected and the surrounding form is submitted. The exception to the \textit{input} rule is when the element is identified as a \textit{login} element, in which case all the sibling elements (elements inside the form where the selected element is located) get text and only then the form is submitted.
+
+%ACP Achei este parárafo confuso. Fiz algumas alterações mas depois parei
+%%% check, ask %%%
+Information about these elements is extracted via XPath\footnote{XPath: \url{www.w3schools.com/XPath/}}. Before interacting with an element, the algorithm makes the following checks: if the element has not been visited in the current page, if the website's robots.txt\footnote{robots.txt: \url{http://www.robotstxt.org/}} file allows it to be visited, and finally, if the element contains any unwelcome keywords that if explored may drive the explorer into unwanted ways. These keywords may be general to all elements (anything that edits information or contains the words 'buy'/'sell', for example, that would lead to purchase products) or element-specific (input elements cannot contain the attribute '\textit{disabled}' or'\textit{readonly}', if they are to be interacted with). All elements have the same probability of being chosen from a list of elements.
+
+%ACP chama-se execution trace ou action log?
+%%% check. execution trace? %%%
+The execution trace file produced is a CSV (\textit{Comma-separated values}) file with three columns: \textbf{action}, the type of action executed (\textit{click, type}, or \textit{select} when selecting an option in a dropdown menu -- it may also contain the suffix \textit{AndWait}, which indicates a page change); \textbf{target}, the identifier of the visited element; and \textbf{value}, which has the parameter for the action and may be empty (for example, in the case of \textit{type} actions, it is the inserted text).
+
+%ACP nesta secção patterns são text patterns, não é? Convém dizer que é um parser. Talvez depois se perceba melhor. Senão vão ser muitos patterns!!
+%%% check
 \subsection{File Processing}\label{sec:fp}
+This component is a lexical analyzer, whose role is to examine the execution trace file line by line and identify the type of each action written therein. It has a data structure (which serves as its lexical grammar) containing the rules it is going to search for, and each has the following attributes: \textbf{pattern\_name}, the identifier for the rule; \textbf{identifying\_regex}, a regex (Regular Expression\footnote{Regex: \url{http://www.regular-expressions.info/}}) that identifies an action of that type; and \textbf{garbage\_removal\_regex}, another regular expression that serves to erase unneeded words in case the pattern is discovered. 
+
+For every line, all rules are tested, and if a rule matches the line, first a camel-case token (composed by the sum of the action type and the rule's name) is produced; and afterwards all words that match the \textit{garbage\_removal\_regex} are removed. This is done because a pattern may be a superclass of another pattern, and in that case it is better to just identify the super pattern. For example, if an element is identified as part of a \textit{search} pattern, it is not necessary to identify it as \textit{input} as well.
+
+The identifiable patterns by default are: \textit{login, search, sort}, and \textit{input}. However, the identifiable patterns can also be overridden and added to via a text file.
+
+An example of file processing may be seen in Table \ref{tab:exec}.
+
+\begin{table}[!htb]
+\resizebox{0.5\textwidth}{!}{
+  \begin{tabular}{| c | c | c || c |}
+     \hline
+     \textbf{Action} & \textbf{Target} & \textbf{Value} & \textbf{Processing Return} \\ \hline
+     type&id=input\_username &``user1"&typeUsername \\ \hline
+     type&id=input\_password &``123pass"&typePassword \\ \hline
+     clickAndWait & css=input&EMPTY&clickFormSubmit \\
+      & [type=``submit"] & & PageChange\\
+     \hline
+     type&id=searchInput&``coffee"&typeSearch \\ \hline
+	 clickAndWait & id=mw-searchButton&EMPTY&clickSearch\\
+      & & & PageChange \\ \hline
+     select&id=sort&label=Price: &selectSort \\
+      & & Low to High& \\
+     \hline
+  	 \end{tabular}
+}
+\caption{Example of an execution trace file, and of processed lines.}
+\label{tab:exec}
+\end{table}
 
 \subsection{UI Pattern Inferring}\label{sec:inf}
+This component is a syntactical analyzer, that takes as input the extended execution trace file returned by the LogProcessor, runs it against a predefined grammar, and returns the patterns found. If during the process the tool detects the same UI Pattern instance several times, the tool is capable of ignoring it or add more configurations to the one already detected. One of the existent rules is defined on Listing \ref{lst:cfg}.
+
+%These patterns can have 
+%sub-components of the previous patterns, like \textit{email, username, submit} and \textit{password}, among others. 
+
+
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+           {Ɣ}{$\gamma$}{1}
+           {Ɛ}{$\varepsilon$}{1},
+  label={lst:cfg},
+  caption={The syntactic rule for all the identifiable patterns.}
+}
+\begin{lstlisting}
+S -> FullLogin | FullSearch | FullSort 
+   | FullInput | Call
+
+FullSearch -> Search Submit Refine
+Search -> Ɣ typeSearch Ɣ
+Ɣ -> clickSearch|selectSearch|Ɛ
+Submit -> clickFormSubmit
+         |clickButton|Ɛ
+Refine -> clickRefineSearch|Ɛ
+
+FullLogin -> Login Username Password 
+             Auth click
+Login -> clickLogin PG
+PG -> pageChange | Ɛ
+Username -> typeUsername | typeEmail
+Password -> typePassword
+Auth -> typeAuth | Ɛ
+
+FullSort -> Sort Submit
+Sort -> clickSort | selectSort
+
+FullInput -> Input Submit
+Input -> clickInput | typeInput
+
+Call -> Link pageChange
+Link -> clickLink | clickHome 
+      | clickPreviousPage 
+      | clickNextPage | clickImageLink
+\end{lstlisting}
+
+After the file is processed, an XMI file is produced containing all the pattern occurrences found, and the values assigned to each variable, as per Equation \ref{eq:ui}. As mentioned before, the checks to be done on each variable and any preconditions must be specified by the tester later on in the PARADIGM-ME tool.
 
 \section{Evaluation}\label{sec:eval}
+The RE tool was initially experimented iteratively over a number of Web applications, a training set, with the goal of refining and fine-tuning the strategies used to find UI Patterns.
 
+After the training phase, the RE tool was used to detect UI Patterns in several public known and widely used Web applications, in an evaluation set. This time, the purpose was to evaluate the RE tool, i.e., determine which UI patterns’ occurrences the tool was able to detect in each application execution trace (ET) and compare them to the patterns that really exist in such trace. The results
+are presented in tables that show the number of instances of each UI pattern that exist in the ET, the ones that the tool correctly found and the ones that the tool mistakenly found (false positives).
+Five applications were chosen from the top 30 most popular Websites\footnote{according to: \url{en.wikipedia.org/wiki/List_of_most_popular_websites‎}}: Amazon, Wikipedia, Ebay, Youtube and Yahoo. The numerical results were combined and can be found in Table \ref{tab:eval}.
+
+\begin{table}[!htb]
+\resizebox{0.5\textwidth}{!}{
+  \begin{tabular}{| c | c | c | c | c |}
+     \hline
+     \textbf{Pattern} & \textbf{Present} & \textbf{True} & \textbf{False} & \textbf{False} \\
+       & \textbf{in ET} & \textbf{Positive} & \textbf{Negative} & \textbf{Positive} \\\hline
+     Login & 2 & 2 & 0 & 0\\
+     Search & 14 & 11 & 3 & 0\\
+     Sort & 2 & 1 & 1 & 0\\
+     Input & 6 & 4 & 2 & 0\\
+     Call & 61 & 58 & 3 & 0\\
+     \hline
+     \textbf{Total} & \textbf{85} & \textbf{76} & \textbf{9} & \textbf{0} \\ \hline
+     \textbf{Total} & \textbf{100\%} & \textbf{89\%} & \textbf{11\%} & \textbf{0\%} \\ \hline
+  	 \end{tabular}
+}
+\caption{Evaluation set results.}
+\label{tab:eval}
+\end{table}
+
+As we can see in Table \ref{tab:eval}, during the case study the tool found no false positives, and found 89\% of the  patterns present in the ET. However, the case study doesn't mention how many patterns were present in the web applications that weren't visited, which we haven't verified. Only one path produced by the application was considered for each Web application, and the results don't consider any duplicate patterns found.
 
 \section{Related Work}\label{sec:sota}
 
-Reverse engineering is ``the process of analyzing the subject system to identify the system components and interrelationships and to create representations of the system in another form or at a higher level of abstraction'' \cite{chikofsky1990reverse}. There are two methods of applying reverse engineering to a system: the dynamic method, in which the data are retrieved from the system at run time without access to the source code, the static method, which obtains the data from the system source code \cite{systa1999dynamic}, and finally the hybrid method, which combines the two previous methods \cite{canfora2011achievements}. These approaches follow the same main steps: collect the data, analyze it and represent it in a legible way, and in the process allow the discovery of information about the system's control and data flow \cite{pacione2003comparative}.
+Reverse engineering is ``the process of analyzing the subject system to identify the system components and interrelationships and to create representations of the system in another form or at a higher level of abstraction'' \cite{chikofsky1990reverse}. There are four methods of applying reverse engineering to a system: the dynamic method, in which the data are retrieved from the system at run time without access to the source code, the static method, which obtains the data from the system source code \cite{systa1999dynamic}, the hybrid method, which combines the two previous methods, and the historical method, which extracts information about the evolution of the system
+from version control systems, like SVN\footnote{SVN: svn.apache.org} or GIT\footnote{GIT: git-scm.com} \cite{canfora2011achievements}. These approaches follow the same main steps: collect the data, analyze it and represent it in a legible way, and in the process allow the discovery of information about the system's control and data flow \cite{pacione2003comparative}.
 
-There are plenty of approaches that extract information from Web applications \cite{sampath2007applying,amalfitano2010rich, andjelkovic2011trace}. ReGUI \cite{coimbra2011reverse,coimbra2012dynamic} is a dynamic reverse engineering tool made to reduce the effort of modeling the structure and behavior of a software application GUI. Duarte, Kramer and Uchitel defined an approach for behavior model extraction which combines static and dynamic information \cite{duarte2006model}.
+There are plenty of approaches that extract information from Web applications \cite{sampath2007applying,amalfitano2010rich, andjelkovic2011trace}. ReGUI \cite{coimbra2011reverse,coimbra2012dynamic} is a dynamic reverse engineering tool made to reduce the effort of modeling the structure and behavior of a software application GUI. It was also developed to reduce the effort of obtaining models of the structure and behaviour of a software
+application's GUI, however it only works in desktop applications.
+%%% 
+Duarte, Kramer and Uchitel defined an approach for behavior model extraction which combines static and dynamic information \cite{duarte2006model}.
 
-There are also plenty of approaches that crawl a Web application, and in the process extract information. Crawljax \cite{roest2010automated} is a tool that obtains graphical site maps by automatically crawling through a Web application. Mesbah \textit{et al.} proposed an approach named FeedEx \cite{fard2013feedback}, a feedback-directed Web application exploration technique to derive test models. It uses a greedy algorithm to partially crawl a RIA's GUI, and the goal is that the derived test model capture different aspects of the given Web application's client-side functionality. WebDiff \cite{choudhary2010Webdiff} is a tool that searches for cross-browser inconsistencies by analyzing a website's DOM and comparing screenshots obtained in different browsers. Dincturk \textit{et al.} \cite{dincturk2012statistical} proposed a RIA crawling strategy using a statistical model based on the model-based crawling approach introduced in \cite{benjamin2011strategy} to crawl RIAs efficiently. Dallmeier \textit{et al.}'s Webmate \cite{dallmeier2012Webmate,dallmeier2013Webmate} is a tool that analyzes the Web application under test, identifies all functionally different states, and is then able to navigate to each of these states at the user’s request.
+There are also plenty of approaches that explore Web applications for analysis and processing. Ricca and Tonella's ReWeb \cite{ricca2001understanding} dynamically extracts information from a Web application's server logs to analyze its structure and evolution, and so aims to find inconsistencies and connectivity problems. Benedikt \textit{et al.} introduced a framework called VeriWeb \cite{benedikt2002veriWeb} that discovers and explores automatically Web-site execution paths that can be followed by a user in a Web application. Bernardi \textit{et al.} \cite{bernardi2008reverse} presents an approach for the semi-automatic recovery of user-centered conceptual models from existing web applications, where the models represents the application's contents, their organization and associations, from a user-centered perspective. Marchetto \textit{et al.} proposed a state-based Web testing approach \cite{marchetto2008state} that abstracts the Document Object Model (DOM) into a state model, and from the model derives test cases. Crawljax \cite{roest2010automated} is a tool that obtains graphical site maps by automatically crawling through a Web application. Memon presented an end-to-end model-based Web application automated testing approach \cite{memon2007event} by consolidating previous model development work into one general event-flow model, and employs three ESESs (event space exploration strategies) for model checking, test-case generation, and test-oracle creation. Mesbah \textit{et al.} proposed an automated technique for generating test cases with invariants from models inferred through dynamic crawling \cite{mesbah2012invariant}. Artzi \textit{et al.} developed a tool called Artemis \cite{artzi2011framework} which performs feedback-directed random test case generation for Javascript Web applications. Artemis triggers events at random, but the events are prioritized by less covered branch coverage in previous sequences. Amalfitano \textit{et al.} developed a semi-automatic approach \cite{amalfitano2011using} that uses dynamic analysis of a Web application to generate end user documentation, compliant with known standards and guidelines for software user documentation. Another approach by Mesbah \textit{et al.}, named FeedEx \cite{fard2013feedback} is a feedback-directed Web application exploration technique to derive test models. It uses a greedy algorithm to partially crawl a RIA's GUI, and the goal is that the derived test model capture different aspects of the given Web application's client-side functionality.  Dallmeier \textit{et al.}'s Webmate \cite{dallmeier2012Webmate,dallmeier2013Webmate} is a tool that analyzes the Web application under test, identifies all functionally different states, and is then able to navigate to each of these states at the user’s request.
 
-User Interaction (UI) patterns, in particular the ones supported by the tool, are well-documented in a various number of sources \cite{tidwell2010designing,van2001patterns, neil12standard,sinnig2005patterns}. Lin and Landay's approach \cite{lin2008employing} uses UI patterns for Web applications that run on PCs and mobile phones, and prompt-and-response style voice interfaces. Pontico \textit{et al.}'s approach \cite{pontico2008organizing} presents UI patterns common in eGovernment applications.
+User Interaction (UI) patterns, in particular the ones supported by the tool, are well-documented in a various number of sources \cite{tidwell2010designing, van2001patterns, neil12standard,sinnig2005patterns}. Lin and Landay's approach \cite{lin2008employing} uses UI patterns for Web applications that run on PCs and mobile phones, and prompt-and-response style voice interfaces. Pontico \textit{et al.}'s approach \cite{pontico2008organizing} presents UI patterns common in eGovernment applications.
 
 Despite the fact that there are plenty of approaches to mine patterns from Web applications, no approaches have been found that infer UI patterns from Web applications beside the work extended in this paper \cite{nabuco2013inferring, morgado2012gui}. The approaches found deal mostly with Web mining, with the goal of finding relationships between different data or finding the same data in different formats. Brin \cite{brin1999extracting} presented an approach to extract relations and patterns for the same data spread through many different formats. Chang \cite{chang2003automatic} proposes a similar method to discover patterns, by extracting structured data from semi-structured Web documents.
 
-\section{Conclusion}\label{sec:conc}
+\section{Conclusions}\label{sec:conc}
 %The conclusion goes here.
+This paper presented a dynamic reverse engineering approach to extract UI Patterns from Web applications, by extracting information from an execution trace and afterwards inferring the existing UI Patterns and their configurations from that information. The result is then exported into a PARADIGM
+model to be completed in PARADIGM-ME. Then, the model can be used to generate test cases that are performed on the Web application. This reverse engineering tool is used in the context of the PBGT project that aims to build a model based testing environment to be used by companies. 
 
+The steps followed by the approach have been explained in detail,  including the components responsible for the automatic exploration of the Web application, the lexical and syntactical analysis of execution trace files, pattern discovery, and the production of the final model.
+
+The evaluation of the overall approach was conducted in several worldwide used Web applications. The result was quite satisfactory, as the RE tool found most of the occurrences of UI patterns present in each application as well as their exact location (in which page they were found).
+
+Despite the satisfactory results obtained, the approach still needs some improvement. The tool doesn't handle dynamic pages very well, and the website explorer component visits the same elements more than once, which leads to the discovery of the same patterns many times. As so, the features planned for future versions of the RE tool include the support for a larger set of UI patterns, the definition of more precise methods to identify patterns, based on HTML page analysis and/or manipulation of the DOM tree, and better Javascript handling.
+
+%%%%
+%o artigo aprseentou os passos da abordagem : .,.,., 
+ %as regras do inferrer
+ 
+% depois um casp de testudo onde se aplucou a abordagem a 5 aplicações,. deste caso de estudo foi poss+ivel consluir que a abordagem se pode aplicar com sucesso e verificamos que é melhor/pior que a abordagem anterior pq encontra +- falso positivos ect
+ %trabalho futuro:estender a abordagem para encontrar + padrões
 
 \bibliography{bib}
 
