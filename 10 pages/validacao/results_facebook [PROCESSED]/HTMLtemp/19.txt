@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" id="facebook" class="no_js">
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+function envFlush(a){function b(c){for(var d in a)c[d]=a[d];}if(window.requireLazy){window.requireLazy(['Env'],b);}else{Env=window.Env||{};b(Env);}}envFlush({"ajaxpipe_token":"AXivryZi-fRxy-0d","lhsh":"LAQFmB_zZ"});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+CavalryLogger=false;
+//]]>
+    </script>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+    <title id="pageTitle">
+      Facebook Developers
+    </title>
+    <meta property="fb:app_id" content="113869198637480"/>
+    <meta property="og:site_name" content="Facebook Developers"/>
+    <meta property="og:title" content="Facebook Developers"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://developers.facebook.com/"/>
+    <meta property="og:image" content="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y6/r/YQEGe6GxI_M.png"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:description" content="Facebook Platform helps developers build, grow and monetize their business"/>
+    <meta name="twitter:site:id" content="63359297"/>
+    <meta name="twitter:card" content="summary"/>
+    <script>
+//<![CDATA[
+(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '721503217860715']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+window._fbq.push(
+  [
+    'track',
+    '6014575227766',
+    {currency: 'EUR', value: 2.00}
+  ]
+);
+
+//]]>
+    </script>
+  </head>
+  <body class="_55w7 win Locale_en_US" dir="ltr">
+    <noscript>
+      <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6014575227766&amp;cd%5Bvalue%5D=2.00&amp;cd%5Bcurrency%5D=EUR&amp;noscript=1"/>
+    </noscript>
+    <script>
+//<![CDATA[
+var fb_param = {};
+fb_param.pixel_id = '6014575216366';
+fb_param.value = '1.00';
+fb_param.currency = 'CNY';
+(function(){
+  var fpw = document.createElement('script');
+  fpw.async = true;
+  fpw.src = '//connect.facebook.net/en_US/fp.js';
+  var ref = document.getElementsByTagName('script')[0];
+  ref.parentNode.insertBefore(fpw, ref);
+})();
+
+//]]>
+    </script>
+    <noscript>
+      <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6014575216366&amp;value=1.00&amp;currency=CNY&amp;noscript=1"/>
+    </noscript>
+    <noscript>
+      <img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=721503217860715&amp;ev=NoScript"/>
+    </noscript>
+    <link rel="shortcut icon" href="https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yY/r/c-lezktKt52.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yX/r/fWP30Pb2oES.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yn/r/imwTfgy1zb0.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/z81ZKys6Pt-.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yY/r/pKQ-xM14aNB.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/vR1yWpH-V6j.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yr/r/3ppVolbsyge.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y-/r/efgtCrFQb-F.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/ktJ_yhWjfM9.css"/>
+    <script src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/Y2FrUqV_MzK.js" crossorigin="anonymous">
+    </script>
+    <script>
+//<![CDATA[
+(require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig",[],{"incorporateQuicklingFragment":true,"hashtagRedirect":true},137],["BootloaderConfig",[],{},329],["CurrentUserInitialData",[],{"id":"0","account_id":"0","is_employee":false,"is_gray":false},270],["SiteData",[],{"revision":1284666,"tier":"","push_phase":"V3","pkg_cohort":"EXP1:DEFAULT","vip":"31.13.91.97"},317],["DTSGInitialData",[],{},258],["ISB",[],{},330],["LSD",[],{"token":"AVrDiL6Q"},323],["BanzaiConfig",[],{"EXPIRY":86400000,"MAX_SIZE":10000,"MAX_WAIT":150000,"RESTORE_WAIT":150000,"blacklist":["time_spent"],"gks":{"adapterhooks":true,"boosted_pagelikes":true,"boosted_website":true,"boosted_posts":true,"jslogger":true,"miny_compression":true,"pages_client_logging":true,"time_spent_bit_array":true,"time_spent_debug":true,"useraction":true,"videos":true,"visibility_tracking":true,"vitals":true}},7],["AsyncRequestConfig",[],{"retryOnNetworkError":"1"},328],["TrackingConfig",[],{"domain":"https:\/\/pixel.facebook.com"},325],["ErrorSignalConfig",[],{"uri":"https:\/\/error.facebook.com\/common\/scribe_endpoint.php"},319],["InitialServerTime",[],{"serverTime":1402502727000},204],["FbtLogger",[],{"logger":null},288],["UFIConstants",[],{"UFIActionType":{"COMMENT_LIKE":"fa-type:comment-like","COMMENT_SET_SPAM":"fa-type:mark-spam","DELETE_COMMENT":"fa-type:delete-comment","DISABLE_COMMENTS":"fa-type:disable-comments","LIVE_DELETE_COMMENT":"fa-type:live-delete-comment","LIKE_ACTION":"fa-type:like","SUBSCRIBE_ACTION":"fa-type:subscribe","REMOVE_PREVIEW":"fa-type:remove-preview","MARK_COMMENT_SPAM":"fa-type:mark-spam","CONFIRM_COMMENT_REMOVAL":"fa-type:confirm-remove","TRANSLATE_COMMENT":"fa-type:translate-comment","COMMENT_LIKECOUNT_UPDATE":"fa-type:comment-likecount-update","GIFT_SUGGESTION":"fa-type:gift-suggestion"},"UFICommentOrderingMode":{"CHRONOLOGICAL":"chronological","RANKED_THREADED":"ranked_threaded","TOPLEVEL":"toplevel","RECENT_ACTIVITY":"recent_activity","FEATURED":"featured","UNSUPPORTED":"unsupported"},"UFIFeedbackSourceType":{"PROFILE":0,"NEWS_FEED":1,"OBJECT":2,"MOBILE":3,"EMAIL":4,"PROFILE_APPROVAL":10,"TICKER":12,"NONE":13,"INTERN":14,"ADS":15,"EVENT_GOING_FLYOUT":16,"PHOTOS_SNOWLIFT":17,"NOTIFICATION_FLYOUT":18,"LOCAL_FEED":19},"UFIPayloadSourceType":{"UNKNOWN":0,"INITIAL_SERVER":1,"LIVE_SEND":2,"USER_ACTION":3,"ENDPOINT_LIKE":10,"ENDPOINT_COMMENT_LIKE":11,"ENDPOINT_ADD_COMMENT":12,"ENDPOINT_EDIT_COMMENT":13,"ENDPOINT_DELETE_COMMENT":14,"ENDPOINT_COMMENT_SPAM":16,"ENDPOINT_REMOVE_PREVIEW":17,"ENDPOINT_ID_COMMENT_FETCH":18,"ENDPOINT_COMMENT_FETCH":19,"ENDPOINT_TRANSLATE_COMMENT":20,"ENDPOINT_BAN":21,"ENDPOINT_SUBSCRIBE":22,"ENDPOINT_COMMENT_LIKECOUNT_UPDATE":23,"ENDPOINT_DISABLE_COMMENTS":24,"ENDPOINT_ACTOR_CHANGE":25},"UFIStatus":{"DELETED":"status:deleted","SPAM":"status:spam","SPAM_DISPLAY":"status:spam-display","LIVE_DELETED":"status:live-deleted","FAILED_ADD":"status:failed-add","FAILED_EDIT":"status:failed-edit","PENDING_EDIT":"status:pending-edit"},"attachmentTruncationLength":80,"commentTruncationLength":420,"commentTruncationMaxLines":3,"commentTruncationPercent":0.6,"commentURLTruncationLength":60,"defaultPageSize":50,"infiniteScrollRangeForQANDAPermalinks":1000,"minCommentsForOrderingModeSelector":2,"unavailableCommentKey":"unavailable_comment_key"},240],["ProfilePicCropViewerGating",[],{"viewer":false,"zoomcrop":false},404]]);new (require("ServerJS"))().handle({"require":[["markJSEnabled"],["lowerDomain"],["URLFragmentPrelude"],["Primer"],["Bootloader"]]});
+//]]>
+    </script>
+    <div class="_li">
+      <div class="_58k7" id="devsite_header" data-referrer="devsite_header">
+        <div class="_51_u" role="banner">
+          <div class="_51_v">
+            <div class="clearfix">
+              <div class="lfloat _ohe">
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <a href="/">
+                      <i style="width:20px;height:20px" class="_5md6 img sp_2FW9IEuszfo sx_0071a7"/>
+                    </a>
+                  </div>
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <a href="/">
+                      <div class="_6a">
+                        <div class="_6a _6b" style="height:22px">
+                        </div>
+                        <div class="_6a _6b">
+                          <span class="_5md5 _50f4 _50f7">
+                            Developers
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div class="_5lom">
+                </div>
+                <div class="_5lon">
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <div class="_6a uiPopover _5md7" id="u_0_4">
+                      <a class="pbs _p" href="#" aria-haspopup="true" aria-expanded="false" rel="toggle" role="button" id="u_0_5">
+                        <div class="_6a">
+                          <div class="_6a _6b" style="height:22px">
+                          </div>
+                          <div class="_6a _6b">
+                            <span class="_5md5 _50f4 _50f7">
+                              Apps
+                            </span>
+                          </div>
+                        </div>
+                        <div class="_6a">
+                          <div class="_6a _6b" style="height:22px">
+                          </div>
+                          <div class="_6a _6b">
+                            <img class="_5lop img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ym/r/lJ93Hl841Gx.png" alt="" width="7" height="6"/>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <a class="_5md9" href="/products/">
+                      <div class="_6a">
+                        <div class="_6a _6b" style="height:22px">
+                        </div>
+                        <div class="_6a _6b">
+                          <span class="_5md5 _50f4 _50f7">
+                            Products
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <a class="_5md9" href="/docs/">
+                      <div class="_6a">
+                        <div class="_6a _6b" style="height:22px">
+                        </div>
+                        <div class="_6a _6b">
+                          <span class="_5md5 _50f4 _50f7">
+                            Docs
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <div class="_6a uiPopover _5md7" id="u_0_7">
+                      <a class="pbs _p" href="#" aria-haspopup="true" aria-expanded="false" rel="toggle" role="button" id="u_0_8">
+                        <div class="_6a">
+                          <div class="_6a _6b" style="height:22px">
+                          </div>
+                          <div class="_6a _6b">
+                            <span class="_5md5 _50f4 _50f7">
+                              Tools
+                            </span>
+                          </div>
+                        </div>
+                        <div class="_6a">
+                          <div class="_6a _6b" style="height:22px">
+                          </div>
+                          <div class="_6a _6b">
+                            <img class="_5lop img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ym/r/lJ93Hl841Gx.png" alt="" width="7" height="6"/>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="_6a _6e _5loj">
+                  <div class="_5lol">
+                    <a class="_5md9" href="/support/">
+                      <div class="_6a">
+                        <div class="_6a _6b" style="height:22px">
+                        </div>
+                        <div class="_6a _6b">
+                          <span class="_5md5 _50f4 _50f7">
+                            Support
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="_5loo _42ef">
+                <div class="_4-u2 _57mb _5j-9">
+                  <form action="#" method="get" role="search" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)" id="u_0_a">
+                    <label class="_55r3 focus_target _5j-a" id="u_0_b">
+                      <img class="_55r5 img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/r/9wao2d_M9tx.png" alt="" width="16" height="16"/>
+                      <input type="text" class="inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder" name="query" placeholder="Search in docs" id="u_0_9" value="Search in docs" aria-label="Search in docs"/>
+                    </label>
+                  </form>
+                </div>
+                <div class="_6a _6e _5loj _5ph2">
+                  <div class="_5lol">
+                    <a href="https://www.facebook.com/login/?next=%2F">
+                      <div class="_6a">
+                        <div class="_6a _6b" style="height:22px">
+                        </div>
+                        <div class="_6a _6b">
+                          <span class="_5md5 _50f4 _50f7">
+                            Log In
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="_53vp">
+        <div class="clearfix _53u5">
+          <div class="_4bl7 _53u7" role="main">
+            <div class="_4we3" id="u_0_0">
+              <div>
+                <div class="_2xv _ibe _3mb" style="width:922px; height:334px; " id="u_0_1">
+                  <ul class="_2xq" style="width:922px; ">
+                    <li class="_2xr _2xn">
+                      <div class="_2wcr">
+                        <div class="_2wcs">
+                          <h1>
+                            Facebook
+                            <br/>
+                            Developer Conference
+                          </h1>
+                          <p>
+                            <span class="_2wct">
+                              APRIL 30, 2014
+                            </span>
+                             IN SAN FRANCISCO, CALIFORNIA
+                          </p>
+                          <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&amp;h=rAQEhv4xS&amp;s=1" target="_blank" rel="nofollow" onmouseover="LinkshimAsyncLink.swap(this, &quot;https:\/\/www.youtube.com\/playlist?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&quot;);" onclick="LinkshimAsyncLink.swap(this, &quot;https:\/\/www.facebook.com\/l.php?u=https\u00253A\u00252F\u00252Fwww.youtube.com\u00252Fplaylist\u00253Flist\u00253DPLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&amp;h=rAQEhv4xS&amp;s=1&quot;);">
+                            <img class="img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yB/r/7X-5oqZG5Xq.png" alt="" width="232" height="51"/>
+                          </a>
+                        </div>
+                        <img class="_2wcq img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/FOxmf6YmN2j.png" alt="" width="186" height="212"/>
+                      </div>
+                    </li>
+                    <li class="_2xr">
+                      <div class="_4-u2 _57mb _2wcu">
+                        <div class="_4-u3 _57mc">
+                          <div class="_2wck">
+                            <h1>
+                              Facebook Login
+                            </h1>
+                            <p>
+                              Control what you share
+                            </p>
+                            <a class="_42ft _5c3d _3mc _5c3l _5c3e" role="button" href="/docs/facebook-login/">
+                              Learn More
+                            </a>
+                          </div>
+                          <img class="_2wcv img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yi/r/rCltFePAyDy.png" alt="" width="465" height="337"/>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="_2xr">
+                      <a class="_4we4" href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.applinks.org%2F&amp;h=GAQE6ykan&amp;s=1" target="_blank" rel="nofollow" onmouseover="LinkshimAsyncLink.swap(this, &quot;http:\/\/www.applinks.org\/&quot;);" onclick="LinkshimAsyncLink.swap(this, &quot;http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.applinks.org\u00252F&amp;h=GAQE6ykan&amp;s=1&quot;);">
+                        <div class="_2wcm">
+                          <div class="_2wco">
+                            <img class="img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yc/r/0d1OWLCitvz.png" alt="" width="340" height="73"/>
+                            <p>
+                              Mobile linking made simple
+                            </p>
+                            <div class="_2wcp">
+                              applinks.org
+                            </div>
+                          </div>
+                          <img class="_2wcn img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/_ak7IVCpaxk.png" alt="" width="381" height="300"/>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="_2xr">
+                      <div>
+                        <div class="_2wck">
+                          <h1>
+                            Audience Network
+                          </h1>
+                          <p>
+                            Monetize your app with Facebook ads
+                          </p>
+                          <a class="_42ft _5c3d _3mc _5c3l _5c3e" role="button" href="/docs/audience-network/">
+                            Get Started
+                          </a>
+                        </div>
+                        <img class="_2wcl img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ym/r/ysHuW60Y0-p.png" alt="" width="924" height="337"/>
+                      </div>
+                    </li>
+                  </ul>
+                  <a class="_2xx _ibf _ibg" aria-label="Previous" href="#" role="button">
+                    <img class="img" alt="Previous" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yM/r/6vsLcjdwJxy.png" width="10" height="18"/>
+                  </a>
+                  <a class="_2xw _ibf _ibh" aria-label="Next" href="#" role="button">
+                    <img class="img" alt="Next" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yb/r/tniDbKXpurE.png" width="10" height="18"/>
+                  </a>
+                </div>
+                <div class="_ibi">
+                  <ul class="_30y mvm _ibj" id="u_0_2">
+                    <li class="_2xs _2xt _2xp mls">
+                      <a href="#" role="button">
+                        <i class="_3rx4"/>
+                      </a>
+                    </li>
+                    <li class="_2xs mls">
+                      <a href="#" role="button">
+                        <i class="_3rx4"/>
+                      </a>
+                    </li>
+                    <li class="_2xs mls">
+                      <a href="#" role="button">
+                        <i class="_3rx4"/>
+                      </a>
+                    </li>
+                    <li class="_2xs mls">
+                      <a href="#" role="button">
+                        <i class="_3rx4"/>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="_4-u2 _57mb _3mb">
+              <div class="_5pa9">
+                <a href="/products/login/">
+                  <div class="_5txj">
+                    Login
+                  </div>
+                </a>
+                <a href="/products/sharing/">
+                  <div class="_35nb">
+                    Sharing
+                  </div>
+                </a>
+                <a href="/products/parse/">
+                  <div class="_5txl">
+                    Parse
+                  </div>
+                </a>
+                <a href="/products/games/">
+                  <div class="_5pad">
+                    Games
+                  </div>
+                </a>
+                <a href="/products/ads/">
+                  <div class="_5txm">
+                    App Ads
+                  </div>
+                </a>
+                <a href="/docs/payments/">
+                  <div class="_5txn">
+                    Payments
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="_4-u2 _57mb _5o_d _3mb">
+              <div class="_4-u3 _57mc noPadding">
+                <div class="_5o_g">
+                  <div class="_5o_e">
+                    Get more installs
+                  </div>
+                  <div class="_5o_f">
+                    Grow your app and get more installs with mobile app install ads and engagement ads
+                  </div>
+                  <a class="_42ft _4jy0 _4jy6 _517h" role="button" href="/products/ads/">
+                    Learn More
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="clearfix">
+              <div class="_4-u2 _57mb _115 _3mb lfloat _ohe">
+                <div class="_4-u3 _57mc noPadding">
+                  <div class="clearfix _11d">
+                    <img class="_11f lfloat _ohe img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/9f82O0jy9RH.png" alt="" width="160" height="139"/>
+                    <div class="mtl _11e rfloat _ohf">
+                      <div class="_11g">
+                        Parse
+                      </div>
+                      <div class="_11-">
+                        App backend, made easy
+                      </div>
+                      <br/>
+                      <a class="_42ft _4jy0 _4jy4 _517h" role="button" href="https://www.facebook.com/l.php?u=https%3A%2F%2Fparse.com%2F&amp;h=RAQEUiU4s&amp;s=1" target="_blank" rel="nofollow" onmouseover="LinkshimAsyncLink.swap(this, &quot;https:\/\/parse.com\/&quot;);" onclick="LinkshimAsyncLink.swap(this, &quot;https:\/\/www.facebook.com\/l.php?u=https\u00253A\u00252F\u00252Fparse.com\u00252F&amp;h=RAQEUiU4s&amp;s=1&quot;);">
+                        Go to parse.com
+                      </a>
+                    </div>
+                  </div>
+                  <div class="clearfix">
+                    <img class="_116 lfloat _ohe img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yC/r/YRwxe7CPWSs.png" alt="" width="119" height="124"/>
+                    <div class="mtl _11e rfloat _ohf">
+                      <div class="_11g">
+                        The Like Button
+                      </div>
+                      <div class="_11-">
+                        And other web plugins
+                      </div>
+                      <br/>
+                      <a class="_42ft _4jy0 _4jy4 _517h" role="button" href="/docs/plugins/">
+                        Learn More
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="_4-u2 _57mb _1lr8 _3mb rfloat _ohf">
+                <a class="_1lr9" href="https://developers.facebook.com/blog/post/2014/06/02/june-2014-developer-events-for-facebook-and-parse/?ref=hp">
+                  <div class="clearfix _1lra">
+                    <img class="_1lrc lfloat _ohe img" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/t1.0-1/p50x50/10414482_10100900946692529_6265458158053292671_t.jpg" alt=""/>
+                    <div class="rfloat _ohf">
+                      <div class="_1lrb">
+                        <span class="_1lrd">
+                          June 2014 Developer Events for Facebook and Parse
+                        </span>
+                        . 
+                        <span class="_1lre">
+                          Join us at developer events around the world
+                        </span>
+                        .
+                      </div>
+                      <div class="_1lrf">
+                        by Ashley Smith - June 2, 2014
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <a class="_1lr9" href="https://developers.facebook.com/blog/post/2014/05/27/more-control-with-sharing/?ref=hp">
+                  <div class="clearfix _1lra">
+                    <img class="_1lrc lfloat _ohe img" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/t1.0-1/p50x50/577710_10100185733305771_1932451490_n.png" alt=""/>
+                    <div class="rfloat _ohf">
+                      <div class="_1lrb">
+                        <span class="_1lrd">
+                          Giving people more control over when they share from apps
+                        </span>
+                        . 
+                        <span class="_1lre">
+                          At f8, we introduced new ways for people to share stories from your apps to Facebook. These new tools make it clear to people when they're about to share an app's content with their friends.  We will continue to prioritize explicitly shared stories from apps in News Feed and Ticker , and implicitly shared stories will continue to see a decline in the coming months.
+                        </span>
+                        .
+                      </div>
+                      <div class="_1lrf">
+                        by Peter Yang - May 27, 2014
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <a class="_1lr9" href="https://developers.facebook.com/blog/post/2014/05/14/fbstart-accepting-applications/?ref=hp">
+                  <div class="clearfix _1lra">
+                    <img class="_1lrc lfloat _ohe img" src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/t1.0-1/c13.0.50.50/p50x50/1794638_10200789706943985_1011601642447311233_n.jpg" alt=""/>
+                    <div class="rfloat _ohf">
+                      <div class="_1lrb">
+                        <span class="_1lrd">
+                          Now Accepting Applications for FbStart: Helping Mobile Startups Grow
+                        </span>
+                        . 
+                        <span class="_1lre">
+                          We recently announced FbStart, a program that provides mobile developers with free tools and services to help their startups succeed. Initially, only developers who attended f8 were eligible to apply, but today, we’re opening up our registration for FbStart to everyone.
+                        </span>
+                        .
+                      </div>
+                      <div class="_1lrf">
+                        by Vijay Shankar - May 14, 2014
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <a class="_1lrg" href="/blog/">
+                  More News...
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="devsite_footer" data-referrer="devsite_footer">
+        <div class="_57k5" role="contentinfo">
+          <div class="_4-u2 _57mb _5h2u">
+            <div class="_4-u3 _57mc">
+              <div class="clearfix">
+                <img class="_8o _8r lfloat _ohe img" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/lHEmwIhoqSi.png" alt="" width="19" height="19"/>
+                <div class="_8u _42ef">
+                  <div class="_6a _6b">
+                    <span class="_5pk5 _50f4 _50f7">
+                       Developers 
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="_4-u3 _57mc _57k6">
+              <ul class="uiList _5h4u _509- _4ki _6-h _6-j _6-i">
+                <li>
+                  <ul class="uiList _5h2v _4kg _6-h _704 _6-i">
+                    <li>
+                      <span class="_5pk5 _50f4 _50f7">
+                        Products
+                      </span>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/products/login/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Facebook Login
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/products/sharing/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Sharing
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/products/parse/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Parse
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/products/games/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Games
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/products/ads/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Ads for Apps
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <ul class="uiList _5h2v _4kg _6-h _704 _6-i">
+                    <li>
+                      <span class="_5pk5 _50f4 _50f7">
+                        SDKs
+                      </span>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/ios/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          iOS SDK
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/android/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Android SDK
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/reference/javascript/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          JavaScript SDK
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/reference/php/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          PHP SDK
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/unity/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Unity SDK
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <ul class="uiList _5h2v _4kg _6-h _704 _6-i">
+                    <li>
+                      <span class="_5pk5 _50f4 _50f7">
+                        Tools
+                      </span>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/tools/explorer/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Graph API Explorer
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/tools/debug/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Open Graph Debugger
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/tools/object-browser/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Object Browser
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/tools/javascript-console/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          JavaScript Test Console
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="https://www.facebook.com/insights/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Facebook Insights
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <ul class="uiList _5h2v _4kg _6-h _704 _6-i">
+                    <li>
+                      <span class="_5pk5 _50f4 _50f7">
+                        Support
+                      </span>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/status/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Platform Status
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="https://www.facebook.com/groups/fbdevelopers/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Developers Group
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.facebook-pmdcenter.com%2F&amp;h=9AQH3PB8K&amp;s=1" target="_blank" rel="nofollow" onmouseover="LinkshimAsyncLink.swap(this, &quot;http:\/\/www.facebook-pmdcenter.com\/&quot;);" onclick="LinkshimAsyncLink.swap(this, &quot;http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.facebook-pmdcenter.com\u00252F&amp;h=9AQH3PB8K&amp;s=1&quot;);">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Preferred Developers
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/bugs/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Bugs
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <ul class="uiList _5h2v _4kg _6-h _704 _6-i">
+                    <li>
+                      <span class="_5pk5 _50f4 _50f7">
+                        News
+                      </span>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/blog/?ref=ft">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Blog
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/roadmap/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Developer Roadmap
+                        </span>
+                      </a>
+                    </li>
+                    <li class="_58g2">
+                      <a href="/docs/showcase/">
+                        <span class="_5pk6 _50f8 _50f4">
+                          Showcase
+                        </span>
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="clearfix _5pk7">
+            <div class="lfloat _ohe fsm fwn fcg">
+              <span>
+                 Facebook © 2014
+              </span>
+               · 
+              <a rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fdevelopers.facebook.com%2F%3Fref%3Dpf&amp;source=TOP_LOCALES_DIALOG" title="Use Facebook in another language." href="#" role="button">
+                English (US)
+              </a>
+            </div>
+            <div class="_58g3 rfloat _ohf">
+              <a href="https://www.facebook.com/FacebookDevelopers" accesskey="0" title="About">
+                About
+              </a>
+              <a href="https://www.facebook.com/ads/create" accesskey="1" title="Create Ad">
+                Create Ad
+              </a>
+              <a href="https://www.facebook.com/careers" accesskey="2" title="Careers">
+                Careers
+              </a>
+              <a href="https://developers.facebook.com/policy" accesskey="3" title="Platform Policy">
+                Platform Policy
+              </a>
+              <a href="https://www.facebook.com/policy.php" accesskey="4" title="Privacy Policy">
+                Privacy Policy
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+new (require("ServerJS"))().handle({"instances":[["m_0_1",["DevsiteHomepageCarousel","m_0_0","m_0_2","m_0_3","m_0_4","m_0_5","m_0_6"],[{"__m":"m_0_0"},{"__m":"m_0_2"},[{"__m":"m_0_3"},{"__m":"m_0_4"},{"__m":"m_0_5"},{"__m":"m_0_6"}]],1],["m_0_2",["Showcase","m_0_7"],[{"__m":"m_0_7"},{"animationDuration":500,"autoplayTimeout":10000,"autoplay":true,"height":334,"width":922,"itemwidth":0,"horizpadding":0,"photosperframe":1,"arrows":true,"wrap":true}],5],["m_0_3",["DevsiteHomepageCarouselItem"],["light"],3],["m_0_4",["DevsiteHomepageCarouselItem"],["dark"],3],["m_0_5",["DevsiteHomepageCarouselItem"],["light"],3],["m_0_6",["DevsiteHomepageCarouselItem"],["dark"],3],["m_0_9",["SlideshowLinks","m_0_8","m_0_2"],[{"__m":"m_0_8"},{"__m":"m_0_2"}],1],["m_0_a",["Menu","MenuItem","m_0_b","XUIMenuWithSquareCorner","XUIMenuTheme"],[[{"href":"https:\/\/www.facebook.com\/login\/?next=\u00252F","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_b"},"label":"Log In","title":"","className":null}],{"id":"u_0_3","behaviors":[{"__m":"XUIMenuWithSquareCorner"}],"theme":{"__m":"XUIMenuTheme"}}],3],["m_0_d",["PopoverMenu","m_0_e","m_0_c","m_0_a","PopoverMenuContextMinWidth"],[{"__m":"m_0_e"},{"__m":"m_0_c"},{"__m":"m_0_a"},[{"__m":"PopoverMenuContextMinWidth"}]],1],["m_0_e",["Popover","m_0_f","m_0_c"],[{"__m":"m_0_f"},{"__m":"m_0_c"},[],{"alignh":"left"}],3],["m_0_g",["Menu","MenuItem","m_0_h","m_0_i","m_0_j","m_0_k","m_0_l","m_0_m","m_0_n","m_0_o","m_0_p","m_0_q","m_0_r","m_0_s","m_0_t","m_0_u","MenuSeparator","m_0_v","XUIMenuWithSquareCorner","XUIMenuTheme"],[[{"href":"\/tools\/explorer\/145634995501895\/","iconsrc":"\/images\/devsite\/tools\/icons\/graphExplorer_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_h"},"label":"Graph Explorer","title":"","className":null,"icon":{"__m":"m_0_i"}},{"href":"https:\/\/www.facebook.com\/insights","iconsrc":"\/images\/devsite\/tools\/icons\/insights_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_j"},"label":"Insights Dashboard","title":"","className":null,"icon":{"__m":"m_0_k"}},{"href":"\/tools\/object-browser","iconsrc":"\/images\/devsite\/tools\/icons\/objectBrowser_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_l"},"label":"Object Browser","title":"","className":null,"icon":{"__m":"m_0_m"}},{"href":"https:\/\/www.facebook.com\/ads\/manage","iconsrc":"\/images\/devsite\/tools\/icons\/ads_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_n"},"label":"Ads Manager","title":"","className":null,"icon":{"__m":"m_0_o"}},{"href":"\/tools\/debug\/","iconsrc":"\/images\/devsite\/tools\/icons\/ogdebugger_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_p"},"label":"Open Graph Debugger","title":"","className":null,"icon":{"__m":"m_0_q"}},{"href":"\/tools\/accesstoken\/","iconsrc":"\/images\/devsite\/tools\/icons\/accesstokens_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_r"},"label":"Access Tokens","title":"","className":null,"icon":{"__m":"m_0_s"}},{"href":"\/tools\/javascript-console\/","iconsrc":"\/images\/devsite\/tools\/icons\/jsconsole_tools.png","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_t"},"label":"Javascript Test Console","title":"","className":null,"icon":{"__m":"m_0_u"}},{"ctor":{"__m":"MenuSeparator"},"className":null},{"href":"\/tools\/","ctor":{"__m":"MenuItem"},"markup":{"__m":"m_0_v"},"label":"See All Tools","title":"","className":null}],{"id":"u_0_6","behaviors":[{"__m":"XUIMenuWithSquareCorner"}],"theme":{"__m":"XUIMenuTheme"}}],3],["m_0_x",["PopoverMenu","m_0_y","m_0_w","m_0_g","PopoverMenuContextMinWidth"],[{"__m":"m_0_y"},{"__m":"m_0_w"},{"__m":"m_0_g"},[{"__m":"PopoverMenuContextMinWidth"}]],1],["m_0_y",["Popover","m_0_z","m_0_w"],[{"__m":"m_0_z"},{"__m":"m_0_w"},[],{"alignh":"left"}],3],["m_0_14",["UIForm","m_0_11"],[{"__m":"m_0_11"},null,false,null,[]],2],["m_0_10",["DevsiteBingSearchForm","m_0_14"],[{"__m":"m_0_14"}],1]],"markup":[["m_0_b",{"__html":"Log In"},2],["m_0_h",{"__html":"Graph Explorer"},2],["m_0_i",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_52ae81\">\u003C\/i>"},2],["m_0_j",{"__html":"Insights Dashboard"},2],["m_0_k",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_4c0cc4\">\u003C\/i>"},2],["m_0_l",{"__html":"Object Browser"},2],["m_0_m",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_ae0c23\">\u003C\/i>"},2],["m_0_n",{"__html":"Ads Manager"},2],["m_0_o",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_c204c2\">\u003C\/i>"},2],["m_0_p",{"__html":"Open Graph Debugger"},2],["m_0_q",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_d930f6\">\u003C\/i>"},2],["m_0_r",{"__html":"Access Tokens"},2],["m_0_s",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_016590\">\u003C\/i>"},2],["m_0_t",{"__html":"Javascript Test Console"},2],["m_0_u",{"__html":"\u003Ci class=\"mrs img sp_2FW9IEuszfo sx_db494e\">\u003C\/i>"},2],["m_0_v",{"__html":"See All Tools"},2]],"elements":[["m_0_0","u_0_0",2],["m_0_7","u_0_1",2],["m_0_8","u_0_2",2],["m_0_f","u_0_4",2],["m_0_c","u_0_5",4],["m_0_z","u_0_7",2],["m_0_w","u_0_8",4],["m_0_12","u_0_9",2],["m_0_11","u_0_a",2],["m_0_13","u_0_b",2]],"define":[["EagleEyeConfig",[],{"seed":"0P2m","sessionStorage":1},294],["TimeSpentConfig",[],{"0_delay":0,"0_timeout":8,"delay":200000,"timeout":64},142],["ImmediateActiveSecondsConfig",[],{"sampling_rate":0},423]],"require":[["m_0_1"],["m_0_2"],["m_0_3"],["m_0_4"],["m_0_5"],["m_0_6"],["m_0_9"],["Intl","setPhonologicalRules",[],[{"meta":{"\/_B\/":"([.,!?\\s]|^)","\/_E\/":"([.,!?\\s]|$)"},"patterns":{"\/\u0001(.*)('|&#039;)s\u0001(?:'|&#039;)s(.*)\/":"\u0001$1$2s\u0001$3","\/_\u0001([^\u0001]*)\u0001\/e":"mb_strtolower(\"\u0001$1\u0001\")","\/\\^\\x01([^\\x01])(?=[^\\x01]*\\x01)\/e":"mb_strtoupper(\"\u0001$1\")","\/_\u0001([^\u0001]*)\u0001\/":"javascript"}}]],["PostLoadJS","loadAndRequire",[],["DimensionTracking"]],["PostLoadJS","loadAndCall",[],["HighContrastMode","init",[{"isHCM":false,"spacerImage":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/-PAXP-deijE.gif"}]]],["PostLoadJS","loadAndCall",[],["DetectBrokenProxyCache","run",[0,"c_user"]]],["ScriptPath","set",[],["XDeveloperHomeController","a1f3c513","baf67a4b"]],["NoscriptOverride","redirectToJSPage",[],["https:\/\/developers.facebook.com\/?ref=pf"]],["ClickRefLogger"],["userAction","setUATypeConfig",[],[{"ua:e":false}]],["ScriptPathState","setUserURISampleRate",[],[0.0002]],["userAction","setCustomSampleConfig",[],[{"ua:n":{"test":{"ua_id":{"test":true}}},"ua:i":{"snowlift":{"action":{"open":true,"close":true}},"snowflake":{"action":{"open":true,"close":true}},"canvas":{"action":{"mouseover":true,"mouseout":true}}}}]],["UserActionHistory"],["ScriptPathLogger","startLogging",[],[]],["TimeSpentBitArrayLogger","init",[],[]],["ModuleErrorLogger","init",[],[]],["AsyncRequestNectarLogging"],["m_0_a"],["m_0_d"],["m_0_e"],["m_0_g"],["m_0_x"],["m_0_y"],["m_0_10"],["Focus","relocate",["m_0_12","m_0_13"],[{"__m":"m_0_12"},{"__m":"m_0_13"}]],["PlaceholderListener"],["PlaceholderOnsubmitFormListener"],["FlipDirectionOnKeypress"]]});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.setResourceMap({"i3n0m":{"type":"js","src":"https:\/\/www.google-analytics.com\/analytics.js"},"sHbuT":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yU\/r\/VxoEQY95NVQ.js"},"bU+2y":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yo\/r\/XKT8v71UPgM.js"},"u83\/z":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yZ\/r\/_IR47lpowJx.js"},"7ri7K":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/Dk5l_0AM6pU.js"},"o8crX":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yT\/r\/pvpChQ71p7e.js"},"uMuQj":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/7Smy_9II-h4.js"},"10YBP":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/666vFvS5bsg.js"},"GyTe8":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/d3oHfFTjMrF.js"},"4vv8\/":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/JvK_C44obT2.js"},"UExPv":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/aVF4BM6mZgd.js"},"YQVa9":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y5\/r\/IB1VnQIQ_22.js"},"tmJEK":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y5\/r\/PCz-kNPDAQS.js"},"OMkDM":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yY\/r\/c-lezktKt52.css"},"PLPzx":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/fWP30Pb2oES.css"},"Qr9o8":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yn\/r\/imwTfgy1zb0.css"},"2WAx+":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/z81ZKys6Pt-.css"},"NsV0R":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yY\/r\/pKQ-xM14aNB.css"},"JPqzN":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ye\/r\/vR1yWpH-V6j.css"},"oxtEa":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yr\/r\/3ppVolbsyge.css"},"FpRg9":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/efgtCrFQb-F.css"},"8AOXO":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ya\/r\/ktJ_yhWjfM9.css"},"HFdAG":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/IAj8hLbIFuI.js"},"IIpqr":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/QpS3zNUyIcr.js"},"20549":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/LddpQe84y-k.js"},"cAkXN":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yR\/r\/IQc0ALCNDHy.js"},"oE4Do":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/obqKRvJtthA.js"},"cNca2":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/yuKCSDDP1tN.js"},"eSsTp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/cA7YZkcazFe.js"},"ek\/pL":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/wDl9iKxsXOx.js"},"SJ9r4":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/HWGtGWP2veC.js"},"bWGwo":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/Fh6r2WRl-P7.js"},"7eBNu":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ye\/r\/t0Rw1g13Lp3.js"},"u1oj6":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/uLODvZG9ZZl.js"},"VDymv":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yg\/r\/dtxPl8Fd0D2.css"},"wxq+C":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/tOS_Qf118Dl.js"},"Rs18G":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/iqqxHqHkZcL.js"},"6AU0l":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/uAtB4Wsl2Sl.js"},"AtxWD":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/7CgwFzKxrCs.js"},"zyFOp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yT\/r\/Ri9nQJbah9T.js"}});if (true) {Bootloader.enableBootload({"React":{"resources":["u83\/z","sHbuT"],"module":true},"ExceptionDialog":{"resources":["sHbuT","u83\/z","2WAx+","UExPv","IIpqr","20549"],"module":true},"AsyncDOM":{"resources":["sHbuT","cAkXN"],"module":true},"ConfirmationDialog":{"resources":["sHbuT","2WAx+","u83\/z","oE4Do"],"module":true},"Dialog":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"ErrorSignal":{"resources":["sHbuT","cNca2"],"module":true},"Event":{"resources":["sHbuT"],"module":true},"AsyncDialog":{"resources":["sHbuT","u83\/z","2WAx+","GyTe8"],"module":true},"AsyncRequest":{"resources":["sHbuT"],"module":true},"PhotoSnowlift":{"resources":["eSsTp","sHbuT","u83\/z","2WAx+","FpRg9","GyTe8","ek\/pL","SJ9r4","YQVa9","UExPv"],"module":true},"PhotoTagger":{"resources":["sHbuT","u83\/z","2WAx+","bWGwo","7eBNu","UExPv","eSsTp","ek\/pL"],"module":true},"Live":{"resources":["sHbuT","cAkXN"],"module":true},"PhotoTagApproval":{"resources":["sHbuT","ek\/pL","7eBNu"],"module":true},"PhotoTags":{"resources":["sHbuT","ek\/pL","2WAx+","7eBNu"],"module":true},"TagTokenizer":{"resources":["sHbuT","SJ9r4","2WAx+","u1oj6","7eBNu","u83\/z","UExPv"],"module":true},"css:fb-photos-snowlift-fullscreen-css":{"resources":["VDymv"]},"SnowliftPicCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","7eBNu","UExPv","wxq+C"],"module":true},"PhotosButtonTooltips":{"resources":["sHbuT","2WAx+","u83\/z","Rs18G"],"module":true},"VideoRotate":{"resources":["sHbuT","u83\/z","2WAx+","6AU0l"],"module":true},"AsyncResponse":{"resources":["sHbuT"],"module":true},"PhotoPermalinkCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","GyTe8","bWGwo","7eBNu","UExPv"],"module":true},"PhotoInlineEditor":{"resources":["sHbuT","u83\/z","eSsTp","2WAx+","ek\/pL","GyTe8","bWGwo","7eBNu","UExPv","u1oj6","SJ9r4","AtxWD"],"module":true},"Form":{"resources":["sHbuT","2WAx+"],"module":true},"SpotlightShareViewer":{"resources":["sHbuT","GyTe8","zyFOp"],"module":true},"Toggler":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"Tooltip":{"resources":["sHbuT","2WAx+","u83\/z"],"module":true},"DOM":{"resources":["sHbuT"],"module":true},"Input":{"resources":["sHbuT","2WAx+"],"module":true},"trackReferrer":{"resources":[],"module":true},"DimensionTracking":{"resources":["sHbuT","GyTe8"],"module":true},"HighContrastMode":{"resources":["sHbuT","GyTe8"],"module":true},"DetectBrokenProxyCache":{"resources":["sHbuT","GyTe8"],"module":true}});}});
+requireLazy(["ix"], function(ix) {ix.add({"\/images\/ads\/cropper\/drag.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y8\/r\/Xm0cn_J9DFi.png","width":12,"height":12},"\/images\/mobile\/glyph\/error-solid_white_s.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yC\/r\/35yKOCwEEZ2.png","width":12,"height":12}});});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["i3n0m","sHbuT","bU+2y","u83\/z","7ri7K","o8crX","uMuQj","10YBP","GyTe8","4vv8\/","UExPv","YQVa9","tmJEK","HFdAG"]);});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.configurePage(["OMkDM","PLPzx","Qr9o8","2WAx+","NsV0R","JPqzN","oxtEa","FpRg9","8AOXO"]);});
+
+
+
+onloadRegister_DEPRECATED(function (){(function(i,r){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();})(window,'ga');ga('create',"UA-2499035-1",{"cookieDomain":"developers.facebook.com"});});
+onafterloadRegister_DEPRECATED(function (){ga('send','pageview',{"page":"\/"});});
+
+//]]>
+    </script>
+  </body>
+</html>

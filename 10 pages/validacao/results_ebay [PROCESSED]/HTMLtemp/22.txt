@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>
+      Account protection tips
+    </title>
+    <script language="JavaScript">
+//<![CDATA[
+<!--
+includeHost='http://include.ebaystatic.com/';
+//-->
+//]]>
+    </script>
+    <script src="http://include.ebaystatic.com/js/v/us/ebaybase.js">
+    </script>
+    <script src="http://include.ebaystatic.com/js/v/us/ebaysup.js">
+    </script>
+    <script type="text/javascript" language="JavaScript1.1">
+//<![CDATA[
+ebay.oDocument._getControl("headerCommon")._exec("writeStyleSheet");
+//]]>
+    </script>
+    <script src="http://include.ebaystatic.com/js/v/us/features/help/contextual.js">
+    </script>
+    <!--#en-US#prod#ebay.com###help/new/contextual/account_protection.html#STANDARD###Help.Contextual.new_contextual_accountprotection###ebay#UTF-8#-->    <script language="javascript" type="text/javascript">
+//<![CDATA[
+				
+			var ieBackCompat=false; 
+			if(document.compatMode&&document.compatMode!="BackCompat") ieBackCompat=true;
+			var css='<link rel="stylesheet" href="http://include.ebaystatic.com/css/v/us/help/help';
+			
+				if(ebay.oGlobals.oClient.bNav||ebay.oGlobals.oClient.bFirefox||((typeof(usrCnt) != "undefined")?(ieBackCompat&&usrCnt):false))css+='-ns';
+			
+			css+='.css" type="text/css"/>';
+			document.write(css);			
+		
+//]]>
+    </script>
+  </head>
+  <body bgcolor="#FFFFCC" topmargin="0" leftmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+    <noscript>
+      <link rel="stylesheet" href="http://include.ebaystatic.com/css/v/us/help/help.css" type="text/css"/>
+    </noscript>
+    <span class="navigation">
+    </span>
+    <table border="0" width="100%" cellpadding="0" cellspacing="10">
+      <tbody>
+        <tr>
+          <div id="areaTitle" style="background:url() no-repeat left top;background-color: #FFCC00; border-color: #FF9900;">
+            <h1 style="white-space: nowrap;color:#000000">
+              Help
+            </h1>
+            <div style="background-image: url(http://pics.ebaystatic.com/aw/pics/areaTitles/atHelp.gif); overflow:hidden;">
+            </div>
+          </div>
+        </tr>
+        <tr>
+          <td width="100%">
+            <span class="pagetitle">
+              Account protection tips
+            </span>
+            <p style="">
+              There are many easy ways to protect your account on eBay:
+            </p>
+            <p style="margin-bottom: 0px;">
+            </p>
+            <ul style="margin-top: 6px;">
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    When you sign in, clear the 
+                    <b>
+                      Keep me signed in
+                    </b>
+                     check box if you're using a public or shared computer.
+                  </p>
+                </div>
+              </li>
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    Don't share your password with others. Protect it. Remember: eBay will 
+                    <b>
+                      never
+                    </b>
+                     ask for your password.
+                  </p>
+                </div>
+              </li>
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    Choose a strong password and change it often.
+                  </p>
+                </div>
+              </li>
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    Create a unique password by using a combination of letters and numbers that aren't easily guessed.
+                  </p>
+                </div>
+              </li>
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    Avoid using the same password for other accounts.
+                  </p>
+                </div>
+              </li>
+              <li class="unorderedList">
+                <div style="padding-left:4px;">
+                  <p style="">
+                    Use caution when someone asks for sensitive information through email. If you get an email requesting personal information and you're unsure whether eBay actually sent it, check your Messages inbox in My eBay. If the email isn't there, it's fake. Don't click any links or enter information. Instead, forward the email to 
+                    <a href="mailto:spoof@ebay.com">
+                      spoof@ebay.com
+                    </a>
+                  </p>
+                </div>
+              </li>
+            </ul>
+            <p style="">
+            </p>
+            <br/>
+            <br/>
+          </td>
+          <td width="10">
+            <img src="http://pics.ebaystatic.com/aw/pics/x.gif" width="10" height="1"/>
+          </td>
+        </tr>
+        <tr>
+          <td background="http://pics.ebaystatic.com/aw/pics/help/inline/dot_10x2.gif" colspan="3" height="2">
+            <img src="http://pics.ebaystatic.com/aw/pics/x.gif" width="1" height="1"/>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <br/>
+            <br/>
+            <input type="submit" name="Close" value="Close" onclick="javascript:window.close();"/>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <script language="JavaScript">
+//<![CDATA[
+<!--
+				var isXconPage = "This is an xCon page\n" + "asset id: Help.Contextual.new_contextual_accountprotection" + "\n";
+				//-->
+//]]>
+    </script>
+    <!--Page type : -->    <script src="http://include.ebaystatic.com/js/v/us/ebayfooter.js">
+    </script>
+    <!--6/4/14 2:53 AM### buildId:16873695-->    <img style="display:none" width="1" height="1" alt="" title="" src="http://rover.ebay.com/roverimp/0/0/9?imp=1015387"/>
+  </body>
+</html>

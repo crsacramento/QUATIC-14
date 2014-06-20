@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head title="Erklæring om plikter og rettigheter">
+    <title>
+      Erklæring om plikter og rettigheter
+    </title>
+    <meta name="description" content="Facebook er et sosialt verktøy som hjelper folk med å holde kontakten med venner og andre som jobber, studerer og lever rundt dem. De bruker Facebook til..."/>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+  </head>
+  <body tabindex="0" class="nontouch x1 _513c acw">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <style type="text/css">
+      /*&lt;![CDATA[*/.acw{background-color:#fff;}.acb{background-color:#3b5998;}.aps{padding:2px 3px;}.apm{padding:4px 3px;}._4-fd{background-color:#fff;}div._:not(:last-child) div._{border-top:1px solid #ddd;margin:0 10px;}div._:not(:last-child) div._{border-top:1px solid #ddd;}._4-fg ul{list-style:square;padding-left:15px;}._4-fg ol{list-style:decimal;padding-left:20px;}._4-fg li{margin:5px 0;}.nontouch a,.nontouch a:visited{color:#3b5998;text-decoration:none;}.nontouch .sec,.nontouch .sec:visited{color:#6d84b4;}.nontouch a:focus,.nontouch a:hover,.nontouch .sec:focus,.nontouch .sec:hover{background-color:#3b5998;color:#fff;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}._513c #viewport{margin:0 auto;max-width:600px;}#page{position:relative;}.nontouch ._5ui2{background:#eceff5;padding:0 0 12px;}.nontouch ._5ui2 a,.nontouch ._5ui2 a:visited{color:#2b55ad;}.nontouch ._5ui2 a:hover,.nontouch ._5ui2 a:focus{background:#2b55ad;color:#fff;}.nontouch ._5ui3,.nontouch ._5ui4{padding:0 6px 6px;}._55wo{background:#fff;}.nontouch ._55wr{padding:4px;}._52jc{font-size:12px;line-height:16px;}.fcb{color:#000;}.fcg{color:gray;}.mfss{font-size:small;}body,tr,input,textarea,.mfsm{font-size:medium;}.img{border:0;display:inline-block;vertical-align:top;}i.img u{position:absolute;width:0;height:0;overflow:hidden;}/*]]&gt;*/
+    </style>
+    <div class="mfsm">
+      <div id="viewport">
+        <div>
+          <div class="acb aps" id="header">
+            <h1>
+              <a href="/home.php">
+                <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook"/>
+              </a>
+            </h1>
+          </div>
+        </div>
+        <div id="objects_container">
+          <div class="acw apm" title="Erklæring om plikter og rettigheter">
+            <strong>
+              Erklæring om plikter og rettigheter
+            </strong>
+          </div>
+          <div id="root" role="main" class="acw">
+            <div class="acw apm">
+              <div class="_4-fd _4-fg">
+                <div>
+                  <div class="_1k1q">
+                     Denne avtalen ble opprinnelig skrevet på (amerikansk) engelsk. I tilfeller der den oversatte versjonen av denne avtalen skiller seg fra den engelske versjonen, skal den engelske versjonen gjelde. Vær oppmerksom på at del 17 inneholder enkelte endringer i de generelle betingelsene for brukere utenfor USA.
+                  </div>
+                  <div class="_1k1q">
+                     Siste revisjon: 15. november 2013.
+                    <br/>
+                    <br/>
+                    <strong style="font-size: 14px; line-height:50px;">
+                      Erklæring om plikter og rettigheter
+                    </strong>
+                    <br/>
+                    <br/>
+                     Denne erklæring om plikter og rettigheter ("erklæring", "betingelser" eller "SRR") er basert på 
+                    <a href="https://www.facebook.com/principles.php">
+                      Facebooks prinsipper
+                    </a>
+                     og styrer forholdet vårt til brukerne og andre som samhandler med Facebook. Ved å gå inn på og bruke Facebook godtar du denne erklæringen med aktuelle oppdateringer i henhold til del 14 nedenfor. Du finner også ressurser nederst i dette dokumentet som kan hjelpe deg med å forstå hvordan Facebook fungerer.
+                  </div>
+                  <ol style="margin: 18px auto;">
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Personvern
+                      </strong>
+                      <br/>
+                      <br/>
+                       Personvernet ditt er viktig for oss. Vi har utformet 
+                      <a href="/about/privacy/">
+                        retningslinjene for bruk av informasjon
+                      </a>
+                       for å formidle viktig opplysninger om hvordan du kan bruke Facebook til å dele informasjonen med andre, og om hvordan vi samler inn og bruker innholdet ditt og informasjonen din. Vi oppfordrer deg til å lese retningslinjene for bruk av informasjon, slik at du kan ta veloverveide beslutninger.
+                      <br/>
+                        
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Deling av innhold og informasjon
+                      </strong>
+                      <br/>
+                      <br/>
+                       Du eier alt innhold og all informasjon som du publiserer på Facebook, og du kan kontrollere hvordan du deler dette, via innstillingene for 
+                      <a href="/settings/?tab=privacy">
+                        personvern
+                      </a>
+                       og 
+                      <a href="/settings/?tab=applications">
+                        applikasjoner
+                      </a>
+                      . I tillegg: 
+                      <ol>
+                        <li>
+                           Når det gjelder innhold som er beskyttet av opphavsrett, for eksempel bilder og videoer (opphavsrettsbeskyttet innhold), gir du oss følgende spesifikke tillatelser, underlagt innstillingene dine for 
+                          <a href="/privacy/">
+                            personvern
+                          </a>
+                           og 
+                          <a href="/settings/?tab=applications">
+                            applikasjoner
+                          </a>
+                          : Du gir oss en ikke-eksklusiv, overførbar, vederlagsfri og verdensomfattende lisens, underlisensierbar, til å bruke alt opphavsrettsbeskyttet innhold du publiserer på eller i forbindelse med Facebook (åndsverklisens). Åndsverklisensen opphører når du sletter det åndsverkbeskyttede innholdet ditt eller brukerkontoen din, med unntak av tilfeller der du har delt innholdet med andre brukere og de ikke har slettet det.
+                        </li>
+                        <li>
+                           Når du sletter opphavsrettsbeskyttet innhold, slettes det på en måte som ligner på når du tømmer papirkurven på en datamaskin. Du må imidlertid være innforstått med at fjernet innhold fortsatt kan ligge lagret i sikkerhetskopier i en rimelig tidsperiode (men det vil ikke være tilgjengelig for andre).
+                        </li>
+                        <li>
+                           Når du bruker en applikasjon, kan det hende at applikasjonen ber om å få tilgang til innholdet ditt og informasjonen din, i tillegg til innhold og informasjon som andre har delt med deg. Vi krever at applikasjoner respekterer personvernet ditt, og avtalen din med applikasjonen kontrollerer hvordan applikasjonen kan bruke, lagre og overføre innholdet ditt og informasjonen din. (Hvis du vil lese mer om plattformen, inkludert om hvordan du kan kontrollere hva slags informasjon andre personer kan dele med applikasjoner, kan du lese 
+                          <a href="/about/privacy/">
+                            retningslinjene for bruk av informasjon
+                          </a>
+                           og se 
+                          <a href="http://developers.facebook.com/docs/">
+                            plattformsiden
+                          </a>
+                          .)
+                        </li>
+                        <li>
+                           Når du publiserer innhold eller informasjon med innstillingen Offentlig, betyr dette at du gir alle, inkludert personer utenfor Facebook, tilgang til og tillatelse til å bruke den aktuelle informasjonen og knytte den til deg (dvs. navnet og profilbildet ditt).
+                        </li>
+                        <li>
+                           Vi setter alltid pris på tilbakemeldinger og andre forslag fra deg angående Facebook, men du må være innforstått med at vi kan bruke disse uten å være forpliktet til å kompensere deg for dette (på samme måte som du ikke er forpliktet til å sende dem inn).
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Sikkerhet
+                      </strong>
+                      <br/>
+                      <br/>
+                       Vi gjør vårt aller beste for å holde Facebook sikkert, men vi kan ikke garantere for dette. Vi trenger din hjelp til å holde Facebook sikkert, og det inkluderer at du forplikter deg til: 
+                      <ol>
+                        <li>
+                           Du skal ikke publisere uautorisert kommersiell kommunikasjon (f.eks. spam) på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke samle inn innhold eller informasjon fra brukere eller på annen måte bruke Facebook på en automatisert måte (f.eks. ved hjelp av en bot, robot, spider eller scraper) uten tillatelse fra oss på forhånd.
+                        </li>
+                        <li>
+                           Du skal ikke ta del i ulovlig MLM-virksomhet (Multi-Level Marketing), for eksempel pyramidespill, på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke laste opp virus eller annen skadelig kode.
+                        </li>
+                        <li>
+                           Du skal ikke anmode noen om å gi deg innloggingsinformasjon til eller tilgang til en brukerkonto som tilhører noen andre.
+                        </li>
+                        <li>
+                           Du skal ikke mobbe, true eller trakassere brukere.
+                        </li>
+                        <li>
+                           Du skal ikke publisere innhold som: er hatsk, truende eller pornografisk, oppfordrer til vold eller inneholder nakenhet, umotivert vold eller grafiske skildringer av vold.
+                        </li>
+                        <li>
+                           Du skal ikke utvikle eller drifte en tredjepartsapplikasjon som inneholder alkoholrelatert, datingrelatert eller annet innhold beregnet på voksne (inkludert annonser) uten behørig alderbegrensning.
+                        </li>
+                        <li>
+                           Du skal følge våre 
+                          <a href="https://www.facebook.com/page_guidelines.php#promotionsguidelines">
+                            retningslinjer for kampanjer
+                          </a>
+                           og alle gjeldende lover dersom du annonserer for eller tilbyr en konkurranse, en gaveartikkel eller et lotteri ("kampanje") på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke bruke Facebook til å utføre aktivitet som er ulovlig, villedende, ondsinnet eller diskriminerende.
+                        </li>
+                        <li>
+                           Du skal ikke gjøre noe som kan deaktivere, overbelaste eller svekke driften av Facebook, for eksempel utføre et tjenestenektangrep eller hindre av sidegjengivelse eller annen funksjonalitet på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke oppfordre til eller muliggjøre noen form for brudd på denne erklæringen eller våre retningslinjer.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Registrering og kontosikkerhet
+                      </strong>
+                      <br/>
+                      <br/>
+                       Facebook-brukere må oppgi ekte navn og informasjon, og vi trenger din hjelp for å sørge for at dette skjer. Her er noen forpliktelser du gjør overfor oss med tanke på registrering av og opprettholdelse av sikkerheten til brukerkontoen din: 
+                      <ol>
+                        <li>
+                           Du skal ikke oppgi falske personopplysninger på Facebook eller opprette en brukerkonto for noen andre enn deg selv uten tillatelse.
+                        </li>
+                        <li>
+                           Du skal ikke opprette mer enn én personlig brukerkonto.
+                        </li>
+                        <li>
+                           Hvis vi deaktiverer brukerkontoen din, skal du ikke opprette en ny uten vår tillatelse.
+                        </li>
+                        <li>
+                           Du skal ikke bruke den personlige tidslinjen din hovedsakelig til kommersielle formål, men skal bruke en Facebook-side til slike formål.
+                        </li>
+                        <li>
+                           Du skal ikke bruke Facebook hvis du er under 13 år gammel.
+                        </li>
+                        <li>
+                           Du skal ikke bruke Facebook hvis du er en dømt seksualforbryter.
+                        </li>
+                        <li>
+                           Du skal holde kontaktinformasjonen din nøyaktig og oppdatert.
+                        </li>
+                        <li>
+                           Du skal ikke dele passordet ditt med noen (for utviklere gjelder dette for den hemmelige nøkkelen), la noen andre få tilgang til brukerkontoen din eller gjøre noe annet som kan svekke sikkerheten til brukerkontoen din.
+                        </li>
+                        <li>
+                           Du skal ikke overføre brukerkontoen din (inkludert sider eller applikasjoner du administrerer) til andre uten først å få innhente skriftlig tillatelse fra oss.
+                        </li>
+                        <li>
+                           Vi forbeholder oss retten til å fjerne eller ta tilbake brukernavnet eller en lignende identifikator som du har valgt for brukerkontoen eller siden din, hvis dette etter vår oppfatning er hensiktsmessig (for eksempel hvis eieren av et varemerke klager på et brukernavn som ikke ligner veldig på det virkelige navnet til brukeren).
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Beskyttelse av andre personers rettigheter
+                      </strong>
+                      <br/>
+                      <br/>
+                       Vi respekterer andre personers rettigheter og forventer at du gjør det samme. 
+                      <ol>
+                        <li>
+                           Du skal ikke publisere innhold eller gjøre andre handlinger på Facebook som krenker eller bryter med andre personers rettigheter, eller som på annet vis bryter loven.
+                        </li>
+                        <li>
+                           Vi kan fjerne hvilket som helst innhold eller hvilken som helst informasjon du publiserer på Facebook, hvis vi mener at det eller den bryter med denne erklæringen eller våre retningslinjer.
+                        </li>
+                        <li>
+                           Vi tilbyr verktøy for å hjelpe deg med å beskytte åndsverkrettighetene dine. Hvis du vil ha mer informasjon, kan du gå til siden 
+                          <a href="https://www.facebook.com/legal/copyright.php?howto_report">
+                            Slik rapporterer du en antatt krenkelse av åndsverk
+                          </a>
+                          .
+                        </li>
+                        <li>
+                           Hvis vi fjerner noe av innholdet ditt fordi det krenker opphavsretten til en annen person, og du mener at vi har fjernet det ved en feiltakelse, gir vi deg muligheten til å klage på dette.
+                        </li>
+                        <li>
+                           Hvis du gjentatte ganger krenker andres opphavsrett, vil vi deaktivere brukerkontoen din når det er nødvendig.
+                        </li>
+                        <li>
+                           Du skal ikke bruke noen av våre varemerker eller opphavsretter (inkludert Facebook, Facebook- og F-logoen, FB, Face, Poke, Bok og Veggen), eller andre merker som til forveksling ligner, uten vår skriftlige forhåndstillatelse eller der retningslinjene for bruk av merkevarer gir uttrykkelig tillatelse til det.
+                        </li>
+                        <li>
+                           Hvis du samler inn informasjon fra brukere, skal du: innhente deres samtykke, gjøre det klart at det er du (og ikke Facebook) som samler inn informasjonen, og publisere retningslinjer for personvern som forklarer hvilken informasjon du samler inn, og hvordan du har tenkt til å bruke den.
+                        </li>
+                        <li>
+                           Du skal ikke publisere noens identifikasjonsdokumenter eller sensitive økonomiske opplysninger på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke tagge brukere eller sende e?postinvitasjoner til personer som ikke er brukere, uten deres samtykke. Facebook tilbyr verktøy for sosial rapportering som gir brukerne muligheten til å gi tilbakemelding om tagging.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Mobiltelefoner og andre enheter
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Vi tilbyr for øyeblikket mobiltjenestene våre gratis, men vær oppmerksom på at standardprisene og -avgiftene til mobiloperatøren din, f.eks. for tekstmeldinger, likevel gjelder.
+                        </li>
+                        <li>
+                           Hvis du endrer eller deaktiverer mobiltelefonnummeret ditt, skal du oppdatere kontoinformasjonen på Facebook innen 48 timer for å sikre at meldingene dine ikke sendes til personen som overtar det gamle nummeret ditt.
+                        </li>
+                        <li>
+                           Du gir samtykke og alle nødvendige rettigheter slik at brukere kan synkronisere (inkludert via en applikasjon) enhetene sine med all informasjon som er synlig for dem på Facebook.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Betalinger
+                      </strong>
+                      <br/>
+                      <br/>
+                       Hvis du utfører en betaling på Facebook eller bruker Facebook-kreditter, godtar du 
+                      <a href="https://www.facebook.com/payments_terms">
+                        betalingsbetingelsene
+                      </a>
+                       våre.
+                      <br/>
+                        
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for sosiale programtillegg 
+                      </strong>
+                      <br/>
+                      <br/>
+                       Hvis du legger til våre sosiale programtillegg, som Del-knappen og Liker-knappen, på nettstedet ditt, gjelder følgende tilleggsbetingelser for deg: 
+                      <ol>
+                        <li>
+                           Vi gir deg tillatelse til å bruke Facebooks sosiale programtillegg, slik at brukere kan publisere lenker til eller innhold fra nettstedet ditt på Facebook.
+                        </li>
+                        <li>
+                           Du gir oss tillatelse til å bruke, og tillater andre å bruke, slike lenker og slikt innhold på Facebook.
+                        </li>
+                        <li>
+                           Du skal ikke plassere Facebooks sosiale programtillegg på noen side som har innhold som ville brutt med denne erklæringen hvis det hadde blitt publisert på Facebook.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for utviklere og personer som drifter applikasjoner og nettsteder 
+                      </strong>
+                      <br/>
+                      <br/>
+                       Hvis du er en utvikler av, eller drifter, en plattformapplikasjon eller et plattformnettsted, gjelder følgende tilleggsbetingelser for deg: 
+                      <ol>
+                        <li>
+                           Du er ansvarlig for applikasjonen, applikasjonens innhold og alt du bruker plattformen til. Dette innebærer at du sørger for at applikasjonen eller din bruk av plattformen oppfyller 
+                          <a href="http://developers.facebook.com/policy/">
+                            <span style="text-decoration: underline;">
+                              retningslinjene for Facebook-plattformen
+                            </span>
+                          </a>
+                           og 
+                          <a href="/ad_guidelines.php">
+                            retningslinjene for annonsering
+                          </a>
+                          .
+                        </li>
+                        <li>
+                           Din tilgang til og bruk av data du mottar fra Facebook, er underlagt følgende begrensninger: 
+                          <ol>
+                            <li>
+                               Du skal kun be om data du behøver for å drifte applikasjonen.
+                            </li>
+                            <li>
+                               Du skal ha retningslinjer for personvern som informerer brukerne om hvilke brukerdata du bruker, hvordan du vil bruke, vise, dele eller overføre disse dataene, og at du skal inkludere URL-en for dine retningslinjer for personvern i 
+                              <a href="http://www.facebook.com/developers/">
+                                Utvikler-applikasjonen
+                              </a>
+                              .
+                            </li>
+                            <li>
+                               Du skal ikke bruke, vise, dele eller overføre en brukers data på en måte som ikke stemmer overens med retningslinjene dine for personvern.
+                            </li>
+                            <li>
+                               Du skal slette alle data du har mottatt fra oss som gjelder en bruker, hvis brukeren ber deg om det. Du skal i tillegg tilby en funksjon som gjør at brukeren kan sende deg en slik forespørsel.
+                            </li>
+                            <li>
+                               Du skal ikke inkludere data du mottar fra oss som gjelder en bruker, i noen form for reklame eller annonse.
+                            </li>
+                            <li>
+                               Du skal ikke, verken direkte eller indirekte, overføre data du mottar fra oss, til (eller bruke slike data i tilknytning til) annonsenettverk, annonsebørser, annonsemeglere eller andre annonserelaterte verktøysett, selv om en bruker gir samtykke til dette.
+                            </li>
+                            <li>
+                               Du skal ikke selge brukerdata. Hvis du blir kjøpt opp av eller slås sammen med en tredjepart, kan du fortsette å bruke brukerdata innenfor applikasjonen din, men du kan ikke overføre data utenfor applikasjonen. 
+                            </li>
+                            <li>
+                               Vi kan kreve at du sletter brukerdata hvis du bruker disse på en måte som vi mener er uforenlig med brukernes forventninger.
+                            </li>
+                            <li>
+                               Vi kan begrense tilgangen din til data.
+                            </li>
+                            <li>
+                               Du skal rette deg etter alle begrensningene som fremgår i 
+                              <a href="http://developers.facebook.com/policy/">
+                                retningslinjene for Facebook-plattformen
+                              </a>
+                              .
+                            </li>
+                          </ol>
+                        </li>
+                        <li>
+                           Du skal ikke gi oss informasjon som du på egen hånd har samlet inn fra en bruker eller innholdet til en bruker, uten brukerens samtykke.
+                        </li>
+                        <li>
+                           Du skal gjøre det enkelt for brukere å fjerne eller koble seg fra applikasjonen din.
+                        </li>
+                        <li>
+                           Du skal gjøre det enkelt for brukere å kontakte deg. Vi kan også oppgi e?postadressen din til brukere som hevder at du har krenket eller på annen måte gjort noe som bryter med rettighetene deres.
+                        </li>
+                        <li>
+                           Du skal tilby kundestøtte for applikasjonen din.
+                        </li>
+                        <li>
+                           Du skal ikke vise annonser fra tredjeparter eller Internett-søkebokser på www.facebook.com.
+                        </li>
+                        <li>
+                           Vi gir deg alle rettighetene du trenger for å bruke kode, API-er, data og verktøy du mottar fra oss.
+                        </li>
+                        <li>
+                           Du skal ikke selge, overføre eller underlisensiere Facebooks kode, API-er eller verktøy.
+                        </li>
+                        <li>
+                           Du skal ikke feilrepresentere forholdet ditt til Facebook til andre.
+                        </li>
+                        <li>
+                           Du kan bruke logoene som vi gjør tilgjengelige for utviklere eller legge ut en pressemelding eller annen offentlig kunngjøring så lenge du følger 
+                          <a href="http://developers.facebook.com/policy/">
+                            retningslinjene for Facebook-plattformen
+                          </a>
+                          .
+                        </li>
+                        <li>
+                           Vi kan utgi en pressemelding som beskriver forholdet vårt til deg.
+                        </li>
+                        <li>
+                           Du skal følge alle gjeldende lover. Især skal du (hvis aktuelt) 
+                          <ol>
+                            <li>
+                               ha retningslinjer for fjerning av krenkende innhold og utestengelse av brukere som gjentatte ganger foretar krenkelser, i samsvar med Digital Millennium Copyright Act.
+                            </li>
+                            <li>
+                               etterleve Video Privacy Protection Act (VPPA) og skaffe nødvendig samtykke fra brukere slik at brukerdata som er underlagt VPPA, kan deles på Facebook. Du erklærer data ikke vil utleveres til oss som følge av den vanlige driften av virksomheten din.
+                            </li>
+                          </ol>
+                        </li>
+                        <li>
+                           Vi garanterer ikke at plattformen alltid vil være gratis.
+                        </li>
+                        <li>
+                           Du gir oss alle nødvendige rettigheter til å sørge for at applikasjonen din fungerer sammen med Facebook, inkludert retten til å innlemme innhold og informasjon du oppgir til oss, i strømmer, tidslinjer og brukerhendelser.
+                        </li>
+                        <li>
+                           Du gir oss rettigheten til å lenke til applikasjonen din eller ramme den inn samt å plassere innhold, inkludert annonser, rundt applikasjonen din.
+                        </li>
+                        <li>
+                           Vi kan analysere applikasjonen din, innholdet ditt og dataene dine til ethvert formål, inkludert kommersielle (f.eks. til målrettet annonsering og indeksering av innhold for søk).
+                        </li>
+                        <li>
+                           Vi kan revidere applikasjonen din for å sørge for at den er trygg for brukerne.
+                        </li>
+                        <li>
+                           Vi kan opprette applikasjoner som tilbyr liknende funksjoner og tjenester som, eller på annen måte konkurrerer med, applikasjonen din.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <div>
+                        <strong>
+                          Om annonser og annet kommersielt innhold som leveres eller fremheves av Facebook
+                        </strong>
+                        <br/>
+                        <br/>
+                         Målet vårt er å levere annonser og annet kommersielt eller sponset innhold som er verdifullt for våre brukere og annonsører. For at vi skal kunne gjøre dette, samtykker du i følgende: 
+                        <ol>
+                          <li>
+                            <div class="_1k1q">
+                               Du gir oss tillatelse til å bruke navnet ditt, profilbildet ditt, innholdet ditt og informasjonen din (f.eks. en merkevare du liker, eller en handling du deler) i tilknytning til kommersielt, sponset eller relatert innhold som leveres eller fremheves av oss. Dette betyr for eksempel at du tillater at en bedrift eller annen enhet betaler oss for å vise ditt navn og/eller profilbilde med ditt innhold eller din informasjon, uten noen kompensasjon til deg. Hvis du har valgt et spesifikt publikum for innholdet ditt eller informasjonen din, respekterer vi valget ditt når vi bruker innholdet eller informasjonen.
+                            </div>
+                          </li>
+                          <li>
+                             Vi gir ikke innholdet ditt eller informasjonen din videre til annonsører uten tillatelse fra deg.
+                          </li>
+                          <li>
+                             Du er innforstått med at vi kanskje ikke alltid kan identifisere at betalingstjenester og -kommunikasjon er betalingsbelagte.
+                            <br/>
+                              
+                          </li>
+                        </ol>
+                      </div>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for annonsører 
+                      </strong>
+                      <br/>
+                      <br/>
+                       Du kan nå frem til ønsket målgruppe ved å kjøpe annonser på Facebook eller på utgivernettverket vårt. Følgende tilleggsbetingelser gjelder for deg hvis du legger inn en bestilling via vår annonseringsportal på Internett (bestilling): 
+                      <ol>
+                        <li>
+                           Når du legger inn en bestilling, forteller du oss hva slags annonse du vil kjøpe, hvor mye penger du vil bruke, og anbudet ditt. Hvis vi godtar bestillingen din, leverer vi annonsen så snart vi har ledig annonseplass. Når vi leverer annonsen din, gjør vi vårt beste for å levere annonsen til publikumet du har spesifisert, men vi kan ikke garantere at den når frem til riktig målgruppe i alle tilfeller.
+                        </li>
+                        <li>
+                           Det kan hende vi utvider målgruppekriteriene du har angitt, hvis vi tror at dette kan øke effektiviteten til annonsekampanjen din.
+                        </li>
+                        <li>
+                           Du skal betale for bestillingene dine i henhold til 
+                          <a href="https://www.facebook.com/payments_terms">
+                            betalingsbetingelsene
+                          </a>
+                           våre. Vi beregner hva du skylder oss, basert på sporingsmekanismene våre.
+                        </li>
+                        <li>
+                           Annonsene dine skal oppfylle 
+                          <a href="/ad_guidelines.php">
+                            retningslinjene våre for annonsering
+                          </a>
+                          .
+                        </li>
+                        <li>
+                           Vi avgjør størrelsen, plasseringen og posisjoneringen til annonsene dine.
+                        </li>
+                        <li>
+                           Vi garanterer ikke for aktiviteten som annonsene dine skaper, for eksempel antall klikk annonsene dine får.
+                        </li>
+                        <li>
+                           Vi kan ikke kontrollere hvordan klikk genereres på annonsene dine. Vi har systemer som prøver å oppdage og filtrere enkelte typer aktivitet, men vi er ikke ansvarlige for klikkesvindel, teknologiske problemer eller annen mulig ugyldig klikkeaktivitet som kan påvirke kostnadene ved å kjøre annonser.
+                        </li>
+                        <li>
+                           Du kan når som helst kansellere bestillingen din via nettportalen vår, men det kan ta opptil 24 timer før annonsene slutter å vises. Du er ansvarlig for å betale for annonsene som kjøres.
+                        </li>
+                        <li>
+                           Lisensen vår til å vise annonsen din opphører når vi har fullført bestillingen. Du er imidlertid innforstått med at dersom brukere samhandler med annonsen din, kan annonsen bli værende til brukerne sletter den.
+                        </li>
+                        <li>
+                           Vi kan bruke annonsene dine og beslektet innhold og informasjon til markedsførings- og promoteringsformål.
+                        </li>
+                        <li>
+                           Du skal ikke komme med en pressemelding eller annen offentlig kunngjøring om forholdet ditt til Facebook uten skriftlig tillatelse fra oss på forhånd.
+                        </li>
+                        <li>
+                           Vi kan avvise eller fjerne annonsen din, uansett årsak.
+                        </li>
+                        <li>
+                           Hvis du legger ut annonser på vegne av noen andre, må du ha tillatelse til å legge ut disse annonsene, inkludert følgende: 
+                          <ol>
+                            <li>
+                               Du garanterer at du har juridisk rett til å binde annonsøren til denne erklæringen.
+                            </li>
+                            <li>
+                               Du godtar at dersom annonsøren du representerer, bryter med denne erklæringen, kan vi holde deg ansvarlig for bruddet.
+                              <br/>
+                                
+                            </li>
+                          </ol>
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for sider
+                      </strong>
+                      <br/>
+                      <br/>
+                       Hvis du oppretter eller administrerer en side på Facebook eller kjører en kampanje eller et tilbud på siden din, godtar du våre 
+                      <a href="https://www.facebook.com/page_guidelines.php">
+                        betingelser for sider
+                      </a>
+                      .
+                      <br/>
+                        
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for programvare
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Hvis du laster ned eller bruker programvare fra oss, for eksempel et frittstående programvareprodukt, an applikasjon eller et nettleser-programtillegg, samtykker du i at programvaren fra tid til annen kan laste ned og installere oppgraderinger, oppdateringer og tilleggsfunksjoner fra oss, slik at vi kan forbedre og videreutvikle programvaren.
+                        </li>
+                        <li>
+                           Du skal ikke endre, lage avledede verk av, dekompilere eller på annen måte ekstrahere kildekode fra oss, med mindre du har uttrykkelig tillatelse til dette under en lisens for åpen kildekode eller har fått uttrykkelig skriftlig tillatelse fra oss.
+                        </li>
+                        <br/>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Endringer
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Med mindre endringen innføres av juridiske eller administrative årsaker eller for å korrigere en unøyaktig erklæring, gir vi deg sju (7) dagers varsel (for eksempel ved å publisere endringen på 
+                          <a href="/fbsitegovernance">
+                            siden Facebook Site Governance
+                          </a>
+                          ) og en mulighet til å kommentere endringer i denne erklæringen. Du kan også gå til 
+                          <a href="/fbsitegovernance">
+                            siden Facebook Site Governance
+                          </a>
+                           og klikke Liker på den for å få oppdateringer om endringer i denne erklæringen.
+                        </li>
+                        <li>
+                           Hvis vi gjør endringer i retningslinjer som henvises til eller inngår i denne erklæringen, kan vi varsle om dette på siden Site Governance.
+                        </li>
+                        <li>
+                           Din fortsatte bruk av Facebook etter endringer i vilkårene våre utgjør ditt samtykke i de endrede betingelsene.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Avslutning
+                      </strong>
+                      <br/>
+                      <br/>
+                       Hvis du bryter med denne erklæringens bokstav eller ånd eller på annen måte utsetter oss for risiko eller mulig juridisk ansvar, kan vi sperre tilgangen din til hele eller deler av Facebook. Vi vil varsle deg om dette per e?post eller neste gang du prøver å logge inn på brukerkontoen din. Du kan også når som helst slette brukerkontoen din eller deaktivere applikasjonen din. I alle slike tilfeller opphører denne erklæringen, men følgende bestemmelser vil fortsatt gjelde: 2.2, 2.4, 3–5, 8.2, 9.1–9.3, 9.9, 9.10, 9.13, 9.15, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.12, 11.13 og 15-19.
+                      <br/>
+                        
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Tvister
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Du skal løse alle krav, rettsspørsmål eller tvister (krav) du har med oss som oppstår fra eller er relaterte til denne erklæringen eller Facebook, utelukkende i US District Court for Northern District of California eller en statlig domstol i San Mateo County, og du aksepterer å være underlagt den personlige jurisdiksjonen til denne domstolen dersom du vil gå rettens vei med slike krav. Lovene i delstaten California skal gjelde for denne erklæringen, så vel som for alle krav som skulle oppstå mellom deg og oss, uten hensyn til bestemmelser om lovkonflikter. 
+                        </li>
+                        <li>
+                           Hvis noen kommer med et krav mot oss som er relatert til dine handlinger, ditt innhold eller din informasjon på Facebook, skal du holde oss skadesløse fra og mot alle skader, tap og utgifter (inkludert rimelige juridiske kostnader) relatert til et slikt krav. Selv om vi oppgir regler for brukeroppførsel, kontrollerer eller styrer vi ikke brukernes handlinger på Facebook. Vi er heller ikke ansvarlige for innhold eller informasjon som brukere overfører eller deler på Facebook. Vi er ikke ansvarlige for fornærmende, upassende, uanstendig, ulovlig eller på annen måte støtelig innhold eller informasjon du eventuelt møter på Facebook. Vi er ikke ansvarlige for oppførselen til Facebook-brukere hverken på eller utenfor Internett. 
+                        </li>
+                        <li>
+                           VI PRØVER Å HOLDE FACEBOOK OPPDATERT, FEILFRITT OG SIKKERT, MEN DU BRUKER NETTSTEDET PÅ EGEN RISIKO. VI LEVERER FACEBOOK SLIK DET ER, UTEN UTTRYKTE ELLER UNDERFORSTÅTTE GARANTIER, HERUNDER BLANT ANNET UNDERFORSTÅTTE GARANTIER OM SALGBARHET, EGNETHET FOR ET BESTEMT FORMÅL OG IKKE-KRENKELSE. VI GARANTERER IKKE AT FACEBOOK ALLTID ER TRYGT, SIKKERT OG FEILFRITT, ELLER AT FACEBOOK ALLTID FUNGERER UTEN AVBRUDD, FORSINKELSER ELLER DEFEKTER. FACEBOOK ER IKKE ANSVARLIG FOR TREDJEPARTS HANDLINGER, INNHOLD, INFORMASJON ELLER DATA, OG DU GIR OSS OG VÅRE DIREKTØRER, REPRESENTANTER, ANSATTE OG AGENTER ANSVARSFRIHET MOT EVENTUELLE KRAV OG ERSTATNINGSSAKER, KJENTE OG UKJENTE, SOM OPPSTÅR I FORBINDELSE MED EVENTUELLE KRAV DU SKULLE HA MOT EN SLIK TREDJEPART. HVIS DU BOR I CALIFORNIA, AVSTÅR DU FRA CALIFORNIA CIVIL CODE §1542, SOM SIER: EN GENERELL ANSVARSFRIHET GJELDER IKKE KRAV SOM KREDITOREN IKKE KJENNER TIL ELLER MISTENKER FOR Å EKSISTERE, I HANS FAVØR VED TIDSPUNKTET FOR UTØVELSEN AV ANSVARSFRIHETEN, SOM HVIS DEN ER KJENT AV HAM, MÅ HA PÅVIRKET HAM VESENTLIG I OPPGJØRET MED SKYLDNEREN. VI SKAL IKKE VÆRE ANSVARLIGE OVERFOR DEG FOR TAPT PROFITT ELLER ANDRE FØLGESKADER, SPESIELLE, INDIREKTE ELLER TILFELDIGE SKADER SOM OPPSTÅR FRA ELLER TILKNYTTET DENNE ERKLÆRINGEN ELLER FACEBOOK, SELV OM VI HAR INFORMERT OM MULIGHETEN FOR SLIKE ERSTATNINGSSAKER. DET TOTALE ERSTATNINGSBELØPET SOM OPPSTÅR SOM FØLGE AV DENNE ERKLÆRINGEN ELLER FACEBOOK, SKAL IKKE OVERSTIGE ETT HUNDRE DOLLAR (USD 100) ELLER BELØPET DU HAR BETALT INN TIL OSS I LØPET AV DE SISTE TOLV MÅNEDENE. GJELDENDE LOV TILLATER KANSKJE IKKE BEGRENSNING ELLER UTELATELSE AV ANSVAR ELLER TILFELDIGE SKADER ELLER FØLGESKADER, SÅ BEGRENSNINGEN ELLER UTELATELSEN OVENFOR GJELDER KANSKJE IKKE FOR DEG. I SLIKE TILFELLER BLIR KANSKJE FACEBOOKS ANSVAR BEGRENSET I DEN GRAD DET TILLATES AV GJELDENDE LOVGIVNING.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Spesielle bestemmelser for brukere utenfor USA
+                      </strong>
+                      <br/>
+                      <br/>
+                       Vi har som mål å skape et globalt nettsamfunn med like standarder for alle, men samtidig er vi nødt til å overholde lokale lover. Følgende bestemmelser gjelder for brukere og ikke-brukere som samhandler med Facebook utenfor USA: 
+                      <ol>
+                        <li>
+                           Du samtykker i at dine personopplysninger overføres til og behandles i USA.
+                        </li>
+                        <li>
+                           Hvis du befinner deg i et land som er under handelsblokade av USA, eller som står på det amerikanske finansdepartements liste Specially Designated Nationals, skal du ikke ta del i kommersiell aktivitet på Facebook (f.eks. annonsering eller betalinger) eller drifte en plattformapplikasjon eller et plattformnettsted. Du skal ikke bruke Facebook hvis du har forbud mot å motta produkter, tjenester eller programvare fra USA.
+                        </li>
+                        <li>
+                           Enkelte spesielle betingelser gjelder bare for tyske brukere, og kan leses 
+                          <a href="https://www.facebook.com/terms/provisions/german/index.php">
+                            her
+                          </a>
+                          . 
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Definisjoner
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Med Facebook mener vi funksjonene og tjenestene som vi gjør tilgjengelige, inkludert via (a) nettstedet vårt på 
+                          <a href="http://www.facebook.com/">
+                            www.facebook.com
+                          </a>
+                           og alle andre Facebook-merkede nettsteder eller nettsteder med relaterte merker (inkludert underdomener, internasjonale versjoner, miniprogrammer og mobile versjoner), (b) plattformen vår, (c) sosiale programtillegg, f.eks. Liker-knappen, Del-knappen og andre lignende tillegg, og (d) andre medier, annen programvare (f.eks. verktøylinjer), andre enheter eller andre nettverk som nå eksisterer eller blir utviklet i fremtiden.
+                        </li>
+                        <li>
+                           Med plattformen mener vi et sett med API-er og tjenester (f.eks. innhold) som gjør det mulig for andre, inkludert applikasjonsutviklere og nettstedoperatører, å hente data fra Facebook eller sende oss data.
+                        </li>
+                        <li>
+                           Med informasjon mener vi fakta og annen informasjon om deg, inkludert handlinger utført av brukere og ikke-brukere som samhandler med Facebook.
+                        </li>
+                        <li>
+                           Med innhold mener vi alt du eller andre brukere publiserer på Facebook som ikke inkluderes i definisjonen av informasjon.
+                        </li>
+                        <li>
+                           Med data, brukerdata eller brukerens data mener vi alle data, inkludert en brukers innhold eller informasjon, som du eller tredjeparter kan hente fra Facebook eller sende til Facebook via plattformen.
+                        </li>
+                        <li>
+                           Med publisere mener vi å publisere på Facebook, eller på annen måte gjøre tilgjengelig ved å bruke Facebook.
+                        </li>
+                        <li>
+                           Med bruke mener vi bruke, kopiere, fremføre eller vise offentlig, distribuere, modifisere, oversette og lage avledede verk.
+                        </li>
+                        <li>
+                           Med aktiv registrert bruker mener vi en bruker som har logget seg inn på Facebook minst én gang i løpet av de siste 30 dagene.
+                        </li>
+                        <li>
+                           Med applikasjon mener vi alle applikasjoner eller nettsteder som bruker eller har tilgang til plattformen, i tillegg til alt annet som mottar eller har mottatt data fra oss. Hvis du ikke har tilgang til plattformen lenger, men ikke har slettet alle data fra oss, gjelder termen applikasjon frem til du sletter disse dataene.
+                          <br/>
+                            
+                        </li>
+                      </ol>
+                    </li>
+                    <li style="margin-bottom: 16px;">
+                      <strong>
+                        Andre
+                      </strong>
+                      <br/>
+                      <br/>
+                      <ol>
+                        <li>
+                           Hvis du bor i USA eller Canada, eller hvis bedriften din i hovedsak er basert i USA eller Canada, er denne erklæringen en avtale mellom deg og Facebook, Inc. Ellers er denne erklæringen en avtale mellom deg og Facebook Ireland Limited. Referanser til "oss", "vi" eller "vår/våre" betyr enten Facebook, Inc. eller Facebook Ireland Limited, avhengig av hva som er relevant.
+                        </li>
+                        <li>
+                           Denne erklæringen utgjør hele avtalen mellom partene når det gjelder Facebook, og erstatter alle tidligere avtaler.
+                        </li>
+                        <li>
+                           Selv om en del av denne erklæringen skulle være umulig å håndheve, vil resten av delene ha full gyldighet og virkning.
+                        </li>
+                        <li>
+                           Hvis vi skulle svikte i vår håndhevelse av denne erklæringen, skal ikke dette anses som et frafall.
+                        </li>
+                        <li>
+                           Alle tillegg til eller fraskrivelser av denne erklæringen skal være skriftlige og undertegnet av oss.
+                        </li>
+                        <li>
+                           Du skal ikke overføre noen av pliktene eller rettighetene dine forbundet med denne erklæringen til noen andre uten vårt samtykke.
+                        </li>
+                        <li>
+                           Alle våre plikter og rettigheter forbundet med denne erklæringen kan fritt overdras av oss i forbindelse med en sammenslåing, et oppkjøp eller salg av aktiva, gjennom rettshandlinger eller på annen måte.
+                        </li>
+                        <li>
+                           Ingenting i denne erklæringen skal forhindre oss fra å følge loven.
+                        </li>
+                        <li>
+                           Denne erklæringen overfører ingen rettigheter til en tredjepart.
+                        </li>
+                        <li>
+                           Vi forbeholder oss alle rettigheter vi ikke uttrykkelig har tildelt deg.
+                        </li>
+                        <li>
+                           Du skal følge alle gjeldende lover når du bruker eller har tilgang til Facebook.
+                        </li>
+                      </ol>
+                    </li>
+                  </ol>
+                  <div class="_1k1q">
+                    <strong>
+                      <br/>
+                       Det kan også være nyttig for deg å lese dokumentene nedenfor. Der får du ytterligere informasjon om din bruk av Facebook:
+                    </strong>
+                  </div>
+                  <ul>
+                    <li>
+                      <a href="/about/privacy/">
+                        Retningslinjer for bruk av data
+                      </a>
+                      : Retningslinjene for bruk av data er utformet for å hjelpe deg med å forstå hvordan vi samler inn og bruker opplysninger.
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/payments_terms">
+                        Betalingsbetingelser
+                      </a>
+                      : Disse tilleggsbetingelsene gjelder for alle betalinger som utføres på eller via Facebook.
+                    </li>
+                    <li>
+                      <a href="/platform">
+                        Plattformside
+                      </a>
+                      : På denne siden finner du mer informasjon om hva som skjer når du legger til en tredjepartsapplikasjon eller bruker Facebook Connect, inkludert hvordan disse kan få tilgang til og bruke dataene dine.
+                    </li>
+                    <li>
+                      <a href="http://developers.facebook.com/policy/">
+                        Retningslinjer for Facebook-plattformen
+                      </a>
+                      : Dette er retningslinjene som gjelder for applikasjoner, inkludert Connect-sider.
+                    </li>
+                    <li>
+                      <a href="/ad_guidelines.php">
+                        Retningslinjer for annonsering
+                      </a>
+                      : Dette er retningslinjene som gjelder for annonsering på Facebook.
+                    </li>
+                    <li>
+                      <a href="/page_guidelines.php#promotionsguidelines">
+                        Retningslinjer for kampanjer
+                      </a>
+                      : Dette er retningslinjene som gjelder hvis du tilbyr konkurranser, lotterier eller andre typer kampanjer på Facebook.
+                    </li>
+                    <li>
+                      <a href="https://m.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&amp;h=9AQH3PB8K&amp;s=1" target="_blank">
+                        Facebooks ressurser for merkevarer
+                      </a>
+                      : Dette er retningslinjene som gjelder for bruk av Facebooks varemerker, logoer og skjermbilder.
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/legal/copyright.php?howto_report">
+                        Slik rapporterer du antatt krenkelse av opphavsrett
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/page_guidelines.php">
+                        Betingelser for sider
+                      </a>
+                      : Dette er retningslinjene som gjelder for din bruk av Facebook-sider.
+                    </li>
+                    <li>
+                      <a href="/communitystandards">
+                        Nettsamfunnets standarder
+                      </a>
+                      : Dette er retningslinjene som viser våre forventninger til innhold du publiserer på Facebook, og din aktivitet på Facebook.
+                      <br/>
+                      <br/>
+                    </li>
+                  </ul>
+                   Hvis du vil lese erklæringen om plikter og rettigheter på flere forskjellige språk, endrer du språkinnstillingen for Facebook-økten ved å klikke på språklenken som finnes nederst på de fleste sider. Hvis erklæringen ikke er tilgjengelig på språket du velger, vises automatisk den engelske versjonen. 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="_52jc _55wo _55wr _5ui2">
+          <div id="footer">
+            <div class="_5ui3">
+              <span class="mfss fcg">
+                <b>
+                  Norsk (bokmål)
+                </b>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=pt_PT&amp;lref=https%3A%2F%2Fm.facebook.com%2Flegal%2Fterms%3Frefid%3D69&amp;gfid=AQDsOmKqsQbqDJaQ">
+                  Português (Portugal)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=en_US&amp;lref=https%3A%2F%2Fm.facebook.com%2Flegal%2Fterms%3Frefid%3D69&amp;gfid=AQCPPmoN588RLfVc">
+                  English (US)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Flegal%2Fterms%3Frefid%3D69">
+                  Mer…
+                </a>
+              </span>
+            </div>
+            <div class="_5ui4">
+              <span class="mfss fcb">
+                <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies">
+                  Logg inn på Facebook
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                Facebook ©2014
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="static_templates">
+      </div>
+    </div>
+  </body>
+</html>

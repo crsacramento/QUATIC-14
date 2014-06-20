@@ -1,0 +1,3478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Dress shirt - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dress_shirt"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dress_shirt&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Dress_shirt&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Dress_shirt"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dress_shirt","wgTitle":"Dress shirt","wgCurRevisionId":611748018,"wgRevisionId":611748018,"wgArticleId":2054287,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2009","History of clothing (Western fashion)","History of fashion","Formalwear","Shirts"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dress_shirt","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3249473"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dress_shirt skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->        <div class="collection-creatorbox">
+          <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/Open_book.png?9" alt="" width="80" height="45" class="collection-creatorbox-book"/>
+          <div class="collection-creatorbox-row">
+            <div>
+              <a href="/wiki/Help:Books" title="Show help about creating books" rel="nofollow">
+                <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-help.png" alt="" width="16" height="16"/>
+                 Help
+              </a>
+            </div>
+            <span class="collection-creatorbox-title">
+              Book creator
+            </span>
+             (
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Dress+shirt" title="Stop using the book creator" rel="nofollow">
+              disable
+            </a>
+            )
+          </div>
+          <div id="coll-book_creator_box" class="collection-creatorbox-row">
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=add_article&amp;arttitle=Dress+shirt&amp;oldid=0" title="Add the current wiki page to your book" id="coll-add_article" rel="nofollow" onclick="collectionCall('AddArticle', ['removearticle', wgNamespaceNumber, wgTitle, &quot;0&quot;]); return false;">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-add.png" alt="" width="16" height="16"/>
+               Add this page to your book
+            </a>
+            <a href="/wiki/Special:Book" title="Click to edit/download/order your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-book_open.png" alt="" width="16" height="16"/>
+               Show book (0 pages)
+            </a>
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=suggest" title="Show suggestions based on the pages in your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-wand.png" alt="" width="16" height="16" style="vertical-align: text-bottom"/>
+               Suggest pages
+            </a>
+          </div>
+        </div>
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Dress shirt
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <p>
+            A 
+            <b>
+              shirt
+            </b>
+            , 
+            <b>
+              button shirt
+            </b>
+            , 
+            <b>
+              dress shirt
+            </b>
+            , 
+            <b>
+              button-front
+            </b>
+            , 
+            <b>
+              button-front shirt
+            </b>
+            , or 
+            <b>
+              button-up shirt
+            </b>
+             is a garment with a 
+            <a href="/wiki/Collar_(clothing)" title="Collar (clothing)">
+              collar
+            </a>
+            , and a full-length opening at the front from the collar to the hem. While traditionally dress shirts were worn by men (while women wore 
+            <a href="/wiki/Blouse" title="Blouse">
+              blouses
+            </a>
+             or 
+            <a href="/wiki/Chemise" title="Chemise">
+              chemises
+            </a>
+            ), in the mid-1800s it also became an item of women's clothing and is worn by both sexes today.
+            <sup id="cite_ref-1" class="reference">
+              <a href="#cite_note-1">
+                <span>
+                  [
+                </span>
+                1
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             The front opening is fastened using 
+            <a href="/wiki/Buttons" title="Buttons" class="mw-redirect">
+              buttons
+            </a>
+             or 
+            <a href="/wiki/Shirt_stud" title="Shirt stud">
+              studs
+            </a>
+            . Shirts are normally made from woven 
+            <a href="/wiki/Cloth" title="Cloth" class="mw-redirect">
+              cloth
+            </a>
+            , and are often accompanied by a 
+            <a href="/wiki/Jacket" title="Jacket">
+              jacket
+            </a>
+             and 
+            <a href="/wiki/Necktie" title="Necktie">
+              tie
+            </a>
+            , for example with a 
+            <a href="/wiki/Suit_(clothing)" title="Suit (clothing)">
+              suit
+            </a>
+             or 
+            <a href="/wiki/Formalwear" title="Formalwear" class="mw-redirect">
+              formalwear
+            </a>
+            , but shirts are also worn more casually. In 
+            <a href="/wiki/British_English" title="British English">
+              British English
+            </a>
+            , 
+            <i>
+              dress shirt
+            </i>
+             means specifically the more formal evening garment worn with 
+            <a href="/wiki/Black_tie" title="Black tie">
+              black-
+            </a>
+             or 
+            <a href="/wiki/White_tie" title="White tie">
+              white-
+            </a>
+             tie, also discussed 
+            <a href="#Formal_shirts">
+              below
+            </a>
+            . Some of these formal shirts have stiff fronts and 
+            <a href="/wiki/Detachable_collar" title="Detachable collar">
+              detachable collars
+            </a>
+             attached with 
+            <a href="/wiki/Collar_stud" title="Collar stud" class="mw-redirect">
+              collar studs
+            </a>
+            . The term "button-down" (which refers a type of shirt which has a collar fastened down by buttons
+            <sup id="cite_ref-2" class="reference">
+              <a href="#cite_note-2">
+                <span>
+                  [
+                </span>
+                2
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+            ) is sometimes used in error to apply to all shirts (with or without buttoned down collars), being used as a synonym for "button-up" or "button-front".
+          </p>
+          <p>
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle">
+              <h2>
+                Contents
+              </h2>
+            </div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Components">
+                  <span class="tocnumber">
+                    1
+                  </span>
+                  <span class="toctext">
+                    Components
+                  </span>
+                </a>
+                <ul>
+                  <li class="toclevel-2 tocsection-2">
+                    <a href="#Collars">
+                      <span class="tocnumber">
+                        1.1
+                      </span>
+                      <span class="toctext">
+                        Collars
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-3">
+                    <a href="#Cuffs">
+                      <span class="tocnumber">
+                        1.2
+                      </span>
+                      <span class="toctext">
+                        Cuffs
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-4">
+                    <a href="#Other_features">
+                      <span class="tocnumber">
+                        1.3
+                      </span>
+                      <span class="toctext">
+                        Other features
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="toclevel-1 tocsection-5">
+                <a href="#Formal_shirts">
+                  <span class="tocnumber">
+                    2
+                  </span>
+                  <span class="toctext">
+                    Formal shirts
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-6">
+                <a href="#Materials">
+                  <span class="tocnumber">
+                    3
+                  </span>
+                  <span class="toctext">
+                    Materials
+                  </span>
+                </a>
+                <ul>
+                  <li class="toclevel-2 tocsection-7">
+                    <a href="#Non-iron">
+                      <span class="tocnumber">
+                        3.1
+                      </span>
+                      <span class="toctext">
+                        Non-iron
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="toclevel-1 tocsection-8">
+                <a href="#Shirt_wearing">
+                  <span class="tocnumber">
+                    4
+                  </span>
+                  <span class="toctext">
+                    Shirt wearing
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-9">
+                <a href="#Fit">
+                  <span class="tocnumber">
+                    5
+                  </span>
+                  <span class="toctext">
+                    Fit
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-10">
+                <a href="#See_also">
+                  <span class="tocnumber">
+                    6
+                  </span>
+                  <span class="toctext">
+                    See also
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-11">
+                <a href="#Bibliography">
+                  <span class="tocnumber">
+                    7
+                  </span>
+                  <span class="toctext">
+                    Bibliography
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-12">
+                <a href="#References">
+                  <span class="tocnumber">
+                    8
+                  </span>
+                  <span class="toctext">
+                    References
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <p>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Components">
+              Components
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=1" title="Edit section: Components">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            A shirt has several components:
+            <sup id="cite_ref-3" class="reference">
+              <a href="#cite_note-3">
+                <span>
+                  [
+                </span>
+                3
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             A one-piece back, which is usually pleated, gathered, or eased into a section of fabric in the upper part of the back behind the neck and over the shoulders known as the yoke (either one-piece or seamed vertically in the middle); one-piece sleeves with 
+            <a href="/wiki/Plackets" title="Plackets" class="mw-redirect">
+              plackets
+            </a>
+             at the wrist, or else short-sleeved (cut off above the elbow), though this is not traditional; a band of fabric around each wrist known as a cuff; the collar, a strip around the neck, which is normally a turndown collar, with the strip folded down away from the neck, leaving two points at the front, the width of which is known as the spread; and finally two front panels which overlap slightly down the middle on the placket to fasten with buttons (or rarely 
+            <a href="/wiki/Shirt_studs" title="Shirt studs" class="mw-redirect">
+              shirt studs
+            </a>
+            ).
+          </p>
+          <h3>
+            <span class="mw-headline" id="Collars">
+              Collars
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=2" title="Edit section: Collars">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Collar_(clothing)" title="Collar (clothing)">
+              Collar
+            </a>
+          </div>
+          <p>
+            There are various different styles of collar, which is the primary indicator of the formality of a shirt.
+            <sup id="cite_ref-4" class="reference">
+              <a href="#cite_note-4">
+                <span>
+                  [
+                </span>
+                4
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Those discussed here are all attached collars, not styles specific to 
+            <a href="/wiki/Detachable_collar" title="Detachable collar">
+              detachable collars
+            </a>
+            .
+          </p>
+          <ul>
+            <li>
+              Spread collars measure from around 3½ to 6 inches between the collar points, and the wider collars are often referred to as 
+              <i>
+                cutaway
+              </i>
+               or 
+              <i>
+                Windsor
+              </i>
+               collars after the 
+              <a href="/wiki/Edward_VIII_of_the_United_Kingdom" title="Edward VIII of the United Kingdom" class="mw-redirect">
+                Duke of Windsor
+              </a>
+              . This city style is more formal, though it is common in Europe, and predominant in the UK.
+            </li>
+            <li>
+              Point, straight, or small collars are narrow, with 2½ to 3¼ inches between the points of the collar.
+            </li>
+            <li>
+              Button-down collars have points fastened down by buttons on the front of the shirt. Introduced by 
+              <a href="/wiki/Brooks_Brothers" title="Brooks Brothers">
+                Brooks Brothers
+              </a>
+               in 1896, they were patterned after the shirts of 
+              <a href="/wiki/Polo" title="Polo">
+                polo
+              </a>
+               players and were used exclusively on sports shirts until the 1950s in America. It is still considered a more sporting style, and, particularly outside America, traditionally dressed men still do not wear suits with this style of collar.
+            </li>
+          </ul>
+          <p>
+            The less-common styles below were all once common, but have waned in popularity.
+          </p>
+          <ul>
+            <li>
+              Eyelet collars require a barbell-style 
+              <a href="/wiki/Collar_bar" title="Collar bar" class="mw-redirect">
+                collar bar
+              </a>
+               to join the small stitched hole on each point.
+            </li>
+            <li>
+              Tab collars are point collars with two strips of fabric extending from the middle of the collar and joined behind the tie. These lift the tie, giving an arc effect similar to a 
+              <a href="/wiki/Collar_pin" title="Collar pin">
+                pinned collar
+              </a>
+              . The tabs can be closed with a metal snap, button or stud.
+            </li>
+            <li>
+              Club collars have rounded edges, and were very popular in the first few decades of the twentieth century. They have recently received a surge in popularity due to television shows like 
+              <a href="/wiki/Mad_Men" title="Mad Men">
+                Mad Men
+              </a>
+            </li>
+            <li>
+              The varsity is a type of spread collar in which the points curve outward from the placket of the shirt.
+            </li>
+            <li>
+              Shirts designed to take a detachable collar have a tunic collar, which is a low standing band of fabric around the neck, with a hole at the front and back for the 
+              <a href="/wiki/Collar_stud" title="Collar stud" class="mw-redirect">
+                collar studs
+              </a>
+              .
+            </li>
+          </ul>
+          <p>
+            Contrast collar shirts are occasionally made, which are white collars on a coloured or patterned shirt. These are worn for a variety of reasons, such as to offset certain complexions;
+            <sup id="cite_ref-5" class="reference">
+              <a href="#cite_note-5">
+                <span>
+                  [
+                </span>
+                5
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             because of a tradition started by 
+            <a href="/wiki/Detachable_collar" title="Detachable collar">
+              detachable collars
+            </a>
+            , where it is impractical to have many collars in different matching colours; and finally because when a collar is replaced it is unlikely an exact colour match will be found.
+            <sup id="cite_ref-6" class="reference">
+              <a href="#cite_note-6">
+                <span>
+                  [
+                </span>
+                6
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             These collars are generally considered more formal than matching fabric.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Cuffs">
+              Cuffs
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=3" title="Edit section: Cuffs">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Cuff" title="Cuff">
+              Cuff
+            </a>
+          </div>
+          <p>
+            The main distinctions between cuffs are whether they require buttons or 
+            <a href="/wiki/Cufflinks" title="Cufflinks" class="mw-redirect">
+              cufflinks
+            </a>
+             to fasten, and whether they are folded back (
+            <i>
+              double
+            </i>
+            ) or single. The main resulting types are therefore
+          </p>
+          <ul>
+            <li>
+              barrel cuffs, the standard style fastened by one or two buttons according to taste;
+            </li>
+            <li>
+              double, or French, cuffs, which are more formal, and have an extra length of sleeve folded back and fastened with links; and
+            </li>
+            <li>
+              single cuffs, the most formal style, usually only worn with formal eveningwear, which are double cuffs without the fold.
+            </li>
+          </ul>
+          <p>
+            In addition, there are some variations, for example barrel cuffs may be mitred, with the corner cut off at 45°. Less common styles include the 
+            <i>
+              Portofino
+            </i>
+            , or 
+            <i>
+              cocktail
+            </i>
+             cuff, which is a double cuff closed with buttons, first made by the 
+            <a href="/wiki/Jermyn_Street" title="Jermyn Street">
+              Jermyn Street
+            </a>
+             shirtmakers 
+            <a href="/wiki/Turnbull_%26_Asser" title="Turnbull &amp; Asser">
+              Turnbull &amp; Asser
+            </a>
+            , and later popularised by the fictional character 
+            <a href="/wiki/James_Bond" title="James Bond">
+              James Bond
+            </a>
+             in the films from 1962 onwards.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Other_features">
+              Other features
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=4" title="Edit section: Other features">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <p>
+            A high quality traditional shirt has long tails, extending almost to the knees at the back, and so has seven or eight buttons. The vertical strip of fabric running down the front opening is called the placket, and gives a more symmetrical appearance to the joint between the left side, on top, and the right. This left over right order is also seen in waistcoat and coat fastenings, though women's clothing buttons the other way (right over left). The buttonholes, aligned vertically, are placed on the placket, though the top button and buttons at the bottom of stiff fronts are aligned horizontally. The buttonholes are one of the few places where the difference between hand and machine stitching can be observed while the shirt is being worn, and fashion designers sometimes use contrasting thread here or on the buttons themselves for extra impact.
+          </p>
+          <p>
+            To give extra fullness to the back, there are often 
+            <a href="/wiki/Pleat" title="Pleat">
+              pleats
+            </a>
+             where the back panel joins to the yoke. On some fittings these are not needed, and handmade shirts may feature the extra fabric being worked continuously into the seam. In America, a box pleat is common (two pleats together in the centre), while in Britain the pleats are placed wider out under the shoulders.
+          </p>
+          <p>
+            The less casual shirts in Britain will have no pockets, but the standard shirt in America has a single one on the wearer's left side, which is a sewn-on patch with a plain upper hem, optionally with a single button for closure. This small pocket is large enough to hold a pack of 
+            <a href="/wiki/Cigarettes" title="Cigarettes" class="mw-redirect">
+              cigarettes
+            </a>
+             or a few pens (a 
+            <a href="/wiki/Pocket_protector" title="Pocket protector">
+              pocket protector
+            </a>
+             can be used).
+            <sup id="cite_ref-7" class="reference">
+              <a href="#cite_note-7">
+                <span>
+                  [
+                </span>
+                7
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Less formal shirts may feature larger pockets, dual pockets, or pockets with flap closures; safari or other military styled shirts often feature two large pockets with buttoned flaps. Less formal shirts may have small pockets on the sleeves as well. 
+            <a href="/wiki/Shoulder_strap#Shirt_shoulder_strap" title="Shoulder strap">
+              Shoulder straps
+            </a>
+             are virtually non-existent on formal shirts, with the exception of military clothing.
+          </p>
+          <p>
+            Short-sleeved shirts have a plain (no-button) hem above the wearer's elbow. They are considered a casual summer or tropical option, though many people wear only the traditional long sleeves in all circumstances.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Formal_shirts">
+              Formal shirts
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=5" title="Edit section: Formal shirts">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tleft">
+            <div class="thumbinner" style="width:152px;">
+              <a href="/wiki/File:Lord_Laitinen_at_Home,_2014.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lord_Laitinen_at_Home%2C_2014.jpg/150px-Lord_Laitinen_at_Home%2C_2014.jpg" width="150" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lord_Laitinen_at_Home%2C_2014.jpg/225px-Lord_Laitinen_at_Home%2C_2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lord_Laitinen_at_Home%2C_2014.jpg/300px-Lord_Laitinen_at_Home%2C_2014.jpg 2x" data-file-width="1200" data-file-height="1600"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Lord_Laitinen_at_Home,_2014.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+A man wearing a dress shirt and light khaki pants
+              </div>
+            </div>
+          </div>
+          <p>
+            In the UK, the term 
+            <i>
+              dress shirt
+            </i>
+             is reserved for a particular type of formal shirt. There are formal day shirts for wearing with 
+            <a href="/wiki/Morning_dress" title="Morning dress">
+              morning dress
+            </a>
+            , and the white dress shirts used as eveningwear.
+          </p>
+          <p>
+            A day dress shirt is fairly similar to a normal shirt, and is usually white, with a stiff 
+            <a href="/wiki/Detachable_collar" title="Detachable collar">
+              detachable collar
+            </a>
+            , though other designs, such as a vertical blue stripe, are also appropriate. Double cuffs are most common. This sort of shirt is also conventionally worn by some barristers and judges.
+          </p>
+          <p>
+            An evening shirt, for wear with eveningwear, for example as part of 
+            <a href="/wiki/Black_tie" title="Black tie">
+              black
+            </a>
+             or 
+            <a href="/wiki/White_tie" title="White tie">
+              white tie
+            </a>
+             has some unique features. In the U.S., this shirt is often called a 
+            <i>
+              tuxedo shirt
+            </i>
+             or 
+            <i>
+              tux shirt
+            </i>
+            . The shirt is always white.
+          </p>
+          <p>
+            The shirt required for 
+            <a href="/wiki/White_tie" title="White tie">
+              white tie
+            </a>
+             is very specific. It should have a 
+            <a href="/wiki/Detachable_collar" title="Detachable collar">
+              detachable
+            </a>
+            <a href="/wiki/Wing_collar" title="Wing collar" class="mw-redirect">
+              wing collar
+            </a>
+             and be fastened with 
+            <a href="/wiki/Shirt_studs" title="Shirt studs" class="mw-redirect">
+              shirt studs
+            </a>
+             instead of buttons on the front. The studs are normally 
+            <a href="/wiki/Mother_of_pearl" title="Mother of pearl" class="mw-redirect">
+              mother of pearl
+            </a>
+             set in gold or silver, but black 
+            <a href="/wiki/Onyx" title="Onyx">
+              onyx
+            </a>
+             inlay is also permissible. The cufflinks should match the studs. The shirt front has panels made of different material from the rest of the shirt which are the only parts seen under the waistcoat. The shape of the panels, one on each side, is either rectangular, or the older U-shape (designed to sit under the older 1920s U-shaped waistcoats, now largely replaced by the more modern V-shape). The material for the panels is either layers of thick plain cotton that is heavily 
+            <a href="/wiki/Starch" title="Starch">
+              starched
+            </a>
+             (this type is often called a 
+            <i>
+              boiled front shirt
+            </i>
+             as the shirt needs to be put in boiling water to remove the starch before cleaning), or 
+            <a href="/wiki/Piqu%C3%A9" title="Piqué">
+              marcella
+            </a>
+             (piqué) cotton. Marcella is more common, but a little less formal, though still appropriate, since it was originally designed to be used on formal evening shirts, as the ribbing can pick up more starch and create an even stiffer front. Traditionally, collarless shirts with a detachable wing collar fastened on with collar studs have been used, but all-in-one designs are occasionally seen, though this is considered incorrect and to give a poor appearance by many.
+            <sup id="cite_ref-8" class="reference">
+              <a href="#cite_note-8">
+                <span>
+                  [
+                </span>
+                8
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+            <sup id="cite_ref-9" class="reference">
+              <a href="#cite_note-9">
+                <span>
+                  [
+                </span>
+                9
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+            <a href="/wiki/Cuff" title="Cuff">
+              Cuffs
+            </a>
+             are single, and heavily starched (if the front is marcella, the cuffs usually match).
+          </p>
+          <p>
+            <a href="/wiki/Black_tie" title="Black tie">
+              Black tie
+            </a>
+             offers more leeway. Shirts may be soft (not starched), which gives the options of unstarched marcella or a pleated front, as well as the white tie shirts, which may also be worn with black tie. The collar is still sometimes a stiff high wing collar (common in America, though the attached variety is more popular there), or a turndown collar (more frequently seen in Britain). In past decades, particularly the 1970s, ruffled shirt fronts were made fashionable by Will Hunter,
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="Really? No hits on google, and added by IP, but giving BOD for a little while... (May 2009)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+             although they are now out of favour. Dress-studs are optional, and are onyx set in either silver or gold if used; otherwise the buttons are normally concealed under a placket. Cufflinks tend to be as simple and understated as possible, and harmonise with, if not match, the studs.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Materials">
+              Materials
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=6" title="Edit section: Materials">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Shirts are made of woven cloth. The natural fibers used in the past were 
+            <a href="/wiki/Cotton" title="Cotton">
+              cotton
+            </a>
+             (the most frequent), 
+            <a href="/wiki/Linen" title="Linen">
+              linen
+            </a>
+             (the oldest), 
+            <a href="/wiki/Ramie" title="Ramie">
+              ramie
+            </a>
+            , 
+            <a href="/wiki/Wool" title="Wool">
+              wool
+            </a>
+             or 
+            <a href="/wiki/Silk" title="Silk">
+              silk
+            </a>
+            . Nowadays, artificial fibers such as 
+            <a href="/wiki/Polyester" title="Polyester">
+              polyester
+            </a>
+             or polyester blends are often used, due to their low cost, despite being considered by most shirtmakers the poorest material, owing to less softness and breathability.
+            <sup id="cite_ref-10" class="reference">
+              <a href="#cite_note-10">
+                <span>
+                  [
+                </span>
+                10
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             However, while high quality cotton shirts can survive with care a few decades, a polyester/cotton blend may be used in more demanding environments. Linen produces a cool fabric that wrinkles heavily, and is mostly used in light summer shirts. Cotton is therefore the standard material for all but the cheapest shirts. Silk is occasionally worn, though it is hot to wear and has a marked sheen.
+          </p>
+          <p>
+            Yarns from these fibers are woven into a variety of different weaves, the most notable of which include 
+            <a href="/wiki/Broadcloth" title="Broadcloth">
+              broadcloth
+            </a>
+            , with double the number of 
+            <a href="/wiki/Warp_(weaving)" title="Warp (weaving)">
+              warp
+            </a>
+             to 
+            <a href="/wiki/Weft" title="Weft">
+              weft
+            </a>
+             threads, giving a smooth, formal shirting; 
+            <a href="/wiki/Twill" title="Twill">
+              twill
+            </a>
+            , where the tucks of the weft do not line up, giving a diagonal pattern, a weave used for most country checked (
+            <i>
+              e.g.
+            </i>
+            <a href="/wiki/Tattersall_(cloth)" title="Tattersall (cloth)">
+              Tattersall
+            </a>
+            ) shirtings; 
+            <a href="/wiki/Poplin" title="Poplin">
+              poplin
+            </a>
+            , with a heavier warp than weft, giving more formal fabric; and 
+            <a href="/wiki/Oxford_(cloth)" title="Oxford (cloth)">
+              Oxford
+            </a>
+             weaves. Plain Oxford or pinpoint Oxford weaves are popular as casual fabrics, so are generally used in combination with a button-down collar, while royal Oxford is versatile enough to be used on both sporty and formal shirts. There are many other weaves or variations on these, including 
+            <a href="/wiki/End-on-end" title="End-on-end">
+              end-on-end
+            </a>
+             patterns, where alternate white and coloured threads are used, giving a mottled appearance, or more exotic weaves, including 
+            <a href="/wiki/Voile" title="Voile">
+              voile
+            </a>
+             and 
+            <a href="/wiki/Batiste" title="Batiste">
+              batiste
+            </a>
+            , which are extremely light fabrics only used for summer shirts or on the unseen parts of formal shirts.
+            <sup id="cite_ref-11" class="reference">
+              <a href="#cite_note-11">
+                <span>
+                  [
+                </span>
+                11
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            The use of pattern and colour is also significant. Originally, in the 
+            <a href="/wiki/Edwardian_era" title="Edwardian era">
+              Edwardian era
+            </a>
+            , when the modern shirt emerged, all shirts were white. Gradually more colours were introduced, including blue, the most popular colour, particularly in lighter shades such as 
+            <a href="/wiki/Wedgwood" title="Wedgwood">
+              Wedgwood
+            </a>
+            . A full range of colours is now worn, from pink to yellow. Less traditional shirts are also made with darker colours, even black, and bright or lighter colours and prints for very casual wear were popularised after the War by light holiday clothes such as 
+            <a href="/wiki/Hawaiian_shirt" title="Hawaiian shirt" class="mw-redirect">
+              Hawaiian shirts
+            </a>
+            .
+          </p>
+          <p>
+            The intended use of shirts dictates different choices of pattern. For example, country shirts are usually checked, with checks of different size to co-ordinate with 
+            <a href="/wiki/Tweed_(cloth)" title="Tweed (cloth)">
+              tweeds
+            </a>
+             of different pattern, and featuring one, two, or sometimes more colours of check over a light cream or white background. For city shirts, plain or striped designs are more common, most stripes being vertical, while horizontal stripes are a legitimate and more formal option. Herringbone patterns are worn informally and casually. Some colours, such as purple or pink, are generally only worn with city shirts. Further, the use of colour is seasonal, with shades like green being associated more with autumn than summer ones like yellow. Colours and patterns may be chosen for more than simply aesthetic reasons, as trends such as 
+            <a href="/wiki/Power_dressing" title="Power dressing">
+              power dressing
+            </a>
+             (first noted in Molloy, 
+            <i>
+              <a href="/wiki/Dress_for_Success_(book)" title="Dress for Success (book)">
+                Dress for Success
+              </a>
+            </i>
+             [1975]) emphasise the social impact of clothing. For example, a 
+            <a href="/wiki/City_of_London" title="City of London">
+              City
+            </a>
+             executive might stereotypically wear strong vertical patterns for meetings to emphasise his authority.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Non-iron">
+              Non-iron
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=7" title="Edit section: Non-iron">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <p>
+            <a href="/wiki/Wrinkle-free" title="Wrinkle-free" class="mw-redirect">
+              Wrinkle-free
+            </a>
+             shirts have become popular after being first introduced by 
+            <a href="/wiki/Brooks_Brothers" title="Brooks Brothers">
+              Brooks Brothers
+            </a>
+             in 1953.
+            <sup id="cite_ref-12" class="reference">
+              <a href="#cite_note-12">
+                <span>
+                  [
+                </span>
+                12
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            A resin used for making non-wrinkle shirts releases formaldehyde, which could cause contact dermatitis for some people - particularly those who have already developed an allergy; no disclosure requirements exist, and in 2008 the U.S. 
+            <a href="/wiki/Government_Accountability_Office" title="Government Accountability Office">
+              Government Accountability Office
+            </a>
+             tested formaldehyde in clothing and found that generally the highest levels were in non-wrinkle shirts and pants.
+            <sup id="cite_ref-13" class="reference">
+              <a href="#cite_note-13">
+                <span>
+                  [
+                </span>
+                13
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Shirt_wearing">
+              Shirt wearing
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=8" title="Edit section: Shirt wearing">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            A dress shirt is 
+            <a href="/wiki/Ironing" title="Ironing">
+              ironed
+            </a>
+             to remove any wrinkles and can be treated with 
+            <a href="/wiki/Starch" title="Starch">
+              starch
+            </a>
+             for added smoothness and stiffness. The hem is tucked into the 
+            <a href="/wiki/Trouser" title="Trouser" class="mw-redirect">
+              trouser
+            </a>
+            . For 
+            <a href="/wiki/Informal_(attire)" title="Informal (attire)" class="mw-redirect">
+              informal-
+            </a>
+             or 
+            <a href="/wiki/Formalwear" title="Formalwear" class="mw-redirect">
+              formalwear
+            </a>
+            , a 
+            <a href="/wiki/Coat_(clothing)" title="Coat (clothing)">
+              coat
+            </a>
+             and 
+            <a href="/wiki/Necktie" title="Necktie">
+              tie
+            </a>
+             (or 
+            <a href="/wiki/Bow_tie" title="Bow tie">
+              bow tie
+            </a>
+            ) are compulsory. When a tie is worn, the top button of the shirt is fastened, so the tie can fit snugly around the wearer’s neck with a neat appearance.
+          </p>
+          <p>
+            When a tie is not worn, conventions on buttoning differ globally: in the United States and the United Kingdom, the top button is virtually never buttoned if a tie is not worn – but unbuttoning two or more buttons is seen as overly casual. In France, unbuttoning two buttons is more common, and politicians appear on TV in this style.
+          </p>
+          <p>
+            In casual usage, these conventions are often not followed, with many choosing to wear shirts not tucked in, or leaving the top button undone with a tie. This is commonly done by children and young men, particularly as part of 
+            <a href="/wiki/School_uniform" title="School uniform">
+              school uniform
+            </a>
+            , where it is not allowed. Even more casually, some now choose not to iron their shirts, or use nontraditional 'non-iron' fabrics.
+          </p>
+          <p>
+            Similarly, as part of more casual work attire, some American men wear shirts with the top two buttons unbuttoned (buttoned at the third button), though buttoning at the fourth button is widely seen as too casual. Accordingly, some shirts are manufactured with a difference at the second or third button, by way of subtle cue as to where to button.
+            <sup id="cite_ref-14" class="reference">
+              <a href="#cite_note-14">
+                <span>
+                  [
+                </span>
+                14
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Most casually, the shirt can be worn entirely unbuttoned, over a T-shirt.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Fit">
+              Fit
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=9" title="Edit section: Fit">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            In the US, 
+            <a href="/wiki/Ready-to-wear" title="Ready-to-wear">
+              ready-to-wear
+            </a>
+            <a href="/wiki/Clothing_size" title="Clothing size" class="mw-redirect">
+              sizes
+            </a>
+             of dress shirts traditionally consist of two numbers such as 
+            <i>
+              15½ 34
+            </i>
+            , meaning that the shirt has a neck 15.5 inches in girth (measured from centre of top button to centre of corresponding buttonhole) and a sleeve 34 inches long (measured from midpoint of the back and shoulders to the wrist). However, to reduce the number of sizes needed to be manufactured and stocked, an average sleeve length is sometimes given in the form 
+            <i>
+              15½ 34/35
+            </i>
+             (indicating a neck 15.5 inches in girth and a 35 inch sleeve). Since the cuff frequently features two buttons, the cuff diameter can be reduced so that the cuff does not come down over the hand, allowing the shirt to fit the shorter length. Since the sleeve and neck size do not take into account waist size, some shirts are cut wide to accommodate large belly sizes. Shirts cut for flat stomachs are usually labeled, "fitted", "tailored fit" "athletic fit" or "trim fit". The terms for fuller cut shirts are more varied ("Traditional", "Regular" etc.) and sometimes explained on a shirt maker's website. Additionally, "Portly" or "Big" are often used for neck sizes of 18 inches or more. Very casual button-front shirts are often sized as small, medium, large, and so on. The meaning of these 
+            <i>
+              ad-hoc
+            </i>
+             sizes is similarly not standardized and varies between manufacturers.
+          </p>
+          <p>
+            In the 
+            <a href="/wiki/Bespoke" title="Bespoke">
+              bespoke
+            </a>
+             (custom-made) industry, where each shirt is made from an individually drafted pattern, these sizing problems are avoided, but there are still different ways making the shirt fit. While many choose to cut the sleeve long, and have the cuff catch on the hand to regulate its length, some prefer the much harder option of using a high armhole and carefully tailored shape, so that the cuff can be loose and still sit in exactly the right place wherever the arm moves.
+            <sup id="cite_ref-15" class="reference">
+              <a href="#cite_note-15">
+                <span>
+                  [
+                </span>
+                15
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            <a href="/wiki/Made-to-measure" title="Made-to-measure" class="mw-redirect">
+              Made-to-measure
+            </a>
+             shirts may not fit quite as well as bespoke, but can provide a similar degree of customisation and fit at a lower cost.
+          </p>
+          <p>
+            For sixty years, US designers and manufacturers of neckties and dress shirts were members of the 
+            <a href="/wiki/Men%27s_Dress_Furnishings_Association" title="Men's Dress Furnishings Association">
+              Men's Dress Furnishings Association
+            </a>
+             but the trade group shut down in 2008 due to declining membership caused by the declining numbers of men wearing neckties.
+            <sup id="cite_ref-16" class="reference">
+              <a href="#cite_note-16">
+                <span>
+                  [
+                </span>
+                16
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <h2>
+            <span class="mw-headline" id="See_also">
+              See also
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=10" title="Edit section: See also">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <ul>
+            <li>
+              <a href="/wiki/Shirt" title="Shirt">
+                Shirt
+              </a>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Bibliography">
+              Bibliography
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=11" title="Edit section: Bibliography">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            These general works cover most of the material in the article, and are not referenced by page on all points.
+          </p>
+          <ul>
+            <li>
+              <span class="citation book">
+                Antongiavanni, Nicholas (2006). 
+                <i>
+                  The Suit: A Machiavellian Approach to Men's Style
+                </i>
+                . 
+                <a href="/wiki/HarperCollins" title="HarperCollins">
+                  HarperCollins
+                </a>
+                . 
+                <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                  ISBN
+                </a>
+                 
+                <a href="/wiki/Special:BookSources/978-0-06-089186-2" title="Special:BookSources/978-0-06-089186-2">
+                  978-0-06-089186-2
+                </a>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.au=Antongiavanni%2C+Nicholas&amp;rft.aufirst=Nicholas&amp;rft.aulast=Antongiavanni&amp;rft.btitle=The+Suit%3A+A+Machiavellian+Approach+to+Men%27s+Style&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-06-089186-2&amp;rft.pub=HarperCollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </li>
+            <li>
+              <span class="citation book">
+                Keers, Paul (October 1987). 
+                <i>
+                  A Gentleman's Wardrobe: Classic Clothes and the Modern Man
+                </i>
+                . 
+                <a href="/wiki/Weidenfeld_%26_Nicolson" title="Weidenfeld &amp; Nicolson">
+                  Weidenfeld &amp; Nicolson
+                </a>
+                . 
+                <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                  ISBN
+                </a>
+                 
+                <a href="/wiki/Special:BookSources/978-0-297-79191-1" title="Special:BookSources/978-0-297-79191-1">
+                  978-0-297-79191-1
+                </a>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.aufirst=Paul&amp;rft.au=Keers%2C+Paul&amp;rft.aulast=Keers&amp;rft.btitle=A+Gentleman%27s+Wardrobe%3A+Classic+Clothes+and+the+Modern+Man&amp;rft.date=October+1987&amp;rft.genre=book&amp;rft.isbn=978-0-297-79191-1&amp;rft.pub=Weidenfeld+%26+Nicolson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </li>
+            <li>
+              <span class="citation book">
+                <a href="/wiki/Alan_Flusser" title="Alan Flusser">
+                  Flusser, Alan
+                </a>
+                 (1985). 
+                <a rel="nofollow" class="external text" href="http://www.throughtherye.com/flusser/index_current.html">
+                  <i>
+                    Clothes and the Man: The Principles of Fine Men's Dress
+                  </i>
+                </a>
+                . 
+                <a href="/wiki/Villard" title="Villard">
+                  Villard
+                </a>
+                . 
+                <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                  ISBN
+                </a>
+                 
+                <a href="/wiki/Special:BookSources/0-394-54623-7" title="Special:BookSources/0-394-54623-7">
+                  0-394-54623-7
+                </a>
+                <span class="reference-accessdate">
+                  . Retrieved 2008-09-20
+                </span>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.aufirst=Alan&amp;rft.au=Flusser%2C+Alan&amp;rft.aulast=Flusser&amp;rft.btitle=Clothes+and+the+Man%3A+The+Principles+of+Fine+Men%27s+Dress&amp;rft.date=1985&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.throughtherye.com%2Fflusser%2Findex_current.html&amp;rft.isbn=0-394-54623-7&amp;rft.pub=Villard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </li>
+            <li>
+              <span class="citation book">
+                <a href="/wiki/Alan_Flusser" title="Alan Flusser">
+                  Flusser, Alan
+                </a>
+                 (2002). 
+                <i>
+                  Dressing the Man: Mastering the Art of Permanent Fashion
+                </i>
+                . 
+                <a href="/wiki/HarperCollins" title="HarperCollins">
+                  HarperCollins
+                </a>
+                . 
+                <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                  ISBN
+                </a>
+                 
+                <a href="/wiki/Special:BookSources/0-06-019144-9" title="Special:BookSources/0-06-019144-9">
+                  0-06-019144-9
+                </a>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.aufirst=Alan&amp;rft.au=Flusser%2C+Alan&amp;rft.aulast=Flusser&amp;rft.btitle=Dressing+the+Man%3A+Mastering+the+Art+of+Permanent+Fashion&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-06-019144-9&amp;rft.pub=HarperCollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="References">
+              References
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Dress_shirt&amp;action=edit&amp;section=12" title="Edit section: References">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="reflist references-column-width" style="-moz-column-width: 40em; -webkit-column-width: 40em; column-width: 40em; list-style-type: decimal;">
+            <ol class="references">
+              <li id="cite_note-1">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-1">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation journal">
+                    Brough, Dean (April 2013). 
+                    <a rel="nofollow" class="external text" href="http://eprints.qut.edu.au/59300/">
+                      "The classic white formal shirt : a powerful emblem of social change."
+                    </a>
+                    . 
+                    <i>
+                      15th Annual IFFTI Conference : The Business &amp; Marketing of Icons
+                    </i>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.atitle=The+classic+white+formal+shirt+%3A+a+powerful+emblem+of+social+change.&amp;rft.au=Brough%2C+Dean&amp;rft.aufirst=Dean&amp;rft.aulast=Brough&amp;rft.date=April+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Feprints.qut.edu.au%2F59300%2F&amp;rft.jtitle=15th+Annual+IFFTI+Conference+%3A+The+Business+%26+Marketing+of+Icons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-2">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-2">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation news">
+                    Blanchard, Tamsin (15 April 1996). 
+                    <a rel="nofollow" class="external text" href="http://www.independent.co.uk/life-style/career-notes-the-buttondown-shirt-1304981.html">
+                      "Career Notes: The Button-Down Shirt"
+                    </a>
+                    . 
+                    <i>
+                      The Independent
+                    </i>
+                    <span class="reference-accessdate">
+                      . Retrieved April 22, 2011
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.atitle=Career+Notes%3A+The+Button-Down+Shirt&amp;rft.au=Blanchard%2C+Tamsin&amp;rft.aufirst=Tamsin&amp;rft.aulast=Blanchard&amp;rft.date=15+April+1996&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Flife-style%2Fcareer-notes-the-buttondown-shirt-1304981.html&amp;rft.jtitle=The+Independent&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-3">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-3">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external free" href="http://www.lewistaylorshirts.com/images/custom-shirt.jpg">
+                    http://www.lewistaylorshirts.com/images/custom-shirt.jpg
+                  </a>
+                </span>
+              </li>
+              <li id="cite_note-4">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-4">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Antongiavanni (2002). p. 101
+                </span>
+              </li>
+              <li id="cite_note-5">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-5">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Flusser (2002). p. 27
+                </span>
+              </li>
+              <li id="cite_note-6">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-6">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    Boehlke, Will (2008-10-21). 
+                    <a rel="nofollow" class="external text" href="http://asuitablewardrobe.dynend.com/2008/10/collars-and-cuffs.html">
+                      "Collars and Cuffs"
+                    </a>
+                    . 
+                    <i>
+                      A Suitable Wardrobe
+                    </i>
+                    <span class="reference-accessdate">
+                      . Retrieved 2008-10-23
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.atitle=Collars+and+Cuffs&amp;rft.au=Boehlke%2C+Will&amp;rft.aufirst=Will&amp;rft.aulast=Boehlke&amp;rft.date=2008-10-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fasuitablewardrobe.dynend.com%2F2008%2F10%2Fcollars-and-cuffs.html&amp;rft.jtitle=A+Suitable+Wardrobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-7">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-7">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    Boehlke, Will (2008-08-14). 
+                    <a rel="nofollow" class="external text" href="http://asuitablewardrobe.dynend.com/2008/08/on-shirt-pockets.html">
+                      "On Shirt Pockets"
+                    </a>
+                    . 
+                    <i>
+                      A Suitable Wardrobe
+                    </i>
+                    <span class="reference-accessdate">
+                      . Retrieved 2008-10-23
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.atitle=On+Shirt+Pockets&amp;rft.au=Boehlke%2C+Will&amp;rft.aufirst=Will&amp;rft.aulast=Boehlke&amp;rft.date=2008-08-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fasuitablewardrobe.dynend.com%2F2008%2F08%2Fon-shirt-pockets.html&amp;rft.jtitle=A+Suitable+Wardrobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-8">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-8">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Flusser (2002). pp. 238–239
+                </span>
+              </li>
+              <li id="cite_note-9">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-9">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Antongiavanni (2006). p. 174
+                </span>
+              </li>
+              <li id="cite_note-10">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-10">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Antongiavanni (2006). p. 109
+                </span>
+              </li>
+              <li id="cite_note-11">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-11">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Flusser (2002). pp. 135, 277–305
+                </span>
+              </li>
+              <li id="cite_note-12">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-12">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external free" href="http://www.brooksbrothers.com/timelessclassics/dressshirts.tem">
+                    http://www.brooksbrothers.com/timelessclassics/dressshirts.tem
+                  </a>
+                </span>
+              </li>
+              <li id="cite_note-13">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-13">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external text" href="http://www.nytimes.com/2010/12/11/your-money/11wrinkle.html">
+                    When Wrinkle-Free Clothing Also Means Formaldehyde Fumes
+                  </a>
+                  . 
+                  <i>
+                    New York Times
+                  </i>
+                  .
+                </span>
+              </li>
+              <li id="cite_note-14">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-14">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external text" href="http://seattletimes.nwsource.com/html/living/2009369701_fashionunbuttoned22.html">
+                    Fashion comes unbuttoned: How low will it go?
+                  </a>
+                  , June 22, 2009, The Seattle Times
+                </span>
+              </li>
+              <li id="cite_note-15">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-15">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Antongiavanni (2006). p. 106
+                </span>
+              </li>
+              <li id="cite_note-16">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-16">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation news">
+                    Smith, Ray (June 4, 2008). 
+                    <a rel="nofollow" class="external text" href="http://online.wsj.com/article/SB121253690573743197.html?mod=googlenews_wsj">
+                      "Tie Association, a Fashion Victim, Calls It Quits as Trends Change"
+                    </a>
+                    . 
+                    <i>
+                      Wall Street Journal
+                    </i>
+                    . pp. A1
+                    <span class="reference-accessdate">
+                      . Retrieved 2008-06-07
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADress+shirt&amp;rft.atitle=Tie+Association%2C+a+Fashion+Victim%2C+Calls+It+Quits+as+Trends+Change&amp;rft.aufirst=Ray&amp;rft.aulast=Smith&amp;rft.au=Smith%2C+Ray&amp;rft.date=June+4%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB121253690573743197.html%3Fmod%3Dgooglenews_wsj&amp;rft.jtitle=Wall+Street+Journal&amp;rft.pages=A1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+            </ol>
+          </div>
+          <table cellspacing="0" class="navbox" style="border-spacing:0;">
+            <tbody>
+              <tr>
+                <td style="padding:2px;">
+                  <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+                    <tbody>
+                      <tr>
+                        <th scope="col" class="navbox-title" colspan="2">
+                          <div class="plainlinks hlist navbar mini">
+                            <ul>
+                              <li class="nv-view">
+                                <a href="/wiki/Template:Clothing" title="Template:Clothing">
+                                  <span title="View this template" style=";;background:none transparent;border:none;;">
+                                    v
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-talk">
+                                <a href="/wiki/Template_talk:Clothing" title="Template talk:Clothing">
+                                  <span title="Discuss this template" style=";;background:none transparent;border:none;;">
+                                    t
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-edit">
+                                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Clothing&amp;action=edit">
+                                  <span title="Edit this template" style=";;background:none transparent;border:none;;">
+                                    e
+                                  </span>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div style="font-size:110%;">
+                            <a href="/wiki/Clothing" title="Clothing">
+                              Clothing
+                            </a>
+                          </div>
+                        </th>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Top_(clothing)" title="Top (clothing)">
+                            Tops
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Blouse" title="Blouse">
+                                  Blouse
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Crop_top" title="Crop top">
+                                  Crop top
+                                </a>
+                              </li>
+                              <li>
+                                <strong class="selflink">
+                                  Dress shirt
+                                </strong>
+                              </li>
+                              <li>
+                                <a href="/wiki/Guayabera" title="Guayabera">
+                                  Guayabera
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Guernsey_(clothing)" title="Guernsey (clothing)">
+                                  Guernsey
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Halterneck" title="Halterneck">
+                                  Halterneck
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Henley_shirt" title="Henley shirt">
+                                  Henley shirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Hoodie" title="Hoodie">
+                                  Hoodie
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jersey_(clothing)" title="Jersey (clothing)">
+                                  Jersey
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Polo_shirt" title="Polo shirt">
+                                  Polo shirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shirt" title="Shirt">
+                                  Shirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sleeveless_shirt" title="Sleeveless shirt">
+                                  Sleeveless shirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sweater" title="Sweater">
+                                  Sweater
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sweater_vest" title="Sweater vest">
+                                  Sweater vest
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/T-shirt" title="T-shirt">
+                                  T-shirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Tube_top" title="Tube top">
+                                  Tube top
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Polo_neck" title="Polo neck">
+                                  Turtleneck
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Twinset" title="Twinset">
+                                  Twinset
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Trousers" title="Trousers">
+                            Trousers
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Bell-bottoms" title="Bell-bottoms">
+                                  Bell-bottoms
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bermuda_shorts" title="Bermuda shorts">
+                                  Bermuda shorts
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bondage_pants" title="Bondage pants">
+                                  Bondage pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Capri_pants" title="Capri pants">
+                                  Capri pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cargo_pants" title="Cargo pants">
+                                  Cargo pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chaps" title="Chaps">
+                                  Chaps
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cycling_shorts" title="Cycling shorts">
+                                  Cycling shorts
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dress_pants" title="Dress pants" class="mw-redirect">
+                                  Dress pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jeans" title="Jeans">
+                                  Jeans
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Overall" title="Overall">
+                                  Overall
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Palazzo_trousers" title="Palazzo trousers">
+                                  Palazzo trousers
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Parachute_pants" title="Parachute pants">
+                                  Parachute pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Pedal_pushers" title="Pedal pushers">
+                                  Pedal pushers
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Phat_pants" title="Phat pants">
+                                  Phat pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shorts" title="Shorts">
+                                  Shorts
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Slim-fit_pants" title="Slim-fit pants">
+                                  Slim-fit pants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sweatpants" title="Sweatpants">
+                                  Sweatpants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Windpants" title="Windpants" class="mw-redirect">
+                                  Windpants
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Yoga_pants" title="Yoga pants">
+                                  Yoga pants
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Skirt" title="Skirt">
+                            Skirts
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/A-line" title="A-line">
+                                  A-line skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Denim_skirt" title="Denim skirt">
+                                  Denim skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Job_skirt" title="Job skirt">
+                                  Job skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Leather_skirt" title="Leather skirt">
+                                  Leather skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Men%27s_skirts" title="Men's skirts">
+                                  Men's skirts
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Microskirt" title="Microskirt">
+                                  Microskirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Miniskirt" title="Miniskirt">
+                                  Miniskirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Pencil_skirt" title="Pencil skirt">
+                                  Pencil skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Prairie_skirt" title="Prairie skirt">
+                                  Prairie skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Rah-rah_skirt" title="Rah-rah skirt">
+                                  Rah-rah skirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sarong" title="Sarong">
+                                  Sarong
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Skort" title="Skort">
+                                  Skort
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Wrap_(clothing)" title="Wrap (clothing)">
+                                  Wrap
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Dress" title="Dress">
+                            Dresses
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Ball_gown" title="Ball gown">
+                                  Ball gown
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bouffant_gown" title="Bouffant gown">
+                                  Bouffant gown
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coatdress" title="Coatdress">
+                                  Coatdress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cocktail_dress" title="Cocktail dress">
+                                  Cocktail dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Evening_gown" title="Evening gown">
+                                  Evening gown
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gown" title="Gown">
+                                  Gown
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/House_dress" title="House dress">
+                                  House dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jumper_(dress)" title="Jumper (dress)">
+                                  Jumper
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Little_black_dress" title="Little black dress">
+                                  Little black dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sheath_dress" title="Sheath dress">
+                                  Sheath dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shirtdress" title="Shirtdress">
+                                  Shirtdress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Slip_dress" title="Slip dress">
+                                  Slip dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Strapless_dress" title="Strapless dress">
+                                  Strapless dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sundress" title="Sundress">
+                                  Sundress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Wedding_dress" title="Wedding dress">
+                                  Wedding dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Wrap_dress" title="Wrap dress">
+                                  Wrap dress
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <div style="padding:0.1em 0;line-height:1.2em;">
+                            <a href="/wiki/Suit_(clothing)" title="Suit (clothing)">
+                              Suits
+                            </a>
+                             and
+                            <br/>
+                            <a href="/wiki/Uniform" title="Uniform">
+                              uniforms
+                            </a>
+                          </div>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Academic_dress" title="Academic dress">
+                                  Academic dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ball_dress" title="Ball dress">
+                                  Ball dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Black_tie" title="Black tie">
+                                  Black tie
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cleanroom_suit" title="Cleanroom suit">
+                                  Cleanroom suit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Clerical_clothing" title="Clerical clothing">
+                                  Clerical clothing
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Court_dress" title="Court dress">
+                                  Court dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Court_uniform_and_dress" title="Court uniform and dress" class="mw-redirect">
+                                  Court uniform and dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Full_dress" title="Full dress">
+                                  Full dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gymslip" title="Gymslip">
+                                  Gymslip
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jumpsuit" title="Jumpsuit">
+                                  Jumpsuit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kasaya_(clothing)" title="Kasaya (clothing)">
+                                  Kasaya
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/White_coat" title="White coat">
+                                  Lab coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Morning_dress" title="Morning dress">
+                                  Morning dress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Pantsuit" title="Pantsuit">
+                                  Pantsuit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Red_Sea_rig" title="Red Sea rig">
+                                  Red Sea rig
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Romper_suit" title="Romper suit">
+                                  Romper suit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Scrubs_(clothing)" title="Scrubs (clothing)">
+                                  Scrubs
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Stroller_(style)" title="Stroller (style)">
+                                  Stroller
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Tuxedo" title="Tuxedo">
+                                  Tuxedo
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/White_tie" title="White tie">
+                                  White tie
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Outerwear" title="Outerwear">
+                            Outerwear
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Apron" title="Apron">
+                                  Apron
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Blazer" title="Blazer">
+                                  Blazer
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cagoule" title="Cagoule">
+                                  Cagoule
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chesterfield_coat" title="Chesterfield coat">
+                                  Chesterfield
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coat_(clothing)" title="Coat (clothing)">
+                                  Coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Covert_coat" title="Covert coat">
+                                  Covert coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Duffle_coat" title="Duffle coat">
+                                  Duffle coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gilet" title="Gilet">
+                                  Gilet
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Goggle_jacket" title="Goggle jacket">
+                                  Goggle jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Guards_coat" title="Guards coat">
+                                  Guards coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Harrington_jacket" title="Harrington jacket">
+                                  Harrington jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Hoodie" title="Hoodie">
+                                  Hoodie
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jacket" title="Jacket">
+                                  Jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Leather_jacket" title="Leather jacket">
+                                  Leather jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Mess_jacket" title="Mess jacket">
+                                  Mess jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Opera_coat" title="Opera coat">
+                                  Opera coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Overcoat" title="Overcoat">
+                                  Overcoat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Paletot" title="Paletot">
+                                  Paletot
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Pea_coat" title="Pea coat">
+                                  Pea coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Poncho" title="Poncho">
+                                  Poncho
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Raincoat" title="Raincoat">
+                                  Raincoat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Robe" title="Robe">
+                                  Robe
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Safari_jacket" title="Safari jacket">
+                                  Safari jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shawl" title="Shawl">
+                                  Shawl
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shrug_(clothing)" title="Shrug (clothing)">
+                                  Shrug
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ski_suit" title="Ski suit">
+                                  Ski suit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sleeved_blanket" title="Sleeved blanket">
+                                  Sleeved blanket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Smoking_jacket" title="Smoking jacket">
+                                  Smoking jacket
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sport_coat" title="Sport coat">
+                                  Sport coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Trench_coat" title="Trench coat">
+                                  Trench coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ulster_coat" title="Ulster coat">
+                                  Ulster coat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Vest" title="Vest">
+                                  Vest
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Waistcoat" title="Waistcoat">
+                                  Waistcoat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Windbreaker" title="Windbreaker">
+                                  Windbreaker
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Undergarment" title="Undergarment">
+                            Underwear
+                          </a>
+                          <br/>
+                          
+(
+                          <a href="/wiki/Lingerie" title="Lingerie">
+                            Lingerie
+                          </a>
+                          )
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                          </div>
+                          <table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;">
+                            <tbody>
+                              <tr>
+                                <th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+                                  <div style="padding:0em 0.75em;">
+                                    Top
+                                  </div>
+                                </th>
+                                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                                  <div style="padding:0em 0.25em;">
+                                    <ul>
+                                      <li>
+                                        <a href="/wiki/Brassiere" title="Brassiere">
+                                          Brassiere
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Camisole" title="Camisole">
+                                          Camisole
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Undershirt" title="Undershirt">
+                                          Undershirt
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr style="height:2px;">
+                                <td colspan="2"/>
+                              </tr>
+                              <tr>
+                                <th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+                                  <div style="padding:0em 0.75em;">
+                                    Bottom
+                                  </div>
+                                </th>
+                                <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                                  <div style="padding:0em 0.25em;">
+                                    <ul>
+                                      <li>
+                                        <a href="/wiki/Diaper" title="Diaper">
+                                          Diaper
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Panties" title="Panties">
+                                          Panties
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Slip_(clothing)" title="Slip (clothing)">
+                                          Slip
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Underpants" title="Underpants">
+                                          Underpants
+                                        </a>
+                                        <ul>
+                                          <li>
+                                            <a href="/wiki/Boxer_briefs" title="Boxer briefs">
+                                              Boxer briefs
+                                            </a>
+                                          </li>
+                                          <li>
+                                            <a href="/wiki/Boxer_shorts" title="Boxer shorts">
+                                              Boxer shorts
+                                            </a>
+                                          </li>
+                                          <li>
+                                            <a href="/wiki/Briefs" title="Briefs">
+                                              Briefs
+                                            </a>
+                                          </li>
+                                        </ul>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </td>
+                              </tr>
+                              <tr style="height:2px;">
+                                <td colspan="2"/>
+                              </tr>
+                              <tr>
+                                <th scope="row" class="navbox-group" style="padding-left:0em;padding-right:0em;;">
+                                  <div style="padding:0em 0.75em;">
+                                    Full
+                                  </div>
+                                </th>
+                                <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                                  <div style="padding:0em 0.25em;">
+                                    <ul>
+                                      <li>
+                                        <a href="/wiki/Long_underwear" title="Long underwear">
+                                          Long underwear
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Playsuit_(lingerie)" title="Playsuit (lingerie)">
+                                          Playsuit
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Teddy_(garment)" title="Teddy (garment)">
+                                          Teddy
+                                        </a>
+                                      </li>
+                                      <li>
+                                        <a href="/wiki/Bodysuit" title="Bodysuit">
+                                          Bodysuit
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Footwear" title="Footwear">
+                            Footwear
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Athletic_shoe" title="Athletic shoe">
+                                  Athletic shoe
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Boot" title="Boot">
+                                  Boot
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Court_shoe" title="Court shoe">
+                                  Court shoe
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dress_shoe" title="Dress shoe">
+                                  Dress shoe
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Flip-flops" title="Flip-flops">
+                                  Flip-flops
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Hosiery" title="Hosiery">
+                                  Hosiery
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sandal" title="Sandal">
+                                  Sandal
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Shoe" title="Shoe">
+                                  Shoe
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Slipper" title="Slipper">
+                                  Slipper
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sock" title="Sock">
+                                  Sock
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Stocking" title="Stocking">
+                                  Stocking
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Headgear" title="Headgear">
+                            Headwear
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Baseball_cap" title="Baseball cap">
+                                  Baseball cap
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Beret" title="Beret">
+                                  Beret
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cap" title="Cap">
+                                  Cap
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Hat" title="Hat">
+                                  Hat
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Helmet" title="Helmet">
+                                  Helmet
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Hood_(headgear)" title="Hood (headgear)">
+                                  Hood
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Knit_cap" title="Knit cap">
+                                  Knit cap
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Turban" title="Turban">
+                                  Turban
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Veil" title="Veil">
+                                  Veil
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Nightwear" title="Nightwear">
+                            Nightwear
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Babydoll" title="Babydoll">
+                                  Babydoll
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Blanket_sleeper" title="Blanket sleeper">
+                                  Blanket sleeper
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Negligee" title="Negligee">
+                                  Negligee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Nightgown" title="Nightgown">
+                                  Nightgown
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Nightshirt" title="Nightshirt">
+                                  Nightshirt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Pajamas" title="Pajamas">
+                                  Pajamas
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Swimsuit" title="Swimsuit">
+                            Swimwear
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Bikini" title="Bikini">
+                                  Bikini
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Boardshorts" title="Boardshorts">
+                                  Boardshorts
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dry_suit" title="Dry suit">
+                                  Dry suit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/One-piece_swimsuit" title="One-piece swimsuit">
+                                  One-piece
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Rash_guard" title="Rash guard">
+                                  Rash guard
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Square_leg_suit" title="Square leg suit" class="mw-redirect">
+                                  Square leg suit
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Swim_briefs" title="Swim briefs">
+                                  Swim briefs
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Swim_diaper" title="Swim diaper">
+                                  Swim diaper
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Trunks_(clothing)" title="Trunks (clothing)">
+                                  Trunks
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Wetsuit" title="Wetsuit">
+                                  Wetsuit
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Fashion_accessory" title="Fashion accessory">
+                            Accessories
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Belt_(clothing)" title="Belt (clothing)">
+                                  Belt
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bow_tie" title="Bow tie">
+                                  Bow tie
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coin_purse" title="Coin purse">
+                                  Coin purse
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cufflink" title="Cufflink">
+                                  Cufflink
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cummerbund" title="Cummerbund">
+                                  Cummerbund
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gaiters" title="Gaiters">
+                                  Gaiters
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Glove" title="Glove">
+                                  Gloves
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Headband" title="Headband">
+                                  Headband
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Handbag" title="Handbag">
+                                  Handbag
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Jewellery" title="Jewellery">
+                                  Jewellery
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Necktie" title="Necktie">
+                                  Necktie
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Scarf" title="Scarf">
+                                  Scarf
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Sunglasses" title="Sunglasses">
+                                  Sunglasses
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Suspenders" title="Suspenders">
+                                  Suspenders
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          See also
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Clothing_terminology" title="Clothing terminology">
+                                  Clothing terminology
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Costume" title="Costume">
+                                  Costume
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dress_code" title="Dress code">
+                                  Dress code
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Fashion" title="Fashion">
+                                  Fashion
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Formal_wear" title="Formal wear">
+                                  Formal wear
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/History_of_clothing_and_textiles" title="History of clothing and textiles">
+                                  History of clothing
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- 
+NewPP limit report
+Parsed by mw1086
+CPU time usage: 0.728 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 1345/1000000
+Preprocessor generated node count: 6291/1500000
+Post?expand include size: 48360/2048000 bytes
+Template argument size: 955/2048000 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:2054287-0!*!0!!en!4!* and timestamp 20140606162428 and revision id 611748018
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Dress_shirt&amp;oldid=611748018">
+            http://en.wikipedia.org/w/index.php?title=Dress_shirt&amp;oldid=611748018
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:History_of_clothing_(Western_fashion)" title="Category:History of clothing (Western fashion)">
+                  History of clothing (Western fashion)
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:History_of_fashion" title="Category:History of fashion">
+                  History of fashion
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Formalwear" title="Category:Formalwear">
+                  Formalwear
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Shirts" title="Category:Shirts">
+                  Shirts
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+                  All articles with unsourced statements
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">
+                  Articles with unsourced statements from May 2009
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dress+shirt&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dress+shirt" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Dress_shirt" title="View the content page [c]" accesskey="c">
+                    Article
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Talk:Dress_shirt" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Dress_shirt">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit">
+                <span>
+                  <a href="/w/index.php?title=Dress_shirt&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">
+                    Edit
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Dress_shirt&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Dress_shirt" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Dress_shirt" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Dress_shirt&amp;oldid=611748018" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Dress_shirt&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q3249473" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:Cite&amp;page=Dress_shirt&amp;id=611748018" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-book_creator_disable">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Dress+shirt">
+                  Disable book creator
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dress+shirt&amp;oldid=611748018&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Dress_shirt&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="//ar.wikipedia.org/wiki/%D9%82%D9%85%D9%8A%D8%B5_%D8%B1%D8%B3%D9%85%D9%8A" title="???? ???? – Arabic" lang="ar" hreflang="ar">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bjn">
+                <a href="//bjn.wikipedia.org/wiki/Kam%C3%A9ja" title="Kaméja – Banjar" lang="bjn" hreflang="bjn">
+                  Bahasa Banjar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-br">
+                <a href="//br.wikipedia.org/wiki/Roched" title="Roched – Breton" lang="br" hreflang="br">
+                  Brezhoneg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Hemd" title="Hemd – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-et">
+                <a href="//et.wikipedia.org/wiki/Triiks%C3%A4rk" title="Triiksärk – Estonian" lang="et" hreflang="et">
+                  Eesti
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Camisa" title="Camisa – Spanish" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="//fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B1%D8%A7%D9%87%D9%86" title="?????? – Persian" lang="fa" hreflang="fa">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Chemise_(v%C3%AAtement)" title="Chemise (vêtement) – French" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="//ko.wikipedia.org/wiki/%EC%99%80%EC%9D%B4%EC%85%94%EC%B8%A0" title="???? – Korean" lang="ko" hreflang="ko">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Camicia" title="Camicia – Italian" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ht">
+                <a href="//ht.wikipedia.org/wiki/Chemiz" title="Chemiz – Haitian" lang="ht" hreflang="ht">
+                  Kreyòl ayisyen
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="//ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%84" title="????? – Japanese" lang="ja" hreflang="ja">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%B5%D1%82%D0%BA%D0%B0_(%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C_%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B)" title="??????? (?????? ??????) – Russian" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-simple">
+                <a href="//simple.wikipedia.org/wiki/Dress_shirt" title="Dress shirt – Simple English" lang="simple" hreflang="simple">
+                  Simple English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Kauluspaita" title="Kauluspaita – Finnish" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q3249473#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 5 June 2014 at 23:06.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Dress_shirt" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.collection.bookcreator"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":258,"wgHostname":"mw1094"});
+}
+//]]>
+    </script>
+  </body>
+</html>

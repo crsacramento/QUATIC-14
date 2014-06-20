@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_picture_candidates
+RATIOTOTAL:0.6673017788264493
+RATIOPREVIOUS:-74.17
+SELENIUMSTEP:22

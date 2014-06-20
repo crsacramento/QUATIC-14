@@ -1,0 +1,4 @@
+URL:https://www.facebook.com/directory/places/
+RATIOTOTAL:1.6473680621696467
+RATIOPREVIOUS:-25.217
+SELENIUMSTEP:20

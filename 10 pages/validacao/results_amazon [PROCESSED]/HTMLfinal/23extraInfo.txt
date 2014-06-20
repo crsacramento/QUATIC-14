@@ -1,0 +1,4 @@
+URL:http://www.amazon.com/gp/registry/search/ref=gno_listpop_find
+RATIOTOTAL:2.252096809104904
+RATIOPREVIOUS:-69.544
+SELENIUMSTEP:29

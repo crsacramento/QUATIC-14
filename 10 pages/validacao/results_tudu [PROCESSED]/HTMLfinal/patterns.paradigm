@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Paradigm:Model xmi:version="2.0" 
+xmlns:xmi="http://www.omg.org/XMI" 
+
+xmlns:Paradigm="http://www.example.org/Paradigm" title="patterns"/>
+<nodes xsi:type="Paradigm:Init" name="XInit" number="1.0"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort1" number="1"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort2" number="2"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort3" number="3"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort4" number="4"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort5" number="5"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort6" number="6"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort7" number="7"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort8" number="8"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort9" number="9"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort10" number="10"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort11" number="11"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort12" number="12"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort13" number="13"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort14" number="14"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort15" number="15"/>
+<nodes xsi:type="Paradigm:Sort" name="Sort16" number="16"/>
+<nodes xsi:type="Paradigm:Login" name="Login17" number="17"/>
+<nodes xsi:type="Paradigm:Input" name="Input18" number="18"/>
+<nodes xsi:type="Paradigm:Input" name="Input19" number="19"/>
+<nodes xsi:type="Paradigm:Input" name="Input20" number="20"/>
+<nodes xsi:type="Paradigm:Input" name="Input21" number="21"/>
+<nodes xsi:type="Paradigm:Input" name="Input22" number="22"/>
+<nodes xsi:type="Paradigm:Input" name="Input23" number="23"/>
+<nodes xsi:type="Paradigm:Input" name="Input24" number="24"/>
+<nodes xsi:type="Paradigm:Input" name="Input25" number="25"/>
+<nodes xsi:type="Paradigm:Input" name="Input26" number="26"/>
+<nodes xsi:type="Paradigm:Input" name="Input27" number="27"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail28" number="28"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail29" number="29"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail30" number="30"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail31" number="31"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail32" number="32"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail33" number="33"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail34" number="34"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail35" number="35"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail36" number="36"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail37" number="37"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail38" number="38"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail39" number="39"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail40" number="40"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail41" number="41"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail42" number="42"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail43" number="43"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail44" number="44"/>
+<nodes xsi:type="Paradigm:MasterDetail" name="MasterDetail45" number="45"/>
+<nodes xsi:type="Paradigm:End" name="End" number="46"/>
+</Paradigm:Model>

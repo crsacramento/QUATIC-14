@@ -1,0 +1,4 @@
+URL:https://www.yahoo.com/
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:1

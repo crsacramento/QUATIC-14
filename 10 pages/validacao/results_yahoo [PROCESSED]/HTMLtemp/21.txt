@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+  <head>
+    <meta property="og:description" content="Here's an article from Yahoo Help that you may find useful. For more Yahoo product help articles and tutorials, visit help.yahoo.com."/>
+    <meta property="og:image" content="https://s.yimg.com/pj/contact/201406031303/resource/img/facebook-thumbnail.png"/>
+    <title>
+      Yahoo Account Help
+    </title>
+    <!-- NEW CSS & JS -->    <!-- CSS -->    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?yui:3.10.1/cssgrids/cssgrids-min.css&amp;yui:3.10.1/cssgrids-responsive/cssgrids-responsive-min.css&amp;yui:3.10.1/cssreset/cssreset-min.css&amp;yui:3.10.1/cssfonts/cssfonts-min.css&amp;yui:3.10.1/cssbutton/cssbutton-min.css&amp;yui:3.10.1/cssgrids-base/cssgrids-base-min.css&amp;yui:3.10.1/cssgrids-units/cssgrids-units-min.css&amp;yui:3.10.1/cssreset-context/cssreset-context-min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/pj/contact/201406031303/resource/css/styles.css"/>
+    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/pj/contact/201406031303/resource/css/help-central.css"/>
+    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?yui:2.9.0/build/menu/assets/skins/sam/menu.css&amp;yui:2.9.0/build/container/assets/skins/sam/container.css"/>
+    <!-- CSS END -->  </head>
+  <body class="help">
+    <!-- UH -->    <div id="hd">
+      <link type="text/css" rel="stylesheet" href="https://s.yimg.com/zz/combo?kx/yucs/uh3/uh/css/1033/uh_non_mail-min.css&amp;kx/yucs/uh_common/meta/3/css/meta-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/301/no_icons-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/279/topbar_persistent-min.css&amp;kx/yucs/uh3/search/css/585/blue_border-min.css&amp;kx/yucs/uh3/uh/css/1031/uh_ssl-min.css"/>
+      <style>
+        #header,#y-hd,#hd .yfi_doc,#yfi_hd{background:#fff !important}#yfin_gs #yfimh #yucsHead,#yfin_gs #yfi_doc #yucsHead,#yfin_gs #yfi_fp_hd #yucsHead,#yfin_gs #y-hd #yucsHead,#yfin_gs #yfi_hd #yucsHead,#yfin_gs #yfi-doc #yucsHead{-webkit-box-shadow:0 0 9px 0 #490f76 !important;-moz-box-shadow:0 0 9px 0 #490f76 !important;box-shadow:0 0 9px 0 #490f76 !important;border-bottom:1px solid #490f76 !important}#yog-hd,#yfi-hd,#ysp-hd,#hd,#yfimh,#yfi_hd,#yfi_fp_hd,#masthead,#yfi_nav_header #navigation,#y-nav #navigation,.ad_in_head{background-color:#fff;background-image:none}#header,#hd .yfi_doc,#y-hd .yfi_doc,#yfi_hd .yfi_doc{width:100% !important}#yucs{margin:0 auto;width:970px}#yfi_nav_header,.y-nav-legobg,#y-nav #navigation{margin:0 auto;width:970px}#yucs .yucs-avatar{height:22px;width:22px}#yucs #yucs-profile_text .yuhead-name-greeting{display:none}#yucs #yucs-profile_text .yuhead-name{top:0;max-width:65px}#yucs-profile_text{max-width:65px}#yog-bd .yom-stage{background:transparent}#yog-hd{height:84px}.yog-bd,.yog-grid{padding:4px 10px}.nav-stack ul.yog-grid{padding:0}#yucsHead,#yucs{background-color:#fafafc}.hsb,#hlphomesrch #srchwrap form,#search-bar,#hlpsrch{display:none}#yucs-top-inner ul li{padding-bottom:0}.yucs-help.yucs-th-th #yucs-prop_search_button_wrapper,.yucs-help.yucs-th-th #yucs-sprop_button,.yucs-help.yucs-pl-pl #yucs-prop_search_button_wrapper,.yucs-help.yucs-pl-pl #yucs-sprop_button,.yucs-help.yucs-fr-fr #yucs-prop_search_button_wrapper,.yucs-help.yucs-fr-fr #yucs-sprop_button,.yucs-help.yucs-fr-ca #yucs-prop_search_button_wrapper,.yucs-help.yucs-fr-ca #yucs-sprop_button,.yucs-help.yucs-fr-be #yucs-prop_search_button_wrapper,.yucs-help.yucs-fr-be #yucs-sprop_button,.yucs-help.yucs-el-gr #yucs-prop_search_button_wrapper,.yucs-help.yucs-el-gr #yucs-sprop_button{width:150px}.yucs-help.yucs-ru-ru #yucs-web_search_button_wrapper div,.yucs-help.yucs-ru-ru #yucs-web_search_button_wrapper button,.yucs-help.yucs-ru-ru #yucs-web_search_button_wrapper{width:130px !important}.yucs-help.yucs-pl-pl #yucs-web_search_button_wrapper div,.yucs-help.yucs-pl-pl #yucs-web_search_button_wrapper button,.yucs-help.yucs-pl-pl #yucs-web_search_button_wrapper{width:157px !important}.yucs-help.yucs-el-gr #yucs-web_search_button_wrapper div,.yucs-help.yucs-el-gr #yucs-web_search_button_wrapper button,.yucs-help.yucs-el-gr #yucs-web_search_button_wrapper{width:157px !important}.yucs-help.yucs-th-th #yucs-prop_search_button_wrapper div,.yucs-help.yucs-th-th #yucs-prop_search_button_wrapper button,.yucs-help.yucs-fr-fr #yucs-prop_search_button_wrapper div,.yucs-help.yucs-fr-fr #yucs-prop_search_button_wrapper button,.yucs-help.yucs-fr-be #yucs-prop_search_button_wrapper div,.yucs-help.yucs-fr-be #yucs-prop_search_button_wrapper button,.yucs-help.yucs-fr-ca #yucs-prop_search_button_wrapper div,.yucs-help.yucs-fr-ca #yucs-prop_search_button_wrapper button,.yucs-help.yucs-el-gr #yucs-prop_search_button_wrapper div,.yucs-help.yucs-el-gr #yucs-prop_search_button_wrapper button{width:150px !important}
+      </style>
+      <style>
+        #yucs-top-home .yucs-top-txt {text-indent: 0px; margin-left: 20px;}
+#y-nav .yom-nav {padding-top: 0px;}
+
+#ysp-search-assist .bd {display:none;}
+#ysp-search-assist h4 {padding-left: 8px;}
+
+#yfi-portfolios-multi-quotes #y-nav, #yfi-portfolios-multi-quotes #navigation, #yfi-portfolios-multi-quotes .y-nav-legobg, 
+#yfi-portfolios-my-portfolios #y-nav, #yfi-portfolios-my-portfolios #navigation, #yfi-portfolios-my-portfolios .y-nav-legobg 
+{width : 100%; }
+
+#bodyID #yg-uh-space {}
+#bodyID #yg-uh {margin-top: 0px;}
+      </style>
+      <div id="yucsHead" class="yucs-help yucs-en-us ua-ie ua-ie7 yucs-standard">
+        <!-- meta -->        <div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="IiDwF4UkVbe" data-device="desktop" data-firstname="" data-flight="1402520350" data-forcecobrand="standard" data-guid="" data-host="help.yahoo.com" data-https="1" data-languagetag="en-us" data-property="help" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="1182477568" data-userid="">
+        </div>
+        <!-- /meta -->        <div id="yucs-comet" style="display:none;">
+        </div>
+        <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-help yucs-fcb- " data-disclaimertext="Do Not Track is no longer enabled on Yahoo. Your experience is now personalized. {disclaimerLink}More info{linkEnd}" data-ylt-link="https://us.lrd.yahoo.com/_ylt=AiQM14BlD12ejPkM6fAcjs0ALXtG/SIG=11s75o0a8/EXP=1403729950/**https%3A//info.yahoo.com/privacy/us/yahoo/" data-ylt-disclaimerbarclose="/;_ylt=At1Vc_Apvg1gy9ZP1s5t4zQALXtG" data-ylt-disclaimerbaropen="/;_ylt=As4YR9UCTWBvTOHfrJdWWt8ALXtG" data-linktarget="_top" data-lang="en-us" data-property="help" data-device="Desktop" data-close-txt="Close this window">
+        </div>
+        <div id="yucs-top-bar" class="yucs-ps">
+          <div id="yucs-top-inner">
+            <ul id="yucs-top-list">
+              <li id="yucs-top-home">
+                <a href="https://us.lrd.yahoo.com/_ylt=Asy1fhqDY0j9pwK5nCdhezIALXtG/SIG=11a8edbki/EXP=1403729950/**https%3A//www.yahoo.com/">
+                  <span class="sp yucs-top-ico">
+                  </span>
+                  Home
+                </a>
+              </li>
+              <li id="yucs-top-mail">
+                <a href="https://us.lrd.yahoo.com/_ylt=ApbwpSwFds56Mqgnz0bxkxcALXtG/SIG=12en5nolg/EXP=1403729950/**https%3A//mail.yahoo.com/%3F.intl=us%26.lang=en-US%26.src=ym">
+                  Mail
+                </a>
+              </li>
+              <li id="yucs-top-news">
+                <a href="http://news.yahoo.com/;_ylt=Ao3R2iXoP0.sG4hJgFZmMmcALXtG">
+                  News
+                </a>
+              </li>
+              <li id="yucs-top-sports">
+                <a href="http://sports.yahoo.com/;_ylt=AqK0Z_WoT79ZWPLDsPcaIdkALXtG">
+                  Sports
+                </a>
+              </li>
+              <li id="yucs-top-finance">
+                <a href="http://finance.yahoo.com/;_ylt=AuBdBdlIHLxS3wuS09W71C8ALXtG">
+                  Finance
+                </a>
+              </li>
+              <li id="yucs-top-weather">
+                <a href="https://us.lrd.yahoo.com/_ylt=AgE8VkYENvS.UDk_LXY5yZQALXtG/SIG=11ehr4bb9/EXP=1403729950/**https%3A//weather.yahoo.com/">
+                  Weather
+                </a>
+              </li>
+              <li id="yucs-top-games">
+                <a href="https://games.yahoo.com/;_ylt=Ak9CJPJLJjya1kzytwX.MqMALXtG">
+                  Games
+                </a>
+              </li>
+              <li id="yucs-top-groups">
+                <a href="https://us.lrd.yahoo.com/_ylt=AgtchxZ3XznDo.7IZbEVgO8ALXtG/SIG=11d2t5nul/EXP=1403729950/**https%3A//groups.yahoo.com/">
+                  Groups
+                </a>
+              </li>
+              <li id="yucs-top-answers">
+                <a href="https://answers.yahoo.com/;_ylt=Ai4iXn_6tZEs39C8wLyybJUALXtG">
+                  Answers
+                </a>
+              </li>
+              <li id="yucs-top-screen">
+                <a href="https://us.lrd.yahoo.com/_ylt=Auyl9Uxg_.5AJlfjxMlkAhYALXtG/SIG=11d2k51c3/EXP=1403729950/**https%3A//screen.yahoo.com/">
+                  Screen
+                </a>
+              </li>
+              <li id="yucs-top-flickr">
+                <a href="https://us.lrd.yahoo.com/_ylt=AsT.9zTM4Eyx8uMVI.o00_gALXtG/SIG=11bt7g56p/EXP=1403729950/**https%3A//www.flickr.com/">
+                  Flickr
+                </a>
+              </li>
+              <li id="yucs-top-mobile">
+                <a href="https://mobile.yahoo.com/;_ylt=AhdslQXywnZu_roxtJA69RwALXtG">
+                  Mobile
+                </a>
+              </li>
+              <li id="yucs-more" class="yucs-menu yucs-more-activate" data-ylt="/;_ylt=Akru7yJB6bxHGuYFAEuGHpUALXtG">
+                <a href="#" id="yucs-more-link" class="yucs-leavable">
+                  More
+                  <span class="sp yucs-top-ico">
+                  </span>
+                </a>
+                <div id="yucs-top-menu">
+                  <div class="yui3-menu-content">
+                    <ul class="yucs-hide yucs-leavable">
+                      <li id="yucs-top-omg">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AiG_ZGi7JIISQFxtgk6jlcwALXtG/SIG=11gp4mkhb/EXP=1403729950/**https%3A//celebrity.yahoo.com/">
+                          Celebrity
+                        </a>
+                      </li>
+                      <li id="yucs-top-shine">
+                        <a href="https://shine.yahoo.com/;_ylt=AvlfYEHlNxV6UxjnpGEPb.sALXtG">
+                          Shine
+                        </a>
+                      </li>
+                      <li id="yucs-top-movies">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AqI9lN6LFJ2oiiU_vRGsWxEALXtG/SIG=11d2i1rg5/EXP=1403729950/**https%3A//movies.yahoo.com/">
+                          Movies
+                        </a>
+                      </li>
+                      <li id="yucs-top-music">
+                        <a href="https://us.lrd.yahoo.com/_ylt=Ama1epmoA8rDHs13pKxR77EALXtG/SIG=11cg1297q/EXP=1403729950/**https%3A//music.yahoo.com/">
+                          Music
+                        </a>
+                      </li>
+                      <li id="yucs-top-tv">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AnkgHgAVinD1D3HB1DTyuTEALXtG/SIG=119bpcppl/EXP=1403729950/**https%3A//tv.yahoo.com/">
+                          TV
+                        </a>
+                      </li>
+                      <li id="yucs-top-health">
+                        <a href="http://us.lrd.yahoo.com/_ylt=Akc.CoD5mWa4ri9.PkFPmNQALXtG/SIG=11ceeim8u/EXP=1403729950/**http%3A//health.yahoo.com/">
+                          Health
+                        </a>
+                      </li>
+                      <li id="yucs-top-food">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AhDjplWzb6kaPM17kaZzva8ALXtG/SIG=11eubgkjj/EXP=1403729950/**https%3A//www.yahoo.com/food">
+                          Food
+                        </a>
+                      </li>
+                      <li id="yucs-top-tech">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AqkbSRpd5DPauIUiE.wvrDQALXtG/SIG=11ehv7rnn/EXP=1403729950/**https%3A//www.yahoo.com/tech">
+                          Tech
+                        </a>
+                      </li>
+                      <li id="yucs-top-shopping">
+                        <a href="http://shopping.yahoo.com/;_ylt=ArMEFrSjaBDEduaarVYDl7EALXtG">
+                          Shopping
+                        </a>
+                      </li>
+                      <li id="yucs-top-travel">
+                        <a href="https://us.lrd.yahoo.com/_ylt=ArsQxNc0lWqqcPNrjczFgUcALXtG/SIG=11gv3p9d8/EXP=1403729950/**https%3A//www.yahoo.com/travel">
+                          Travel
+                        </a>
+                      </li>
+                      <li id="yucs-top-autos">
+                        <a href="https://autos.yahoo.com/;_ylt=Ak25CdSz3hQ2t_w70kCWoKIALXtG">
+                          Autos
+                        </a>
+                      </li>
+                      <li id="yucs-top-homes">
+                        <a href="https://us.lrd.yahoo.com/_ylt=AoaeuKsCsJyDrU1Ulf7peDoALXtG/SIG=11ct3m1ld/EXP=1403729950/**https%3A//homes.yahoo.com/">
+                          Homes
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div id="yucs" class="yucs-mc  yog-grid" data-lang="en-us" data-property="help" data-flight="1402520350" data-linktarget="_top" data-uhvc="/;_ylt=AqydXDYDqMyV0Iyz1.9i1WQALXtG">
+          <div class="yucs-fl-left yog-cp">
+            <div id="yucs-logo">
+              <style>
+                 #yucs #yucs-logo {width:120px ;padding-top: 11px !important;margin-top: 0 !important;} #yucs #yucs-logo div { display:block; width:120px !important;margin: 0 auto !important; height:34px ; background-image:url(https://s1.yimg.com/rz/l/yahoo_help_en-US_f_pw_119x34.png) ; _background-image:url(https://s1.yimg.com/rz/l/yahoo_help_en-US_f_pw_119x34.gif) ; } #yucs #yucs-logo a { display:block ; width:120px ; height:34px; overflow: hidden; } @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and ( min--moz-device-pixel-ratio: 2), only screen and ( -o-min-device-pixel-ratio: 2/1), only screen and ( min-device-pixel-ratio: 2), only screen and ( min-resolution: 192dpi), only screen and ( min-resolution: 2dppx) { #yucs #yucs-logo div { background-image: url(https://s1.yimg.com/rz/l/yahoo_help_en-US_f_pw_119x34_2x.png) !important; background-size: 240px 34px; } } 
+              </style>
+              <div>
+                <a id="yucs-logo_link" href="https://us.lrd.yahoo.com/_ylt=AhHsFbDVOhZ20U1uk.v6angALXtG/SIG=12et18jdl/EXP=1403729950/**https%3A//help.yahoo.com/kb/index%3Fpage=home%26locale=en_US" target="_top">
+                   Yahoo Help 
+                </a>
+              </div>
+            </div>
+            <div id="yucs-search" style="width: 570px; display: block;" class=" yucs-search-activate">
+              <form role="search" class="yucs-search yucs-activate" target="_top" data-webaction="https://search.yahoo.com/search;_ylt=As6CW2x5HLM.HtIJsrYQSnQALXtG" action="https://us.lrd.yahoo.com/_ylt=AkwlhOq3q9H31WgBX7Spx.sALXtG/SIG=12at48t7g/EXP=1403729950/*-https%3A//help.yahoo.com/l/us/yahoo/helpcentral/vsp.html" method="get">
+                <table role="presentation">
+                  <tbody role="presentation">
+                    <tr role="presentation">
+                      <td class="yucs-form-input" role="presentation">
+                        <div id="yucs-input_wrap">
+                          <input autocomplete="off" class="yucs-search-input" name="p" type="search" aria-describedby="mnp-search_box" data-yltvsearch="https://us.lrd.yahoo.com/_ylt=AhxSI0GqOKUrmNXd8thjl_MALXtG/SIG=12ah1g8qe/EXP=1403729950/**https%3A//help.yahoo.com/l/us/yahoo/helpcentral/vsp.html" data-yltvsearchsugg="/;_ylt=ApGzUwGwyd8RhZWADZj7.8gALXtG" data-satype="" data-gosurl="" data-pubid="" data-enter-ylt="https://us.lrd.yahoo.com/_ylt=AqbpjSf7166o_1tP8Fpm278ALXtG/SIG=12ah1g8qe/EXP=1403729950/**https%3A//help.yahoo.com/l/us/yahoo/helpcentral/vsp.html" data-enter-fr="" data-maxresults="10" data-resize=" " id="mnp-search_box"/>
+                        </div>
+                      </td>
+                      <td nowrap="" class="yucs-form-btn" role="presentation">
+                        <div id="yucs-prop_search_button_wrapper" class="yucs-search-buttons">
+                          <div class="yucs-shadow">
+                            <div class="yucs-gradient">
+                            </div>
+                          </div>
+                          <button id="yucs-sprop_button" class="yucs-action_btn yucs-button_theme yucs-vsearch-button" type="submit" data-vfr="uh3_help_vert_gs" onclick="var vfr = this.getAttribute('data-vfr'); if(vfr){document.getElementById('fr').value = vfr}" data-vsearch="https://help.yahoo.com/l/us/yahoo/helpcentral/vsp.html">
+                            Search Help
+                          </button>
+                        </div>
+                        <div id="yucs-web_search_button_wrapper" class="yucs-search-buttons">
+                          <div class="yucs-shadow">
+                            <div class="yucs-gradient">
+                            </div>
+                          </div>
+                          <button id="yucs-search_button" class="yucs-action_btn yucs-wsearch-button" onclick="var form=document.getElementById('yucs-search').children[0];var wa=form.getAttribute('data-webaction');form.setAttribute('action',wa);" type="submit">
+                            Search Web
+                          </button>
+                        </div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <input type="hidden" name="type" value="2button"/>
+                <input type="hidden" id="fr" name="fr" value="uh3_help_web_gs"/>
+              </form>
+              <div id="yucs-satray" class="sa-tray sa-hidden" data-wstext="Search Web for: " data-wsearch="https://search.yahoo.com/search;_ylt=AklXUnueFRb9D79cgtQ5JeoALXtG" data-vfr="uh3_help_vert_gs" data-vsearch="https://us.lrd.yahoo.com/_ylt=AvDx4xfxazEerHc0HJsmsp4ALXtG/SIG=12ah1g8qe/EXP=1403729950/**https%3A//help.yahoo.com/l/us/yahoo/helpcentral/vsp.html" data-vstext="Search News for: ">
+              </div>
+            </div>
+          </div>
+          <div class="yucs-fl-right">
+            <div id="yucs-profile" class="yucs-profile yucs-signedout">
+              <a id="yucs-menu_link_profile_signed_out" href="https://us.lrd.yahoo.com/_ylt=ArHSVd5.S7sV2mjg1cOzLnYALXtG/SIG=15qabkhga/EXP=1403729950/**https%3A//login.yahoo.com/config/login%3F.src=yhelp%26.intl=us%26.lang=en-US%26.done=https%3A//help.yahoo.com/kb/index%253flocale=en_US%2526y=PROD_ACCT%2526page=product" target="_top" rel="nofollow" class="sp yucs-fc" aria-label="Profile">
+              </a>
+              <div id="yucs-profile_text" class="yucs-fc">
+                <a id="yucs-login_signIn" href="https://us.lrd.yahoo.com/_ylt=Am7yra6SEnTAdZwZuruTr0MALXtG/SIG=15qabkhga/EXP=1403729950/**https%3A//login.yahoo.com/config/login%3F.src=yhelp%26.intl=us%26.lang=en-US%26.done=https%3A//help.yahoo.com/kb/index%253flocale=en_US%2526y=PROD_ACCT%2526page=product" target="_top" rel="nofollow" class="yucs-fc">
+                   Sign In 
+                </a>
+              </div>
+            </div>
+            <div class="yucs-mail_link yucs-mailpreview-ancestor">
+              <a id="yucs-mail_link_id" class="sp yltasis yucs-fc" href="https://us.lrd.yahoo.com/_ylt=At.OdJRDBF_fzywUXra3fOoALXtG/SIG=12en5nolg/EXP=1403729950/**https%3A//mail.yahoo.com/%3F.intl=us%26.lang=en-US%26.src=ym" rel="nofollow" target="_top">
+                 Mail 
+              </a>
+            </div>
+            <div id="yucs-help" class="yucs-activate yucs-help yucs-menu_nav">
+              <a id="yucs-help_button" class="sp yltasis" href="javascript:void(0);" aria-label="Help" rel="nofollow">
+                <em class="yucs-hide yucs-menu_anchor">
+                  Help
+                </em>
+              </a>
+              <div id="yucs-help_inner" class="yucs-hide yucs-menu yucs-hm-activate" data-yltmenushown="/;_ylt=Aiecz3iDv9keMuNCjNL9NZQALXtG">
+                <span class="sp yucs-dock">
+                </span>
+                <ul id="yuhead-help-panel">
+                  <li>
+                    <a class="yucs-acct-link" href="https://us.lrd.yahoo.com/_ylt=AqcSG10cFBKhNzuOfoHSSw4ALXtG/SIG=174vhhkct/EXP=1403729950/**https%3A//edit.yahoo.com/mc2.0/eval_profile%3F.intl=us%26.lang=en-US%26.done=https%3A//help.yahoo.com/kb/index%253flocale=en_US%2526y=PROD_ACCT%2526page=product%26amp;.src=yhelp%26amp;.intl=us%26amp;.lang=en-US" target="_top">
+                      Account Info
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://us.lrd.yahoo.com/_ylt=AilL8nYs05uYZvEqwL4GwGMALXtG/SIG=11pmgsqsq/EXP=1403729950/**https%3A//help.yahoo.com/kb/helpcentral" rel="nofollow">
+                      Help
+                    </a>
+                  </li>
+                  <span class="yucs-separator" role="presentation" style="display: block;">
+                  </span>
+                  <li>
+                    <a href="https://us.lrd.yahoo.com/_ylt=AsORLEw9f6kF_EyoWGQi7YkALXtG/SIG=12pgi2rod/EXP=1403729950/**https%3A//yahoo.uservoice.com/forums/220564-feedback-for-help-yahoo-com" rel="nofollow">
+                      Suggestions
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div id="yucs-network_link">
+              <a id="yucs-home_link" href="https://us.lrd.yahoo.com/_ylt=AhRGskBnYYmInfz88oITLeAALXtG/SIG=11a8edbki/EXP=1403729950/**https%3A//www.yahoo.com/" rel="nofollow" target="_top">
+                Yahoo
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- contextual_shortcuts -->        <!-- /contextual_shortcuts -->        <!-- property: help | languagetag: en-us | status: active | spaceid: 1182477568 | cobrand: standard | markup: empty -->        <!-- alert -->        <!-- /alert -->        <div id="yUnivHead" class="yucs-hide">
+          <!-- empty -->        </div>
+      </div>
+      <!-- fe3.netsvs.gq1.yahoo.com uncompressed/chunked Wed Jun 11 20:59:10 UTC 2014 -->    </div>
+    <div class="yui3-g-r hco" id="productLandingBody">
+      <script language="JavaScript">
+//<![CDATA[
+
+	function isValidSearch() {
+		var txtSearchHelp = document.getElementById('searchInput').value;
+		return txtSearchHelp.trim().length > 0 && txtSearchHelp !='Search Help';
+	}
+	function blurSearchHelp()
+	{
+		if(document.getElementById('searchInput').value==''){
+			document.getElementById('searchInput').value='Search Help';
+		}
+	}
+	function focusSearchHelp()
+	{
+		if(document.getElementById('searchInput').value=='Search Help'){
+			document.getElementById('searchInput').value='';
+		}
+	}
+	
+
+//]]>
+      </script>
+      <div class="hsb">
+        <form name="landingSearch" id="landingSearch" action="/kb/index" onsubmit="return isValidSearch();">
+          <input type="hidden" name="page" value="answers"/>
+          <input type="hidden" name="startover" value="y"/>
+          <input type="hidden" name="y" value="PROD_ACCT"/>
+          <input type="hidden" name="source" value="product.landing_search"/>
+          <input type="hidden" name="locale" value="en_US"/>
+          <input id="searchInput" type="text" name="question_box" autocomplete="off" title="Search input" value="" onblur="blurSearchHelp()" onfocus="focusSearchHelp();"/>
+          <a href="#" title="Click to search" onclick="if (isValidSearch()) document.landingSearch.submit();" id="srch-btn">
+            Search Help
+          </a>
+        </form>
+      </div>
+      <!-- Banner / Intro Image -->      <div class="pli" id="introImage-container">
+        <div class="pit">
+          <h1>
+            
+        	How can we help you today?
+        
+          </h1>
+          <h2>
+            
+        	Answering your questions and providing support when you need it.
+        
+          </h2>
+          <!-- PORTLET CODE -->          <!-- ======================================================= -->          <!-- ==              NEW HTML CODE FOR PORTLET            == -->          <!-- ======================================================= -->          <!-- THIS CODE ALSO USED FOR LOCKED ACCOUNTS, USER STORY S29400 -->          <div class="qlb nhl">
+            <div class="h3">
+              
+				Need Help Logging In?
+			
+            </div>
+            <h3>
+              <p>
+                Get online assistance -
+              </p>
+              <a href="https://edit.yahoo.com/forgotroot/" title="give us your details to get started." ywaactionid="13" onclick="sendYWAAction('13')">
+                
+				   			give us your details to get started.
+					
+              </a>
+            </h3>
+            <b class="shd"/>
+          </div>
+        </div>
+      </div>
+      <!-- END: Banner / Intro Image -->      <!-- Product/Version Selector -->      <div class="pmn" id="productSelector-container">
+        <div id="select-version">
+        </div>
+        <div class="vmt">
+          <h1>
+            <b class="icp prod_acct"/>
+            Help for Yahoo Account
+          </h1>
+        </div>
+        <div class="vmn">
+          <form method="get" action="index" name="versionSelectForm" style="display:inline;">
+            <input type="hidden" name="page" value="product"/>
+            <input type="hidden" name="locale" value="en_US"/>
+          </form>
+        </div>
+      </div>
+      <!-- END: Product/Version Selector -->      <div class="yui3-u-1">
+        <!-- Popular Topics -->        <!-- ======================================================= -->        <!-- ==  TITLE AREA                             ============ -->        <!-- ======================================================= -->        <div class="ttl">
+        </div>
+        <!-- ======================================================= -->        <!-- ==  POPULAR TOPICS CAROUSEL                ============ -->        <!-- ======================================================= -->        <div id="toptab" class="yui-navset">
+          <!-- HMTL Render for Popular Topics Carousel -->          <div id="carousaldiv" class="yui-skin-sam tcar" style="display:none;">
+            <div id="topicons">
+              <div id="container">
+                <ol id="carousel" class="yui-nav">
+                  <li class="top_passwd selected">
+                    <a href="#top_passwd" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Password and sign in'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Password and sign in
+                      </span>
+                    </a>
+                  </li>
+                  <li class="top_regdel">
+                    <a href="#top_regdel" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Create or delete account'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Create or delete account
+                      </span>
+                    </a>
+                  </li>
+                  <li class="top_acctsecure">
+                    <a href="#top_acctsecure" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Account security'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Account security
+                      </span>
+                    </a>
+                  </li>
+                  <li class="top_manacctset">
+                    <a href="#top_manacctset" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Manage account settings'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Manage account settings
+                      </span>
+                    </a>
+                  </li>
+                  <li class="top_onsafe">
+                    <a href="#top_onsafe" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Online safety'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Online safety
+                      </span>
+                    </a>
+                  </li>
+                  <li class="top_ypol">
+                    <a href="#top_ypol" onclick="captureHelpByTopicClick('Yahoo Account','Yahoo Account','Yahoo policy'); return true;">
+                      <em>
+                        <b/>
+                      </em>
+                      <span>
+                        Yahoo policy
+                      </span>
+                    </a>
+                  </li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <!-- ======================================================= -->          <!-- ==  TOP QUESTIONS                          ============ -->          <!-- ======================================================= -->          <!-- BEGIN TABBED CONTENT AREA -->          <div class="yui-content">
+            <div id="top_passwd">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Password and sign in
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/password-sln2035.html?impressions=true">
+                          Change your password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/recovering-lost-forgotten-password-sln2047.html?impressions=true">
+                          Recovering a lost or forgotten password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-locked-sln2069.html?impressions=true">
+                          Account Locked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/unable-sign-account-sln2051.html?impressions=true">
+                          Unable to sign in to my account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-hacked-sln2090.html?impressions=true">
+                          How to tell if your account was hacked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/confirm-identity-pop-up-message-sln8923.html?impressions=true">
+                          "Confirm your identity" pop-up message
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/security-questions-sln2031.html?impressions=true">
+                          Change your security questions
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/create-secure-strong-password-sln3012.html?impressions=true">
+                          Create a secure, strong password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/mobile-phone-number-reset-password-sln2694.html?impressions=true">
+                          Use your mobile phone number to reset your password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-prompt-password-sln2053.html?impressions=true">
+                          Why Yahoo may prompt you to change your password
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                  <div class="qlb">
+                    <div class="h3">
+                      
+			Quick Links
+		
+                    </div>
+                    <ul>
+                      <li>
+                        <a href="https://io.help.yahoo.com/contact/index?page=contact&amp;locale=en_US&amp;y=PROD_ACCT" title="Contact Customer Care" ywaactionid="30" onclick="sendYWAAction('30')">
+                          
+			   				Contact Customer Care
+						
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://edit.yahoo.com/forgotroot/" title="Start Password Helper" ywaactionid="47" onclick="sendYWAAction('47')">
+                          
+			   				Start Password Helper
+						
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://overview.mail.yahoo.com/" title="Features of Yahoo Mail" ywaactionid="" onclick="sendYWAAction('')">
+                          
+			   				Features of Yahoo Mail
+						
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/watch-videos-sln14234.html" title="Watch Videos" ywaactionid="10" onclick="sendYWAAction('10')">
+                          
+			   				Watch Videos
+						
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://twitter.com/YahooCare" title="Yahoo Customer Care on Twitter" ywaactionid="21" onclick="sendYWAAction('21')">
+                          
+			   				Yahoo Customer Care on Twitter
+						
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.facebook.com/YahooCustomerCare" title="Yahoo Customer Care on Facebook" ywaactionid="16" onclick="sendYWAAction('16')">
+                          
+			   				Yahoo Customer Care on Facebook
+						
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <script>
+//<![CDATA[
+
+function sendYWAAction(actionnumber) {
+  var platform = "inquira";
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setAction(actionnumber);
+  YWATracker.submit_action();
+}
+
+//]]>
+                  </script>
+                </div>
+              </div>
+            </div>
+            <div id="top_regdel">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Create or delete account
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/closing-yahoo-account-sln2044.html?impressions=true">
+                          Closing your Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/adding-alternate-email-address-mobile-number-account-sln2058.html?impressions=true">
+                          Adding an alternate email address or mobile number to your account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-email-address-sln2059.html?impressions=true">
+                          Can I change my Yahoo ID or email address?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/sign-yahoo-account-sln2056.html?impressions=true">
+                          Sign up for a Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/register-yahoo-feature-phone-sln2699.html?impressions=true">
+                          Register for a Yahoo ID using a feature phone
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/delete-openid-yahoo-account-sln5367.html?impressions=true">
+                          Delete an OpenID Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/reasons-yahoo-account-deleted-sln2018.html?impressions=true">
+                          Reasons your Yahoo account was deleted
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/trouble-registering-specific-yahoo-sln3015.html?impressions=true">
+                          Trouble registering for a specific Yahoo ID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/previously-yahoo-registered-sln3060.html?impressions=true">
+                          Can a previously used Yahoo ID ever be registered again?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/deleting-child-family-accounts-sln3311.html?impressions=true">
+                          Deleting child and family accounts
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                </div>
+              </div>
+            </div>
+            <div id="top_acctsecure">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Account security
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/account-locked-sln2069.html?impressions=true">
+                          Account Locked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-hacked-sln2090.html?impressions=true">
+                          How to tell if your account was hacked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-sending-spam-sln3417.html?impressions=true">
+                          My account is sending spam
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-prompt-password-sln2053.html?impressions=true">
+                          Why Yahoo may prompt you to change your password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/check-recently-accessed-account-sln2073.html?impressions=true">
+                          Check who has recently accessed your account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/security-questions-reset-password-sln2824.html?impressions=true">
+                          I can't use my security questions to reset my password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/safeguarding-yahoo-account-sln2080.html?impressions=true">
+                          Safeguarding your Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-hacked-sln2551.html?impressions=true">
+                          How an account can be hacked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/protect-phishing-spoofing-sln2092.html?impressions=true">
+                          Protect yourself from "phishing" and "spoofing"
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/captcha-word-verification-sln2620.html?impressions=true">
+                          About CAPTCHA word verification
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                </div>
+              </div>
+            </div>
+            <div id="top_manacctset">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Manage account settings
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/security-questions-sln2031.html?impressions=true">
+                          Change your security questions
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/adding-alternate-email-address-mobile-number-account-sln2058.html?impressions=true">
+                          Adding an alternate email address or mobile number to your account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-email-address-sln2059.html?impressions=true">
+                          Can I change my Yahoo ID or email address?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/editing-yahoo-account-information-sln2717.html?impressions=true">
+                          Editing your Yahoo Account Information
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-account-videos-sln14234.html?impressions=true">
+                          Yahoo Account videos
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-require-alternate-email-address-create-account-sln2765.html?impressions=true">
+                          Why does Yahoo require an alternate email address when I create a new account?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/manage-location-language-settings-sln16027.html?impressions=true">
+                          Manage Location and Language settings
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/remove-alternate-email-address-mobile-number-account-sln2760.html?impressions=true">
+                          Remove an alternate email address or mobile number from your account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/editing-marketing-preferences-sln3134.html?impressions=true">
+                          Editing your marketing preferences
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                </div>
+              </div>
+            </div>
+            <div id="top_onsafe">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Online safety
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/account-hacked-sln2090.html?impressions=true">
+                          How to tell if your account was hacked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-sending-spam-sln3417.html?impressions=true">
+                          My account is sending spam
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-prompt-password-sln2053.html?impressions=true">
+                          Why Yahoo may prompt you to change your password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/guidelines-commenting-yahoo-sln2292.html?impressions=true">
+                          Guidelines for commenting on Yahoo
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-ssl-encryption-protect-account-sln2050.html?impressions=true">
+                          How Yahoo uses SSL encryption to protect your account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-sending-spam-sln2159.html?impressions=true">
+                          Account keeps sending spam
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/safeguarding-yahoo-account-sln2080.html?impressions=true">
+                          Safeguarding your Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/account-hacked-sln2551.html?impressions=true">
+                          How an account can be hacked
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/protect-phishing-spoofing-sln2092.html?impressions=true">
+                          Protect yourself from "phishing" and "spoofing"
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/captcha-word-verification-sln2620.html?impressions=true">
+                          About CAPTCHA word verification
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                </div>
+              </div>
+            </div>
+            <div id="top_ypol">
+              <div class="yui3-g">
+                <div class="yui3-u-17-24">
+                  <h3>
+                    Top questions for 
+                    <strong>
+                      Yahoo policy
+                    </strong>
+                  </h3>
+                  <div class="dcol">
+                    <ul>
+                      <li>
+                        <a href="/kb/yahoo-account/confirm-identity-pop-up-message-sln8923.html?impressions=true">
+                          "Confirm your identity" pop-up message
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-email-address-sln2059.html?impressions=true">
+                          Can I change my Yahoo ID or email address?
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/reactivate-deleted-yahoo-account-sln2624.html?impressions=true">
+                          Reactivate a deleted Yahoo account
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/problems-viewing-passing-captcha-verification-sln2662.html?impressions=true">
+                          Problems viewing or passing CAPTCHA verification
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/security-questions-reset-password-sln2824.html?impressions=true">
+                          I can't use my security questions to reset my password
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/support-free-charge-yahoo-sln6349.html?impressions=true">
+                          Support is always free of charge from Yahoo
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/create-yahoo-mail-alias-sln3240.html?impressions=true">
+                          Create a Yahoo Mail alias
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/trouble-registering-specific-yahoo-sln3015.html?impressions=true">
+                          Trouble registering for a specific Yahoo ID
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/yahoo-password-requirements-sln5681.html?impressions=true">
+                          Yahoo password requirements
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/kb/yahoo-account/previously-yahoo-registered-sln3060.html?impressions=true">
+                          Can a previously used Yahoo ID ever be registered again?
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="yui3-u-7-24">
+                  <!-- Quick Links from the common folder -->                </div>
+              </div>
+            </div>
+          </div>
+          <!-- END TABBED CONTENT AREA -->        </div>
+        <!-- END: Popular Topics -->      </div>
+      <!-- /yui3-u-1 -->      <div id="footer">
+          
+        <a href="https://info.yahoo.com/privacy/us/yahoo/">
+          Privacy
+        </a>
+         | 
+        <a href="https://info.yahoo.com/legal/us/yahoo/utos/en-us">
+          Terms
+        </a>
+        
+
+
+	| 
+        <a href="https://yahoo.uservoice.com/forums/220564-feedback-for-help-yahoo-com">
+          Suggestions
+        </a>
+      </div>
+    </div>
+    <!-- /productLandingBody div -->    <!-- JS Begin -->    <script src="https://s.yimg.com/zz/combo?yui:3.10.1/build/yui/yui-min.js&amp;yui:2.9.0/build/yahoo-dom-event/yahoo-dom-event.js&amp;yui:2.9.0/build/element/element-min.js&amp;yui:2.9.0/build/carousel/carousel-min.js&amp;yui:2.9.0/build/container/container-min.js&amp;yui:2.9.0/build/container/container_core-min.js&amp;yui:2.9.0/build/menu/menu-min.js">
+    </script>
+    <script src="https://s.yimg.com/zz/combo?pj/contact/201406031303/resource/js/inq_min.js&amp;pj/contact/201406031303/resource/js/tabview-min.js&amp;pj/contact/201406031303/resource/js/jquery-ui.min.js" type="text/javascript">
+    </script>
+    <!-- Yahoo! Web Analytics - All rights reserved -->    <script type="text/javascript">
+//<![CDATA[
+
+var platform = "inquira";
+
+function captureAction(actionnumber) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setAction(actionnumber);
+  YWATracker.submit_action();
+}
+
+function captureChangingTextSize(textSizeSelection) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("17");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(27, textSizeSelection);
+  YWATracker.submit_action();
+}
+
+function captureListBoxSelection(listBoxVersion) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("16");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(26, listBoxVersion);
+  YWATracker.submit_action();
+}
+
+function captureBreadCrumbClick(breadCrumbURL) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("15");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(25, breadCrumbURL);
+  YWATracker.submit_action();
+}
+
+function captureArticleClick(articleCategory, article, articleTitle) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  var idAndTitle = article + " - " + articleTitle;
+  YWATracker.setAction("11");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(22, articleCategory);
+  YWATracker.setCF(23, article);
+  YWATracker.setCF(49, idAndTitle);
+  YWATracker.submit_action();
+}
+
+function captureUpgradeVersion(messengerVersion) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("14");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(24, messengerVersion);
+  YWATracker.submit_action();
+}
+
+function captureRateArticle(starRating) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("18");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(29, starRating);
+  YWATracker.submit_action();
+}
+
+function captureContactUsInternalSearch(searchTerm) {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("INTERNAL_SEARCH");
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setISK(searchTerm);
+  YWATracker.submit_action();
+}
+
+
+function captureRequestChatClick() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("9"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(56, "chatForm");
+  YWATracker.submit_action();
+}
+
+//-"Ask the Community" tab in contact forms
+function captureRequestCommunitiesClick() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("36"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+
+//-"Ask the Community" button in contact forms
+function captureCommunitiesButtonClick() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("37"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+function captureRequestEmailClick() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("27"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.setCF(55, "emailForm");
+  YWATracker.submit_action();
+}
+
+function captureEmailFormSendClick() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("28"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+function captureContactThankYouPageConversion() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("29"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+
+function captureYesIssueResolved() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("57"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+
+function captureNoIssueResolved() {
+  var YWATracker = YWA.getTracker("1000379873063");
+  YWATracker.setAction("58"); 
+  YWATracker.setCF(12, platform);
+  YWATracker.setCF(2, "en-US");
+  YWATracker.submit_action();
+}
+
+//defect #5834316 -- YWA for Phone
+function captureRequestPhoneClick() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	  YWATracker.setAction("50"); 
+	  YWATracker.submit_action();
+}
+function captureSubmitPhoneForm() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	  YWATracker.setAction("44"); 
+	  YWATracker.setCF(57, "phoneForm");
+	  YWATracker.submit_action();
+}
+function capturePromoBannerDeflectionClick() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	  YWATracker.setAction("42"); 
+	  YWATracker.submit_action();
+}
+function captureRequestSearchHelpClick() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	YWATracker.setAction("43"); 
+	  YWATracker.submit_action();
+	
+}
+function captureDisplayDeflectionArticle() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	YWATracker.setAction("45"); 
+	 YWATracker.submit_action();
+	
+}
+
+function captureHelpByTopicClick(product,version,topic) {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setAction("52"); 
+	YWATracker.setCF(50, topic);
+	YWATracker.setCF(24, product);
+	YWATracker.setCF(28, version);
+	YWATracker.submit_action();
+	
+}
+
+function captureVHTRequestCallbackConfirmation() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setAction("53"); 
+	YWATracker.submit_action();	
+}
+
+function captureVHTCancelCallback() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setAction("54"); 
+	YWATracker.submit_action();	
+}
+
+function defaultYWATrackerSetUp() {
+	var YWATracker = YWA.getTracker("1000379873063");
+	YWATracker.setCF(12, platform);
+	YWATracker.setCF(2, "en-US");
+	return YWATracker;
+}
+	
+
+
+
+//]]>
+    </script>
+    <noscript>
+      <div>
+        <img src="https://a.analytics.yahoo.com/p.pl?a=1000379873063&amp;js=no" width="1" height="1" alt=""/>
+      </div>
+    </noscript>
+    <script src="https://s.yimg.com/mi/ywa.js">
+    </script>
+    <!-- JS End -->    <!-- Moving UH JS at the end  -->    <script type="text/javascript" src="https://s.yimg.com/zz/combo?yui:3.12.0/build/yui/yui-min.js">
+    </script>
+    <script type="text/javascript" charset="utf-8">
+//<![CDATA[
+ YUI().use('node','node-focusmanager','base','io','json','async-queue','cookie','event-custom','node','event','substitute','cookie','event-resize','node','event','base','event-resize','event-hover','node-focusmanager','event-mouseenter','event-delegate','node','oop','oop','node','event-custom','cookie','substitute','classnamemanager','querystring-stringify', function(Y) {});
+//]]>
+    </script>
+    <script charset="utf-8" type="text/javascript" src="https://s.yimg.com/zz/combo?kx/yucs/uh3/uh/js/998/uh-min.js&amp;kx/yucs/uh3/uh/js/102/gallery-jsonp-min.js&amp;kx/yucs/uh3/uh/js/1021/menu_utils_v3-min.js&amp;kx/yucs/uh3/uh/js/834/localeDateFormat-min.js&amp;kx/yucs/uh3/uh/js/872/timestamp_library_v2-min.js&amp;kx/yucs/uh3/uh/js/829/logo_debug-min.js&amp;kx/yucs/uh_common/meta/13/js/meta-min.js&amp;kx/yucs/uh_common/beacon/18/js/beacon-min.js&amp;kx/ucs/comet/js/77/cometd-yui3-min.js&amp;kx/ucs/comet/js/77/conn-min.js&amp;kx/ucs/comet/js/77/dark-test-min.js&amp;kx/yucs/uh3/disclaimer/js/188/disclaimer_seed-min.js&amp;kx/yucs/uh3/uh3_top_bar/js/274/top_bar_v3-min.js&amp;kx/yucs/uh3/uh3_top_bar/js/283/persistent-min.js&amp;kx/yucs/uh3/search/js/586/search-min.js&amp;kx/yucs/uh3/help/js/55/help_menu_v3-min.js">
+    </script>
+    <script>
+//<![CDATA[
+
+	function isIE () {
+		  var myNav = navigator.userAgent.toLowerCase();
+		  return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+	}
+	(function () {
+		var carousel;
+		YAHOO.util.Event.onDOMReady(function (ev) {
+			var carousel    = new YAHOO.widget.Carousel("container");
+				var nui, nuv = 0;
+				nui = carousel.get("numItems");
+				nuv = carousel.get("numVisible");
+				if(nui < 6) {
+					nuv=nui;
+					var nav = document.getElementById("container");
+					for (var i = 0; i < nav.childNodes.length; i++) { if (nav.childNodes[i].className == "yui-carousel-nav") {nav.childNodes[i].style.display = "none"; break;}	}
+					}
+				else {nuv=5;}
+				carousel.set("numItems",nui);
+				carousel.set("numVisible", nuv);
+				carousel.set("isCircular", true);
+				carousel.set("selectOnScroll", false);
+				carousel.render();
+				carousel.show();
+		});
+		})();
+
+	    YAHOO.util.Event.onContentReady("mnl", function () {
+	        var oMenu = new YAHOO.widget.Menu("mnl", { fixedcenter: false });
+	        oMenu.render();
+	        YAHOO.util.Event.addListener("mnb", "click", oMenu.show, null, oMenu);
+	    });
+
+	    (function() {
+		    var tabView = new YAHOO.widget.TabView('toptab');
+
+		})();
+
+	    if (top.location!= self.location) {
+		    top.location = self.location.href;
+		  }
+
+		if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i))) {
+			
+				document.write('<link rel=\"stylesheet\" href=\"https://s.yimg.com/pj/contact/201406031303/resource/css/iphone-sprite.css\" />');
+			
+		}
+
+		YUI().use('event', 'node', function (Y) {
+
+			Y.on('domready', function(){
+
+			Y.one('#carousaldiv').show();
+
+			// Changes for Popular Topic Default
+            var topicons = Y.all('#topicons li a em b');
+            var bpos = "";
+            var genct=1;
+            topicons.each(function (node) {
+            bpos = node.getStyle('backgroundPosition');
+            bposX = node.getStyle('backgroundPositionX');
+            bposY = node.getStyle('backgroundPositionY');
+            if (isIE () == 8){
+                if( (bposX == "0px" && bposY == "0px") || (bposX == "0%" && bposY == "0%") ) {
+                	node.addClass("top_gen" + genct);
+                	genct++;
+                	}
+            } else {
+                if( bpos == "0px 0px" || bpos == "0% 0%" ) {
+                	node.addClass("top_gen" + genct);
+                	genct++;
+            	}
+            }
+            if(genct==12){
+              genct=1;}
+			});
+
+            var qlbDiv;
+			Y.all('.yui-content .yui3-u-7-24').each(function(node, i){
+
+				if(i == 0){
+					qlbDiv = this.getHTML();
+				}
+				if(i != 0){
+					this.setHTML(qlbDiv);
+				}
+
+			});
+
+			var YWATracker = YWA.getTracker("1000379873063");
+
+			 		  YWATracker.setCF(8, "Yahoo account");
+			 		  YWATracker.setCF(9, "Yahoo Account");
+			 		  YWATracker.setCF(10, "AMER");
+			 		  YWATracker.setCF(11, "us");
+			 		  YWATracker.setCF(12, "inquira");
+			 		  YWATracker.setCF(2, "en-US");
+			 		  YWATracker.submit();
+			});
+
+		});
+
+//]]>
+    </script>
+    <!-- Including the Survey -->    <script type="text/javascript">
+//<![CDATA[
+
+<!--
+
+var Confirmit_AcctProfile = new YSurveyConfig();
+Confirmit_AcctProfile.set_survey_name('Confirmit_AcctProfile');
+Confirmit_AcctProfile.set_cookie_time(90);
+Confirmit_AcctProfile.set_cookie_name('survey_displayed'); // This is the default in the JS file
+Confirmit_AcctProfile.set_sample_rate(99);
+Confirmit_AcctProfile.set_survey_url("index?page=survey&id=SC13&locale=en_US");
+
+$.expr[':'].external = function(obj){
+    return !obj.href.match(/^mailto\:/) && (obj.hostname.indexOf('help.yahoo.com') < 0)
+    		&& (obj.href.indexOf('help.yahoo.com') < 0)
+    		&& (obj.hostname.indexOf('kampyle.com') < 0)
+    		&& (obj.href.indexOf('edit.yahoo.com/forgotroot/') < 0);
+};
+
+Confirmit_AcctProfile.observe(window, 'load', function() {
+    $('a:external').click( function(evt){
+            if(Confirmit_AcctProfile.should_display()){
+	                evt.stopPropagation();
+                    Confirmit_AcctProfile.set_original_url($(this).attr('href'));
+                    Confirmit_AcctProfile.show('Confirmit_AcctProfile');
+                    return false;
+            }
+            return true;
+    });
+});
+
+function closeSurvey() {
+	location.href = Confirmit_AcctProfile.original_url;
+	if ($("iframe#helpSurvey") != null) {
+		$("iframe#helpSurvey").dialog('close');
+	}
+	if ($("div#helpSurveyContainer") != null) {
+		$("div#helpSurveyContainer").remove();
+	}
+}
+
+function getURLParam(name) {
+	name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+	var regexS = "[\\?&]" + name + "=([^&#]*)";
+	var regex = new RegExp(regexS);
+	var results = regex.exec(window.location.href);
+	if (results == null) {
+		return "";
+	} else {
+		return results[1];
+	}
+}
+
+function gotoSurveySite(url) {
+	closeSurvey();
+	if (!(url == null || url == '')) {
+		var pageURL = document.location.href;
+		var match = new RegExp("[&\?]", "ig");
+        var replaceURL = "";
+        if (pageURL.length > 0) {
+			replaceURL = pageURL.replace(match, "/");
+		}
+        replaceURL += '/locale=en_US';
+
+		var searchQ = '';
+		if(searchQ =='' || null==searchQ ||searchQ =='null' ){
+			searchQ = getURLParam("question_box");
+		}
+		
+
+		if (!(searchQ == null || searchQ == '')) {
+			window.open(url + '?parameter1=PROD_ACCT&parameter2=' + replaceURL + '&parameter3=' + searchQ);
+		} else {
+			window.open(url + '?parameter1=PROD_ACCT&parameter2=' + replaceURL);
+		}
+	}
+}
+//-->
+
+//]]>
+    </script>
+    <!-- End Survey -->  </body>
+</html>

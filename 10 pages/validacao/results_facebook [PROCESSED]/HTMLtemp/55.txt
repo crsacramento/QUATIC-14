@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head title="Regista-te no Facebook">
+    <title>
+      Regista-te no Facebook
+    </title>
+    <meta name="description" content="O Facebook é uma aplicação social que liga pessoas a amigos e a outros com quem trabalham, estudam ou vivem. As pessoas usam o Facebook para se manterem..."/>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+  </head>
+  <body tabindex="0" class="nontouch x1 _513c aclb">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <style type="text/css">
+      /*&lt;![CDATA[*/._418r .input{width:90%;}form{margin:0;border:0;}.acw{background-color:#fff;}.acb{background-color:#3b5998;}.aclb{background-color:#eceff5;}.aps{padding:2px 3px;}.apm{padding:4px 3px;}.apl{padding:6px 3px;}._5whq{border:solid 1px #999;border-top-color:#888;margin:0;}.nontouch ._5whq{padding:3px 3px 4px 0;}.regBirthdateField{float:left;}.regBirthdateSeparator{float:left;margin-right:3px;vertical-align:top;}.clear{clear:both;}.fcg{color:gray;}.mfss{font-size:small;}body,tr,input,textarea,.mfsm{font-size:medium;}.nontouch a,.nontouch a:visited{color:#3b5998;text-decoration:none;}.nontouch a:focus,.nontouch a:hover{background-color:#3b5998;color:#fff;}.nontouch ._55ws{padding:6px;}._56bs{background:none;display:inline-block;font-size:12px;font-weight:bold;height:28px;line-height:28px;margin:0;overflow:visible;padding:0 9px;text-align:center;vertical-align:top;white-space:nowrap;}._56bv,a._56bv,html .nontouch a._56bv{color:#fff;}.nontouch ._56bv{background-color:#5b93fc;border:1px solid #4476e8;}.nontouch a._56bv:hover,.nontouch ._56bv:hover{background-color:#5284e2;}._56bv[disabled]{color:#91b4fd;}.nontouch ._56bv[disabled]:hover{background-color:#5b93fc;}.nontouch ._56bs{padding:0 8px;}.nontouch a._56bs{height:26px;line-height:26px;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}._513c #viewport{margin:0 auto;max-width:600px;}#page{position:relative;}.img{border:0;display:inline-block;vertical-align:top;}i.img u{position:absolute;width:0;height:0;overflow:hidden;}/*]]&gt;*/
+    </style>
+    <div class="mfsm">
+      <div id="viewport">
+        <div>
+          <div class="acb aps" id="header">
+            <h1>
+              <a href="/home.php">
+                <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook"/>
+              </a>
+            </h1>
+          </div>
+        </div>
+        <div id="objects_container">
+          <div class="acw apm" title="Regista-te no Facebook">
+            <strong>
+              Regista-te no Facebook
+            </strong>
+          </div>
+          <div id="root" role="main" class="aclb">
+            <form method="post" class="_418r" id="mobile-reg-form" action="https://m.facebook.com/r.php" novalidate="1">
+              <input type="hidden" name="lsd" value="AVrDiL6Q" autocomplete="off"/>
+              <input type="hidden" name="charset_test" value="€,´,€,´,?,?,?"/>
+              <input type="hidden" name="reg_instance" value="HX6YU86RKaQl0oN3cOyIS4jN"/>
+              <input type="hidden" name="cred_label" value="email_or_phone"/>
+              <input type="hidden" name="submission_request" value="true"/>
+              <div class="aclb aps">
+                Nome próprio:
+                <br/>
+                <input autocapitalize="on" class="_5whq input" name="firstname" value="" type="text"/>
+              </div>
+              <div class="aclb aps">
+                Apelido:
+                <br/>
+                <input autocapitalize="on" class="_5whq input" name="lastname" value="" type="text"/>
+              </div>
+              <div class="aclb aps">
+                E-mail ou telefone:
+                <br/>
+                <input autocapitalize="off" class="_5whq input" name="email" value="" type="text"/>
+              </div>
+              <div class="aclb aps" style="dropdown">
+                Sexo:
+                <br/>
+                <select id="gender" name="gender">
+                  <option value="0" selected="selected">
+                    Selecionar
+                  </option>
+                  <option value="1">
+                    Feminino
+                  </option>
+                  <option value="2">
+                    Masculino
+                  </option>
+                </select>
+              </div>
+              <div class="aclb aps" style="textbox_skip_empty">
+                <label>
+                  Data de nascimento:
+                </label>
+                <br/>
+                <div id="regBirthdateTable">
+                  <div class="regBirthdateField">
+                    <div>
+                      dd
+                      <br/>
+                      <input autocorrect="off" autocapitalize="off" autocomplete="off" class="birthday_entry_field input tiapm" name="day" value="" id="day" size="3" maxlength="2" style="-wap-input-format: '*N'" type="text"/>
+                    </div>
+                  </div>
+                  <div class="regBirthdateSeparator">
+                    /
+                  </div>
+                  <div class="regBirthdateField">
+                    <div>
+                      mm
+                      <br/>
+                      <input autocorrect="off" autocapitalize="off" autocomplete="off" class="birthday_entry_field input tiapm" name="month" value="" id="month" size="3" maxlength="2" style="-wap-input-format: '*N'" type="text"/>
+                    </div>
+                  </div>
+                  <div class="regBirthdateSeparator">
+                    /
+                  </div>
+                  <div class="regBirthdateField">
+                    <div>
+                      aaaa
+                      <br/>
+                      <input autocorrect="off" autocapitalize="off" autocomplete="off" class="birthday_entry_field input tiapm" name="year" value="" id="year" size="5" maxlength="4" style="-wap-input-format: '*N'" type="text"/>
+                    </div>
+                  </div>
+                </div>
+                <div class="clear">
+                </div>
+              </div>
+              <div class="aclb aps">
+                Palavra-passe nova:
+                <br/>
+                <input autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" class="_5whq input" name="pass" type="text"/>
+              </div>
+              <div class="aclb aps">
+                <span class="mfss fcg">
+                  Ao clicar em Registar, aceitas os nossos 
+                  <a href="/legal/terms/">
+                    Termos do Facebook
+                  </a>
+                   e reconheces que leste a nossa 
+                  <a href="/about/privacy/">
+                    Política de Privacidade
+                  </a>
+                  , incluindo a nossa 
+                  <a href="/about/privacy/?page=cookies">
+                    Utilização de Cookies
+                  </a>
+                  . Podes receber notificações por SMS e Facebook e podes escolher a opção de opt-out a qualquer momento.
+                </span>
+              </div>
+              <div class="_55ws">
+                <input value="Regista-te" type="submit" name="submit" class="_56bs _56bv" id="signup_button"/>
+              </div>
+            </form>
+            <div class="ac aclb apm">
+              <span class="mfss">
+                <a href="/birthday_help.php" target="_blank">
+                  Porque é que tenho de indicar a minha data de nascimento?
+                </a>
+              </span>
+            </div>
+            <div class="aclb apl">
+            </div>
+            <div class="ac aclb apm">
+              <span class="mfss">
+                <a href="/login/">
+                  Já tens uma conta?
+                </a>
+              </span>
+            </div>
+            <div class="aclb apl">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="static_templates">
+      </div>
+    </div>
+  </body>
+</html>

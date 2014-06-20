@@ -1,0 +1,4 @@
+URL:https://na.edit.yahoo.com/registration?.pd=ymbr_ver%253D0%2526c%253D%2526ivt%253D%2526sg%253D&intl=us&origIntl=&done=https%3A%2F%2Flogin.yahoo.com%2Fconfig%2Flogin%3F.src%3Dymbr%26.intl%3Dus%26.lang%3Den-US%26.done%3Dhttps%3A%2F%2Flogin.yahoo.com%2Fconfig%2Flogin%253f.src%3Dymbr%2526.intl%3Dus%2526.lang%3Den-US%2526.done%3Dhttps%253a%2F%2Flogin.yahoo.com%2Fconfig%2Flogin%25253f.src%3Dymbr%252526.intl%3Dus%252526.lang%3Den-US%252526.done%3Dhttps%25253a%2F%2Fedit.europe.yahoo.com%2Fforgotroot%2525253fdone%3Dhttp%252525253A%252525252F%252525252Fmail.yahoo.com%25252526src%3Dym%25252526partner%3D%25252526intl%3Dus%25252526lang%3Den-US&src=ymbr&last=&partner=yahoo_default&wl=&wlcr=&_asdk_embedded=&create_alias=&.scrumb=&domain=&yahooid=&lang=en-US&fsredirect=1&fs=mzgMj6KHafA3mhXE0B2LbMAxyabROg69Iswn84hNb4NJgNhZp6BRtrhpAUjhSSrExUvVIoGi
+RATIOTOTAL:1.3978576892477517
+RATIOPREVIOUS:-0.755
+SELENIUMSTEP:41

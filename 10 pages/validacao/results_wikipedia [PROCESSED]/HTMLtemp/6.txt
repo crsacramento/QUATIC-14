@@ -1,0 +1,2968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Moka pot - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Moka_pot"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Moka_pot&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Moka_pot&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Moka_pot"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Moka_pot","wgTitle":"Moka pot","wgCurRevisionId":611482991,"wgRevisionId":611482991,"wgArticleId":5964683,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2013","Articles with unsourced statements from February 2013","Pages containing cite templates with deprecated parameters","Italian brands","Italian beverages","Coffee preparation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Moka_pot","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1054566"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Moka_pot skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Moka pot
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <table class="infobox hproduct vevent" cellspacing="3" style="border-spacing:3px;width:22em;">
+            <caption class="fn summary">
+              Moka pot
+            </caption>
+            <tbody>
+              <tr>
+                <td colspan="2" style="text-align:center;">
+                  <a href="/wiki/File:Moka2.jpg" class="image">
+                    <img alt="Moka2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/180px-Moka2.jpg" width="180" height="216" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/270px-Moka2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/360px-Moka2.jpg 2x" data-file-width="1500" data-file-height="1796"/>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <th scope="row" style="text-align:left;">
+                  <a href="/wiki/Category:Electronics_companies" title="Category:Electronics companies">
+                    Manufacturer
+                  </a>
+                </th>
+                <td>
+                  <a href="/wiki/Bialetti" title="Bialetti" class="mw-redirect">
+                    Bialetti
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <th scope="row" style="text-align:left;">
+                  Release date
+                </th>
+                <td>
+                  1933
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The 
+            <b>
+              moka pot
+            </b>
+             is a stove-top 
+            <a href="/wiki/Coffee_maker" title="Coffee maker" class="mw-redirect">
+              coffee maker
+            </a>
+             which produces coffee by passing hot water pressurized by steam through ground 
+            <a href="/wiki/Coffee" title="Coffee">
+              coffee
+            </a>
+            . It was patented for the first time in 
+            <a href="/wiki/Italy" title="Italy">
+              Italy
+            </a>
+             by the inventor Luigi De Ponti for 
+            <a href="/wiki/Alfonso_Bialetti" title="Alfonso Bialetti">
+              Alfonso Bialetti
+            </a>
+            , in 1933.
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This is not common knowledge (October 2013)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+            <i>
+              Bialetti Industrie
+            </i>
+             continues to produce the same model under the name "Moka Express".
+          </p>
+          <p>
+            The moka pot is most commonly used in 
+            <a href="/wiki/Europe" title="Europe">
+              Europe
+            </a>
+             and in 
+            <a href="/wiki/Latin_America" title="Latin America">
+              Latin America
+            </a>
+            . It has become an 
+            <a href="/wiki/Icon" title="Icon">
+              iconic
+            </a>
+             design, displayed in modern 
+            <a href="/wiki/Industrial_art" title="Industrial art" class="mw-redirect">
+              industrial art
+            </a>
+             and 
+            <a href="/wiki/Design_museum" title="Design museum">
+              design museums
+            </a>
+             such as the 
+            <a href="/wiki/Wolfsonian-FIU" title="Wolfsonian-FIU">
+              Wolfsonian- FIU
+            </a>
+            , 
+            <a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">
+              Museum of Modern Art
+            </a>
+            , the 
+            <a href="/wiki/Cooper%E2%80%93Hewitt,_National_Design_Museum" title="Cooper–Hewitt, National Design Museum">
+              Cooper–Hewitt, National Design Museum
+            </a>
+            , the 
+            <a href="/wiki/Design_Museum" title="Design Museum">
+              Design Museum
+            </a>
+            ,
+            <sup id="cite_ref-HILARY_GREENBAUM_1-0" class="reference">
+              <a href="#cite_note-HILARY_GREENBAUM-1">
+                <span>
+                  [
+                </span>
+                1
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             and the 
+            <a href="/wiki/Science_Museum_(London)" title="Science Museum (London)" class="mw-redirect">
+              London Science Museum
+            </a>
+            . Moka pots come in different sizes, from one to eighteen 50 ml cups.
+            <sup id="cite_ref-2" class="reference">
+              <a href="#cite_note-2">
+                <span>
+                  [
+                </span>
+                2
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             The original design and many current models are made from 
+            <a href="/wiki/Aluminium" title="Aluminium">
+              aluminium
+            </a>
+             with 
+            <a href="/wiki/Bakelite" title="Bakelite">
+              bakelite
+            </a>
+             handles.
+          </p>
+          <p>
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle">
+              <h2>
+                Contents
+              </h2>
+            </div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Variations_and_brands">
+                  <span class="tocnumber">
+                    1
+                  </span>
+                  <span class="toctext">
+                    Variations and brands
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Brewing_coffee_with_a_moka_pot">
+                  <span class="tocnumber">
+                    2
+                  </span>
+                  <span class="toctext">
+                    Brewing coffee with a moka pot
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-3">
+                <a href="#Maintenance">
+                  <span class="tocnumber">
+                    3
+                  </span>
+                  <span class="toctext">
+                    Maintenance
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-4">
+                <a href="#Moka_pot_dimensions">
+                  <span class="tocnumber">
+                    4
+                  </span>
+                  <span class="toctext">
+                    Moka pot dimensions
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-5">
+                <a href="#Moka_coffee_vs._drip_coffee">
+                  <span class="tocnumber">
+                    5
+                  </span>
+                  <span class="toctext">
+                    Moka coffee vs. drip coffee
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-6">
+                <a href="#Moka_coffee_vs._espresso_coffee">
+                  <span class="tocnumber">
+                    6
+                  </span>
+                  <span class="toctext">
+                    Moka coffee vs. espresso coffee
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-7">
+                <a href="#See_also">
+                  <span class="tocnumber">
+                    7
+                  </span>
+                  <span class="toctext">
+                    See also
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-8">
+                <a href="#Notes">
+                  <span class="tocnumber">
+                    8
+                  </span>
+                  <span class="toctext">
+                    Notes
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-9">
+                <a href="#References">
+                  <span class="tocnumber">
+                    9
+                  </span>
+                  <span class="toctext">
+                    References
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-10">
+                <a href="#External_links">
+                  <span class="tocnumber">
+                    10
+                  </span>
+                  <span class="toctext">
+                    External links
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <p>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Variations_and_brands">
+              Variations and brands
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=1" title="Edit section: Variations and brands">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:261px;">
+              <a href="/wiki/File:Moka_Animation.gif" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/dd/Moka_Animation.gif" width="259" height="300" class="thumbimage" data-file-width="259" data-file-height="300"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Moka_Animation.gif" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+processes of providing coffee by Moka pot
+              </div>
+            </div>
+          </div>
+          <p>
+            Traditionally, moka pots are made of 
+            <a href="/wiki/Aluminium" title="Aluminium">
+              aluminium
+            </a>
+             and are used over a flame or electric range. The aluminium moka pots cannot be used on 
+            <a href="/wiki/Induction_cooker" title="Induction cooker" class="mw-redirect">
+              induction stoves
+            </a>
+            . There are, however, also many stainless steel models available.
+            <sup id="cite_ref-3" class="reference">
+              <a href="#cite_note-3">
+                <span>
+                  [
+                </span>
+                3
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Electric self-heating moka pots are also available. More recently induction specific moka pots are now available and are made of a titanium-alloy base.
+            <sup id="cite_ref-4" class="reference">
+              <a href="#cite_note-4">
+                <span>
+                  [
+                </span>
+                4
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            <i>
+              Brikka
+            </i>
+             is a modified moka pot manufactured by Bialetti. It incorporates a weighted valve as a 
+            <a href="/wiki/Pressure_regulator" title="Pressure regulator">
+              pressure regulator
+            </a>
+             on top of the nozzle that allows pressure to build up inside the water tank in a manner similar to a 
+            <a href="/wiki/Pressure_cooker" title="Pressure cooker" class="mw-redirect">
+              pressure cooker
+            </a>
+            . As pressure builds up more quickly in this method (since there is much less leakage of vapor) compared to the standard moka pot, it reaches the level required for water to rise through the ground coffee at a lower temperature. However, the weighted valve allows pressure to accumulate and temperature to rise somewhat further before the liquid bursts through the nozzle. The result is coffee brewed at a higher pressure and temperature than the standard pot, making it more similar to 
+            <a href="/wiki/Espresso" title="Espresso">
+              espresso
+            </a>
+            , and therefore with more visible crema.
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This claim needs references to reliable sources. (February 2013)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+          </p>
+          <p>
+            <i>
+              Mukka Express
+            </i>
+             is a modified moka pot also manufactured by Bialetti that allows milk to be frothed and mixed with the coffee during brewing. The name, "Mukka", is a pun on the Italian for cow, 
+            <i>
+              "mucca"
+            </i>
+            . Bialetti also manufactures several stainless steel moka pots, e.g.: Musa, Class and Venus.
+          </p>
+          <p>
+            <a href="/wiki/Alessi_(company)" title="Alessi (company)" class="mw-redirect">
+              Alessi
+            </a>
+             is an Italian kitchenware manufacturer known for their moka pots. Cuisinox also markets several models of moka pots in both aluminium and stainless steel.
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This claim needs references to reliable sources. (February 2013)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+          </p>
+          <p>
+            Also the high quality and design oriented Italian kitchenware manufacturer 
+            <a href="/w/index.php?title=Serafino_Zani_(company)&amp;action=edit&amp;redlink=1" class="new" title="Serafino Zani (company) (page does not exist)">
+              Serafino Zani
+            </a>
+             is known for his moka pots: "Finlandia" designed by 
+            <a href="/wiki/Tapio_Wirkkala" title="Tapio Wirkkala">
+              Tapio Wirkkala
+            </a>
+            , "Mach" designed by 
+            <a href="/w/index.php?title=Isao_Hosoe&amp;action=edit&amp;redlink=1" class="new" title="Isao Hosoe (page does not exist)">
+              Isao Hosoe
+            </a>
+             and awarded with the 
+            <a href="/wiki/Good_Design_Award_(Chicago)" title="Good Design Award (Chicago)">
+              Good Design Award (Chicago)
+            </a>
+             1993, "Thema" in stainess steel with 
+            <a href="/wiki/Titanium" title="Titanium">
+              titanium
+            </a>
+             and "Genesis" in stainless steel and 
+            <a href="/wiki/Copper" title="Copper">
+              copper
+            </a>
+            , both designed by Tarcisio Zani.
+          </p>
+          <p>
+            Top Moka is an Italian manufacturer well known for their variety of different colors and their induction moka pot models.
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This claim needs references to reliable sources. (February 2013)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+          </p>
+          <p>
+            Vev Viganò is an Italian manufacturer that specialises in stainless steel moka pots. Their product lines include Kontessa, Itaca, Vespress and Carioca.
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This claim needs references to reliable sources. (February 2013)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+          </p>
+          <p>
+            <a href="/w/index.php?title=Bellman_manufacturing&amp;action=edit&amp;redlink=1" class="new" title="Bellman manufacturing (page does not exist)">
+              Bellman
+            </a>
+             makes a stainless steel moka pot, the 
+            <i>
+              CX-25 Series
+            </i>
+            , operating at higher pressure and capable of creating a crema. It also has a wand to steam liquids, such as milk for cappuccino.
+            <sup id="cite_ref-5" class="reference">
+              <a href="#cite_note-5">
+                <span>
+                  [
+                </span>
+                5
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            The brand 
+            <i>
+              Volturno
+            </i>
+             has been manufacturing moka pots in 
+            <a href="/wiki/Argentina" title="Argentina">
+              Argentina
+            </a>
+             for many decades;
+            <sup id="cite_ref-6" class="reference">
+              <a href="#cite_note-6">
+                <span>
+                  [
+                </span>
+                6
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             the name 
+            <i>
+              Volturno
+            </i>
+             is sometimes used synonymously with 
+            <i>
+              moka pot
+            </i>
+             there.
+            <sup id="cite_ref-7" class="reference">
+              <a href="#cite_note-7">
+                <span>
+                  [
+                </span>
+                7
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            <i>
+              Top Moka
+            </i>
+            , another Italian manufacturer, offers two different styles of moka pots in a wide variety of colours. The more traditional 
+            <i>
+              Top Moka Pot
+            </i>
+             comes in sizes varying from two to six-shot boilers. They also make a 
+            <i>
+              Mini Moka Pot
+            </i>
+             in one- and two-shot sizes that use dispensing arcs rather than the standard collection chamber. Both are available with aluminum boilers for standard cooktops or titanium-alloy boilers for induction stoves.
+            <sup id="cite_ref-8" class="reference">
+              <a href="#cite_note-8">
+                <span>
+                  [
+                </span>
+                8
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Brewing_coffee_with_a_moka_pot">
+              Brewing coffee with a moka pot
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=2" title="Edit section: Brewing coffee with a moka pot">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:172px;">
+              <a href="/wiki/File:MokaCoffeePot.svg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/MokaCoffeePot.svg/170px-MokaCoffeePot.svg.png" width="170" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/MokaCoffeePot.svg/255px-MokaCoffeePot.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/MokaCoffeePot.svg/340px-MokaCoffeePot.svg.png 2x" data-file-width="421" data-file-height="467"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:MokaCoffeePot.svg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+The bottom chamber (A) contains water. When heated, steam pressure pushes the water through a basket containing ground coffee (B) into the collecting chamber (C).
+              </div>
+            </div>
+          </div>
+          <div class="thumb tright" style="width: 182px;">
+            <div class="thumbinner">
+              <div style="margin: 1px; width: 172px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Coffee_f3327912.jpg" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coffee_f3327912.jpg/170px-Coffee_f3327912.jpg" width="170" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coffee_f3327912.jpg/255px-Coffee_f3327912.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Coffee_f3327912.jpg/340px-Coffee_f3327912.jpg 2x" data-file-width="4368" data-file-height="2912"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  Funnel with ground coffee
+                </div>
+              </div>
+              <div style="margin: 1px; width: 172px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Moka_pot_on_hob.jpg" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Moka_pot_on_hob.jpg/170px-Moka_pot_on_hob.jpg" width="170" height="174" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Moka_pot_on_hob.jpg/255px-Moka_pot_on_hob.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Moka_pot_on_hob.jpg/340px-Moka_pot_on_hob.jpg 2x" data-file-width="975" data-file-height="1000"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  Moka pot on the stove
+                </div>
+              </div>
+              <div style="margin: 1px; width: 172px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Moka_brewing.jpg" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Moka_brewing.jpg/170px-Moka_brewing.jpg" width="170" height="162" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Moka_brewing.jpg/255px-Moka_brewing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Moka_brewing.jpg/340px-Moka_brewing.jpg 2x" data-file-width="1048" data-file-height="1000"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  Moka pot brewing
+                </div>
+              </div>
+              <div style="margin: 1px; width: 172px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Moka_crema1.JPG" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Moka_crema1.JPG/170px-Moka_crema1.JPG" width="170" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Moka_crema1.JPG/255px-Moka_crema1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Moka_crema1.JPG/340px-Moka_crema1.JPG 2x" data-file-width="1970" data-file-height="1670"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  Coffee being brewed
+                </div>
+              </div>
+            </div>
+          </div>
+          <p>
+            The boiler (marked A in the diagram) is filled with water almost up to the safety release valve and the 
+            <a href="/wiki/Funnel" title="Funnel">
+              funnel
+            </a>
+            -shaped metal filter (B) is inserted. Finely-ground 
+            <a href="/wiki/Coffee" title="Coffee">
+              coffee
+            </a>
+             is added to the filter as shown below. Then the upper part (C, which has a second metal filter at the bottom) is tightly screwed onto the base. The pot is placed on a suitable 
+            <a href="/wiki/Heat" title="Heat">
+              heat
+            </a>
+             source, the water is brought to its 
+            <a href="/wiki/Boiling_point" title="Boiling point">
+              boiling point
+            </a>
+            , and thereby 
+            <a href="/wiki/Steam" title="Steam">
+              steam
+            </a>
+             is created in the boiler.
+          </p>
+          <p>
+            A 
+            <a href="/wiki/Gasket" title="Gasket">
+              gasket
+            </a>
+             ensures a tightly closed unit and allows for pressure to safely build up in the lower section, where a 
+            <a href="/wiki/Safety_valve" title="Safety valve">
+              safety valve
+            </a>
+             provides a necessary release in case this pressure should get too high (with clean filters, that should not happen).
+          </p>
+          <p>
+            The steam eventually reaches a high enough 
+            <a href="/wiki/Pressure" title="Pressure">
+              pressure
+            </a>
+             to gradually force the surrounding boiling water up the funnel through the coffee powder and into the upper chamber (C), where the coffee is collected. When the lower chamber is almost empty, steam bubbles mix with the upstreaming water, producing a characteristic gurgling noise. This "strombolian phase" allows a mixture of superheated steam and water to pass through the coffee, which leads to undesirable results, and therefore brewing is stopped as soon as this stage is reached.
+            <a rel="nofollow" class="external autonumber" href="http://www.sciencedirect.com/science/article/pii/S1359431108002299">
+              [1]
+            </a>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Maintenance">
+              Maintenance
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=3" title="Edit section: Maintenance">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Moka pots require periodic replacement of the rubber seal and the filters, and a check that the safety release valve is not blocked.
+          </p>
+          <p>
+            After use, a thin coat of oily coffee residue is left lining the interior of the stems, filters and upper chamber. It is said to be desirable to retain this residue, as it subsequently prevents coffee from acquiring an unpleasant metallic taste through contact with the aluminum wall.
+            <sup id="cite_ref-9" class="reference">
+              <a href="#cite_note-9">
+                <span>
+                  [
+                </span>
+                9
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Moka_pot_dimensions">
+              Moka pot dimensions
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=4" title="Edit section: Moka pot dimensions">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            The Moka pot comes in various sizes based on the number of 50 mL espresso cups they produce. The following table are the standard sizes for the Bialetti Moka Express.
+          </p>
+          <table border="1" cellpadding="5" cellspacing="0" align="center">
+            <caption>
+              <b>
+                Bialetti "Moka Express"
+              </b>
+            </caption>
+            <tbody>
+              <tr>
+                <th rowspan="2" style="background: #efefef;">
+                  Espresso
+                  <br/>
+                  
+cups
+                </th>
+                <th colspan="3" style="background: #ffdead;">
+                  Metric units
+                </th>
+                <th colspan="3" style="background: #ffdead;">
+                  US units
+                </th>
+              </tr>
+              <tr>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    mL
+                  </b>
+                </td>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    height
+                  </b>
+                </td>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    base
+                  </b>
+                </td>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    fl oz
+                  </b>
+                </td>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    height
+                  </b>
+                </td>
+                <td align="center" style="background: #efefef;">
+                  <b>
+                    base
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  1
+                </td>
+                <td align="right">
+                  60 mL
+                </td>
+                <td align="right">
+                  133 mm
+                </td>
+                <td align="right">
+                  64 mm
+                </td>
+                <td align="right">
+                  2.0 fl oz
+                </td>
+                <td align="center">
+                  5¼"
+                </td>
+                <td align="center">
+                  2½"
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  3
+                </td>
+                <td align="right">
+                  200 mL
+                </td>
+                <td align="right">
+                  159 mm
+                </td>
+                <td align="right">
+                  83 mm
+                </td>
+                <td align="right">
+                  6.5 fl oz
+                </td>
+                <td align="center">
+                  6¼"
+                </td>
+                <td align="center">
+                  3¼"
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  6
+                </td>
+                <td align="right">
+                  300 mL
+                </td>
+                <td align="right">
+                  216 mm
+                </td>
+                <td align="right">
+                  102 mm
+                </td>
+                <td align="right">
+                  10.0 fl oz
+                </td>
+                <td align="center">
+                  8½"
+                </td>
+                <td align="center">
+                  4"
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  9
+                </td>
+                <td align="right">
+                  550 mL
+                </td>
+                <td align="right">
+                  254 mm
+                </td>
+                <td align="right">
+                  105 mm
+                </td>
+                <td align="right">
+                  18.5 fl oz
+                </td>
+                <td align="center">
+                  10"
+                </td>
+                <td align="center">
+                  4?"
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  12
+                </td>
+                <td align="right">
+                  775 mL
+                </td>
+                <td align="right">
+                  292 mm
+                </td>
+                <td align="right">
+                  127 mm
+                </td>
+                <td align="right">
+                  25.0 fl oz
+                </td>
+                <td align="center">
+                  11½"
+                </td>
+                <td align="center">
+                  5"
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <h2>
+            <span class="mw-headline" id="Moka_coffee_vs._drip_coffee">
+              Moka coffee vs. drip coffee
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=5" title="Edit section: Moka coffee vs. drip coffee">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            The flavor of Moka pot coffee depends greatly on bean variety, roast level, fineness of grind, and the level of heat used. Contrary to popular belief, although the "boiler" on a Moka pot is at elevated pressure and contains high-temperature steam, the water forced up through the grounds is no hotter (up to 90C, depending on the stage of extraction) than that used in other brewing methods.
+            <a rel="nofollow" class="external autonumber" href="http://www.sciencedirect.com/science/article/pii/S1359431108002299">
+              [2]
+            </a>
+            <a rel="nofollow" class="external autonumber" href="http://pubs.acs.org/doi/pdf/10.1021/jf070779x">
+              [3]
+            </a>
+            . However the resultant brew does have increased extraction of 
+            <a href="/wiki/Caffeine" title="Caffeine">
+              caffeine
+            </a>
+             and flavors from the grounds versus filter coffee, resulting in a stronger brew than that obtained by 
+            <a href="/wiki/Drip_brew" title="Drip brew">
+              drip brewing
+            </a>
+            .
+          </p>
+          <h2>
+            <span class="mw-headline" id="Moka_coffee_vs._espresso_coffee">
+              Moka coffee vs. espresso coffee
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=6" title="Edit section: Moka coffee vs. espresso coffee">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Moka pots are sometimes referred to as stove-top espresso makers and produce coffee with an extraction ratio similar to (but somewhat higher than) that of a conventional 
+            <a href="/wiki/Espresso_machine" title="Espresso machine">
+              espresso machine
+            </a>
+            .
+            <a rel="nofollow" class="external autonumber" href="http://www.sciencedirect.com/science/article/pii/S1359431108002299">
+              [4]
+            </a>
+             Depending on bean variety and grind selection, Moka pots can create a foam emulsion, known as crema. However a typical Moka coffee is extracted at relatively low pressures of 1-2 
+            <a href="/wiki/Bar_(unit)" title="Bar (unit)">
+              bar
+            </a>
+            ,
+            <sup id="cite_ref-10" class="reference">
+              <a href="#cite_note-10">
+                <span>
+                  [
+                </span>
+                10
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             while standards for espresso coffee specify a pressure of 9 bar.
+            <sup id="cite_ref-11" class="reference">
+              <a href="#cite_note-11">
+                <span>
+                  [
+                </span>
+                11
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+            <sup id="cite_ref-12" class="reference">
+              <a href="#cite_note-12">
+                <span>
+                  [
+                </span>
+                12
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             So, while a Moka coffee pot can produce a crema similar to espressos, different equipment is required to make a true espresso.
+          </p>
+          <h2>
+            <span class="mw-headline" id="See_also">
+              See also
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=7" title="Edit section: See also">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <ul>
+            <li>
+              <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+                Coffee percolator
+              </a>
+            </li>
+            <li>
+              <a href="/wiki/Coffeemaker" title="Coffeemaker">
+                Coffeemaker
+              </a>
+            </li>
+            <li>
+              <a href="/wiki/Neapolitan_flip_coffee_pot" title="Neapolitan flip coffee pot">
+                Neapolitan flip coffee pot
+              </a>
+            </li>
+            <li>
+              <a href="/wiki/File:Emblem-relax.svg" class="image">
+                <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/28px-Emblem-relax.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/42px-Emblem-relax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/56px-Emblem-relax.svg.png 2x" data-file-width="60" data-file-height="60"/>
+              </a>
+              <a href="/wiki/Portal:Coffee" title="Portal:Coffee">
+                Coffee portal
+              </a>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Notes">
+              Notes
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=8" title="Edit section: Notes">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+            <ol class="references">
+              <li id="cite_note-HILARY_GREENBAUM-1">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-HILARY_GREENBAUM_1-0">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation news">
+                    GREENBAUM, HILARY (September 1, 2011). 
+                    <a rel="nofollow" class="external text" href="http://6thfloor.blogs.nytimes.com/2011/09/01/who-made-that-moka-express/">
+                      "Who Made That Moka Express?"
+                    </a>
+                    . 
+                    <a href="/wiki/Nytimes.com" title="Nytimes.com" class="mw-redirect">
+                      nytimes.com
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.aufirst=HILARY&amp;rft.au=GREENBAUM%2C+HILARY&amp;rft.aulast=GREENBAUM&amp;rft.btitle=Who+Made+That+Moka+Express%3F&amp;rft.date=September+1%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2F6thfloor.blogs.nytimes.com%2F2011%2F09%2F01%2Fwho-made-that-moka-express%2F&amp;rft.pub=nytimes.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-2">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-2">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.bialetti.it/files/catalogue/attachments/moka%20italia.pdf">
+                      "Moka Express factsheet"
+                    </a>
+                     (PDF). Bialetti
+                    <span class="reference-accessdate">
+                      . Retrieved 2009-03-01
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Moka+Express+factsheet&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bialetti.it%2Ffiles%2Fcatalogue%2Fattachments%2Fmoka%2520italia.pdf&amp;rft.pub=Bialetti&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-3">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-3">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.espresso-machines-and-coffee-makers.com/stainless-steel-stovetop-espresso-maker.html">
+                      "Stainless Steel Stovetop Espresso Maker"
+                    </a>
+                    <span class="reference-accessdate">
+                      . Retrieved 2011-06-15
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Stainless+Steel+Stovetop+Espresso+Maker&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.espresso-machines-and-coffee-makers.com%2Fstainless-steel-stovetop-espresso-maker.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-4">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-4">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Induction Moka Pots: 
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.moka-pot.co.uk/induction">
+                      "Induction Moka Pot"
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Induction+Moka+Pot&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.moka-pot.co.uk%2Finduction&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                   (Accessed on April 6, 2012)
+                </span>
+              </li>
+              <li id="cite_note-5">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-5">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  CoffeeCrew: 
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.coffeecrew.com/gear/392-bellman-cappuccino-maker-reviewed">
+                      "Bellman Cappuccino Maker reviewed"
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Bellman+Cappuccino+Maker+reviewed&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.coffeecrew.com%2Fgear%2F392-bellman-cappuccino-maker-reviewed&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                   (Accessed on December 7, 2009)
+                </span>
+              </li>
+              <li id="cite_note-6">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-6">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.volturno.com.ar/principal.htm">
+                      "Volturno - Cafeteras Express"
+                    </a>
+                     (in Spanish)
+                    <span class="reference-accessdate">
+                      . Retrieved 15 December 2010
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Volturno+-+Cafeteras+Express&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.volturno.com.ar%2Fprincipal.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-7">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-7">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation news">
+                    <a rel="nofollow" class="external text" href="http://www.pagina12.com.ar/diario/suplementos/las12/13-5380-2009-12-18.html">
+                      "Familia de Artistas"
+                    </a>
+                    . 
+                    <i>
+                      <a href="/wiki/P%C3%A1gina/12" title="Página/12">
+                        Página/12
+                      </a>
+                    </i>
+                     (in Spanish)
+                    <span class="reference-accessdate">
+                      . Retrieved 15 December 2010
+                    </span>
+                    . "sirven café de una cafeterita Volturno"
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.atitle=Familia+de+Artistas&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pagina12.com.ar%2Fdiario%2Fsuplementos%2Flas12%2F13-5380-2009-12-18.html&amp;rft.jtitle=P%C3%A1gina%2F12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-8">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-8">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  Top Moka: 
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.topmokaitalia.com/english/index.php">
+                      "Top Moka"
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Top+Moka&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.topmokaitalia.com%2Fenglish%2Findex.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                   (Accessed on April 2, 2012)
+                </span>
+              </li>
+              <li id="cite_note-9">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-9">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.portanapoli.com/Eng/Gastronomy/moka-pot.html">
+                      "Brewing italian coffee with a moka pot"
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Brewing+italian+coffee+with+a+moka+pot&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.portanapoli.com%2FEng%2FGastronomy%2Fmoka-pot.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-10">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-10">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external free" href="http://www.sciencedirect.com/science/article/pii/S1359431108002299">
+                    http://www.sciencedirect.com/science/article/pii/S1359431108002299
+                  </a>
+                </span>
+              </li>
+              <li id="cite_note-11">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-11">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://espressoitaliano.org/doc/EIC%20-%20Eng%20-%20LQ.pdf">
+                      "Espresso Italiano Certificato"
+                    </a>
+                    . Istituto Nazionale Espresso Italiano
+                    <span class="reference-accessdate">
+                      . Retrieved 30 January 2011
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Espresso+Italiano+Certificato&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fespressoitaliano.org%2Fdoc%2FEIC%2520-%2520Eng%2520-%2520LQ.pdf&amp;rft.pub=Istituto+Nazionale+Espresso+Italiano&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-12">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-12">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.baristaexchange.com/forum/topics/espresso-and-classic-drink?xg_source=activity">
+                      "Espresso and classic drink Wiki"
+                    </a>
+                    <span class="reference-accessdate">
+                      . Retrieved 30 January 2011
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.btitle=Espresso+and+classic+drink+Wiki&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.baristaexchange.com%2Fforum%2Ftopics%2Fespresso-and-classic-drink%3Fxg_source%3Dactivity&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+            </ol>
+          </div>
+          <h2>
+            <span class="mw-headline" id="References">
+              References
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=9" title="Edit section: References">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <ul>
+            <li>
+              <span class="citation book">
+                Rombauer, Irma S.; Marion Rombauer Becker; Ethan Becker (August 1997). 
+                <i>
+                  <a href="/wiki/The_Joy_of_Cooking" title="The Joy of Cooking">
+                    The Joy of Cooking
+                  </a>
+                </i>
+                . 
+                <a href="/wiki/Charles_Scribner%27s_Sons" title="Charles Scribner's Sons">
+                  Scribner
+                </a>
+                . pp. 28–29. 
+                <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                  ISBN
+                </a>
+                 
+                <a href="/wiki/Special:BookSources/0-684-81870-1" title="Special:BookSources/0-684-81870-1">
+                  0-684-81870-1
+                </a>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.aufirst=Irma+S.&amp;rft.aulast=Rombauer&amp;rft.au=Rombauer%2C+Irma+S.&amp;rft.btitle=The+Joy+of+Cooking&amp;rft.date=August+1997&amp;rft.genre=book&amp;rft.isbn=0-684-81870-1&amp;rft.pages=28-29&amp;rft.pub=Scribner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+              <span style="display:none;font-size:100%" class="error citation-comment">
+                Cite uses deprecated parameters (
+                <a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">
+                  help
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <span class="citation book">
+                Schnapp, Jeffrey T. (2004). "The Romance of Aluminum and Caffeine". In Brown, Bill. 
+                <i>
+                  Things
+                </i>
+                . Chicago: University of Chicago Press. pp. 209–239.
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMoka+pot&amp;rft.atitle=Things&amp;rft.aufirst=Jeffrey+T.&amp;rft.aulast=Schnapp&amp;rft.au=Schnapp%2C+Jeffrey+T.&amp;rft.btitle=The+Romance+of+Aluminum+and+Caffeine&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.pages=209-239&amp;rft.pub=Chicago%3A+University+of+Chicago+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="External_links">
+              External links
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Moka_pot&amp;action=edit&amp;section=10" title="Edit section: External links">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"/>
+             Media related to 
+            <a href="//commons.wikimedia.org/wiki/Category:Moka_Expresses" class="extiw" title="commons:Category:Moka Expresses">
+              Moka Expresses
+            </a>
+             at Wikimedia Commons
+          </p>
+          <table cellspacing="0" class="navbox" style="border-spacing:0;">
+            <tbody>
+              <tr>
+                <td style="padding:2px;">
+                  <table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+                    <tbody>
+                      <tr>
+                        <th scope="col" class="navbox-title" colspan="2">
+                          <div class="plainlinks hlist navbar mini">
+                            <ul>
+                              <li class="nv-view">
+                                <a href="/wiki/Template:Coffee" title="Template:Coffee">
+                                  <span title="View this template" style=";;background:none transparent;border:none;;">
+                                    v
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-talk">
+                                <a href="/wiki/Template_talk:Coffee" title="Template talk:Coffee">
+                                  <span title="Discuss this template" style=";;background:none transparent;border:none;;">
+                                    t
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-edit">
+                                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Coffee&amp;action=edit">
+                                  <span title="Edit this template" style=";;background:none transparent;border:none;;">
+                                    e
+                                  </span>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="hrecipe fn ingredient" style="font-size:110%;">
+                            <a href="/wiki/Coffee" title="Coffee">
+                              Coffee
+                            </a>
+                          </div>
+                        </th>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Topics
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Economics_of_coffee" title="Economics of coffee">
+                                  Economics
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Fair_trade_coffee" title="Fair trade coffee">
+                                  Fair trade
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Health_effects_of_caffeine" title="Health effects of caffeine">
+                                  Health effects of caffeine
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/History_of_coffee" title="History of coffee">
+                                  History
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/List_of_countries_by_coffee_production" title="List of countries by coffee production">
+                            Production
+                          </a>
+                           by country
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Angola" title="Coffee production in Angola">
+                                  Angola
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Bolivia" title="Coffee production in Bolivia">
+                                  Bolivia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Brazil" title="Coffee production in Brazil">
+                                  Brazil
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Colombia" title="Coffee production in Colombia">
+                                  Colombia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Costa_Rica" title="Coffee production in Costa Rica">
+                                  Costa Rica
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Cuba" title="Coffee production in Cuba">
+                                  Cuba
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Ecuador" title="Coffee production in Ecuador">
+                                  Ecuador
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_El_Salvador" title="Coffee production in El Salvador">
+                                  El Salvador
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Ethiopia" title="Coffee production in Ethiopia">
+                                  Ethiopia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Guatemala" title="Coffee production in Guatemala">
+                                  Guatemala
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Haiti" title="Coffee production in Haiti">
+                                  Haiti
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Honduras" title="Coffee production in Honduras">
+                                  Honduras
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_India" title="Coffee production in India">
+                                  India
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Indonesia" title="Coffee production in Indonesia">
+                                  Indonesia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Kenya" title="Coffee production in Kenya">
+                                  Kenya
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Laos" title="Coffee production in Laos">
+                                  Laos
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Mexico" title="Coffee production in Mexico">
+                                  Mexico
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Nicaragua" title="Coffee production in Nicaragua">
+                                  Nicaragua
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Papua_New_Guinea" title="Coffee production in Papua New Guinea">
+                                  Papua New Guinea
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_the_Philippines" title="Coffee production in the Philippines">
+                                  Philippines
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Tanzania" title="Coffee production in Tanzania">
+                                  Tanzania
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Uganda" title="Coffee production in Uganda">
+                                  Uganda
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Hawaii" title="Coffee production in Hawaii">
+                                  United States
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Venezuela" title="Coffee production in Venezuela">
+                                  Venezuela
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Vietnam" title="Coffee production in Vietnam">
+                                  Vietnam
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_countries_by_coffee_consumption_per_capita" title="List of countries by coffee consumption per capita">
+                                  Countries by coffee consumption per capita
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffea" title="Coffea">
+                            Species
+                          </a>
+                           and 
+                          <a href="/wiki/List_of_coffee_varieties" title="List of coffee varieties">
+                            varieties
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_arabica" title="Coffea arabica">
+                                    Arabica
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_charrieriana" title="Coffea charrieriana">
+                                    Charrieriana
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_liberica" title="Coffea liberica">
+                                    Liberica
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Robusta_coffee" title="Robusta coffee" class="mw-redirect">
+                                    Robusta
+                                  </a>
+                                </i>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Components
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Cafestol" title="Cafestol">
+                                  Cafestol
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caffeic_acid" title="Caffeic acid">
+                                  Caffeic acid
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caffeine" title="Caffeine">
+                                  Caffeine
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_processing" title="Coffee processing" class="mw-redirect">
+                            Processing
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Coffee_roasting" title="Coffee roasting">
+                                  Coffee roasting
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_wastewater" title="Coffee wastewater">
+                                  Coffee wastewater
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Decaffeination" title="Decaffeination">
+                                  Decaffeination
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Home_roasting_coffee" title="Home roasting coffee">
+                                  Home roasting
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_preparation" title="Coffee preparation">
+                            Preparation
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/AeroPress" title="AeroPress">
+                                  AeroPress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chorreador" title="Chorreador">
+                                  Chorreador
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffeemaker" title="Coffeemaker">
+                                  Coffeemaker
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_syrup" title="Coffee syrup" class="mw-redirect">
+                                  Coffee syrup
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cold_brew" title="Cold brew">
+                                  Cold brew
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Drip_brew" title="Drip brew">
+                                  Drip brew
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso" title="Espresso">
+                                  Espresso
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Lungo" title="Lungo">
+                                      lungo
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Ristretto" title="Ristretto">
+                                      ristretto
+                                    </a>
+                                  </li>
+                                </ul>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso_machine" title="Espresso machine">
+                                  Espresso machine
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/French_press" title="French press">
+                                  French press
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Instant_coffee" title="Instant coffee">
+                                  Instant coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Knockbox" title="Knockbox">
+                                  Knockbox
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffee_dishes" title="List of coffee dishes">
+                                  List of coffee dishes
+                                </a>
+                              </li>
+                              <li>
+                                <strong class="selflink">
+                                  Moka pot
+                                </strong>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+                                  Percolator
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Turkish_coffee" title="Turkish coffee">
+                                  Turkish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Vacuum_coffee_maker" title="Vacuum coffee maker">
+                                  Vacuum maker
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/List_of_coffee_beverages" title="List of coffee beverages">
+                            Popular beverages
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Affogato" title="Affogato">
+                                  Affogato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_Americano" title="Caffè Americano">
+                                  Americano
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bica_(coffee)" title="Bica (coffee)">
+                                  Bica
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bicerin" title="Bicerin">
+                                  Bicerin
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Vietnamese_iced_coffee" title="Vietnamese iced coffee">
+                                  Cà phê s?a ?á
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_au_lait" title="Café au lait">
+                                  Café au lait
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_con_leche" title="Café con leche">
+                                  Café con leche
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cuban_espresso" title="Cuban espresso">
+                                  Café Cubano
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_mocha" title="Caffè mocha" class="mw-redirect">
+                                  Caffè mocha
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_Touba" title="Café Touba">
+                                  Café Touba
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_corretto" title="Caffè corretto">
+                                  Caffè corretto
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_com_Cheirinho" title="Café com Cheirinho">
+                                  Café com Cheirinho
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_macchiato" title="Caffè macchiato">
+                                  Caffè macchiato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cappuccino" title="Cappuccino">
+                                  Cappuccino
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Carajillo" title="Carajillo">
+                                  Carajillo
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chinesa" title="Chinesa">
+                                  Chinesa
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_milk" title="Coffee milk">
+                                  Coffee milk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cortado" title="Cortado">
+                                  Cortado
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso" title="Espresso">
+                                  Espresso
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Flat_white" title="Flat white">
+                                  Flat white
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Frappuccino" title="Frappuccino">
+                                  Frappuccino
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gal%C3%A3o" title="Galão">
+                                  Galão
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Garoto_(coffee)" title="Garoto (coffee)">
+                                  Garoto (coffee)
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Frapp%C3%A9_coffee" title="Frappé coffee">
+                                  Greek frappé coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Iced_coffee" title="Iced coffee">
+                                  Iced coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Indian_filter_coffee" title="Indian filter coffee">
+                                  Indian filter coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ipoh_white_coffee" title="Ipoh white coffee">
+                                  Ipoh white coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Irish_coffee" title="Irish coffee">
+                                  Irish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Karsk" title="Karsk">
+                                  Karsk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_Luwak" title="Kopi Luwak">
+                                  Kopi Luwak
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_tubruk" title="Kopi tubruk">
+                                  Kopi tubruk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Latte" title="Latte">
+                                  Latte
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Latte_macchiato" title="Latte macchiato">
+                                  Latte macchiato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Liqueur_coffee" title="Liqueur coffee">
+                                  Liqueur coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Long_black" title="Long black">
+                                  Long black
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Red_eye_(drink)" title="Red eye (drink)">
+                                  Red eye
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ristretto" title="Ristretto">
+                                  Ristretto
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/R%C3%BCdesheimer_Kaffee" title="Rüdesheimer Kaffee">
+                                  Rüdesheimer Kaffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Turkish_coffee" title="Turkish coffee">
+                                  Turkish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Yuanyang_(drink)" title="Yuanyang (drink)">
+                                  Yuanyang
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Brands
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/List_of_coffee_companies" title="List of coffee companies">
+                                  Coffee companies
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffeehouse_chains" title="List of coffeehouse chains">
+                                  Coffeehouses
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_substitute" title="Coffee substitute">
+                            Substitutes
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Roasted_barley_tea" title="Roasted barley tea">
+                                  Barley tea
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Barleycup" title="Barleycup">
+                                  Barleycup
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caro_(beverage)" title="Caro (beverage)">
+                                  Caro
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chicory" title="Chicory">
+                                  Chicory
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dandelion_coffee" title="Dandelion coffee">
+                                  Dandelion coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Inka_(beverage)" title="Inka (beverage)">
+                                  Inka
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Postum" title="Postum">
+                                  Postum
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Qishr" title="Qishr">
+                                  Qishr
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Roasted_grain_beverage" title="Roasted grain beverage">
+                                  Roasted grain beverage
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Lifestyle
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Barista" title="Barista">
+                                  Barista
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9" title="Café" class="mw-redirect">
+                                  Café
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8" title="Caffè">
+                                  Caffè
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_sospeso" title="Caffè sospeso">
+                                  Caffè sospeso
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Break_(work)#Coffee_break" title="Break (work)">
+                                  Coffee break
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_ceremony" title="Coffee ceremony">
+                                  Coffee ceremony
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_culture" title="Coffee culture">
+                                  Coffee culture
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_cupping" title="Coffee cupping">
+                                  Coffee cupping
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_Palace" title="Coffee Palace" class="mw-redirect">
+                                  Coffee Palace
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffeehouse" title="Coffeehouse">
+                                  Coffeehouse
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Fika_(coffee_break)" title="Fika (coffee break)">
+                                  Fika
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_tiam" title="Kopi tiam">
+                                  Kopi tiam
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffeehouse_chains" title="List of coffeehouse chains">
+                                  List of coffeehouse chains
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Viennese_coffee_house" title="Viennese coffee house">
+                                  Viennese coffee house
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <td class="navbox-abovebelow" colspan="2">
+                          <div>
+                            <ul>
+                              <li>
+                                <a href="/wiki/File:Emblem-relax.svg" class="image">
+                                  <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/16px-Emblem-relax.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/24px-Emblem-relax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/32px-Emblem-relax.svg.png 2x" data-file-width="60" data-file-height="60"/>
+                                </a>
+                                <a href="/wiki/Portal:Coffee" title="Portal:Coffee">
+                                  Coffee portal
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/File:Goblet_Glass_(Banquet).svg" class="image">
+                                  <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/9px-Goblet_Glass_%28Banquet%29.svg.png" width="9" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/14px-Goblet_Glass_%28Banquet%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/19px-Goblet_Glass_%28Banquet%29.svg.png 2x" data-file-width="239" data-file-height="408"/>
+                                </a>
+                                <a href="/wiki/Portal:Drink" title="Portal:Drink">
+                                  Drink portal
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"/>
+                                 
+                                <a href="/wiki/Category:Coffee" title="Category:Coffee">
+                                  Category: Coffee
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/24px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/32px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400"/>
+                                <a href="//en.wikibooks.org/wiki/Cookbook:Coffee" class="extiw" title="wikibooks:Cookbook:Coffee">
+                                  Coffee
+                                </a>
+                                 at Wikibook Cookbooks
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"/>
+                                 Media related to 
+                                <a href="//commons.wikimedia.org/wiki/Coffee" class="extiw" title="commons:Coffee">
+                                  Coffee
+                                </a>
+                                 at Wikimedia Commons
+                              </li>
+                              <li>
+                                <img alt="Project page" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/16px-Symbol_information_vote.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/23px-Symbol_information_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/31px-Symbol_information_vote.svg.png 2x" data-file-width="180" data-file-height="185"/>
+                                <a href="/wiki/Wikipedia:WikiProject_Food_and_drink/Beverages_Task_Force/Coffee_and_Tea_task_force" title="Wikipedia:WikiProject Food and drink/Beverages Task Force/Coffee and Tea task force">
+                                  Project
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- 
+NewPP limit report
+Parsed by mw1179
+CPU time usage: 0.876 seconds
+Real time usage: 0.971 seconds
+Preprocessor visited node count: 2224/1000000
+Preprocessor generated node count: 11357/1500000
+Post?expand include size: 56497/2048000 bytes
+Template argument size: 3578/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Lua time usage: 0.115/10.000 seconds
+Lua memory usage: 2.84 MB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:5964683-0!*!0!!en!4!* and timestamp 20140607220210 and revision id 611482991
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Moka_pot&amp;oldid=611482991">
+            http://en.wikipedia.org/w/index.php?title=Moka_pot&amp;oldid=611482991
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Italian_brands" title="Category:Italian brands">
+                  Italian brands
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Italian_beverages" title="Category:Italian beverages">
+                  Italian beverages
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Coffee_preparation" title="Category:Coffee preparation">
+                  Coffee preparation
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+                  All articles with unsourced statements
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2013" title="Category:Articles with unsourced statements from October 2013">
+                  Articles with unsourced statements from October 2013
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">
+                  Articles with unsourced statements from February 2013
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">
+                  Pages containing cite templates with deprecated parameters
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Moka+pot&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Moka+pot" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Moka_pot" title="View the content page [c]" accesskey="c">
+                    Article
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Talk:Moka_pot" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Moka_pot">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit">
+                <span>
+                  <a href="/w/index.php?title=Moka_pot&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">
+                    Edit
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Moka_pot&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Moka_pot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Moka_pot" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Moka_pot&amp;oldid=611482991" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Moka_pot&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q1054566" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:Cite&amp;page=Moka_pot&amp;id=611482991" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Moka+pot">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Moka+pot&amp;oldid=611482991&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Moka_pot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-az">
+                <a href="//az.wikipedia.org/wiki/Moka_(q%C9%99hv%C9%99dan)" title="Moka (q?hv?dan) – Azerbaijani" lang="az" hreflang="az">
+                  Az?rbaycanca
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="//cs.wikipedia.org/wiki/Moka" title="Moka – Czech" lang="cs" hreflang="cs">
+                  ?eština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Espressokanne" title="Espressokanne – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Cafetera_moka" title="Cafetera moka – Spanish" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eo">
+                <a href="//eo.wikipedia.org/wiki/Espreskru%C4%89o" title="Espreskru?o – Esperanto" lang="eo" hreflang="eo">
+                  Esperanto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="//fa.wikipedia.org/wiki/%D9%82%D9%88%D8%B1%DB%8C_%D9%82%D9%87%D9%88%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2_%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88" title="???? ???????? ?????? – Persian" lang="fa" hreflang="fa">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Moka_(cafeti%C3%A8re)" title="Moka (cafetière) – French" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="//ko.wikipedia.org/wiki/%EB%AA%A8%EC%B9%B4_%ED%8F%AC%ED%8A%B8" title="?? ?? – Korean" lang="ko" hreflang="ko">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Moka" title="Moka – Italian" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="//he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%99%D7%A0%D7%98%D7%94" title="?????? – Hebrew" lang="he" hreflang="he">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="//nl.wikipedia.org/wiki/Moka_express" title="Moka express – Dutch" lang="nl" hreflang="nl">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="//ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9" title="???????? – Japanese" lang="ja" hreflang="ja">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nap">
+                <a href="//nap.wikipedia.org/wiki/Moka" title="Moka – Neapolitan" lang="nap" hreflang="nap">
+                  Napulitano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="//pl.wikipedia.org/wiki/Makinetka" title="Makinetka – Polish" lang="pl" hreflang="pl">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="//pt.wikipedia.org/wiki/Cafeteira_moka" title="Cafeteira moka – Portuguese" lang="pt" hreflang="pt">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D0%B0" title="???? – Russian" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Mokkapannu" title="Mokkapannu – Finnish" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Mokabryggare" title="Mokabryggare – Swedish" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="//uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D0%B0_(%D0%BA%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%D1%80%D0%BA%D0%B0)" title="???? (?????????) – Ukrainian" lang="uk" hreflang="uk">
+                  ??????????
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q1054566#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 4 June 2014 at 05:15.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Moka_pot" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":206,"wgHostname":"mw1209"});
+}
+//]]>
+    </script>
+  </body>
+</html>

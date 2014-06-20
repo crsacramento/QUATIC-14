@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default
+RATIOTOTAL:0.007697208015269842
+RATIOPREVIOUS:0.383
+SELENIUMSTEP:26

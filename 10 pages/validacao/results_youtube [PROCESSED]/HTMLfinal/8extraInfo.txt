@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/user/bancodechile
+RATIOTOTAL:0.24324752741554814
+RATIOPREVIOUS:0.078
+SELENIUMSTEP:10

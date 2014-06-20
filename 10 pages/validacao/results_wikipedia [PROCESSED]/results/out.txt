@@ -1,0 +1,856 @@
+INIT|correlation:1|HTML index:2
+
+open	http://en.wikipedia.org	EMPTY
+
+Action #0 | Page URL is: http://en.wikipedia.org/wiki/Main_Page
+menu elements found:108
+non_empty: CALL=267|SEARCH=1||total: 268
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/wiki/1975_British_Grand_Prix" title="1975 British Grand Prix"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/1975_British_Grand_Prix and contains(text(),'1975 British Grand Prix')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/1975_British_Grand_Prix and contains(text(),'1975 British Grand Prix')]	EMPTY
+INC_HTML|correlation:2|HTML index:3
+
+Action #1 | Page URL is: http://en.wikipedia.org/wiki/1975_British_Grand_Prix
+menu elements found:222
+non_empty: CALL=418|SEARCH=1||total: 419
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/wiki/Mario_Andretti" title="Mario Andretti"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Mario_Andretti and contains(text(),'Mario Andretti')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Mario_Andretti and contains(text(),'Mario Andretti')]	EMPTY
+INC_HTML|correlation:3|HTML index:4
+
+Action #2 | Page URL is: http://en.wikipedia.org/wiki/Mario_Andretti
+menu elements found:976
+non_empty: CALL=2367|SEARCH=1||total: 2368
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /> (no text) | LOCATOR://input[@id=searchInput and @name=search and @type=search]
+type	//input[@id=searchInput and @name=search and @type=search]	coffee
+INC_CORR|correlation:4|HTML index:4
+elems.size()=6
+SUBMIT=len:4
+clickAndWait	//input[@id=mw-searchButton and @class=searchButton mw-fallbackSearchButton and @name=fulltext and @type=submit]	EMPTY
+INC_HTML|correlation:5|HTML index:5
+
+Action #3 | Page URL is: http://en.wikipedia.org/w/index.php?search=coffee&title=Special%3ASearch&fulltext=Search
+menu elements found:96
+non_empty: CALL=98|SEARCH=1||total: 99
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/wiki/Coffeemaker" title="Coffeemaker"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Coffeemaker and contains(text(),'Coffeemaker')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Coffeemaker and contains(text(),'Coffeemaker')]	EMPTY
+INC_HTML|correlation:6|HTML index:6
+
+Action #4 | Page URL is: http://en.wikipedia.org/wiki/Coffeemaker
+menu elements found:221
+non_empty: CALL=292||total: 292
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/wiki/Moka_pot" title="Moka pot"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Moka_pot and contains(text(),'Moka pot')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Moka_pot and contains(text(),'Moka pot')]	EMPTY
+INC_HTML|correlation:7|HTML index:7
+
+Action #5 | Page URL is: http://en.wikipedia.org/wiki/Moka_pot
+menu elements found:207
+non_empty: CALL=273||total: 273
+masterElements size:0|detailElements size:1
+ELEMENT: <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License and contains(text(),'Creative Commons Attribution-ShareAlike License')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License and contains(text(),'Creative Commons Attribution-ShareAlike License')]	EMPTY
+INC_HTML|correlation:8|HTML index:8
+
+Action #6 | Page URL is: http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+menu elements found:101
+non_empty: CALL=100||total: 100
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history" title="Past versions of this page [h]" accesskey="h"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history and contains(text(),'View history')]
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history and contains(text(),'View history')]	EMPTY
+INC_HTML|correlation:9|HTML index:9
+
+Action #7 | Page URL is: http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history
+menu elements found:37
+non_empty: SELECT=1|INPUT=2|CALL=264|LOGIN=42||total: 309
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/wiki/Special:Contributions/Aervanath" title="Special:Contributions/Aervanath"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Special:Contributions/Aervanath and contains(text(),'contribs')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:Contributions/Aervanath and contains(text(),'contribs')]	EMPTY
+INC_HTML|correlation:10|HTML index:10
+
+Action #8 | Page URL is: http://en.wikipedia.org/wiki/Special:Contributions/Aervanath
+menu elements found:45
+non_empty: SELECT=2|INPUT=3|CALL=384|LOGIN=2||total: 391
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page"> (has text) | LOCATOR://a[@id=feed-atom and @class=feedlink and @href=http://en.wikipedia.org/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom and @type=application/atom+xml and contains(text(),'Atom')]
+clickAndWait	//a[@id=feed-atom and @class=feedlink and @href=http://en.wikipedia.org/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom and @type=application/atom+xml and contains(text(),'Atom')]	EMPTY
+INC_HTML|correlation:11|HTML index:11
+
+Action #9 | Page URL is: http://en.wikipedia.org/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom
+non_empty: |total: 0
+masterElements size:0|detailElements size:1
+INC_HTML|correlation:12|HTML index:12
+open	http://en.wikipedia.org	EMPTY
+No suitable element found, going back to base URL. Redirects left:4
+
+Action #8 | Page URL is: http://en.wikipedia.org/wiki/Main_Page
+menu elements found:108
+non_empty: CALL=265||total: 265
+masterElements size:0|detailElements size:1
+ELEMENT: <a href="/wiki/Karachi" title="Karachi"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Karachi and contains(text(),'Karachi')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Karachi and contains(text(),'Karachi')]	EMPTY
+INC_HTML|correlation:13|HTML index:13
+
+Action #9 | Page URL is: http://en.wikipedia.org/wiki/Karachi
+menu elements found:1103
+non_empty: CALL=1990|LOGIN=8||total: 1998
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/wiki/Ibrahim_Ismail_Chundrigar_Road" title="Ibrahim Ismail Chundrigar Road"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road and contains(text(),'Ibrahim Ismail Chundrigar Road')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road and contains(text(),'Ibrahim Ismail Chundrigar Road')]	EMPTY
+INC_HTML|correlation:14|HTML index:14
+
+Action #10 | Page URL is: http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road
+menu elements found:328
+non_empty: CALL=334|LOGIN=21||total: 355
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Create a book')]
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Create a book')]	EMPTY
+INC_HTML|correlation:15|HTML index:15
+
+Action #11 | Page URL is: http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road
+menu elements found:31
+non_empty: CALL=22|LOGIN=7||total: 29
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/w/index.php?title=Special:Book&bookcmd=start_book_creator&referer=Ibrahim+Ismail+Chundrigar+Road"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=start_book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Start book creator')]
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=start_book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Start book creator')]	EMPTY
+INC_HTML|correlation:16|HTML index:16
+
+Action #12 | Page URL is: http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road
+menu elements found:328
+non_empty: CALL=334|LOGIN=20||total: 354
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/wiki/Clifton_Beach,_Karachi" title="Clifton Beach, Karachi"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Clifton_Beach,_Karachi and contains(text(),'Clifton Beach')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Clifton_Beach,_Karachi and contains(text(),'Clifton Beach')]	EMPTY
+INC_HTML|correlation:17|HTML index:17
+
+Action #13 | Page URL is: http://en.wikipedia.org/wiki/Clifton_Beach,_Karachi
+menu elements found:192
+non_empty: CALL=221||total: 221
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/wiki/Category:Seaside_resorts_in_Pakistan" title="Category:Seaside resorts in Pakistan"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Category:Seaside_resorts_in_Pakistan and contains(text(),'Seaside resorts in Pakistan')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Category:Seaside_resorts_in_Pakistan and contains(text(),'Seaside resorts in Pakistan')]	EMPTY
+INC_HTML|correlation:18|HTML index:18
+
+Action #14 | Page URL is: http://en.wikipedia.org/wiki/Category:Seaside_resorts_in_Pakistan
+menu elements found:47
+non_empty: CALL=44||total: 44
+masterElements size:2|detailElements size:1
+ELEMENT: <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Special:SpecialPages and contains(text(),'Special pages')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:SpecialPages and contains(text(),'Special pages')]	EMPTY
+INC_HTML|correlation:19|HTML index:19
+
+Action #15 | Page URL is: http://en.wikipedia.org/wiki/Special:SpecialPages
+menu elements found:30
+non_empty: CALL=130|LOGIN=5||total: 135
+masterElements size:2|detailElements size:1
+ELEMENT: <a href="/wiki/Special:PasswordReset" title="Special:PasswordReset"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Special:PasswordReset and contains(text(),'Reset password')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:PasswordReset and contains(text(),'Reset password')]	EMPTY
+INC_HTML|correlation:20|HTML index:20
+
+Action #16 | Page URL is: http://en.wikipedia.org/wiki/Special:PasswordReset
+menu elements found:30
+non_empty: INPUT=1|CALL=21|LOGIN=1||total: 23
+masterElements size:2|detailElements size:1
+ELEMENT: <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Portal:Featured_content and contains(text(),'Featured content')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Portal:Featured_content and contains(text(),'Featured content')]	EMPTY
+INC_HTML|correlation:21|HTML index:21
+
+Action #17 | Page URL is: http://en.wikipedia.org/wiki/Portal:Featured_content
+menu elements found:98
+non_empty: CALL=341||total: 341
+masterElements size:2|detailElements size:1
+ELEMENT: <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_picture_candidates and contains(text(),'T')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_picture_candidates and contains(text(),'T')]	EMPTY
+INC_HTML|correlation:22|HTML index:22
+
+Action #18 | Page URL is: http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_picture_candidates
+menu elements found:50
+non_empty: CALL=150|SEARCH=1||total: 151
+masterElements size:2|detailElements size:1
+ELEMENT: <input class="searchboxInput" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /> (no text) | LOCATOR://input[@class=searchboxInput and @name=search and @type=text]
+type	//input[@class=searchboxInput and @name=search and @type=text]	sandals
+INC_CORR|correlation:23|HTML index:22
+elems.size()=11
+SUBMIT=len:4
+clickAndWait	//input[@class=searchboxSearchButton and @name=fulltext and @type=submit]	EMPTY
+INC_HTML|correlation:24|HTML index:23
+
+Action #19 | Page URL is: http://en.wikipedia.org/wiki/Special:Search?search=sandals&prefix=Wikipedia+talk%3AFeatured+picture+candidates%2FArchive&fulltext=Search&fulltext=Search
+menu elements found:34
+non_empty: CALL=30|SEARCH=1||total: 31
+masterElements size:2|detailElements size:2
+ELEMENT: <a dir="ltr" href="http://en.wikipedia.org/wiki/Special:Search"> (no text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Special:Search]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:Search]	EMPTY
+INC_HTML|correlation:25|HTML index:24
+
+Action #20 | Page URL is: http://en.wikipedia.org/wiki/Special:Search
+menu elements found:34
+non_empty: CALL=26|SEARCH=1||total: 27
+masterElements size:2|detailElements size:2
+ELEMENT: <a href="/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default" title="Search in (Article)"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default and contains(text(),'Content pages')]
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default and contains(text(),'Content pages')]	EMPTY
+INC_HTML|correlation:26|HTML index:25
+
+Action #21 | Page URL is: http://en.wikipedia.org/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default
+menu elements found:34
+non_empty: CALL=25|SEARCH=1||total: 26
+masterElements size:2|detailElements size:2
+ELEMENT: <input id="searchText" size="50" autofocus="" class="mw-ui-input" type="search" name="search" /> (no text) | LOCATOR://input[@id=searchText and @class=mw-ui-input and @name=search and @type=search]
+type	//input[@id=searchText and @class=mw-ui-input and @name=search and @type=search]	shirt
+INC_CORR|correlation:27|HTML index:25
+elems.size()=12
+SUBMIT=len:4
+clickAndWait	//input[@class=mw-ui-button mw-ui-progressive and @type=submit]	EMPTY
+INC_HTML|correlation:28|HTML index:26
+
+Action #22 | Page URL is: http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search=shirt&fulltext=Search
+menu elements found:89
+non_empty: CALL=88||total: 88
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Dress_shirt" title="Dress shirt"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Dress_shirt and contains(text(),'Dress shirt')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Dress_shirt and contains(text(),'Dress shirt')]	EMPTY
+INC_HTML|correlation:29|HTML index:27
+
+Action #23 | Page URL is: http://en.wikipedia.org/wiki/Dress_shirt
+menu elements found:269
+non_empty: CALL=380|LOGIN=3||total: 383
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Collar_stud" title="Collar stud" class="mw-redirect"> (has text) | LOCATOR://a[@class=mw-redirect and @href=http://en.wikipedia.org/wiki/Collar_stud and contains(text(),'collar studs')]
+clickAndWait	//a[@class=mw-redirect and @href=http://en.wikipedia.org/wiki/Collar_stud and contains(text(),'collar studs')]	EMPTY
+INC_HTML|correlation:30|HTML index:28
+
+Action #24 | Page URL is: http://en.wikipedia.org/wiki/Collar_stud
+menu elements found:51
+non_empty: CALL=63||total: 63
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"> (has text) | LOCATOR://a[@href=http://en.wikipedia.org/wiki/Help:Contents and contains(text(),'Help')]
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Help:Contents and contains(text(),'Help')]	EMPTY
+INC_HTML|correlation:31|HTML index:29
+
+Action #25 | Page URL is: http://en.wikipedia.org/wiki/Help:Contents
+menu elements found:421
+non_empty: CALL=452|LOGIN=2||total: 454
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to" title="Wikipedia:Ajùto – Neapolitan" lang="nap" hreflang="nap"> (has text) | LOCATOR://a[@href=http://nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to and contains(text(),'Napulitano')]
+clickAndWait	//a[@href=http://nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to and contains(text(),'Napulitano')]	EMPTY
+INC_HTML|correlation:32|HTML index:30
+
+Action #26 | Page URL is: http://nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to
+menu elements found:194
+non_empty: CALL=214||total: 214
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//eo.wikipedia.org/wiki/Helpo:Enhavo" title="Helpo:Enhavo - esperanto" lang="eo" hreflang="eo"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/wiki/Helpo:Enhavo and contains(text(),'Esperanto')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Helpo:Enhavo and contains(text(),'Esperanto')]	EMPTY
+INC_HTML|correlation:33|HTML index:31
+
+Action #27 | Page URL is: http://eo.wikipedia.org/wiki/Helpo:Enhavo
+menu elements found:195
+non_empty: CALL=310||total: 310
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj" title="Projekto:Korektado de ru?aj ligiloj"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj and contains(text(),'Korektado de ru?aj ligiloj')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj and contains(text(),'Korektado de ru?aj ligiloj')]	EMPTY
+INC_HTML|correlation:34|HTML index:32
+
+Action #28 | Page URL is: http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj
+menu elements found:44
+non_empty: CALL=151||total: 151
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O" title="Projekto:Korektado de ru?aj ligiloj/la? distanco/Esceptoj/O"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O and contains(text(),'esceptoj')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O and contains(text(),'esceptoj')]	EMPTY
+INC_HTML|correlation:35|HTML index:33
+
+Action #29 | Page URL is: http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O
+menu elements found:39
+non_empty: CALL=32||total: 32
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj and contains(text(),'Novaj pa?oj')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj and contains(text(),'Novaj pa?oj')]	EMPTY
+INC_HTML|correlation:36|HTML index:34
+
+Action #30 | Page URL is: http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj
+menu elements found:27
+non_empty: SELECT=1|INPUT=1|CALL=369|LOGIN=52||total: 423
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history" title="Aleksandr Geljevi? Dugin"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history and contains(text(),'historio')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history and contains(text(),'historio')]	EMPTY
+INC_HTML|correlation:37|HTML index:35
+
+Action #31 | Page URL is: http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history
+menu elements found:34
+non_empty: SELECT=1|INPUT=2|CALL=33|LOGIN=1||total: 37
+masterElements size:2|detailElements size:3
+ELEMENT: <input id="year" maxlength="4" size="7" type="number" value="2014" name="year" /> (no text) | LOCATOR://input[@id=year and @name=year and @type=number]
+
+Action #32 | Page URL is: http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history
+menu elements found:34
+non_empty: SELECT=1|INPUT=2|CALL=33|LOGIN=1||total: 37
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Uzanto:Ri%C5%9Do" title="Uzanto:Ri?o" class="mw-userlink"> (has text) | LOCATOR://a[@class=mw-userlink and @href=http://eo.wikipedia.org/wiki/Uzanto:Ri%C5%9Do and contains(text(),'Ri?o')]
+clickAndWait	//a[@class=mw-userlink and @href=http://eo.wikipedia.org/wiki/Uzanto:Ri%C5%9Do and contains(text(),'Ri?o')]	EMPTY
+INC_HTML|correlation:38|HTML index:36
+
+Action #33 | Page URL is: http://eo.wikipedia.org/wiki/Uzanto:Ri%C5%9Do
+menu elements found:41
+non_empty: CALL=39||total: 39
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Alemana" title="Alemana" class="mw-redirect"> (has text) | LOCATOR://a[@class=mw-redirect and @href=http://eo.wikipedia.org/wiki/Alemana and contains(text(),'alemana')]
+clickAndWait	//a[@class=mw-redirect and @href=http://eo.wikipedia.org/wiki/Alemana and contains(text(),'alemana')]	EMPTY
+INC_HTML|correlation:39|HTML index:37
+
+Action #34 | Page URL is: http://eo.wikipedia.org/wiki/Alemana
+menu elements found:93
+non_empty: CALL=153||total: 153
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Francio" title="Francio"> (has text) | LOCATOR://a[@href=http://eo.wikipedia.org/wiki/Francio and contains(text(),'Francio')]
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Francio and contains(text(),'Francio')]	EMPTY
+INC_HTML|correlation:40|HTML index:38
+
+Action #35 | Page URL is: http://eo.wikipedia.org/wiki/Francio
+menu elements found:527
+non_empty: CALL=1229||total: 1229
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//frp.wikipedia.org/wiki/France" title="France — Franco-Provençal" lang="frp" hreflang="frp"> (has text) | LOCATOR://a[@href=http://frp.wikipedia.org/wiki/France and contains(text(),'Arpetan')]
+clickAndWait	//a[@href=http://frp.wikipedia.org/wiki/France and contains(text(),'Arpetan')]	EMPTY
+INC_HTML|correlation:41|HTML index:39
+
+Action #36 | Page URL is: http://frp.wikipedia.org/wiki/France
+menu elements found:286
+non_empty: CALL=523||total: 523
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//or.wikipedia.org/wiki/%E0%AC%AB%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%B8" title="??????? — oriya" lang="or" hreflang="or"> (has text) | LOCATOR://a[@href=http://or.wikipedia.org/wiki/%E0%AC%AB%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%B8 and contains(text(),'?????')]
+clickAndWait	//a[@href=http://or.wikipedia.org/wiki/%E0%AC%AB%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%B8 and contains(text(),'?????')]	EMPTY
+INC_HTML|correlation:42|HTML index:40
+
+Action #37 | Page URL is: http://or.wikipedia.org/wiki/%E0%AC%AB%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%B8
+menu elements found:356
+non_empty: CALL=364||total: 364
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%B3%D8%A7" title="????? – ??????" lang="ar" hreflang="ar"> (has text) | LOCATOR://a[@href=http://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%B3%D8%A7 and contains(text(),'???????')]
+clickAndWait	//a[@href=http://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%B3%D8%A7 and contains(text(),'???????')]	EMPTY
+INC_HTML|correlation:43|HTML index:41
+
+Action #38 | Page URL is: http://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%B3%D8%A7
+menu elements found:856
+non_empty: CALL=1557||total: 1557
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9" title="????? ????????" class="mw-redirect"> (has text) | LOCATOR://a[@class=mw-redirect and @href=http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9 and contains(text(),'??????????????')]
+clickAndWait	//a[@class=mw-redirect and @href=http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9 and contains(text(),'??????????????')]	EMPTY
+INC_HTML|correlation:44|HTML index:42
+
+Action #39 | Page URL is: http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9
+menu elements found:532
+non_empty: CALL=715||total: 715
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/w/index.php?title=Alguerese&action=edit&redlink=1" class="new" title="Alguerese (?????? ??? ??????)"> (has text) | LOCATOR://a[@class=new and @href=http://ar.wikipedia.org/w/index.php?title=Alguerese&action=edit&redlink=1 and contains(text(),'Alguerese')]
+clickAndWait	//a[@class=new and @href=http://ar.wikipedia.org/w/index.php?title=Alguerese&action=edit&redlink=1 and contains(text(),'Alguerese')]	EMPTY
+INC_HTML|correlation:45|HTML index:43
+
+Action #40 | Page URL is: http://ar.wikipedia.org/w/index.php?title=Alguerese&action=edit&redlink=1
+menu elements found:33
+non_empty: INPUT=3|CALL=47||total: 50
+masterElements size:2|detailElements size:3
+ELEMENT: <input type="text" name="wpAntispam" id="wpAntispam" value="" /> (no text) | LOCATOR://input[@id=wpAntispam and @name=wpAntispam and @type=text]
+type	//input[@id=wpAntispam and @name=wpAntispam and @type=text]	shirt
+INC_CORR|correlation:46|HTML index:43
+elems.size()=28
+SUBMIT=len:8
+clickAndWait	//input[@id=wpSave and @name=wpSave and @type=submit]	EMPTY
+INC_HTML|correlation:47|HTML index:44
+
+Action #41 | Page URL is: http://ar.wikipedia.org/w/index.php?title=Alguerese&action=submit
+menu elements found:31
+non_empty: CALL=24||total: 24
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86"> (has text) | LOCATOR://a[@href=http://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86 and contains(text(),'???????')]
+clickAndWait	//a[@href=http://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86 and contains(text(),'???????')]	EMPTY
+INC_HTML|correlation:48|HTML index:45
+
+Action #42 | Page URL is: http://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86
+menu elements found:279
+non_empty: CALL=296|LOGIN=1||total: 297
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="//ff.wikipedia.org/wiki/Wikipedia:Accueil" title="Wikipedia:Accueil – ?????" lang="ff" hreflang="ff"> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Fulfulde')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Fulfulde')]	EMPTY
+INC_HTML|correlation:49|HTML index:46
+
+Action #43 | Page URL is: http://ff.wikipedia.org/wiki/Wikipedia:Accueil
+menu elements found:232
+non_empty: CALL=438|LOGIN=41||total: 479
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/w/index.php?title=Wikipedia:Accueil&action=edit&section=58" title="Ta?to rogere: [en] Change to wiki account system and account renaming"> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=edit&section=58 and contains(text(),'ta?to')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=edit&section=58 and contains(text(),'ta?to')]	EMPTY
+INC_HTML|correlation:50|HTML index:47
+
+Action #44 | Page URL is: http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=edit&section=58
+menu elements found:29
+non_empty: INPUT=2|CALL=21||total: 23
+masterElements size:2|detailElements size:3
+ELEMENT: <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Naatnu tonngol da??ol [b]" accesskey="b" value="/* [en] Change to wiki account system and account renaming */ " name="wpSummary" type="text" /> (no text) | LOCATOR://input[@id=wpSummary and @class=mw-summary and @name=wpSummary and @type=text]
+type	//input[@id=wpSummary and @class=mw-summary and @name=wpSummary and @type=text]	coffee
+INC_CORR|correlation:51|HTML index:47
+elems.size()=25
+SUBMIT=len:6
+clickAndWait	//input[@id=wpPreview and @name=wpPreview and @type=submit]	EMPTY
+INC_HTML|correlation:52|HTML index:48
+
+Action #45 | Page URL is: http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit
+menu elements found:214
+non_empty: INPUT=1|CALL=201||total: 202
+masterElements size:2|detailElements size:3
+ELEMENT: <textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="ff" dir="ltr" name="wpTextbox1"> (has text) | LOCATOR://textarea[@id=wpTextbox1 and @name=wpTextbox1]
+type	//textarea[@id=wpTextbox1 and @name=wpTextbox1]	banana
+INC_CORR|correlation:53|HTML index:48
+elems.size()=25
+SUBMIT=len:4
+clickAndWait	//input[@id=wpDiff and @name=wpDiff and @type=submit]	EMPTY
+INC_HTML|correlation:54|HTML index:49
+
+Action #46 | Page URL is: http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit
+menu elements found:215
+non_empty: CALL=21||total: 21
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Wikipedia:Accueil"> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Tar')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Tar')]	EMPTY
+INC_HTML|correlation:55|HTML index:50
+
+Action #47 | Page URL is: http://ff.wikipedia.org/wiki/Wikipedia:Accueil
+menu elements found:232
+non_empty: CALL=436|LOGIN=41||total: 477
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF)" title="Spécial:Envoyer un courriel/Keegan (WMF)"> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'email')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'email')]	EMPTY
+INC_HTML|correlation:56|HTML index:51
+
+Action #48 | Page URL is: http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF)
+menu elements found:23
+non_empty: CALL=15||total: 15
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF)" title="Ceci est une page spéciale, vous ne pouvez pas la modifier."> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'Hello heeriingo')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'Hello heeriingo')]	EMPTY
+INC_HTML|correlation:57|HTML index:52
+
+Action #49 | Page URL is: http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF)
+menu elements found:23
+non_empty: CALL=14||total: 14
+masterElements size:2|detailElements size:3
+ELEMENT: <a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Doggol kelle keerii?e fof [q]" accesskey="q"> (has text) | LOCATOR://a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales and contains(text(),'Kelle keerii?e')]
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales and contains(text(),'Kelle keerii?e')]	EMPTY
+INC_HTML|correlation:58|HTML index:53
+-------TESTING-------
+start
+	1|2
+	2|3
+	3|4
+	4|5
+	5|6
+	6|7
+	7|8
+	8|9
+	9|10
+	10|11
+	11|12
+	12|13
+	13|14
+	14|15
+	15|16
+	16|17
+	17|18
+	18|19
+	19|20
+	20|21
+	21|22
+	22|23
+	23|24
+	24|25
+	25|26
+	26|27
+	27|28
+	28|29
+	29|30
+	30|31
+	31|32
+	32|33
+	33|34
+	34|35
+	35|36
+	36|37
+	37|38
+	38|39
+	39|40
+	40|41
+	41|42
+	42|43
+	43|44
+	44|45
+	45|46
+	46|47
+	47|48
+	48|49
+	49|50
+	50|51
+	51|52
+	final2
+	final3
+	final4
+	final5
+	final6
+	final7
+	final8
+	final9
+	final10
+	final11
+	final12
+	final13
+	final14
+	final15
+	final16
+	final17
+	final18
+	final19
+	final20
+	final21
+	final22
+	final23
+	final24
+	final25
+	final26
+	final27
+	final28
+	final29
+	final30
+	final31
+	final32
+	final33
+	final34
+	final35
+	final36
+	final37
+	final38
+	final39
+	final40
+	final41
+	final42
+	final43
+	final44
+	final45
+	final46
+	final47
+	final48
+	final49
+	final50
+	final51
+	final52
+processList
+10.txt
+11.txt
+12.txt
+13.txt
+14.txt
+15.txt
+16.txt
+17.txt
+18.txt
+19.txt
+2.txt
+20.txt
+21.txt
+22.txt
+23.txt
+24.txt
+25.txt
+26.txt
+27.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+32.txt
+33.txt
+34.txt
+35.txt
+36.txt
+37.txt
+38.txt
+39.txt
+4.txt
+40.txt
+41.txt
+42.txt
+43.txt
+44.txt
+45.txt
+46.txt
+47.txt
+48.txt
+49.txt
+5.txt
+50.txt
+51.txt
+52.txt
+6.txt
+7.txt
+8.txt
+9.txt
+	fileSizeAverage: 294652.29411764705
+	ratio:0.0
+	ratio:0.8435943142555463
+	ratio:3.6917649097470617
+	ratio:3.645262641570154
+	ratio:0.6706277329071214
+	ratio:0.4603256200878044
+	ratio:0.6315206218136672
+	ratio:0.6706175514150378
+	ratio:0.899660397329734
+	ratio:1.6357517305042895
+	ratio:1.5358135980414802
+	ratio:4.108873489770295
+	ratio:4.198104086391758
+	ratio:0.47124017960152037
+	ratio:0.4711926659717965
+	ratio:0.3433436698768978
+	keyword: sort
+	ratio:0.31225618071469685
+sort
+	ratio:0.19687611859162416
+	ratio:0.15928944364933426
+	ratio:0.5032881228502828
+	ratio:0.6673017788264493
+	ratio:0.26478327695914367
+	ratio:0.022029355038411177
+	ratio:0.007697208015269842
+	ratio:0.20265581226446566
+	ratio:0.7265818195683886
+	ratio:0.5551967633236303
+	ratio:0.5961195738386761
+	ratio:0.7357315871209316
+	ratio:0.4708668582251184
+	ratio:0.5038888308832205
+	ratio:0.22459692770481818
+	ratio:0.4199627916373616
+	ratio:0.43229936621209963
+	ratio:0.08623384411816201
+	ratio:0.23018656685876415
+	ratio:1.4015265051189947
+	ratio:1.7496283256296705
+	ratio:0.9466004696662408
+	ratio:3.394536611347892
+	ratio:3.764759420325732
+	ratio:1.2262079990992374
+	ratio:0.13311282750216658
+	ratio:0.38442259660389344
+	ratio:1.6325241975137594
+	ratio:1.3851716350018937
+	ratio:0.2304241350073836
+	ratio:0.24947370669596808
+	ratio:1.4054599548939937
+	ratio:1.3681990876983818
+	ratio:6.108895250214161E-4
+	ratio:0.13180620268475965
+PatternNonSeleniumFinder.ProcessUrlsAndHTMLSize(pageInfo)
+Possible search text box here
+Possible search here with coffee keyword
+Possible search here with "search" in the url
+Possible search text box here
+Possible search here with sandals keyword
+Possible search here with "search" in the url
+Possible search text box here
+Possible search here with shirt keyword
+Possible search here with "search" in the url
+	findURLSearchVariablesInHTML(http://ar.wikipedia.org/w/index.php?title=Alguerese&action=submit,43)
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Alguerese
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit,47)
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Wikipedia:Accueil
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit,48)
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Wikipedia:Accueil
+	passed inputs
+	passed selects
+Found input pattern
+processSeleniumActions
+55.551
+849.106
+-941.949
+64.385
+-4.086
+-56.882
+62.064
+1.29
+177.665
+-207.144
+1021.047
+-999.629
+-111.214
+111.214
+-39.918
+-68.775
+24.56
+-34.083
+133.503
+-74.17
+-55.707
+-2.387
+0.383
+54.807
+86.436
+-119.922
+126.917
+-93.951
+31.822
+-36.539
+-48.474
+100.825
+-96.489
+-4.246
+49.361
+319.496
+-176.29
+-80.781
+829.621
+-623.049
+-292.149
+-28.203
+99.984
+287.145
+-383.201
+60.373
+-53.747
+376.575
+-392.522
+0.0
+0.0
+31.374
+PatternNonSeleniumFinder.testForMasterDetail();
+-------TESTING-------
+********************************************
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+1: words:open |NONE
+1: CALL
+***RESET***
+2: CALL
+***RESET***
+4: words:typeSearch |SEARCH|lines: 3 
+5: SEARCH|lines: 3 
+***RESET***
+4: CALL
+***RESET***
+5: CALL
+***RESET***
+6: CALL
+***RESET***
+7: CALL
+***RESET***
+8: CALL
+***RESET***
+9: CALL
+***RESET***
+10: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+12: words:open |NONE
+12: CALL
+***RESET***
+13: CALL
+***RESET***
+14: CALL
+***RESET***
+15: CALL
+***RESET***
+16: CALL
+***RESET***
+17: CALL
+***RESET***
+18: CALL
+***RESET***
+19: CALL
+***RESET***
+20: CALL
+***RESET***
+21: CALL
+***RESET***
+23: words:typeSearch |SEARCH|lines: 22 
+24: SEARCH|lines: 22 
+***RESET***
+23: CALL
+***RESET***
+24: CALL
+***RESET***
+25: CALL
+***RESET***
+27: words:typeSearch |SEARCH|lines: 26 
+28: SEARCH|lines: 26 
+***RESET***
+27: CALL
+***RESET***
+28: CALL
+***RESET***
+29: CALL
+***RESET***
+30: CALL
+***RESET***
+31: CALL
+***RESET***
+32: CALL
+***RESET***
+33: CALL
+***RESET***
+34: CALL
+***RESET***
+35: CALL
+***RESET***
+36: CALL
+***RESET***
+37: CALL
+***RESET***
+38: CALL
+***RESET***
+39: CALL
+***RESET***
+40: CALL
+***RESET***
+41: CALL
+***RESET***
+42: CALL
+***RESET***
+43: CALL
+***RESET***
+44: CALL
+***RESET***
+46: words:type |INPUT|lines: 45 
+47: INPUT|lines: 45 
+***RESET***
+46: CALL
+***RESET***
+47: CALL
+***RESET***
+48: CALL
+***RESET***
+49: CALL
+***RESET***
+51: words:type |INPUT|lines: 50 
+52: INPUT|lines: 50 
+***RESET***
+51: CALL
+***RESET***
+53: words:type |INPUT|lines: 52 
+54: INPUT|lines: 52 
+***RESET***
+53: CALL
+***RESET***
+54: CALL
+***RESET***
+55: CALL
+***RESET***
+56: CALL
+***RESET***
+57: CALL
+***RESET***

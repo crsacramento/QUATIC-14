@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      1975 British Grand Prix - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1975_British_Grand_Prix"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/1975_British_Grand_Prix"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1975_British_Grand_Prix","wgTitle":"1975 British Grand Prix","wgCurRevisionId":603106437,"wgRevisionId":603106437,"wgArticleId":1122646,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from June 2013","Use British English from June 2013","1975 Formula One races","British Grand Prix","1975 in British motorsport"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1975_British_Grand_Prix","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q171916"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-1975_British_Grand_Prix skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          1975 British Grand Prix
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <table class="infobox vevent" style="width: 27em; font-size: 88%; line-height: 1.5em">
+            <caption style="font-size: 125%; font-weight: bold">
+              <span class="flagicon">
+                <a href="/wiki/United_Kingdom" title="United Kingdom">
+                  <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                </a>
+              </span>
+                
+              <span class="summary">
+                1975 British Grand Prix
+              </span>
+            </caption>
+            <tbody>
+              <tr>
+                <th colspan="3" bgcolor="#EFEFEF" align="center">
+                  Race details
+                </th>
+              </tr>
+              <tr>
+                <td colspan="3" style="text-align:center;">
+                  <small class="description">
+                    Race 10 of 14 in the 
+                    <a href="/wiki/1975_Formula_One_season" title="1975 Formula One season">
+                      1975 Formula One season
+                    </a>
+                  </small>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="3" style="text-align: center;">
+                  <a href="/wiki/File:Silverstone_1975.jpg" class="image">
+                    <img alt="Silverstone 1975.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Silverstone_1975.jpg/220px-Silverstone_1975.jpg" width="220" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Silverstone_1975.jpg/330px-Silverstone_1975.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Silverstone_1975.jpg/440px-Silverstone_1975.jpg 2x" data-file-width="583" data-file-height="405"/>
+                  </a>
+                  <br/>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 20%;">
+                  <b>
+                    Date
+                  </b>
+                </td>
+                <td>
+                  <span class="mw-formatted-date" title="1975-07-19">
+                    19 July 1975
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Official name
+                  </b>
+                </td>
+                <td colspan="2">
+                  XXVIII 
+                  <a href="/wiki/British_Grand_Prix" title="British Grand Prix">
+                    British Grand Prix
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Location
+                  </b>
+                </td>
+                <td colspan="2" class="location">
+                  <a href="/wiki/Silverstone_Circuit" title="Silverstone Circuit">
+                    Silverstone Circuit
+                  </a>
+                  , 
+                  <a href="/wiki/Northamptonshire" title="Northamptonshire">
+                    Northamptonshire
+                  </a>
+                  , 
+                  <a href="/wiki/Great_Britain" title="Great Britain">
+                    Great Britain
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Course
+                  </b>
+                </td>
+                <td colspan="2">
+                  Permanent racing facility
+                  <br/>
+                  
+4.719 km (2.932 mi)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Distance
+                  </b>
+                </td>
+                <td colspan="2">
+                  56 laps, 264.264 km (164.192 mi)
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Weather
+                  </b>
+                </td>
+                <td colspan="2">
+                  Sunny, then overcast, then heavy rain
+                </td>
+              </tr>
+              <tr>
+                <th colspan="3" bgcolor="#EFEFEF" align="center">
+                  <a href="/wiki/Pole_position" title="Pole position">
+                    Pole position
+                  </a>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Driver
+                  </b>
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Tom_Pryce" title="Tom Pryce">
+                    Tom Pryce
+                  </a>
+                </td>
+                <td>
+                  <small>
+                    <a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">
+                      Shadow
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </small>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Time
+                  </b>
+                </td>
+                <td colspan="2">
+                  1:19.36
+                  <sup id="cite_ref-LangVol3P88_1-0" class="reference">
+                    <a href="#cite_note-LangVol3P88-1">
+                      <span>
+                        [
+                      </span>
+                      1
+                      <span>
+                        ]
+                      </span>
+                    </a>
+                  </sup>
+                </td>
+              </tr>
+              <tr>
+                <th colspan="3" bgcolor="#EFEFEF" align="center">
+                  <a href="/wiki/Fastest_lap" title="Fastest lap">
+                    Fastest lap
+                  </a>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Driver
+                  </b>
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Switzerland" title="Switzerland">
+                      <img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">
+                    Clay Regazzoni
+                  </a>
+                </td>
+                <td>
+                  <small>
+                    <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+                      Ferrari
+                    </a>
+                  </small>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Time
+                  </b>
+                </td>
+                <td colspan="2">
+                  1:20.9 on lap 16
+                  <sup id="cite_ref-LangVol3P90_2-0" class="reference">
+                    <a href="#cite_note-LangVol3P90-2">
+                      <span>
+                        [
+                      </span>
+                      2
+                      <span>
+                        ]
+                      </span>
+                    </a>
+                  </sup>
+                </td>
+              </tr>
+              <tr>
+                <th colspan="3" bgcolor="#EFEFEF" align="center">
+                  <a href="/wiki/Podium#Usage_in_motorsport" title="Podium">
+                    Podium
+                  </a>
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    First
+                  </b>
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Brazil" title="Brazil">
+                      <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">
+                    Emerson Fittipaldi
+                  </a>
+                </td>
+                <td>
+                  <small>
+                    <a href="/wiki/McLaren" title="McLaren">
+                      McLaren
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </small>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Second
+                  </b>
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Brazil" title="Brazil">
+                      <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Carlos_Pace" title="Carlos Pace">
+                    Carlos Pace
+                  </a>
+                </td>
+                <td>
+                  <small>
+                    <a href="/wiki/Brabham" title="Brabham">
+                      Brabham
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </small>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <b>
+                    Third
+                  </b>
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/South_Africa" title="South Africa">
+                      <img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/23px-Flag_of_South_Africa_1928-1994.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/35px-Flag_of_South_Africa_1928-1994.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/45px-Flag_of_South_Africa_1928-1994.svg.png 2x" data-file-width="594" data-file-height="396"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">
+                    Jody Scheckter
+                  </a>
+                </td>
+                <td>
+                  <small>
+                    <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">
+                      Tyrrell
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </small>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            The 
+            <b>
+              1975 British Grand Prix
+            </b>
+             was a 
+            <a href="/wiki/Formula_One" title="Formula One">
+              Formula One
+            </a>
+            <a href="/wiki/Motor_race" title="Motor race" class="mw-redirect">
+              motor race
+            </a>
+             held at 
+            <a href="/wiki/Silverstone_Circuit" title="Silverstone Circuit">
+              Silverstone
+            </a>
+             on 19 July 1975. It was the 30th 
+            <a href="/wiki/British_Grand_Prix" title="British Grand Prix">
+              British Grand Prix
+            </a>
+             to be held since the race was first held in 
+            <a href="/wiki/1926_British_Grand_Prix" title="1926 British Grand Prix">
+              1926
+            </a>
+             and the 17th time the race had been held at Silverstone. The race was held over 56 of the scheduled 67 laps of the four kilometre venue for a race distance of 264 kilometres.
+          </p>
+          <p>
+            The results were overshadowed by a heavy hail storm from Lap 53, which caused three out of the top four cars (
+            <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">
+              Jody Scheckter
+            </a>
+            , 
+            <a href="/wiki/James_Hunt" title="James Hunt">
+              James Hunt
+            </a>
+            , and 
+            <a href="/wiki/Mark_Donohue" title="Mark Donohue">
+              Mark Donohue
+            </a>
+            ), to aquaplane and crash in the same corner, bringing an early finish to the race, and a significant absence on the podium. A number of other cars crashed at the same corner as well, including 
+            <a href="/wiki/Wilson_Fittipaldi" title="Wilson Fittipaldi" class="mw-redirect">
+              Wilson Fittipaldi
+            </a>
+            , 
+            <a href="/wiki/Jochen_Mass" title="Jochen Mass">
+              Jochen Mass
+            </a>
+            , and 
+            <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">
+              John Watson
+            </a>
+            . The race results were finalised the lap after the lap most cars crashed, giving Brazilian 
+            <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">
+              Emerson Fittipaldi
+            </a>
+            , who had been the race leader prior to the storm, a one lap win in his 
+            <a href="/wiki/McLaren_M23" title="McLaren M23">
+              McLaren M23
+            </a>
+            . 
+            <a href="/wiki/Carlos_Pace" title="Carlos Pace">
+              Carlos Pace
+            </a>
+            , who was one of the crashers in his 
+            <a href="/wiki/Brabham_BT44B" title="Brabham BT44B" class="mw-redirect">
+              Brabham BT44B
+            </a>
+             was classified in second position with another of the crashers, 
+            <a href="/w/index.php?title=Tyrrell_007&amp;action=edit&amp;redlink=1" class="new" title="Tyrrell 007 (page does not exist)">
+              Tyrrell 007
+            </a>
+             driver 
+            <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">
+              Jody Scheckter
+            </a>
+             classified third.
+          </p>
+          <p>
+            The win was the 14th and final win of Fittipaldi's career which had included two world championships. He would continue racing in Formula One until 1980. The win also vaulted Fittpaldi past 
+            <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">
+              Carlos Reutemann
+            </a>
+             into second place in the championship, 14 points behind Lauda.
+          </p>
+          <p>
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle">
+              <h2>
+                Contents
+              </h2>
+            </div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Race_summary">
+                  <span class="tocnumber">
+                    1
+                  </span>
+                  <span class="toctext">
+                    Race summary
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Classification">
+                  <span class="tocnumber">
+                    2
+                  </span>
+                  <span class="toctext">
+                    Classification
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-3">
+                <a href="#Lap_leaders">
+                  <span class="tocnumber">
+                    3
+                  </span>
+                  <span class="toctext">
+                    Lap leaders
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-4">
+                <a href="#Standings_after_the_race">
+                  <span class="tocnumber">
+                    4
+                  </span>
+                  <span class="toctext">
+                    Standings after the race
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-5">
+                <a href="#References">
+                  <span class="tocnumber">
+                    5
+                  </span>
+                  <span class="toctext">
+                    References
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <p>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Race_summary">
+              Race summary
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit&amp;section=1" title="Edit section: Race summary">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            A new chicane had been installed at 
+            <a href="/wiki/Woodcote_Corner" title="Woodcote Corner" class="mw-redirect">
+              Woodcote Corner
+            </a>
+            , bringing complaints from the purists but also arguments that it was necessary in the interests of safety. 
+            <a href="/wiki/Tom_Pryce" title="Tom Pryce">
+              Tom Pryce
+            </a>
+             gained his first pole position in his home race, whilst the 
+            <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+              Ferraris
+            </a>
+             were on the second row, with 
+            <a href="/wiki/James_Hunt" title="James Hunt">
+              James Hunt
+            </a>
+             languishing on the fifth row.
+          </p>
+          <p>
+            <a href="/wiki/Graham_Hill" title="Graham Hill">
+              Graham Hill
+            </a>
+             announced his retirement as a driver after 17 seasons and 176 races to concentrate on his 
+            <a href="/wiki/Embassy_Hill" title="Embassy Hill">
+              Embassy Hill
+            </a>
+             team.
+          </p>
+          <p>
+            From the start – in which a lights system was being used for the first time in any Grand Prix, replacing the traditional national flag – 
+            <a href="/wiki/Carlos_Pace" title="Carlos Pace">
+              Carlos Pace
+            </a>
+             led from Pryce.
+          </p>
+          <p>
+            Following the hail storm, only five cars were running at the end. The RAC declared the race finished officially on the lap after the lap when most cars were running – lap 56. 
+            <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+              Ferrari
+            </a>
+            , with both of their cars stuck on lap 54 in the classification protested, but the RAC threw these protests out and three days later, the provisional results were confirmed.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Classification">
+              Classification
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit&amp;section=2" title="Edit section: Classification">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <table class="wikitable" style="font-size: 95%">
+            <tbody>
+              <tr>
+                <th>
+                  Pos
+                </th>
+                <th>
+                  No
+                </th>
+                <th>
+                  Driver
+                </th>
+                <th>
+                  Constructor
+                </th>
+                <th>
+                  Laps
+                </th>
+                <th>
+                  Time/Retired
+                </th>
+                <th>
+                  Grid
+                </th>
+                <th>
+                  Points
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  1
+                </th>
+                <td>
+                  1
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Brazil" title="Brazil">
+                      <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">
+                      Emerson Fittipaldi
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/McLaren" title="McLaren">
+                      McLaren
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  56
+                </td>
+                <td>
+                  1:22:05.0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  <b>
+                    9
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  2
+                </th>
+                <td>
+                  8
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Brazil" title="Brazil">
+                      <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/Carlos_Pace" title="Carlos Pace">
+                      Carlos Pace
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/Brabham" title="Brabham">
+                      Brabham
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  <b>
+                    6
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  3
+                </th>
+                <td>
+                  3
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/South_Africa" title="South Africa">
+                      <img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/23px-Flag_of_South_Africa_1928-1994.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/35px-Flag_of_South_Africa_1928-1994.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_South_Africa_1928-1994.svg/45px-Flag_of_South_Africa_1928-1994.svg.png 2x" data-file-width="594" data-file-height="396"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/Jody_Scheckter" title="Jody Scheckter">
+                      Jody Scheckter
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">
+                      Tyrrell
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  <b>
+                    4
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  4
+                </th>
+                <td>
+                  24
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/James_Hunt" title="James Hunt">
+                      James Hunt
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/Hesketh_Racing" title="Hesketh Racing">
+                      Hesketh
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  <b>
+                    3
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  5
+                </th>
+                <td>
+                  28
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_States" title="United States">
+                      <img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/Mark_Donohue" title="Mark Donohue">
+                      Mark Donohue
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/March_Engineering" title="March Engineering">
+                      March
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  15
+                </td>
+                <td>
+                  <b>
+                    2
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  6
+                </th>
+                <td>
+                  9
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Italy" title="Italy">
+                      <img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"/>
+                    </a>
+                  </span>
+                  <b>
+                    <a href="/wiki/Vittorio_Brambilla" title="Vittorio Brambilla">
+                      Vittorio Brambilla
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  <b>
+                    <a href="/wiki/March_Engineering" title="March Engineering">
+                      March
+                    </a>
+                    -
+                    <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                      Ford
+                    </a>
+                  </b>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  + 1 Lap
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  <b>
+                    1
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  7
+                </th>
+                <td>
+                  2
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Germany" title="Germany">
+                      <img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Jochen_Mass" title="Jochen Mass">
+                    Jochen Mass
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/McLaren" title="McLaren">
+                    McLaren
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  55
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  8
+                </th>
+                <td>
+                  12
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Austria" title="Austria">
+                      <img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Niki_Lauda" title="Niki Lauda">
+                    Niki Lauda
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+                    Ferrari
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  + 2 Laps
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  9
+                </th>
+                <td>
+                  4
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/France" title="France">
+                      <img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Patrick_Depailler" title="Patrick Depailler">
+                    Patrick Depailler
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">
+                    Tyrrell
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  17
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  10
+                </th>
+                <td>
+                  22
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Australia" title="Australia">
+                      <img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Alan_Jones_(racing_driver)" title="Alan Jones (racing driver)">
+                    Alan Jones
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Embassy_Hill" title="Embassy Hill">
+                    Hill
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  + 2 Laps
+                </td>
+                <td>
+                  28
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  11
+                </th>
+                <td>
+                  18
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/John_Watson_(racing_driver)" title="John Watson (racing driver)">
+                    John Watson
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Surtees" title="Surtees">
+                    Surtees
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  18
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  12
+                </th>
+                <td>
+                  27
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_States" title="United States">
+                      <img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Mario_Andretti" title="Mario Andretti">
+                    Mario Andretti
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Parnelli" title="Parnelli" class="mw-redirect">
+                    Parnelli
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  + 2 Laps
+                </td>
+                <td>
+                  12
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  13
+                </th>
+                <td>
+                  11
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Switzerland" title="Switzerland">
+                      <img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Clay_Regazzoni" title="Clay Regazzoni">
+                    Clay Regazzoni
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+                    Ferrari
+                  </a>
+                </td>
+                <td>
+                  54
+                </td>
+                <td>
+                  + 2 Laps
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  14
+                </th>
+                <td>
+                  17
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/France" title="France">
+                      <img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Jean-Pierre_Jarier" title="Jean-Pierre Jarier">
+                    Jean-Pierre Jarier
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">
+                    Shadow
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  53
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  11
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  15
+                </th>
+                <td>
+                  23
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Tony_Brise" title="Tony Brise">
+                    Tony Brise
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Embassy_Hill" title="Embassy Hill">
+                    Hill
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  53
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  13
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  16
+                </th>
+                <td>
+                  15
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Brian_Henton" title="Brian Henton">
+                    Brian Henton
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Team_Lotus" title="Team Lotus">
+                    Lotus
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  53
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  21
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  17
+                </th>
+                <td>
+                  32
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/New_Zealand" title="New Zealand">
+                      <img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/John_Nicholson_(racing_driver)" title="John Nicholson (racing driver)">
+                    John Nicholson
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Lyncar" title="Lyncar">
+                    Lyncar
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  51
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  26
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  18
+                </th>
+                <td>
+                  19
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Dave_Morgan_(racing_driver)" title="Dave Morgan (racing driver)">
+                    Dave Morgan
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Surtees" title="Surtees">
+                    Surtees
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  50
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  23
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  19
+                </th>
+                <td>
+                  30
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Brazil" title="Brazil">
+                      <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Wilson_Fittipaldi" title="Wilson Fittipaldi" class="mw-redirect">
+                    Wilson Fittipaldi
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Fittipaldi_(constructor)" title="Fittipaldi (constructor)" class="mw-redirect">
+                    Fittipaldi
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  50
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  24
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  10
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Germany" title="Germany">
+                      <img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Hans_Joachim_Stuck" title="Hans Joachim Stuck" class="mw-redirect">
+                    Hans Joachim Stuck
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/March_Engineering" title="March Engineering">
+                    March
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  45
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  14
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  6
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Jim_Crawford_(racing_driver)" title="Jim Crawford (racing driver)">
+                    Jim Crawford
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Team_Lotus" title="Team Lotus">
+                    Lotus
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  28
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  25
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  16
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/United_Kingdom" title="United Kingdom">
+                      <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Tom_Pryce" title="Tom Pryce">
+                    Tom Pryce
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Shadow_Racing_Cars" title="Shadow Racing Cars">
+                    Shadow
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  20
+                </td>
+                <td>
+                  Accident
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  29
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Italy" title="Italy">
+                      <img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Lella_Lombardi" title="Lella Lombardi">
+                    Lella Lombardi
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/March_Engineering" title="March Engineering">
+                    March
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  18
+                </td>
+                <td>
+                  Engine
+                </td>
+                <td>
+                  22
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  5
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Sweden" title="Sweden">
+                      <img alt="Sweden" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Ronnie_Peterson" title="Ronnie Peterson">
+                    Ronnie Peterson
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Team_Lotus" title="Team Lotus">
+                    Lotus
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  Engine
+                </td>
+                <td>
+                  16
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  21
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/France" title="France">
+                      <img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Jacques_Laffite" title="Jacques Laffite">
+                    Jacques Laffite
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Frank_Williams_Racing_Cars" title="Frank Williams Racing Cars">
+                    Williams
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  Gearbox
+                </td>
+                <td>
+                  19
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  Ret
+                </th>
+                <td>
+                  7
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Argentina" title="Argentina">
+                      <img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">
+                    Carlos Reutemann
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Brabham" title="Brabham">
+                    Brabham
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  Engine
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  DNQ
+                </th>
+                <td>
+                  31
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Netherlands" title="Netherlands">
+                      <img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Roelof_Wunderink" title="Roelof Wunderink">
+                    Roelof Wunderink
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Ensign_(racing_team)" title="Ensign (racing team)" class="mw-redirect">
+                    Ensign
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  DNQ
+                </th>
+                <td>
+                  35
+                </td>
+                <td>
+                  <span class="flagicon">
+                    <a href="/wiki/Japan" title="Japan">
+                      <img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                    </a>
+                  </span>
+                  <a href="/wiki/Hiroshi_Fushida" title="Hiroshi Fushida">
+                    Hiroshi Fushida
+                  </a>
+                </td>
+                <td>
+                  <a href="/wiki/Maki_(cars)" title="Maki (cars)" class="mw-redirect">
+                    Maki
+                  </a>
+                  -
+                  <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                    Ford
+                  </a>
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+                <td>
+                   
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <h2>
+            <span class="mw-headline" id="Lap_leaders">
+              Lap leaders
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit&amp;section=3" title="Edit section: Lap leaders">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Carlos Pace 17 laps led (Laps 1-12, 22-26), Clay Regazzoni 6 (13-18), Tom Pryce 2 (19-20), Jody Scheckter 7 (21, 27-32), Jean-Pierre Jarier 2 (33-34), James Hunt 8 (35-42), Emerson Fittipaldi 14 (43-56) 
+            <sup id="cite_ref-3" class="reference">
+              <a href="#cite_note-3">
+                <span>
+                  [
+                </span>
+                3
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Standings_after_the_race">
+              Standings after the race
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit&amp;section=4" title="Edit section: Standings after the race">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+            <tbody>
+              <tr>
+                <td style="width:50%; text-align:left; vertical-align:top;">
+                  <dl>
+                    <dt>
+                      Drivers' Championship standings
+                    </dt>
+                  </dl>
+                  <table class="wikitable" style="font-size: 95%;">
+                    <tbody>
+                      <tr>
+                        <th>
+                          Pos
+                        </th>
+                        <th>
+                          Driver
+                        </th>
+                        <th>
+                          Points
+                        </th>
+                      </tr>
+                      <tr>
+                        <td>
+                          1
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/Austria" title="Austria">
+                              <img alt="Austria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Niki_Lauda" title="Niki Lauda">
+                            Niki Lauda
+                          </a>
+                        </td>
+                        <td align="right">
+                          47
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          2
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/Brazil" title="Brazil">
+                              <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Emerson_Fittipaldi" title="Emerson Fittipaldi">
+                            Emerson Fittipaldi
+                          </a>
+                        </td>
+                        <td align="right">
+                          33
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          3
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/United_Kingdom" title="United Kingdom">
+                              <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/James_Hunt" title="James Hunt">
+                            James Hunt
+                          </a>
+                        </td>
+                        <td align="right">
+                          25
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          4
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/Argentina" title="Argentina">
+                              <img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Carlos_Reutemann" title="Carlos Reutemann">
+                            Carlos Reutemann
+                          </a>
+                        </td>
+                        <td align="right">
+                          25
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          5
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/Brazil" title="Brazil">
+                              <img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Carlos_Pace" title="Carlos Pace">
+                            Carlos Pace
+                          </a>
+                        </td>
+                        <td align="right">
+                          24
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+                <td style="width:50%; text-align:left; vertical-align:top;">
+                  <dl>
+                    <dt>
+                      Constructors' Championship standings
+                    </dt>
+                  </dl>
+                  <table class="wikitable" style="font-size: 95%;">
+                    <tbody>
+                      <tr>
+                        <th>
+                          Pos
+                        </th>
+                        <th>
+                          Constructor
+                        </th>
+                        <th>
+                          Points
+                        </th>
+                      </tr>
+                      <tr>
+                        <td>
+                          1
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/Italy" title="Italy">
+                              <img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Scuderia_Ferrari" title="Scuderia Ferrari">
+                            Ferrari
+                          </a>
+                        </td>
+                        <td align="right">
+                          50
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          2
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/United_Kingdom" title="United Kingdom">
+                              <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Brabham" title="Brabham">
+                            Brabham
+                          </a>
+                          -
+                          <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                            Ford
+                          </a>
+                        </td>
+                        <td align="right">
+                          42 (44)
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          3
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/United_Kingdom" title="United Kingdom">
+                              <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Team_McLaren" title="Team McLaren" class="mw-redirect">
+                            McLaren
+                          </a>
+                          -
+                          <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                            Ford
+                          </a>
+                        </td>
+                        <td align="right">
+                          39.5
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          4
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/United_Kingdom" title="United Kingdom">
+                              <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Hesketh_Racing" title="Hesketh Racing">
+                            Hesketh
+                          </a>
+                          -
+                          <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                            Ford
+                          </a>
+                        </td>
+                        <td align="right">
+                          25
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          5
+                        </td>
+                        <td>
+                          <span class="flagicon">
+                            <a href="/wiki/United_Kingdom" title="United Kingdom">
+                              <img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"/>
+                            </a>
+                          </span>
+                          <a href="/wiki/Tyrrell_Racing" title="Tyrrell Racing">
+                            Tyrrell
+                          </a>
+                          -
+                          <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">
+                            Ford
+                          </a>
+                        </td>
+                        <td align="right">
+                          24
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <ul>
+            <li>
+              <small>
+                <b>
+                  Note
+                </b>
+                : Only the top five positions are included for both sets of standings. Only the best 6 results from the first 7 races and the best 6 results from the last 7 races counted towards the Championship. Numbers without parentheses are Championship points; numbers in parentheses are total points scored.
+              </small>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="References">
+              References
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit&amp;section=5" title="Edit section: References">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="reflist" style="list-style-type: decimal;">
+            <ol class="references">
+              <li id="cite_note-LangVol3P88-1">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-LangVol3P88_1-0">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation book">
+                    Lang, Mike (1983). 
+                    <i>
+                      Grand Prix! Vol 3
+                    </i>
+                    . Haynes Publishing Group. p. 88. 
+                    <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                      ISBN
+                    </a>
+                     
+                    <a href="/wiki/Special:BookSources/0-85429-380-9" title="Special:BookSources/0-85429-380-9">
+                      0-85429-380-9
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1975+British+Grand+Prix&amp;rft.aufirst=Mike&amp;rft.au=Lang%2C+Mike&amp;rft.aulast=Lang&amp;rft.btitle=Grand+Prix%21+Vol+3&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=0-85429-380-9&amp;rft.pages=88&amp;rft.pub=Haynes+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-LangVol3P90-2">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-LangVol3P90_2-0">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation book">
+                    Lang, Mike (1983). 
+                    <i>
+                      Grand Prix! Vol 3
+                    </i>
+                    . Haynes Publishing Group. p. 90. 
+                    <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                      ISBN
+                    </a>
+                     
+                    <a href="/wiki/Special:BookSources/0-85429-380-9" title="Special:BookSources/0-85429-380-9">
+                      0-85429-380-9
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1975+British+Grand+Prix&amp;rft.aufirst=Mike&amp;rft.au=Lang%2C+Mike&amp;rft.aulast=Lang&amp;rft.btitle=Grand+Prix%21+Vol+3&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=0-85429-380-9&amp;rft.pages=90&amp;rft.pub=Haynes+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-3">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-3">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <a rel="nofollow" class="external free" href="http://web.archive.org/web/20070716081330/http://www.motorsport-stats.com/f1/history/1975/britain.html">
+                    http://web.archive.org/web/20070716081330/http://www.motorsport-stats.com/f1/history/1975/britain.html
+                  </a>
+                </span>
+              </li>
+            </ol>
+          </div>
+          <p>
+            <i>
+              Unless otherwise indicated, all race results are taken from 
+              <span class="citation web">
+                <a rel="nofollow" class="external text" href="http://www.formula1.com/results/season/1975/467/">
+                  "The Official Formula 1 website"
+                </a>
+                <span class="reference-accessdate">
+                  . Retrieved 2007-06-15
+                </span>
+                .
+              </span>
+              <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1975+British+Grand+Prix&amp;rft.btitle=The+Official+Formula+1+website&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.formula1.com%2Fresults%2Fseason%2F1975%2F467%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                <span style="display:none;">
+                   
+                </span>
+              </span>
+            </i>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+            <tbody>
+              <tr style="text-align:center">
+                <td width="35%">
+                  Previous race:
+                  <br/>
+                  <b>
+                    <a href="/wiki/1975_French_Grand_Prix" title="1975 French Grand Prix">
+                      1975 French Grand Prix
+                    </a>
+                  </b>
+                </td>
+                <td width="30%">
+                  <b>
+                    <a href="/wiki/Formula_One" title="Formula One">
+                      FIA Formula One
+                    </a>
+                     World Championship
+                    <br/>
+                    <a href="/wiki/1975_Formula_One_season" title="1975 Formula One season">
+                      1975 season
+                    </a>
+                  </b>
+                </td>
+                <td width="35%">
+                  Next race:
+                  <br/>
+                  <b>
+                    <a href="/wiki/1975_German_Grand_Prix" title="1975 German Grand Prix">
+                      1975 German Grand Prix
+                    </a>
+                  </b>
+                </td>
+              </tr>
+              <tr style="text-align:center">
+                <td width="35%">
+                  Previous race:
+                  <br/>
+                  <b>
+                    <a href="/wiki/1974_British_Grand_Prix" title="1974 British Grand Prix">
+                      1974 British Grand Prix
+                    </a>
+                  </b>
+                </td>
+                <td width="30%">
+                  <b>
+                    <a href="/wiki/British_Grand_Prix" title="British Grand Prix">
+                      British Grand Prix
+                    </a>
+                  </b>
+                </td>
+                <td width="35%">
+                  Next race:
+                  <br/>
+                  <b>
+                    <a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">
+                      1976 British Grand Prix
+                    </a>
+                  </b>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table cellspacing="0" class="navbox" style="border-spacing:0;">
+            <tbody>
+              <tr>
+                <td style="padding:2px;">
+                  <table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+                    <tbody>
+                      <tr>
+                        <th scope="col" class="navbox-title" colspan="2">
+                          <div class="plainlinks hlist navbar mini">
+                            <ul>
+                              <li class="nv-view">
+                                <a href="/wiki/Template:F1GP_1970%E2%80%9379" title="Template:F1GP 1970–79">
+                                  <span title="View this template" style=";;background:none transparent;border:none;;">
+                                    v
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-talk">
+                                <a href="/wiki/Template_talk:F1GP_1970%E2%80%9379" title="Template talk:F1GP 1970–79">
+                                  <span title="Discuss this template" style=";;background:none transparent;border:none;;">
+                                    t
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-edit">
+                                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:F1GP_1970%E2%80%9379&amp;action=edit">
+                                  <span title="Edit this template" style=";;background:none transparent;border:none;;">
+                                    e
+                                  </span>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div style="font-size:110%;">
+                            <div style="float: left;">
+                              <a href="/wiki/Template:F1GP_1960%E2%80%9369" title="Template:F1GP 1960–69">
+                                « 
+                                <small style="font-size:85%;">
+                                  previous
+                                </small>
+                              </a>
+                            </div>
+                            <a href="/wiki/List_of_Formula_One_Grands_Prix" title="List of Formula One Grands Prix">
+                              Formula One Grands Prix
+                            </a>
+                             (1970–79)
+
+                            <div style="float: right;">
+                              <a href="/wiki/Template:F1GP_1980%E2%80%9389" title="Template:F1GP 1980–89">
+                                <small style="font-size:85%;">
+                                  next
+                                </small>
+                                 »
+                              </a>
+                            </div>
+                          </div>
+                        </th>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1979_Formula_One_season" title="1979 Formula One season">
+                            1979
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1979_Argentine_Grand_Prix" title="1979 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Brazilian_Grand_Prix" title="1979 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_South_African_Grand_Prix" title="1979 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_United_States_Grand_Prix_West" title="1979 United States Grand Prix West">
+                                  USW
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Spanish_Grand_Prix" title="1979 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Belgian_Grand_Prix" title="1979 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Monaco_Grand_Prix" title="1979 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_French_Grand_Prix" title="1979 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_British_Grand_Prix" title="1979 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_German_Grand_Prix" title="1979 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Austrian_Grand_Prix" title="1979 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Dutch_Grand_Prix" title="1979 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Italian_Grand_Prix" title="1979 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_Canadian_Grand_Prix" title="1979 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1979_United_States_Grand_Prix" title="1979 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1978_Formula_One_season" title="1978 Formula One season">
+                            1978
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1978_Argentine_Grand_Prix" title="1978 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Brazilian_Grand_Prix" title="1978 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_South_African_Grand_Prix" title="1978 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_United_States_Grand_Prix_West" title="1978 United States Grand Prix West">
+                                  USW
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Monaco_Grand_Prix" title="1978 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Belgian_Grand_Prix" title="1978 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Spanish_Grand_Prix" title="1978 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Swedish_Grand_Prix" title="1978 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_French_Grand_Prix" title="1978 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_British_Grand_Prix" title="1978 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_German_Grand_Prix" title="1978 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Austrian_Grand_Prix" title="1978 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Dutch_Grand_Prix" title="1978 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Italian_Grand_Prix" title="1978 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_United_States_Grand_Prix" title="1978 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1978_Canadian_Grand_Prix" title="1978 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1977_Formula_One_season" title="1977 Formula One season">
+                            1977
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1977_Argentine_Grand_Prix" title="1977 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Brazilian_Grand_Prix" title="1977 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_South_African_Grand_Prix" title="1977 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_United_States_Grand_Prix_West" title="1977 United States Grand Prix West">
+                                  USW
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Spanish_Grand_Prix" title="1977 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Monaco_Grand_Prix" title="1977 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Belgian_Grand_Prix" title="1977 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Swedish_Grand_Prix" title="1977 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_French_Grand_Prix" title="1977 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_British_Grand_Prix" title="1977 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_German_Grand_Prix" title="1977 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Austrian_Grand_Prix" title="1977 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Dutch_Grand_Prix" title="1977 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Italian_Grand_Prix" title="1977 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_United_States_Grand_Prix" title="1977 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Canadian_Grand_Prix" title="1977 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1977_Japanese_Grand_Prix" title="1977 Japanese Grand Prix">
+                                  JPN
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1976_Formula_One_season" title="1976 Formula One season">
+                            1976
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1976_Brazilian_Grand_Prix" title="1976 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_South_African_Grand_Prix" title="1976 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_United_States_Grand_Prix_West" title="1976 United States Grand Prix West">
+                                  USW
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Spanish_Grand_Prix" title="1976 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Belgian_Grand_Prix" title="1976 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Monaco_Grand_Prix" title="1976 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Swedish_Grand_Prix" title="1976 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_French_Grand_Prix" title="1976 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_British_Grand_Prix" title="1976 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_German_Grand_Prix" title="1976 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Austrian_Grand_Prix" title="1976 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Dutch_Grand_Prix" title="1976 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Italian_Grand_Prix" title="1976 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Canadian_Grand_Prix" title="1976 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_United_States_Grand_Prix" title="1976 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1976_Japanese_Grand_Prix" title="1976 Japanese Grand Prix">
+                                  JPN
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1975_Formula_One_season" title="1975 Formula One season">
+                            1975
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1975_Argentine_Grand_Prix" title="1975 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Brazilian_Grand_Prix" title="1975 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_South_African_Grand_Prix" title="1975 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Spanish_Grand_Prix" title="1975 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Monaco_Grand_Prix" title="1975 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Belgian_Grand_Prix" title="1975 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Swedish_Grand_Prix" title="1975 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Dutch_Grand_Prix" title="1975 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_French_Grand_Prix" title="1975 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <strong class="selflink">
+                                  GBR
+                                </strong>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_German_Grand_Prix" title="1975 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Austrian_Grand_Prix" title="1975 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_Italian_Grand_Prix" title="1975 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1975_United_States_Grand_Prix" title="1975 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1974_Formula_One_season" title="1974 Formula One season">
+                            1974
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1974_Argentine_Grand_Prix" title="1974 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Brazilian_Grand_Prix" title="1974 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_South_African_Grand_Prix" title="1974 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Spanish_Grand_Prix" title="1974 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Belgian_Grand_Prix" title="1974 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Monaco_Grand_Prix" title="1974 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Swedish_Grand_Prix" title="1974 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Dutch_Grand_Prix" title="1974 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_French_Grand_Prix" title="1974 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_British_Grand_Prix" title="1974 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_German_Grand_Prix" title="1974 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Austrian_Grand_Prix" title="1974 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Italian_Grand_Prix" title="1974 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_Canadian_Grand_Prix" title="1974 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1974_United_States_Grand_Prix" title="1974 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1973_Formula_One_season" title="1973 Formula One season">
+                            1973
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1973_Argentine_Grand_Prix" title="1973 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Brazilian_Grand_Prix" title="1973 Brazilian Grand Prix">
+                                  BRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_South_African_Grand_Prix" title="1973 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Spanish_Grand_Prix" title="1973 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Belgian_Grand_Prix" title="1973 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Monaco_Grand_Prix" title="1973 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Swedish_Grand_Prix" title="1973 Swedish Grand Prix">
+                                  SWE
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_French_Grand_Prix" title="1973 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_British_Grand_Prix" title="1973 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Dutch_Grand_Prix" title="1973 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_German_Grand_Prix" title="1973 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Austrian_Grand_Prix" title="1973 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Italian_Grand_Prix" title="1973 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_Canadian_Grand_Prix" title="1973 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1973_United_States_Grand_Prix" title="1973 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1972_Formula_One_season" title="1972 Formula One season">
+                            1972
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1972_Argentine_Grand_Prix" title="1972 Argentine Grand Prix">
+                                  ARG
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_South_African_Grand_Prix" title="1972 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Spanish_Grand_Prix" title="1972 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Monaco_Grand_Prix" title="1972 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Belgian_Grand_Prix" title="1972 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_French_Grand_Prix" title="1972 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_British_Grand_Prix" title="1972 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_German_Grand_Prix" title="1972 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Austrian_Grand_Prix" title="1972 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Italian_Grand_Prix" title="1972 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_Canadian_Grand_Prix" title="1972 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1972_United_States_Grand_Prix" title="1972 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1971_Formula_One_season" title="1971 Formula One season">
+                            1971
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1971_South_African_Grand_Prix" title="1971 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Spanish_Grand_Prix" title="1971 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Monaco_Grand_Prix" title="1971 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Dutch_Grand_Prix" title="1971 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_French_Grand_Prix" title="1971 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_British_Grand_Prix" title="1971 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_German_Grand_Prix" title="1971 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Austrian_Grand_Prix" title="1971 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Italian_Grand_Prix" title="1971 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_Canadian_Grand_Prix" title="1971 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1971_United_States_Grand_Prix" title="1971 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/1970_Formula_One_season" title="1970 Formula One season">
+                            1970
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/1970_South_African_Grand_Prix" title="1970 South African Grand Prix">
+                                  RSA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Spanish_Grand_Prix" title="1970 Spanish Grand Prix">
+                                  ESP
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Monaco_Grand_Prix" title="1970 Monaco Grand Prix">
+                                  MON
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Belgian_Grand_Prix" title="1970 Belgian Grand Prix">
+                                  BEL
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Dutch_Grand_Prix" title="1970 Dutch Grand Prix">
+                                  NED
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_French_Grand_Prix" title="1970 French Grand Prix">
+                                  FRA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_British_Grand_Prix" title="1970 British Grand Prix">
+                                  GBR
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_German_Grand_Prix" title="1970 German Grand Prix">
+                                  GER
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Austrian_Grand_Prix" title="1970 Austrian Grand Prix">
+                                  AUT
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Italian_Grand_Prix" title="1970 Italian Grand Prix">
+                                  ITA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Canadian_Grand_Prix" title="1970 Canadian Grand Prix">
+                                  CAN
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_United_States_Grand_Prix" title="1970 United States Grand Prix">
+                                  USA
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/1970_Mexican_Grand_Prix" title="1970 Mexican Grand Prix">
+                                  MEX
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- 
+NewPP limit report
+Parsed by mw1015
+CPU time usage: 1.300 seconds
+Real time usage: 1.455 seconds
+Preprocessor visited node count: 2993/1000000
+Preprocessor generated node count: 10565/1500000
+Post?expand include size: 54362/2048000 bytes
+Template argument size: 4262/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1.58 MB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:1122646-0!*!0!default!!en!4!* and timestamp 20140530151149 and revision id 603106437
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=1975_British_Grand_Prix&amp;oldid=603106437">
+            http://en.wikipedia.org/w/index.php?title=1975_British_Grand_Prix&amp;oldid=603106437
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:1975_Formula_One_races" title="Category:1975 Formula One races">
+                  1975 Formula One races
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:British_Grand_Prix" title="Category:British Grand Prix">
+                  British Grand Prix
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:1975_in_British_motorsport" title="Category:1975 in British motorsport">
+                  1975 in British motorsport
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">
+                  Use dmy dates from June 2013
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Use_British_English_from_June_2013" title="Category:Use British English from June 2013">
+                  Use British English from June 2013
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=1975+British+Grand+Prix&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=1975+British+Grand+Prix" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/1975_British_Grand_Prix" title="View the content page [c]" accesskey="c">
+                    Article
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Talk:1975_British_Grand_Prix" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/1975_British_Grand_Prix">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit">
+                <span>
+                  <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">
+                    Edit
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/1975_British_Grand_Prix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/1975_British_Grand_Prix" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=1975_British_Grand_Prix&amp;oldid=603106437" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=1975_British_Grand_Prix&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q171916" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:Cite&amp;page=1975_British_Grand_Prix&amp;id=603106437" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1975+British+Grand+Prix">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1975+British+Grand+Prix&amp;oldid=603106437&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=1975_British_Grand_Prix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-bg">
+                <a href="//bg.wikipedia.org/wiki/1975_%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BD%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="1975 ?????? ??????? ?? ?????????????? – Bulgarian" lang="bg" hreflang="bg">
+                  ?????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="//ca.wikipedia.org/wiki/Gran_Premi_de_Gran_Bretanya_del_1975" title="Gran Premi de Gran Bretanya del 1975 – Catalan" lang="ca" hreflang="ca">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Gro%C3%9Fer_Preis_von_Gro%C3%9Fbritannien_1975" title="Großer Preis von Großbritannien 1975 – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Anexo:Gran_Premio_de_Gran_Breta%C3%B1a_de_1975" title="Anexo:Gran Premio de Gran Bretaña de 1975 – Spanish" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Grand_Prix_automobile_de_Grande-Bretagne_1975" title="Grand Prix automobile de Grande-Bretagne 1975 – French" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gl">
+                <a href="//gl.wikipedia.org/wiki/Gran_Premio_do_Reino_Unido_de_1975" title="Gran Premio do Reino Unido de 1975 – Galician" lang="gl" hreflang="gl">
+                  Galego
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Gran_Premio_di_Gran_Bretagna_1975" title="Gran Premio di Gran Bretagna 1975 – Italian" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hu">
+                <a href="//hu.wikipedia.org/wiki/1975-%C3%B6s_Formula%E2%80%931_brit_nagyd%C3%ADj" title="1975-ös Formula–1 brit nagydíj – Hungarian" lang="hu" hreflang="hu">
+                  Magyar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="//nl.wikipedia.org/wiki/Grand_Prix_Formule_1_van_Groot-Brittanni%C3%AB_1975" title="Grand Prix Formule 1 van Groot-Brittannië 1975 – Dutch" lang="nl" hreflang="nl">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="//pl.wikipedia.org/wiki/Formu%C5%82a_1_-_Grand_Prix_Wielkiej_Brytanii_1975" title="Formu?a 1 - Grand Prix Wielkiej Brytanii 1975 – Polish" lang="pl" hreflang="pl">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="//pt.wikipedia.org/wiki/Grande_Pr%C3%AAmio_da_Gr%C3%A3-Bretanha_de_1975_(F%C3%B3rmula_1)" title="Grande Prêmio da Grã-Bretanha de 1975 (Fórmula 1) – Portuguese" lang="pt" hreflang="pt">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD-%D0%BF%D1%80%D0%B8_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8_1975_%D0%B3%D0%BE%D0%B4%D0%B0" title="????-??? ?????????????? 1975 ???? – Russian" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sl">
+                <a href="//sl.wikipedia.org/wiki/Velika_nagrada_Velike_Britanije_1975" title="Velika nagrada Velike Britanije 1975 – Slovenian" lang="sl" hreflang="sl">
+                  Slovenš?ina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Britannian_Grand_Prix_1975" title="Britannian Grand Prix 1975 – Finnish" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Storbritanniens_Grand_Prix_1975" title="Storbritanniens Grand Prix 1975 – Swedish" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q171916#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 7 April 2014 at 04:55.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/1975_British_Grand_Prix" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":208,"wgHostname":"mw1168"});
+}
+//]]>
+    </script>
+  </body>
+</html>

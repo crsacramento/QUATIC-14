@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Special:Contributions/Aervanath
+RATIOTOTAL:0.899660397329734
+RATIOPREVIOUS:1.29
+SELENIUMSTEP:10

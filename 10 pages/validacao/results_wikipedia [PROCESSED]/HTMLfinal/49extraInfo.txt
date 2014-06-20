@@ -1,0 +1,4 @@
+URL:http://ff.wikipedia.org/wiki/Wikipedia:Accueil
+RATIOTOTAL:1.4054599548939937
+RATIOPREVIOUS:376.575
+SELENIUMSTEP:55

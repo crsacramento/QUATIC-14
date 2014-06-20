@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+
+for(var a=["article","footer","nav","figure","figcaption"],b=0;b<a.length;b++)document.createElement(a[b]);window._gaq=window._gaq||[];
+    
+//]]>
+    </script>
+    <title>
+      
+      YouTube Copyright Center - YouTube
+    
+    </title>
+    <meta content="YouTube" name="author"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700&amp;lang=en" rel="stylesheet" title="Open Sans Stylesheet"/>
+    <link href="/yt/css/www-copyright.css" rel="stylesheet" title=""/>
+  </head>
+  <body class="ltr" dir="ltr">
+    <div id="page">
+      <div id="masthead-container">
+        <div id="masthead">
+          <div id="masthead-root">
+            <a href="//www.youtube.com/" id="masthead-logo" title="YouTube home">
+              <img alt="YouTube home" src="/yt/img/logo_hh.png"/>
+            </a>
+            <form action="//www.youtube.com/results" autocomplete="on" class="search-form" id="masthead-search" method="get" name="masthead-search">
+              <button aria-pressed="false" class="search-button yt-uix-button yt-uix-button-default" dir="ltr" id="search-btn" role="button" tabindex="2" type="submit">
+                <span class="yt-uix-button-content">
+                  Search
+                </span>
+              </button>
+              <label id="masthead-search-term">
+                <input class="search-term" name="search_query" tabindex="1" title="Search" type="text" value=""/>
+              </label>
+            </form>
+            <div id="masthead-utility">
+              <a class="yt-uix-button yt-uix-button-default" href="//www.youtube.com/my_videos_upload">
+                <span class="yt-uix-button-content">
+                  Upload
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="" id="yt-microsite">
+        <div class="" id="yt-main-nav-container">
+          <nav id="yt-main-nav">
+            <nav id="yt-microsite-nav">
+              <a href="/yt/about/">
+                About
+              </a>
+              <a href="/yt/press/">
+                Press
+              </a>
+              <a class="active" href="/yt/copyright/">
+                Copyright
+              </a>
+              <a href="/yt/policyandsafety/">
+                Safety
+              </a>
+              <a href="/yt/creators/">
+                Creators
+              </a>
+              <a href="/yt/advertise/">
+                Advertise
+              </a>
+              <a href="/yt/dev/">
+                Developers
+              </a>
+              <a href="//support.google.com/youtube">
+                Help
+              </a>
+            </nav>
+          </nav>
+        </div>
+        <div id="yt-microsite-header">
+          <div id="yt-microsite-header-illustration">
+            <div class="yt-js-video yt-copyright-video" data-video-height="290" data-video-video-id="OQVHWsTHcoc" data-video-width="460" id="yt-video-1">
+            </div>
+          </div>
+          <div id="yt-microsite-header-promo">
+            <h2>
+              
+              Copyright on YouTube
+            
+            </h2>
+            <p>
+              
+              Copyright is an important topic for the entire YouTube community. In the sections
+              below, you’ll find access to all the information and tools needed to manage your
+              rights on the YouTube platform and learn more about respecting the rights of other
+              creators.
+            
+            </p>
+            <div class="yt-copyright-index-anchors">
+              <ul>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-manage-content">
+                      Manage your content on
+                  YouTube
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-support">
+                      Copyright support and
+                  troubleshooting
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-education">
+                      Learn more about copyright
+                    </a>
+                  </strong>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="yt-horizontal-rule">
+          <span class="first">
+          </span>
+          <span class="second">
+          </span>
+          <span class="third">
+          </span>
+        </div>
+        <div id="yt-microsite-features">
+          <h2 id="yt-copyright-manage-content">
+            
+            Manage your content on YouTube
+          
+          </h2>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              If you would like to submit a notification of alleged copyright infringement, get
+              information on what to do if you believe your video has been removed in error, or get
+              information on how to dispute a Content ID match, the resources below will help
+              educate you about our easy-to-use rights management processes.
+            
+            </p>
+          </div>
+          <ul class="yt-tile-static yt-copyright-feature">
+            <li class="yt-copyright-feature-item">
+              <a href="copyright-complaint.html">
+                <img alt="Copyright Infringement Notifications" src="/yt/copyright/media/images/copyright-index-submit.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="copyright-complaint.html">
+                    Submit a copyright infringement
+                  notification
+                  </a>
+                </h3>
+                <p>
+                  
+                  Request the removal of an unauthorized use of your creative work.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item">
+              <a href="retractions.html">
+                <img alt="Retractions" src="/yt/copyright/media/images/copyright-index-dispute.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="counter-notification.html">
+                    Submit a counter notification
+                  </a>
+                </h3>
+                <p>
+                  
+                  Request the reinstatement of a video that was incorrectly removed from YouTube
+                  for copyright infringement.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item yt-copyright-feature-item-bottom">
+              <a href="copyright-disputes.html">
+                <img alt="Copyright Disputes" src="/yt/copyright/media/images/copyright-index-retract.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="retractions.html">
+                    Retract a claim of copyright infringement
+                  </a>
+                </h3>
+                <p>
+                  
+                  Cancel, or retract, a removal request that you or your company submitted to
+                  YouTube.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item yt-copyright-feature-item-bottom">
+              <a href="content-id-disputes.html">
+                <img alt="Content ID" src="/yt/copyright/media/images/copyright-index-contentid.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="//support.google.com/youtube/answer/2797454">
+                    Dispute a Content ID
+                  claim
+                  </a>
+                </h3>
+                <p>
+                  
+                  Contest a Content ID claim on your video that you believe is wrong.
+                
+                </p>
+              </div>
+            </li>
+          </ul>
+          <div>
+            <h2 id="yt-copyright-support">
+              
+              Copyright support and troubleshooting
+            
+            </h2>
+          </div>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              There’s a lot to learn about the world of copyright. If you'd like help diagnosing a
+              copyright issue, the resources below are the best place to start. If your question is
+              not answered here, please search our Help Center, where you will find additional
+              information.
+            
+            </p>
+          </div>
+          <div class="yt-tile-static yt-copyright-feature">
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="What happened to my video" src="/yt/copyright/media/images/copyright-index-whathappened.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/troubleshooter/4440751">
+                      Determine what
+                    happened to your video
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Differentiate between a Content ID claim and a copyright takedown.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="Why do I have a strike on my account" src="/yt/copyright/media/images/copyright-index-strikeonaccount.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/?p=c_strike_basics">
+                      Copyright strike
+                    basics
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    If you received a copyright strike, learn why and the best way to resolve it.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="What is content id" src="/yt/copyright/media/images/copyright-index-whatscontentid.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/6013276">
+                      What is a Content ID
+                    claim?
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Learn about one of the ways copyright-protected material is detected on
+                    Youtube, and what you can do if you get a claim.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="Lost features" src="/yt/copyright/media/images/copyright-index-lostfeatures.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/2797387">
+                      Learn why you've lost
+                    access to a feature
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Certain YouTube features require good copyright standing.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="What is my account status" src="/yt/copyright/media/images/copyright-index-accountstatus.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/2797370">
+                      How Content ID works
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Learn more about Content ID, a tool used by content owners to identify and
+                    claim their content in videos uploaded to YouTube.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="More features" src="/yt/copyright/media/images/copyright-index-morefeatures.png"/>
+                <div class="yt-copyright-feature-description yt-copyright-search">
+                  <h3>
+                    <a href="//youtube.com/features">
+                      Check your account status
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Check whether your account is in good or bad copyright standing.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <h2 id="yt-copyright-education">
+            
+            Learn more about copyright on YouTube
+          
+          </h2>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              Looking to learn even more about copyright? These resources will get you started,
+              whether you're just seeking general knowledge, or a more in-depth understanding of
+              topics like fair use.
+            
+            </p>
+          </div>
+          <ul class="yt-microsite-spotlight yt-microsite-framed">
+            <li class="yt-microsite-feature-item">
+              <img alt="What is copyright" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-whatiscopyright.png"/>
+              <h3>
+                <a href="what-is-copyright.html">
+                  What is Copyright?
+                </a>
+              </h3>
+              <p>
+                
+                What is protected by copyright? How is copyright different from other forms of
+                intellectual property?
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item">
+              <img alt="Copyright school" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-usingmaterial.png"/>
+              <h3>
+                <a href="fair-use.html">
+                  What is fair use?
+                </a>
+              </h3>
+              <p>
+                
+                There are certain circumstances under which the law allows use of excerpts from
+                copyrighted material.
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item">
+              <img alt="Creative commons" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-creativecommons.png"/>
+              <h3>
+                <a href="creative-commons.html">
+                  Creative Commons
+                </a>
+              </h3>
+              <p>
+                
+                Learn about a special type of license that allows content to be re-used -- if you
+                follow the rules.
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item alternate">
+              <img alt="Using copyrighted material" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-copyrightschool.png"/>
+              <h3>
+                <a href="faq.html">
+                  Frequently Asked Questions
+                </a>
+              </h3>
+              <p>
+                
+                Answers to the copyright questions we're asked most often.
+              
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div class="yt-js-sidebarscroll-footer" id="yt-microsite-footer">
+        </div>
+      </div>
+    </div>
+    <div class="footer-container footer-container-non-responsive">
+      <div>
+        <div class="footer-main">
+          <span class="footer-logo">
+            <a href="/">
+              <img alt="YouTube home" src="/yt/img/logo_hh.png"/>
+            </a>
+          </span>
+          <button class="yt-uix-button yt-uix-button-default footer-language-selector-button" id="yt-js-footer-language-selector-button">
+            <span class="yt-uix-button-content">
+              Language:
+          English
+            </span>
+          </button>
+          <div class="footer-language-selector yt-hide yt-tile-static" id="yt-js-footer-language-selector">
+            <ul>
+              <li>
+                <a href="/yt/copyright/ar/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/bg/index.html">
+                  ?????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/bn/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ca/index.html">
+                  Català
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/cs/index.html">
+                  ?eština
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/da/index.html">
+                  Dansk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/de/index.html">
+                  Deutsch
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/el/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <strong>
+                  English
+                </strong>
+              </li>
+              <li>
+                <a href="/yt/copyright/en-GB/index.html">
+                  English (United Kingdom)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/es/index.html">
+                  Español
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/es-419/index.html">
+                  Español (Latinoamérica)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/et/index.html">
+                  Eesti
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/eu/index.html">
+                  Euskara
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fa/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/fi/index.html">
+                  Suomi
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fil/index.html">
+                  Filipino
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fr/index.html">
+                  Français
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fr-CA/index.html">
+                  Français (Canada)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/gl/index.html">
+                  Galego
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/gu/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hi/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hr/index.html">
+                  Hrvatski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hu/index.html">
+                  Magyar
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/id/index.html">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/is/index.html">
+                  Íslenska
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/it/index.html">
+                  Italiano
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/iw/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ja/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/kn/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/ko/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/lt/index.html">
+                  Lietuvi?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/lv/index.html">
+                  Latviešu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ml/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/mr/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ms/index.html">
+                  Bahasa Melayu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/nl/index.html">
+                  Nederlands
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/no/index.html">
+                  Norsk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pl/index.html">
+                  Polski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pt-BR/index.html">
+                  Português (Brasil)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pt-PT/index.html">
+                  Português (Portugal)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ro/index.html">
+                  Român?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ru/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sk/index.html">
+                  Sloven?ina
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sl/index.html">
+                  Slovenš?ina
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/sr/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sv/index.html">
+                  Svenska
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ta/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/te/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/th/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/tr/index.html">
+                  Türkçe
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/uk/index.html">
+                  ??????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ur/index.html">
+                  ????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/vi/index.html">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-CN/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-HK/index.html">
+                  ?? (??)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-TW/index.html">
+                  ????????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-secondary">
+          <ul class="footer-primary-info">
+            <li>
+              <a href="/yt/about/">
+                About
+              </a>
+            </li>
+            <li>
+              <a href="/yt/press/">
+                Press
+              </a>
+            </li>
+            <li>
+              <a href="/yt/copyright/">
+                Copyright
+              </a>
+            </li>
+            <li>
+              <a href="/yt/creators/">
+                Creators
+              </a>
+            </li>
+            <li>
+              <a href="/yt/advertise/">
+                Advertise
+              </a>
+            </li>
+            <li>
+              <a href="/yt/dev/">
+                Developers
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube">
+                Help
+              </a>
+            </li>
+            <li>
+              <a href="//plus.google.com/+youtube">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul class="footer-secondary-info">
+            <li>
+              <a href="/t/terms">
+                Terms
+              </a>
+            </li>
+            <li>
+              <a href="/yt/policyandsafety/">
+                Policy and Safety
+              </a>
+            </li>
+            <li>
+              <a href="//www.google.com/policies/privacy/">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Try something new!
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="/yt/js/www-goro.min.js">
+    </script>
+    <script>
+//<![CDATA[
+
+yt.goro.core.analytics.push(
+          ['_setAccount', 'UA-38810586-1'],
+          ['_trackPageview']
+        );
+    
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+yt.goro.core.analytics.push(
+      ['_setAccount', 'UA-34311232-1'],
+      ['_setDomainName', 'youtube.com'],
+      ['_setAllowLinker', true],
+      ['_trackPageview']
+    );
+    
+//]]>
+    </script>
+    <script src="/yt/js/www-copyright.min.js">
+    </script>
+  </body>
+</html>

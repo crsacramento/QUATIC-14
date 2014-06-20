@@ -1,0 +1,3102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      User contributions for Aervanath - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="&quot;Special:Contributions/Aervanath&quot; Atom feed" href="/w/api.php?action=feedcontributions&amp;user=Aervanath&amp;feedformat=atom"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Special:Contributions/Aervanath"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Contributions","wgNamespaceNumber":-1,"wgPageName":"Special:Contributions/Aervanath","wgTitle":"Contributions/Aervanath","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Contributions/Aervanath","wgIsProbablyEditable":false,"wgRelevantUserName":"Aervanath","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Contributions page-Special_Contributions_Aervanath skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          User contributions
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+          For 
+          <a href="/wiki/User:Aervanath" title="User:Aervanath">
+            Aervanath
+          </a>
+           (
+          <a href="/wiki/User_talk:Aervanath" title="User talk:Aervanath">
+            talk
+          </a>
+           | 
+          <a href="/w/index.php?title=Special:Log/block&amp;page=User%3AAervanath" title="Special:Log/block">
+            block log
+          </a>
+           | 
+          <a href="/wiki/Special:ListFiles/Aervanath" title="Special:ListFiles/Aervanath">
+            uploads
+          </a>
+           | 
+          <a href="/wiki/Special:Log/Aervanath" title="Special:Log/Aervanath">
+            logs
+          </a>
+           | 
+          <a href="/w/index.php?title=Special:AbuseLog&amp;wpSearchUser=Aervanath" title="Edit Filter log for this user">
+            filter log
+          </a>
+          )
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <form method="get" action="/w/index.php" class="mw-contributions-form">
+            <input type="hidden" value="50" name="limit"/>
+            <input type="hidden" name="tagfilter"/>
+            <input type="hidden" value="Special:Contributions" name="title"/>
+            <fieldset>
+              <legend>
+                Search for contributions
+              </legend>
+              <table class="mw-contributions-table">
+                <tbody>
+                  <tr>
+                    <td colspan="2">
+                      <input name="contribs" type="radio" value="newbie" id="newbie" class="mw-input"/>
+                       
+                      <label for="newbie" class="mw-input">
+                        Show contributions of new accounts only
+                      </label>
+                      <br/>
+                      <input name="contribs" type="radio" value="user" checked="checked" id="user" class="mw-input"/>
+                       
+                      <label for="user" class="mw-input">
+                        User:
+                      </label>
+                      <input size="40" class="mw-input" value="Aervanath" name="target" type="text"/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="mw-label">
+                      <label for="namespace">
+                        Namespace:
+                      </label>
+                    </td>
+                    <td>
+                      <select class="namespaceselector" id="namespace" name="namespace">
+                        <option value="" selected="">
+                          all
+                        </option>
+                        <option value="0">
+                          (Article)
+                        </option>
+                        <option value="1">
+                          Talk
+                        </option>
+                        <option value="2">
+                          User
+                        </option>
+                        <option value="3">
+                          User talk
+                        </option>
+                        <option value="4">
+                          Wikipedia
+                        </option>
+                        <option value="5">
+                          Wikipedia talk
+                        </option>
+                        <option value="6">
+                          File
+                        </option>
+                        <option value="7">
+                          File talk
+                        </option>
+                        <option value="8">
+                          MediaWiki
+                        </option>
+                        <option value="9">
+                          MediaWiki talk
+                        </option>
+                        <option value="10">
+                          Template
+                        </option>
+                        <option value="11">
+                          Template talk
+                        </option>
+                        <option value="12">
+                          Help
+                        </option>
+                        <option value="13">
+                          Help talk
+                        </option>
+                        <option value="14">
+                          Category
+                        </option>
+                        <option value="15">
+                          Category talk
+                        </option>
+                        <option value="100">
+                          Portal
+                        </option>
+                        <option value="101">
+                          Portal talk
+                        </option>
+                        <option value="108">
+                          Book
+                        </option>
+                        <option value="109">
+                          Book talk
+                        </option>
+                        <option value="118">
+                          Draft
+                        </option>
+                        <option value="119">
+                          Draft talk
+                        </option>
+                        <option value="446">
+                          Education Program
+                        </option>
+                        <option value="447">
+                          Education Program talk
+                        </option>
+                        <option value="710">
+                          TimedText
+                        </option>
+                        <option value="711">
+                          TimedText talk
+                        </option>
+                        <option value="828">
+                          Module
+                        </option>
+                        <option value="829">
+                          Module talk
+                        </option>
+                      </select>
+                       
+                      <span style="white-space: nowrap">
+                        <input name="nsInvert" type="checkbox" value="1" id="nsInvert" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)" class="mw-input"/>
+                         
+                        <label for="nsInvert" class="mw-input" title="Check this box to hide changes to pages within the selected namespace (and the associated namespace if checked)">
+                          Invert selection
+                        </label>
+                         
+                      </span>
+                      <span style="white-space: nowrap">
+                        <input name="associated" type="checkbox" value="1" id="associated" title="Check this box to also include the talk or subject namespace associated with the selected namespace" class="mw-input"/>
+                         
+                        <label for="associated" class="mw-input" title="Check this box to also include the talk or subject namespace associated with the selected namespace">
+                          Associated namespace
+                        </label>
+                         
+                      </span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="mw-label">
+                      <label for="tagfilter">
+                        <a href="/wiki/Special:Tags" title="Special:Tags">
+                          Tag
+                        </a>
+                         filter:
+                      </label>
+                    </td>
+                    <td class="mw-input">
+                      <input name="tagfilter" size="20" value="" class="mw-tagfilter-input" id="tagfilter" type="text"/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <span style="white-space: nowrap">
+                        <input name="topOnly" type="checkbox" value="1" id="mw-show-top-only" class="mw-input"/>
+                         
+                        <label for="mw-show-top-only" class="mw-input">
+                          Only show edits that are latest revisions
+                        </label>
+                      </span>
+                      <span style="white-space: nowrap">
+                        <input name="newOnly" type="checkbox" value="1" id="mw-show-new-only" class="mw-input"/>
+                         
+                        <label for="mw-show-new-only" class="mw-input">
+                          Only show edits that are page creations
+                        </label>
+                      </span>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">
+                      <label for="year">
+                        From year (and earlier):
+                      </label>
+                      <input id="year" maxlength="4" size="7" type="number" value="2014" name="year"/>
+                      <label for="month">
+                        From month (and earlier):
+                      </label>
+                      <select id="month" name="month" class="mw-month-selector">
+                        <option value="-1" selected="selected">
+                          all
+                        </option>
+                        <option value="1">
+                          January
+                        </option>
+                        <option value="2">
+                          February
+                        </option>
+                        <option value="3">
+                          March
+                        </option>
+                        <option value="4">
+                          April
+                        </option>
+                        <option value="5">
+                          May
+                        </option>
+                        <option value="6">
+                          June
+                        </option>
+                        <option value="7">
+                          July
+                        </option>
+                        <option value="8">
+                          August
+                        </option>
+                        <option value="9">
+                          September
+                        </option>
+                        <option value="10">
+                          October
+                        </option>
+                        <option value="11">
+                          November
+                        </option>
+                        <option value="12">
+                          December
+                        </option>
+                      </select>
+                      <input type="submit" value="Search" class="mw-submit"/>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p id="mw-sp-contributions-explain">
+              </p>
+              <div class="metadata topicon" style="right: 10px; font-size: 95%;">
+                <a href="/wiki/Help:User_contributions" title="Help:User contributions">
+                  Help:User contributions
+                </a>
+              </div>
+              <p>
+              </p>
+            </fieldset>
+          </form>
+          <p>
+            (newest | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;dir=prev&amp;target=Aervanath" title="Special:Contributions/Aervanath" rel="last" class="mw-lastlink">
+              oldest
+            </a>
+            ) View (newer 50 |  
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=20121004192900&amp;target=Aervanath" title="Special:Contributions/Aervanath" rel="next" class="mw-nextlink">
+              older 50
+            </a>
+            ) (
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=20&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              20
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=50&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              50
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=100&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              100
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=250&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              250
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=500&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              500
+            </a>
+            )
+          </p>
+          <ul>
+            <li>
+              <a href="/w/index.php?title=User_talk:Aervanath&amp;oldid=543431895" title="User talk:Aervanath" class="mw-changeslist-date">
+                14:38, 11 March 2013
+              </a>
+               (
+              <a href="/w/index.php?title=User_talk:Aervanath&amp;diff=prev&amp;oldid=543431895" title="User talk:Aervanath">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=User_talk:Aervanath&amp;action=history" title="User talk:Aervanath">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-neg" title="5,329 bytes after change">
+                (-17)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <a href="/wiki/User_talk:Aervanath" title="User talk:Aervanath" class="mw-contributions-title">
+                User talk:Aervanath
+              </a>
+               ? 
+              <span class="comment">
+                (incommunicado for now)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages&amp;oldid=519257846" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages&amp;diff=prev&amp;oldid=519257846" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages&amp;action=history" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="401 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages" class="mw-contributions-title">
+                Wikipedia talk:WikiProject Ivory Coast/Popular pages
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages">
+                  Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages">
+                  Wikipedia talk:WikiProject Ivory Coast/Popular pages
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;oldid=519257848" title="Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;action=history" title="Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="67 bytes after change">
+                (+67)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages">
+                Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages">
+                  Wikipedia talk:WikiProject Côte d'Ivoire/Popular pages
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia talk:WikiProject Ivory Coast/Popular pages">
+                  Wikipedia talk:WikiProject Ivory Coast/Popular pages
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire&amp;oldid=519257841" title="Wikipedia talk:WikiProject Côte d'Ivoire" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire&amp;action=history" title="Wikipedia talk:WikiProject Côte d'Ivoire">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="53 bytes after change">
+                (+53)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia talk:WikiProject Côte d'Ivoire">
+                Wikipedia talk:WikiProject Côte d'Ivoire
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire">
+                  Wikipedia talk:WikiProject Côte d'Ivoire
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast" title="Wikipedia talk:WikiProject Ivory Coast">
+                  Wikipedia talk:WikiProject Ivory Coast
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts&amp;oldid=519257843" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts&amp;diff=prev&amp;oldid=519257843" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts&amp;action=history" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="401 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts" class="mw-contributions-title">
+                Wikipedia talk:WikiProject Ivory Coast/Article alerts
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts">
+                  Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts">
+                  Wikipedia talk:WikiProject Ivory Coast/Article alerts
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;oldid=519257845" title="Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;action=history" title="Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="68 bytes after change">
+                (+68)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts">
+                Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts">
+                  Wikipedia talk:WikiProject Côte d'Ivoire/Article alerts
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia talk:WikiProject Ivory Coast/Article alerts">
+                  Wikipedia talk:WikiProject Ivory Coast/Article alerts
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs&amp;oldid=519257832" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs&amp;diff=prev&amp;oldid=519257832" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="170 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Unreferenced_BLPs" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs">
+                  Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs">
+                  Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Unreferenced_BLPs&amp;oldid=519257834" title="Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Unreferenced_BLPs&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="66 bytes after change">
+                (+66)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Unreferenced_BLPs&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs">
+                Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Unreferenced_BLPs" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs">
+                  Wikipedia:WikiProject Côte d'Ivoire/Unreferenced BLPs
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Unreferenced_BLPs" title="Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs">
+                  Wikipedia:WikiProject Ivory Coast/Unreferenced BLPs
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast&amp;oldid=519257835" title="Wikipedia talk:WikiProject Ivory Coast" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast&amp;diff=prev&amp;oldid=519257835" title="Wikipedia talk:WikiProject Ivory Coast">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia_talk:WikiProject_Ivory_Coast&amp;action=history" title="Wikipedia talk:WikiProject Ivory Coast">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="22,775 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast" title="Wikipedia talk:WikiProject Ivory Coast" class="mw-contributions-title">
+                Wikipedia talk:WikiProject Ivory Coast
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia_talk:WikiProject_C%C3%B4te_d%27Ivoire" class="mw-redirect" title="Wikipedia talk:WikiProject Côte d'Ivoire">
+                  Wikipedia talk:WikiProject Côte d'Ivoire
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia_talk:WikiProject_Ivory_Coast" title="Wikipedia talk:WikiProject Ivory Coast">
+                  Wikipedia talk:WikiProject Ivory Coast
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Regional_commune_templates&amp;oldid=519257831" title="Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Regional_commune_templates&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="75 bytes after change">
+                (+75)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Regional_commune_templates&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates">
+                Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Regional_commune_templates" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates">
+                  Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates">
+                  Wikipedia:WikiProject Ivory Coast/Regional commune templates
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;oldid=519257818" title="Wikipedia:WikiProject Côte d'Ivoire/Popular pages" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Popular pages">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="62 bytes after change">
+                (+62)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Popular pages">
+                Wikipedia:WikiProject Côte d'Ivoire/Popular pages
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Popular pages">
+                  Wikipedia:WikiProject Côte d'Ivoire/Popular pages
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia:WikiProject Ivory Coast/Popular pages">
+                  Wikipedia:WikiProject Ivory Coast/Popular pages
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Recognized_content&amp;oldid=519257820" title="Wikipedia:WikiProject Ivory Coast/Recognized content" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Recognized_content&amp;diff=prev&amp;oldid=519257820" title="Wikipedia:WikiProject Ivory Coast/Recognized content">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Recognized_content&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Recognized content">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="516 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Recognized_content" title="Wikipedia:WikiProject Ivory Coast/Recognized content" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Recognized content
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Recognized_content" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Recognized content">
+                  Wikipedia:WikiProject Côte d'Ivoire/Recognized content
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Recognized_content" title="Wikipedia:WikiProject Ivory Coast/Recognized content">
+                  Wikipedia:WikiProject Ivory Coast/Recognized content
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Recognized_content&amp;oldid=519257821" title="Wikipedia:WikiProject Côte d'Ivoire/Recognized content" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Recognized_content&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Recognized content">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="67 bytes after change">
+                (+67)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Recognized_content&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Recognized content">
+                Wikipedia:WikiProject Côte d'Ivoire/Recognized content
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Recognized_content" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Recognized content">
+                  Wikipedia:WikiProject Côte d'Ivoire/Recognized content
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Recognized_content" title="Wikipedia:WikiProject Ivory Coast/Recognized content">
+                  Wikipedia:WikiProject Ivory Coast/Recognized content
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates&amp;oldid=519257823" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates" class="mw-changeslist-date">
+                19:40, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates&amp;diff=prev&amp;oldid=519257823" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="881 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Regional commune templates
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Regional_commune_templates" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates">
+                  Wikipedia:WikiProject Côte d'Ivoire/Regional commune templates
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Regional_commune_templates" title="Wikipedia:WikiProject Ivory Coast/Regional commune templates">
+                  Wikipedia:WikiProject Ivory Coast/Regional commune templates
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive&amp;oldid=519257804" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive&amp;diff=prev&amp;oldid=519257804" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="3,587 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Article alerts/Archive
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts/Archive" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive">
+                  Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive">
+                  Wikipedia:WikiProject Ivory Coast/Article alerts/Archive
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts/Archive&amp;oldid=519257805" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts/Archive&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="71 bytes after change">
+                (+71)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts/Archive&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive">
+                Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts/Archive" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive">
+                  Wikipedia:WikiProject Côte d'Ivoire/Article alerts/Archive
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts/Archive" title="Wikipedia:WikiProject Ivory Coast/Article alerts/Archive">
+                  Wikipedia:WikiProject Ivory Coast/Article alerts/Archive
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Popular_pages&amp;oldid=519257806" title="Wikipedia:WikiProject Ivory Coast/Popular pages" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Popular_pages&amp;diff=prev&amp;oldid=519257806" title="Wikipedia:WikiProject Ivory Coast/Popular pages">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Popular_pages&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Popular pages">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="56,589 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia:WikiProject Ivory Coast/Popular pages" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Popular pages
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Popular_pages" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Popular pages">
+                  Wikipedia:WikiProject Côte d'Ivoire/Popular pages
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Popular_pages" title="Wikipedia:WikiProject Ivory Coast/Popular pages">
+                  Wikipedia:WikiProject Ivory Coast/Popular pages
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire&amp;oldid=519257795" title="Wikipedia:WikiProject Côte d'Ivoire" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="48 bytes after change">
+                (+48)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire">
+                Wikipedia:WikiProject Côte d'Ivoire
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire">
+                  Wikipedia:WikiProject Côte d'Ivoire
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast" title="Wikipedia:WikiProject Ivory Coast">
+                  Wikipedia:WikiProject Ivory Coast
+                </a>
+                 over redirect: 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts&amp;oldid=519257796" title="Wikipedia:WikiProject Ivory Coast/Article alerts" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts&amp;diff=prev&amp;oldid=519257796" title="Wikipedia:WikiProject Ivory Coast/Article alerts">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast/Article_alerts&amp;action=history" title="Wikipedia:WikiProject Ivory Coast/Article alerts">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="833 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia:WikiProject Ivory Coast/Article alerts" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast/Article alerts
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts">
+                  Wikipedia:WikiProject Côte d'Ivoire/Article alerts
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia:WikiProject Ivory Coast/Article alerts">
+                  Wikipedia:WikiProject Ivory Coast/Article alerts
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;oldid=519257800" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;action=history" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="63 bytes after change">
+                (+63)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts">
+                Wikipedia:WikiProject Côte d'Ivoire/Article alerts
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire/Article_alerts" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire/Article alerts">
+                  Wikipedia:WikiProject Côte d'Ivoire/Article alerts
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast/Article_alerts" title="Wikipedia:WikiProject Ivory Coast/Article alerts">
+                  Wikipedia:WikiProject Ivory Coast/Article alerts
+                </a>
+                : 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast&amp;oldid=519257792" title="Wikipedia:WikiProject Ivory Coast" class="mw-changeslist-date">
+                19:39, 22 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast&amp;diff=prev&amp;oldid=519257792" title="Wikipedia:WikiProject Ivory Coast">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Wikipedia:WikiProject_Ivory_Coast&amp;action=history" title="Wikipedia:WikiProject Ivory Coast">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="5,936 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast" title="Wikipedia:WikiProject Ivory Coast" class="mw-contributions-title">
+                Wikipedia:WikiProject Ivory Coast
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Wikipedia:WikiProject_C%C3%B4te_d%27Ivoire" class="mw-redirect" title="Wikipedia:WikiProject Côte d'Ivoire">
+                  Wikipedia:WikiProject Côte d'Ivoire
+                </a>
+                 to 
+                <a href="/wiki/Wikipedia:WikiProject_Ivory_Coast" title="Wikipedia:WikiProject Ivory Coast">
+                  Wikipedia:WikiProject Ivory Coast
+                </a>
+                 over redirect: 
+                <a href="/wiki/Wikipedia:Requested_moves" title="Wikipedia:Requested moves">
+                  requested move
+                </a>
+                ; consensus at 
+                <a href="/w/index.php?title=Wikipedia_talk:Wikiproject_Ivory&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia talk:Wikiproject Ivory (page does not exist)">
+                  Wikipedia Talk:Wikiproject Ivory
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;oldid=516021355" title="Talk:Havana Daydreamin'" class="mw-changeslist-date">
+                19:53, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;diff=prev&amp;oldid=516021355" title="Talk:Havana Daydreamin'">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;action=history" title="Talk:Havana Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="14,932 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Havana_Daydreamin%27" title="Talk:Havana Daydreamin'" class="mw-contributions-title">
+                Talk:Havana Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Hava%C3%B1a_Daydreamin%27" class="mw-redirect" title="Talk:Havaña Daydreamin'">
+                  Talk:Havaña Daydreamin'
+                </a>
+                 to 
+                <a href="/wiki/Talk:Havana_Daydreamin%27" title="Talk:Havana Daydreamin'">
+                  Talk:Havana Daydreamin'
+                </a>
+                : see discussion on talk page)
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Hava%C3%B1a_Daydreamin%27&amp;oldid=516021357" title="Talk:Havaña Daydreamin'" class="mw-changeslist-date">
+                19:53, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Hava%C3%B1a_Daydreamin%27&amp;action=history" title="Talk:Havaña Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="37 bytes after change">
+                (+37)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Hava%C3%B1a_Daydreamin%27&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Havaña Daydreamin'">
+                Talk:Havaña Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Hava%C3%B1a_Daydreamin%27" class="mw-redirect" title="Talk:Havaña Daydreamin'">
+                  Talk:Havaña Daydreamin'
+                </a>
+                 to 
+                <a href="/wiki/Talk:Havana_Daydreamin%27" title="Talk:Havana Daydreamin'">
+                  Talk:Havana Daydreamin'
+                </a>
+                : see discussion on talk page)
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Hava%C3%B1a_Daydreamin%27&amp;oldid=516021349" title="Havaña Daydreamin'" class="mw-changeslist-date">
+                19:53, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Hava%C3%B1a_Daydreamin%27&amp;action=history" title="Havaña Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="32 bytes after change">
+                (+32)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Hava%C3%B1a_Daydreamin%27&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Havaña Daydreamin'">
+                Havaña Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Hava%C3%B1a_Daydreamin%27" class="mw-redirect" title="Havaña Daydreamin'">
+                  Havaña Daydreamin'
+                </a>
+                 to 
+                <a href="/wiki/Havana_Daydreamin%27" title="Havana Daydreamin'">
+                  Havana Daydreamin'
+                </a>
+                : see discussion on talk page)
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Havana_Daydreamin%27&amp;oldid=516021343" title="Havana Daydreamin'" class="mw-changeslist-date">
+                19:53, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Havana_Daydreamin%27&amp;diff=prev&amp;oldid=516021343" title="Havana Daydreamin'">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Havana_Daydreamin%27&amp;action=history" title="Havana Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="8,389 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Havana_Daydreamin%27" title="Havana Daydreamin'" class="mw-contributions-title">
+                Havana Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Hava%C3%B1a_Daydreamin%27" class="mw-redirect" title="Havaña Daydreamin'">
+                  Havaña Daydreamin'
+                </a>
+                 to 
+                <a href="/wiki/Havana_Daydreamin%27" title="Havana Daydreamin'">
+                  Havana Daydreamin'
+                </a>
+                : see discussion on talk page)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;oldid=516021205" title="Talk:Havana Daydreamin'" class="mw-changeslist-date">
+                19:52, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;diff=prev&amp;oldid=516021205" title="Talk:Havana Daydreamin'">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;action=history" title="Talk:Havana Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-neg" title="14,932 bytes after change">
+                (-350)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <a href="/wiki/Talk:Havana_Daydreamin%27" title="Talk:Havana Daydreamin'" class="mw-contributions-title">
+                Talk:Havana Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (
+                <a href="/wiki/Talk:Havana_Daydreamin%27#Requested_move" title="Talk:Havana Daydreamin'">
+                  ?
+                </a>
+                ?
+                <span dir="auto">
+                  <span class="autocomment">
+                    Requested move: 
+                  </span>
+                   fix; you'd think after being an admin for 4 years I wouldn't make silly mistakes like this anymore... :)
+                </span>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;oldid=516020924" title="Talk:Havana Daydreamin'" class="mw-changeslist-date">
+                19:50, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;diff=prev&amp;oldid=516020924" title="Talk:Havana Daydreamin'">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Havana_Daydreamin%27&amp;action=history" title="Talk:Havana Daydreamin'">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <strong dir="ltr" class="mw-plusminus-pos" title="15,282 bytes after change">
+                (+1,642)
+              </strong>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <a href="/wiki/Talk:Havana_Daydreamin%27" title="Talk:Havana Daydreamin'" class="mw-contributions-title">
+                Talk:Havana Daydreamin'
+              </a>
+               ? 
+              <span class="comment">
+                (
+                <a href="/wiki/Talk:Havana_Daydreamin%27#Requested_move" title="Talk:Havana Daydreamin'">
+                  ?
+                </a>
+                ?
+                <span dir="auto">
+                  <span class="autocomment">
+                    Requested move: 
+                  </span>
+                   close: moved
+                </span>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille_script&amp;oldid=516017791" title="Talk:Mainland Chinese Braille script" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille_script&amp;action=history" title="Talk:Mainland Chinese Braille script">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="43 bytes after change">
+                (+43)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille_script&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Mainland Chinese Braille script">
+                Talk:Mainland Chinese Braille script
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Mainland_Chinese_Braille_script" class="mw-redirect" title="Talk:Mainland Chinese Braille script">
+                  Talk:Mainland Chinese Braille script
+                </a>
+                 to 
+                <a href="/wiki/Talk:Mainland_Chinese_Braille" title="Talk:Mainland Chinese Braille">
+                  Talk:Mainland Chinese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille&amp;oldid=516017790" title="Talk:Mainland Chinese Braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille&amp;diff=prev&amp;oldid=516017790" title="Talk:Mainland Chinese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Mainland_Chinese_Braille&amp;action=history" title="Talk:Mainland Chinese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="3,875 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Mainland_Chinese_Braille" title="Talk:Mainland Chinese Braille" class="mw-contributions-title">
+                Talk:Mainland Chinese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Mainland_Chinese_Braille_script" class="mw-redirect" title="Talk:Mainland Chinese Braille script">
+                  Talk:Mainland Chinese Braille script
+                </a>
+                 to 
+                <a href="/wiki/Talk:Mainland_Chinese_Braille" title="Talk:Mainland Chinese Braille">
+                  Talk:Mainland Chinese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Mainland_Chinese_Braille_script&amp;oldid=516017785" title="Mainland Chinese Braille script" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Mainland_Chinese_Braille_script&amp;action=history" title="Mainland Chinese Braille script">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="38 bytes after change">
+                (+38)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Mainland_Chinese_Braille_script&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Mainland Chinese Braille script">
+                Mainland Chinese Braille script
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Mainland_Chinese_Braille_script" class="mw-redirect" title="Mainland Chinese Braille script">
+                  Mainland Chinese Braille script
+                </a>
+                 to 
+                <a href="/wiki/Mainland_Chinese_Braille" title="Mainland Chinese Braille">
+                  Mainland Chinese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Mainland_Chinese_Braille&amp;oldid=516017757" title="Mainland Chinese Braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Mainland_Chinese_Braille&amp;diff=prev&amp;oldid=516017757" title="Mainland Chinese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Mainland_Chinese_Braille&amp;action=history" title="Mainland Chinese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="11,623 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Mainland_Chinese_Braille" title="Mainland Chinese Braille" class="mw-contributions-title">
+                Mainland Chinese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Mainland_Chinese_Braille_script" class="mw-redirect" title="Mainland Chinese Braille script">
+                  Mainland Chinese Braille script
+                </a>
+                 to 
+                <a href="/wiki/Mainland_Chinese_Braille" title="Mainland Chinese Braille">
+                  Mainland Chinese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Korean_braille&amp;oldid=516017736" title="Talk:Korean braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Korean_braille&amp;action=history" title="Talk:Korean braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="33 bytes after change">
+                (+33)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Korean_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Korean braille">
+                Talk:Korean braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Korean_braille" class="mw-redirect" title="Talk:Korean braille">
+                  Talk:Korean braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Korean_Braille" title="Talk:Korean Braille">
+                  Talk:Korean Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_Braille_display#Moves.3F" class="mw-redirect" title="Talk:Refreshable Braille display">
+                  Talk:Refreshable_Braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Korean_Braille&amp;oldid=516017733" title="Talk:Korean Braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Korean_Braille&amp;diff=prev&amp;oldid=516017733" title="Talk:Korean Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Korean_Braille&amp;action=history" title="Talk:Korean Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="3,293 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Korean_Braille" title="Talk:Korean Braille" class="mw-contributions-title">
+                Talk:Korean Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Korean_braille" class="mw-redirect" title="Talk:Korean braille">
+                  Talk:Korean braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Korean_Braille" title="Talk:Korean Braille">
+                  Talk:Korean Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_Braille_display#Moves.3F" class="mw-redirect" title="Talk:Refreshable Braille display">
+                  Talk:Refreshable_Braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Korean_braille&amp;oldid=516017730" title="Korean braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Korean_braille&amp;action=history" title="Korean braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="28 bytes after change">
+                (+28)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Korean_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Korean braille">
+                Korean braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Korean_braille" class="mw-redirect" title="Korean braille">
+                  Korean braille
+                </a>
+                 to 
+                <a href="/wiki/Korean_Braille" title="Korean Braille">
+                  Korean Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_Braille_display#Moves.3F" class="mw-redirect" title="Talk:Refreshable Braille display">
+                  Talk:Refreshable_Braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Korean_Braille&amp;oldid=516017675" title="Korean Braille" class="mw-changeslist-date">
+                19:31, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Korean_Braille&amp;diff=prev&amp;oldid=516017675" title="Korean Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Korean_Braille&amp;action=history" title="Korean Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="12,033 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Korean_Braille" title="Korean Braille" class="mw-contributions-title">
+                Korean Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Korean_braille" class="mw-redirect" title="Korean braille">
+                  Korean braille
+                </a>
+                 to 
+                <a href="/wiki/Korean_Braille" title="Korean Braille">
+                  Korean Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_Braille_display#Moves.3F" class="mw-redirect" title="Talk:Refreshable Braille display">
+                  Talk:Refreshable_Braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Japanese_braille&amp;oldid=516017645" title="Talk:Japanese braille" class="mw-changeslist-date">
+                19:30, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Japanese_braille&amp;action=history" title="Talk:Japanese braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="35 bytes after change">
+                (+35)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Japanese_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Japanese braille">
+                Talk:Japanese braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Japanese_braille" class="mw-redirect" title="Talk:Japanese braille">
+                  Talk:Japanese braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Japanese_Braille" title="Talk:Japanese Braille">
+                  Talk:Japanese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Japanese_Braille&amp;oldid=516017640" title="Talk:Japanese Braille" class="mw-changeslist-date">
+                19:30, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Japanese_Braille&amp;diff=prev&amp;oldid=516017640" title="Talk:Japanese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Japanese_Braille&amp;action=history" title="Talk:Japanese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="4,608 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Japanese_Braille" title="Talk:Japanese Braille" class="mw-contributions-title">
+                Talk:Japanese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Japanese_braille" class="mw-redirect" title="Talk:Japanese braille">
+                  Talk:Japanese braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Japanese_Braille" title="Talk:Japanese Braille">
+                  Talk:Japanese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Japanese_braille&amp;oldid=516017636" title="Japanese braille" class="mw-changeslist-date">
+                19:30, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Japanese_braille&amp;action=history" title="Japanese braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="30 bytes after change">
+                (+30)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Japanese_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Japanese braille">
+                Japanese braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Japanese_braille" class="mw-redirect" title="Japanese braille">
+                  Japanese braille
+                </a>
+                 to 
+                <a href="/wiki/Japanese_Braille" title="Japanese Braille">
+                  Japanese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Japanese_Braille&amp;oldid=516017589" title="Japanese Braille" class="mw-changeslist-date">
+                19:30, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Japanese_Braille&amp;diff=prev&amp;oldid=516017589" title="Japanese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Japanese_Braille&amp;action=history" title="Japanese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="11,395 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Japanese_Braille" title="Japanese Braille" class="mw-contributions-title">
+                Japanese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Japanese_braille" class="mw-redirect" title="Japanese braille">
+                  Japanese braille
+                </a>
+                 to 
+                <a href="/wiki/Japanese_Braille" title="Japanese Braille">
+                  Japanese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Cantonese_braille&amp;oldid=516017424" title="Talk:Cantonese braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Cantonese_braille&amp;action=history" title="Talk:Cantonese braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="36 bytes after change">
+                (+36)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Cantonese_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Cantonese braille">
+                Talk:Cantonese braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Cantonese_braille" class="mw-redirect" title="Talk:Cantonese braille">
+                  Talk:Cantonese braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Cantonese_Braille" title="Talk:Cantonese Braille">
+                  Talk:Cantonese Braille
+                </a>
+                 over redirect: see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Cantonese_Braille&amp;oldid=516017419" title="Talk:Cantonese Braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Cantonese_Braille&amp;diff=prev&amp;oldid=516017419" title="Talk:Cantonese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Cantonese_Braille&amp;action=history" title="Talk:Cantonese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="1,066 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Cantonese_Braille" title="Talk:Cantonese Braille" class="mw-contributions-title">
+                Talk:Cantonese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Cantonese_braille" class="mw-redirect" title="Talk:Cantonese braille">
+                  Talk:Cantonese braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Cantonese_Braille" title="Talk:Cantonese Braille">
+                  Talk:Cantonese Braille
+                </a>
+                 over redirect: see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Cantonese_braille&amp;oldid=516017418" title="Cantonese braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Cantonese_braille&amp;action=history" title="Cantonese braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="31 bytes after change">
+                (+31)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Cantonese_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Cantonese braille">
+                Cantonese braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Cantonese_braille" class="mw-redirect" title="Cantonese braille">
+                  Cantonese braille
+                </a>
+                 to 
+                <a href="/wiki/Cantonese_Braille" title="Cantonese Braille">
+                  Cantonese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Cantonese_Braille&amp;oldid=516017380" title="Cantonese Braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Cantonese_Braille&amp;diff=prev&amp;oldid=516017380" title="Cantonese Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Cantonese_Braille&amp;action=history" title="Cantonese Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="8,286 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Cantonese_Braille" title="Cantonese Braille" class="mw-contributions-title">
+                Cantonese Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Cantonese_braille" class="mw-redirect" title="Cantonese braille">
+                  Cantonese braille
+                </a>
+                 to 
+                <a href="/wiki/Cantonese_Braille" title="Cantonese Braille">
+                  Cantonese Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Russian_braille&amp;oldid=516017372" title="Talk:Russian braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Russian_braille&amp;action=history" title="Talk:Russian braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="34 bytes after change">
+                (+34)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Russian_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Russian braille">
+                Talk:Russian braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Russian_braille" class="mw-redirect" title="Talk:Russian braille">
+                  Talk:Russian braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Russian_Braille" title="Talk:Russian Braille">
+                  Talk:Russian Braille
+                </a>
+                 over redirect: see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Russian_braille&amp;oldid=516017365" title="Russian braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Russian_braille&amp;action=history" title="Russian braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="29 bytes after change">
+                (+29)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Russian_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Russian braille">
+                Russian braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Russian_braille" class="mw-redirect" title="Russian braille">
+                  Russian braille
+                </a>
+                 to 
+                <a href="/wiki/Russian_Braille" title="Russian Braille">
+                  Russian Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Russian_Braille&amp;oldid=516017369" title="Talk:Russian Braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Russian_Braille&amp;diff=prev&amp;oldid=516017369" title="Talk:Russian Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Russian_Braille&amp;action=history" title="Talk:Russian Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="1,694 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Russian_Braille" title="Talk:Russian Braille" class="mw-contributions-title">
+                Talk:Russian Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Russian_braille" class="mw-redirect" title="Talk:Russian braille">
+                  Talk:Russian braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Russian_Braille" title="Talk:Russian Braille">
+                  Talk:Russian Braille
+                </a>
+                 over redirect: see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Russian_Braille&amp;oldid=516017350" title="Russian Braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Russian_Braille&amp;diff=prev&amp;oldid=516017350" title="Russian Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Russian_Braille&amp;action=history" title="Russian Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="4,251 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Russian_Braille" title="Russian Braille" class="mw-contributions-title">
+                Russian Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Russian_braille" class="mw-redirect" title="Russian braille">
+                  Russian braille
+                </a>
+                 to 
+                <a href="/wiki/Russian_Braille" title="Russian Braille">
+                  Russian Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Arabic_Braille&amp;oldid=516017342" title="Talk:Arabic Braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (
+              <a href="/w/index.php?title=Talk:Arabic_Braille&amp;diff=prev&amp;oldid=516017342" title="Talk:Arabic Braille">
+                diff
+              </a>
+               | 
+              <a href="/w/index.php?title=Talk:Arabic_Braille&amp;action=history" title="Talk:Arabic Braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-null" title="469 bytes after change">
+                (0)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="minoredit" title="This is a minor edit">
+                m
+              </abbr>
+              <a href="/wiki/Talk:Arabic_Braille" title="Talk:Arabic Braille" class="mw-contributions-title">
+                Talk:Arabic Braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Arabic_braille" class="mw-redirect" title="Talk:Arabic braille">
+                  Talk:Arabic braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Arabic_Braille" title="Talk:Arabic Braille">
+                  Talk:Arabic Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+              <span class="mw-uctop">
+                (current)
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Talk:Egyptian_braille&amp;oldid=516017345" title="Talk:Egyptian braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Talk:Egyptian_braille&amp;action=history" title="Talk:Egyptian braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="33 bytes after change">
+                (+33)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Talk:Egyptian_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Talk:Egyptian braille">
+                Talk:Egyptian braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Talk:Arabic_braille" class="mw-redirect" title="Talk:Arabic braille">
+                  Talk:Arabic braille
+                </a>
+                 to 
+                <a href="/wiki/Talk:Arabic_Braille" title="Talk:Arabic Braille">
+                  Talk:Arabic Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+            <li>
+              <a href="/w/index.php?title=Egyptian_braille&amp;oldid=516017340" title="Egyptian braille" class="mw-changeslist-date">
+                19:29, 4 October 2012
+              </a>
+               (diff | 
+              <a href="/w/index.php?title=Egyptian_braille&amp;action=history" title="Egyptian braille">
+                hist
+              </a>
+              ) 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <span dir="ltr" class="mw-plusminus-pos" title="28 bytes after change">
+                (+28)
+              </span>
+              ? 
+              <span class="mw-changeslist-separator">
+                . .
+              </span>
+              <abbr class="newpage" title="This edit created a new page">
+                N
+              </abbr>
+              <a href="/w/index.php?title=Egyptian_braille&amp;redirect=no" class="mw-redirect mw-contributions-title" title="Egyptian braille">
+                Egyptian braille
+              </a>
+               ? 
+              <span class="comment">
+                (Aervanath moved page 
+                <a href="/wiki/Arabic_braille" class="mw-redirect" title="Arabic braille">
+                  Arabic braille
+                </a>
+                 to 
+                <a href="/wiki/Arabic_Braille" title="Arabic Braille">
+                  Arabic Braille
+                </a>
+                : see discussion at 
+                <a href="/wiki/Talk:Refreshable_braille_display#Moves.3F" title="Talk:Refreshable braille display">
+                  Talk:Refreshable_braille_display#Moves.3F
+                </a>
+                )
+              </span>
+            </li>
+          </ul>
+          <p>
+            (newest | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;dir=prev&amp;target=Aervanath" title="Special:Contributions/Aervanath" rel="last" class="mw-lastlink">
+              oldest
+            </a>
+            ) View (newer 50 |  
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=20121004192900&amp;target=Aervanath" title="Special:Contributions/Aervanath" rel="next" class="mw-nextlink">
+              older 50
+            </a>
+            ) (
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=20&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              20
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=50&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              50
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=100&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              100
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=250&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              250
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;offset=&amp;limit=500&amp;target=Aervanath" title="Special:Contributions/Aervanath" class="mw-numlink">
+              500
+            </a>
+            )
+          </p>
+          <div class="mw-contributions-footer">
+            <table id="sp-contributions-footer" class="plainlinks fmbox fmbox-system" role="presentation">
+              <tbody>
+                <tr>
+                  <td class="mbox-image">
+                    <a href="/wiki/File:User-info.svg" class="image" title="User info">
+                      <img alt="User info" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/User-info.svg/40px-User-info.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ce/User-info.svg/60px-User-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ce/User-info.svg/80px-User-info.svg.png 2x" data-file-width="48" data-file-height="48"/>
+                    </a>
+                  </td>
+                  <td class="mbox-text" style="font-size: 90%; text-align:center;;">
+                    <a href="/wiki/User:Aervanath" title="User:Aervanath">
+                      Aervanath
+                    </a>
+                    : 
+                    <span style="white-space: nowrap;">
+                      <a href="/wiki/Special:PrefixIndex/User:Aervanath/" title="Special:PrefixIndex/User:Aervanath/">
+                        Subpages
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:ListUsers&amp;limit=1&amp;username=Aervanath">
+                        User rights
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//tools.wmflabs.org/supercount/index.php?user=Aervanath&amp;project=en.wikipedia">
+                        Edit count
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//tools.wmflabs.org/sigma/summary.py?name=Aervanath">
+                        Edit summary search
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//tools.wmflabs.org/sigma/created.py?name=Aervanath&amp;server=enwiki&amp;ns=,,&amp;redirects=none">
+                        Articles created
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//tools.wmflabs.org/guc/?user=Aervanath&amp;blocks=true">
+                        Global contributions
+                      </a>
+                       / 
+                      <a class="external text" href="https://meta.wikimedia.org/w/index.php?title=Special:Log&amp;type=globalauth&amp;user=&amp;page=User:Aervanath@global">
+                        log
+                      </a>
+                      <b>
+                        ·
+                      </b>
+                    </span>
+                    <span style="white-space: nowrap;">
+                      <a class="external text" href="//tools.wmflabs.org/quentinv57-tools/tools/sulinfo.php?username=Aervanath">
+                        SUL
+                      </a>
+                       / 
+                      <a href="//meta.wikimedia.org/wiki/Special:CentralAuth/Aervanath" class="extiw" title="m:Special:CentralAuth/Aervanath">
+                        accounts
+                      </a>
+                    </span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/wiki/Special:Contributions/Aervanath">
+            http://en.wikipedia.org/wiki/Special:Contributions/Aervanath
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3AContributions%2FAervanath&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3AContributions%2FAervanath" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span>
+                  <a href="/wiki/Special:Contributions/Aervanath" title="This is a special page which you cannot edit">
+                    Special page
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="feedlinks">
+                <a href="/w/api.php?action=feedcontributions&amp;user=Aervanath&amp;feedformat=atom" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">
+                  Atom
+                </a>
+              </li>
+              <li id="t-contributions">
+                <a href="/wiki/Special:Contributions/Aervanath" title="A list of contributions of this user">
+                  User contributions
+                </a>
+              </li>
+              <li id="t-log">
+                <a href="/wiki/Special:Log/Aervanath" title="View the list of actions by this user">
+                  Logs
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Special:Contributions/Aervanath&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Special:Contributions/Aervanath" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":690,"wgHostname":"mw1168"});
+}
+//]]>
+    </script>
+  </body>
+</html>

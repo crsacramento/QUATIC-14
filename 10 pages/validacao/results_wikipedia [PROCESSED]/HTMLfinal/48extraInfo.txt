@@ -1,0 +1,7 @@
+URL:http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit
+RATIOTOTAL:0.24947370669596808
+RATIOPREVIOUS:-53.747
+SELENIUMSTEP:54
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Wikipedia:Accueil
+INPUT-PATTERN-TEXTBOX://textarea[@id=wpTextbox1 and @name=wpTextbox1]
+INPUT-PATTERN-TEXT:banana

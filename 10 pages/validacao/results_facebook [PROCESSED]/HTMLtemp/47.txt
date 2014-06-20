@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head title="Help Center">
+    <title>
+      Help Center
+    </title>
+    <meta name="description" content="Facebook is a social utility that connects people with friends and others who work, study and live around them. People use Facebook to keep up with..."/>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+  </head>
+  <body tabindex="0" class="nontouch x1 _513c _55wm">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <style type="text/css">
+      /*&lt;![CDATA[*/._4-fg ul{list-style:square;padding-left:15px;}._4-fg ol{list-style:decimal;padding-left:20px;}._4-fg li{margin:5px 0;}div._:not(:last-child) div._{border-top:1px solid #ddd;margin:0 10px;}div._:not(:last-child) div._{border-top:1px solid #ddd;}._65w{position:relative;}.nontouch ._2o9y{background-color:#fff;margin-bottom:10px;}._575v{padding-top:1px;text-transform:uppercase;}._576a&gt;div{overflow:visible;}._55wm{background:#d3d6db;}._55wo{background:#fff;}.nontouch ._55wq{padding:2px;}.nontouch ._55wr{padding:4px;}.nontouch ._55ws{padding:6px;}._56bf{border:1px solid #adb2ba;}form{margin:0;border:0;}.comboInput{width:100%;}.comboInput td{vertical-align:top;padding:0;}.comboInput .inputCell{width:100%;}.comboInput .btnCell{padding-left:5px;}.comboInput .input{display:block;width:100%;}._5whq{border:solid 1px #999;border-top-color:#888;margin:0;}.nontouch ._5whq{padding:3px 3px 4px 0;}._56bs{background:none;display:inline-block;font-size:12px;font-weight:bold;height:28px;line-height:28px;margin:0;overflow:visible;padding:0 9px;text-align:center;vertical-align:top;white-space:nowrap;}._56bu,a._56bu,html .nontouch a._56bu{color:#fff;}.nontouch ._56bu{background-color:#627aad;border:1px solid #4a5f90;}.nontouch a._56bu:hover,.nontouch ._56bu:hover{background-color:#465e91;}._56bu[disabled]{color:#899bc1;}.nontouch ._56bu[disabled]:hover{background-color:#627aad;}.nontouch ._56bs{padding:0 8px;}.nontouch a._56bs{height:26px;line-height:26px;}._52j9{color:#adb2bb;}._52jc{font-size:12px;line-height:16px;}._52jh{font-weight:bold;}.ib .l{display:inline-block;margin-right:4px;}.nontouch .ib .l{float:left;}.nontouch .ib .c{display:table-cell;}.img{border:0;display:inline-block;vertical-align:top;}i.img u{position:absolute;width:0;height:0;overflow:hidden;}.nontouch a,.nontouch a:visited{color:#3b5998;text-decoration:none;}.nontouch .sec,.nontouch .sec:visited{color:#6d84b4;}.nontouch a:focus,.nontouch a:hover,.nontouch .sec:focus,.nontouch .sec:hover{background-color:#3b5998;color:#fff;}.clear{clear:both;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}._513c #viewport{margin:0 auto;max-width:600px;}.acw{background-color:#fff;}.acb{background-color:#3b5998;}#page{position:relative;}.aps{padding:2px 3px;}.apm{padding:4px 3px;}.nontouch ._5ui2{background:#eceff5;padding:0 0 12px;}.nontouch ._5ui2 a,.nontouch ._5ui2 a:visited{color:#2b55ad;}.nontouch ._5ui2 a:hover,.nontouch ._5ui2 a:focus{background:#2b55ad;color:#fff;}.nontouch ._5ui3,.nontouch ._5ui4{padding:0 6px 6px;}.fcb{color:#000;}.fcg{color:gray;}.mfss{font-size:small;}body,tr,input,textarea,.mfsm{font-size:medium;}/*]]&gt;*/
+    </style>
+    <meta name="Search.searchable" content="false"/>
+    <meta name="msvalidate.01" content="07183A7737D6D3C1D669A2A397810DD4"/>
+    <meta name="google-site-verification" content="PhnHvS3RgnJIJ9D0KKElExCGN6ZL9_SEV_fnvxzRl-o"/>
+    <div class="mfsm">
+      <div id="viewport">
+        <div>
+          <div class="acb aps" id="header">
+            <h1>
+              <a href="/home.php?refid=6">
+                <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook"/>
+              </a>
+            </h1>
+          </div>
+        </div>
+        <div id="objects_container">
+          <div class="acw apm" title="Help Center">
+            <strong>
+              Help Center
+            </strong>
+          </div>
+          <div id="root" role="main" class="_65w _55wm">
+            <div class="_4-fg">
+              <div>
+                <div class="_55wm _55ws">
+                  <div class="_55wo _56bf _576a">
+                    <div class="_55wq">
+                      <form method="get" action="/help/search/">
+                        <input type="hidden" name="refid" value="6"/>
+                        <div class="_55wo _55wq">
+                          <table cellspacing="0" cellpadding="0" class="comboInput">
+                            <tbody>
+                              <tr>
+                                <td class="inputCell">
+                                  <input autocorrect="off" autocapitalize="off" class="_5whq input" title="Search" name="q" size="15" type="text"/>
+                                </td>
+                                <td class="btnCell">
+                                  <input value="Search" type="submit" class="_56bs _56bu"/>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="_55wo _2o9y" id="help_quicksearch_view" style="">
+                  <div class="_55ws">
+                    <div class="_52jc _52j9 _52jh _575v">
+                      Top Questions
+                    </div>
+                  </div>
+                  <div>
+                    <div class="ib" title="What names are allowed on Facebook?">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/112146705538576?ref=topq&amp;refid=6">
+                          What names are allowed on Facebook?
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="How do I reset my password?">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/213395615347144?ref=topq&amp;refid=6">
+                          How do I reset my password?
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Why can't I change my name?">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/448505685205813?ref=topq&amp;refid=6">
+                          Why can't I change my name?
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Photos are loading as black boxes, empty boxes or broken images.">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/392617567415770?ref=topq&amp;refid=6">
+                          Photos are loading as black boxes, empty boxes or broken images.
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="How do I control how much data Facebook uses on my phone?">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/656932384361200?ref=topq&amp;refid=6">
+                          How do I control how much data Facebook uses on my phone?
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div tabindex="0">
+                </div>
+                <div tabindex="1">
+                  <div class="_55wo">
+                    <div class="ib" title="Join Facebook">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/245455058924966?refid=6">
+                          Join Facebook
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Login &amp; Password">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/193551670769295?refid=6">
+                          Login &amp; Password
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Messages">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/129247813924189?refid=6">
+                          Messages
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Editing Your Account">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/168820749934070?refid=6">
+                          Editing Your Account
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Posting &amp; Tagging">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/165489173604544?refid=6">
+                          Posting &amp; Tagging
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Search">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/839862959373247?refid=6">
+                          Search
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Warnings &amp; Blocks">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/349866698456456?refid=6">
+                          Warnings &amp; Blocks
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Privacy">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/626953117318742?refid=6">
+                          Privacy
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Reporting Things">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/434010720025741?refid=6">
+                          Reporting Things
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Deleting Things">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/225408054271745?refid=6">
+                          Deleting Things
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib" title="Everything Else">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/f6VpZYIWDXg.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/510601415648222?refid=6">
+                          Everything Else
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="_52jc _55wo _55wr _5ui2">
+          <div id="footer">
+            <div class="_5ui3">
+              <span class="mfss fcg">
+                <b>
+                  English (US)
+                </b>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=pt_PT&amp;lref=https%3A%2F%2Fm.facebook.com%2Fhelp%2F%3Frefid%3D9&amp;gfid=AQCyJNk2TN6ygk_j&amp;refid=6">
+                  Português (Portugal)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=es_LA&amp;lref=https%3A%2F%2Fm.facebook.com%2Fhelp%2F%3Frefid%3D9&amp;gfid=AQBMcYfa3rFhUgod&amp;refid=6">
+                  Español
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Fhelp%2F%3Frefid%3D9&amp;refid=6">
+                  More…
+                </a>
+              </span>
+            </div>
+            <div class="_5ui4">
+              <span class="mfss fcb">
+                <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&amp;refid=6">
+                  Log in to Facebook
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                Facebook ©2014
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="static_templates">
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+URL:https://shine.search.yahoo.com/search?ei=UTF-8&fr=shine_main&p=phone
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:58
+POSSIBLE-MASTER-DETAIL
+POSSIBLE-MASTER-DETAIL

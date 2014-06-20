@@ -1,0 +1,12 @@
+URL:http://app.rasc.ch/tudu/secure/myInfo.action
+PRESENT-SORT-KEYWORD:asc
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:15
+POSSIBLE-LOGIN-PASS-TEXT-BOX
+INPUT-PATTERN-TEXTBOX://input[@name=firstName and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://input[@name=email and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://input[@name=lastName and @type=text]
+INPUT-PATTERN-TEXT:shirt

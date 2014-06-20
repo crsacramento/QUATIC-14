@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      coffee - Search results - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/w/index.php?search=coffee&amp;title=Special%3ASearch&amp;fulltext=Search"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special%2Cui%7Cmediawiki.special.search%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Special:Search","wgTitle":"Search","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Search","wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Search page-Special_Search skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Search results
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <div class="mw-specialpage-summary">
+            <p>
+              For search options, see 
+              <a href="/wiki/Help:Searching" title="Help:Searching">
+                Help:Searching
+              </a>
+              . To change the 
+              <a href="/wiki/Wikipedia:Namespace" title="Wikipedia:Namespace">
+                namespaces
+              </a>
+               you search in by default, set 
+              <a href="/wiki/Special:Preferences#mw-prefsection-searchoptions" title="Special:Preferences">
+                your search preferences
+              </a>
+              .
+
+            </p>
+          </div>
+          <form id="search" method="get" action="/w/index.php">
+            <div id="mw-search-top-table">
+              <input type="hidden" value="Special:Search" name="title"/>
+              <input type="hidden" value="default" name="profile"/>
+              <input id="searchText" size="50" autofocus="" class="mw-ui-input" type="search" value="coffee" name="search"/>
+              <input type="hidden" value="Search" name="fulltext"/>
+              <input type="submit" value="Search" class="mw-ui-button mw-ui-progressive"/>
+            </div>
+            <div class="mw-search-formheader">
+              <div class="search-types">
+                <ul>
+                  <li class="current">
+                    <a href="/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search&amp;profile=default" title="Search in (Article)">
+                      Content pages
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search&amp;profile=images" title="Search for files">
+                      Multimedia
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search&amp;profile=all" title="Search all of content (including talk pages)">
+                      Everything
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search&amp;profile=advanced" title="Search in custom namespaces">
+                      Advanced
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="results-info">
+                <ul>
+                  <li>
+                    Results 
+                    <b>
+                      1–50
+                    </b>
+                     of 
+                    <b>
+                      28,236
+                    </b>
+                     for 
+                    <b>
+                      coffee
+                    </b>
+                  </li>
+                </ul>
+              </div>
+              <div style="clear:both">
+              </div>
+            </div>
+          </form>
+          <div class="searchresults">
+            <p class="mw-search-createlink">
+              <b>
+                There is a page named "
+                <a href="/wiki/Coffee" title="Coffee">
+                  Coffee
+                </a>
+                " on Wikipedia
+              </b>
+            </p>
+            <ul class="mw-search-results">
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee" title="Coffee">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   is a brewed beverage  prepared from the roasted or baked seeds of several species of an evergreen  shrub  of the genus  Coffea .  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  129 KB (18,072 words) - 08:15, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Generic_top-level_domain" title="Generic top-level domain">
+                    Generic top-level domain
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/.coffee" title=".coffee">
+                      .
+                      <span class="searchmatch">
+                        coffee
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  date July 2012 New TLDs: http://newgtlds. icann. org/en/ | date January 2014 |!  gTLD!  intended use |  For a full list, see List of gTLDs  |  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  26 KB (3,597 words) - 05:51, 17 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/COFFEE_(Cinema_4D)" title="COFFEE (Cinema 4D)">
+                    <span class="searchmatch">
+                      COFFEE
+                    </span>
+                     (Cinema 4D)
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/C.O.F.F.E.E." title="C.O.F.F.E.E.">
+                      C.O.F.F.E.E.
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    COFFEE
+                  </span>
+                   (often written as "C.O.F.F.E.E") is a computer  scripting language  that forms part of CINEMA 4D , a proprietary 3D graphics  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  4 KB (555 words) - 13:41, 16 June 2010
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffeehouse" title="Coffeehouse">
+                    Coffeehouse
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Coffee_house" title="Coffee house">
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                       house
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Coffeehouse and 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   shop are related terms for an establishment which primarily serves prepared 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   and other hot beverages.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  37 KB (5,370 words) - 16:47, 7 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_bean" title="Coffee bean">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     bean
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean is a seed of the 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plant , and is the source for 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  It is the pit  inside the red or purple fruit often referred  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  24 KB (3,613 words) - 17:20, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Turkish_coffee" title="Turkish coffee">
+                    Turkish 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Turkish 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is a method of preparing 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  Roasted and then finely ground 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean s are boiled in a pot (cezve ), usually with  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  24 KB (3,766 words) - 20:13, 4 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffea" title="Coffea">
+                    Coffea
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Coffee_plant" title="Coffee plant">
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                       plant
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Coffea is a genus  of flowering plant s whose seed s, called 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   beans , are used to make 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  It is a member of the Rubiaceae   
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  15 KB (1,153 words) - 12:04, 3 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_preparation" title="Coffee preparation">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     preparation
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   preparation is the process of turning 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    beans into a beverage.  While the particular steps vary with the type of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  39 KB (6,294 words) - 19:34, 2 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_County,_Alabama" title="Coffee County, Alabama">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     County, Alabama
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County is a county  of the U.S. state  of Alabama .  As of the 2010 census , the population was 49,948 Its county seat  is Elba . 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  10 KB (1,147 words) - 20:31, 17 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Espresso" title="Espresso">
+                    Espresso
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Crema_(coffee)" title="Crema (coffee)">
+                      Crema (
+                      <span class="searchmatch">
+                        coffee
+                      </span>
+                      )
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  is 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    brewed by forcing a small amount of nearly boiling water under pressure through finely ground 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean s.  thicker than 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  24 KB (3,534 words) - 06:19, 10 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_County,_Tennessee" title="Coffee County, Tennessee">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     County, Tennessee
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County is a county  located in the U.S. state  of Tennessee .  As of the 2010 census , the county's population was 52,796 Its county 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  9 KB (1,062 words) - 16:39, 27 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production_in_Ethiopia" title="Coffee production in Ethiopia">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production in Ethiopia
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   production in Ethiopia is a longstanding tradition. Ethiopia  is where Coffea arabica , the 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plant, originates.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  8 KB (1,188 words) - 22:52, 19 March 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_County,_Georgia" title="Coffee County, Georgia">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     County, Georgia
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County is a county  located in the U.S. state  of Georgia .  As of the 2010 census , the population was 42,356 The county seat  is  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  9 KB (1,054 words) - 23:06, 26 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production_in_Colombia" title="Coffee production in Colombia">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production in Colombia
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Colombian 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is among those considered as the best 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   in the world. Most 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is grown in the Colombian 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   growing axis  region.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  12 KB (1,801 words) - 17:22, 10 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/S%C3%A3o_Paulo_(state)" title="São Paulo (state)">
+                    São Paulo (state)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The government's policies of "valorisaton"—borrowing money to buy 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   and stockpiling it, in order to have a surplus during bad  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  62 KB (8,676 words) - 18:32, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_substitute" title="Coffee substitute">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     substitute
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   substitutes are non- 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    products, usually without caffeine , that are used to imitate 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  .  simply because 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is not  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (797 words) - 20:13, 28 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffea_arabica" title="Coffea arabica">
+                    Coffea arabica
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Arabica_coffee" title="Arabica coffee">
+                      Arabica 
+                      <span class="searchmatch">
+                        coffee
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  It is also known as the "
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   shrub of Arabia", "mountain 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  " or "arabica 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  ".  be the first species of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   to be cultivated,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  14 KB (2,015 words) - 23:25, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Cappuccino" title="Cappuccino">
+                    Cappuccino
+                  </a>
+                  <span class="searchalttitle">
+                    (section 
+                    <a href="/wiki/Cappuccino#Iced_coffee" title="Cappuccino">
+                      Iced 
+                      <span class="searchmatch">
+                        coffee
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  is an Italian 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    drink  which is traditionally prepared with espresso , hot milk , and steamed-milk foam .  The name comes from the  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  16 KB (2,578 words) - 11:46, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Plantation" title="Plantation">
+                    Plantation
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Coffee_plantation" title="Coffee plantation">
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                       plantation
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Crops grown on plantations include fast-growing tree s (often conifer s), cotton , 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   , tobacco , sugar cane , sisal , some oil seeds  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  29 KB (4,217 words) - 00:25, 24 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shade-grown_coffee" title="Shade-grown coffee">
+                    Shade-grown 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Shade-grown 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is a form of the beverage produced from 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plants  grown under a canopy  of trees.  created to cultivate shade-grown 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  .  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  15 KB (2,152 words) - 08:47, 5 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Drip_brew" title="Drip brew">
+                    Drip brew
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Drip_coffee" title="Drip coffee">
+                      Drip 
+                      <span class="searchmatch">
+                        coffee
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Drip brewing, or filtered 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  , is a method which involves pouring water over roasted , ground  
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   beans contained in a filter,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (815 words) - 20:22, 10 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/National_Federation_of_Coffee_Growers_of_Colombia" title="National Federation of Coffee Growers of Colombia">
+                    National Federation of 
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     Growers of Colombia
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The National Federation of 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   Growers of Colombia. (link no | Federación Nacional de Cafeteros de Colombia often abbreviated Fedecafé, is 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  24 KB (3,417 words) - 06:17, 28 November 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Irish_coffee" title="Irish coffee">
+                    Irish 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Irish 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   (caifé Gaelach) is a cocktail  consisting of hot 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   , Irish whiskey , and sugar  (some recipes specify that brown sugar   
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  10 KB (1,370 words) - 17:17, 9 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Seattle%27s_Best_Coffee" title="Seattle's Best Coffee">
+                    Seattle's Best 
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Seattle's Best 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                  , a wholly owned subsidiary  of Starbucks , is a specialty 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    retailer and wholesaler based in Seattle,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  8 KB (1,105 words) - 01:46, 15 March 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Economics_of_coffee" title="Economics of coffee">
+                    Economics of 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   is an important commodity  and a popular beverage.  Over 2.25 billion cups of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   are consumed in the world every day Over 90% of 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  20 KB (2,769 words) - 20:49, 27 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_milk" title="Coffee milk">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     milk
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   milk is a drink  made by adding a sweetened 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   concentrate called 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   syrup to milk in a manner similar to chocolate milk .  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (758 words) - 06:07, 26 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Sexual_intercourse" title="Sexual intercourse">
+                    Sexual intercourse
+                  </a>
+                </div>
+                <div class="searchresult">
+                  This article is primarily about sexual intercourse among humans.  For sexual intercourse among other animals, see Animal sexual behaviour . 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  133 KB (17,726 words) - 17:55, 5 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Java_coffee" title="Java coffee">
+                    Java 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Java 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   refers to 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean s produced in the Indonesian island of Java .  only to the origin of the 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  , but is used to  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (451 words) - 06:25, 15 March 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production_in_Hawaii" title="Coffee production in Hawaii">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production in Hawaii
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The only state in the United States of America  able to grow 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plants  commercially is Hawaii  However, it is not the only 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   grown 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  9 KB (1,323 words) - 17:39, 23 June 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production_in_Guatemala" title="Coffee production in Guatemala">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production in Guatemala
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   production in Guatemala began to develop in the 1850s.  
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   is an important element in the economy of Guatemala . Guatemala  was  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (736 words) - 13:05, 2 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_(color)" title="Coffee (color)">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     (color)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   is a brown ish color  that is a representation of the color of an unroasted 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean .  Different types of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   beans have  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  4 KB (627 words) - 23:25, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Canned_coffee" title="Canned coffee">
+                    Canned 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Japanese canned  
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is already brewed and ready to drink It is available in supermarkets and. convenience stores | ???? | kombini 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (761 words) - 00:40, 16 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production_in_Tanzania" title="Coffee production in Tanzania">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production in Tanzania
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   production in Tanzania  is a significant aspect of its economy  as it is Tanzania's largest export crop Tanzanian 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   production  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (382 words) - 07:09, 28 April 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_Precinct,_Wabash_County,_Illinois" title="Coffee Precinct, Wabash County, Illinois">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     Precinct, Wabash County, Illinois
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   Precinct is one of the eight precincts of Wabash County, Illinois . Keensburg, Illinois  is the seat of the precinct. 38 | 20 | 12 |  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (221 words) - 02:52, 21 March 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/National_Register_of_Historic_Places_listings_in_Coffee_County,_Tennessee" title="National Register of Historic Places listings in Coffee County, Tennessee">
+                    National Register of Historic Places listings in 
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     County, Tennessee
+                  </a>
+                </div>
+                <div class="searchresult">
+                  This is a list of the National Register of Historic Places listings in 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County, Tennessee. Historic Places  in 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County ,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (694 words) - 14:39, 24 March 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Centre_of_Full_Employment_and_Equity" title="Centre of Full Employment and Equity">
+                    Centre of Full Employment and Equity
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Centre of Full Employment and Equity or 
+                  <span class="searchmatch">
+                    CofFEE
+                  </span>
+                   is an official research centre of the University of Newcastle , New South Wales ,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  2 KB (308 words) - 16:11, 11 December 2012
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/National_Register_of_Historic_Places_listings_in_Coffee_County,_Georgia" title="National Register of Historic Places listings in Coffee County, Georgia">
+                    National Register of Historic Places listings in 
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     County, Georgia
+                  </a>
+                </div>
+                <div class="searchresult">
+                  This is a list of properties and district s in 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County, Georgia  that are listed on the National Register of Historic Places  (NRHP). 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (377 words) - 18:57, 9 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/BBCH-scale_(coffee)" title="BBCH-scale (coffee)">
+                    BBCH-scale (
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                    )
+                  </a>
+                </div>
+                <div class="searchresult">
+                  In biology, the BBCH-scale for 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   describes the phenological  development of bean plant s using the BBCH-scale . keys of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plants are:! 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (930 words) - 18:39, 13 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Properties_on_the_Alabama_Register_of_Landmarks_and_Heritage_by_county_(Clarke%E2%80%93Dallas)" title="Properties on the Alabama Register of Landmarks and Heritage by county (Clarke–Dallas)">
+                    Properties on the Alabama Register of Landmarks and Heritage by county (Clarke–Dallas)
+                  </a>
+                  <span class="searchalttitle">
+                    (section 
+                    <a href="/wiki/Properties_on_the_Alabama_Register_of_Landmarks_and_Heritage_by_county_(Clarke%E2%80%93Dallas)#Coffee_County" title="Properties on the Alabama Register of Landmarks and Heritage by county (Clarke–Dallas)">
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                       County
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   County ! : width 2% | Site name Date listed City or Town Built or Established NRHP /NHL  |  1 | Enterprise Methodist Church (First  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  41 KB (3,645 words) - 22:53, 5 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Instant_coffee" title="Instant coffee">
+                    Instant 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Instant 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                  , also called soluble 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   and 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   powder, is a beverage derived from brewed 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   bean s.  Instant 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  15 KB (2,234 words) - 14:03, 23 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Starbucks" title="Starbucks">
+                    Starbucks
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Starbucks_Coffee" title="Starbucks Coffee">
+                      Starbucks 
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Starbucks Corporation is an American global 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   company and coffeehouse chain  based in Seattle , Washington .  Starbucks is the largest 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  132 KB (19,410 words) - 13:47, 10 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_roasting" title="Coffee roasting">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     roasting
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Roasting 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   transforms the chemical and physical properties of green 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   beans  into roasted 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    products.  flavor of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   by  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  17 KB (2,434 words) - 00:42, 1 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Costa_Coffee" title="Costa Coffee">
+                    Costa 
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Costa 
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   is a British multinational  coffeehouse  company headquartered in Dunstable , United Kingdom, and a wholly owned subsidiary of 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  9 KB (1,233 words) - 01:39, 14 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Iced_coffee" title="Iced coffee">
+                    Iced 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Iced 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is a cold variant of 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  The iced latte  and iced mocha  are examples. cold brew  – brewing the 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   cold, yielding  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  12 KB (1,832 words) - 10:12, 3 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     percolator
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   percolator is a type of pot used to brew 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    by continually cycling the boiling or nearly-boiling brew through the grounds  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  12 KB (1,935 words) - 21:25, 26 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Kona_coffee" title="Kona coffee">
+                    Kona 
+                    <span class="searchmatch">
+                      coffee
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Kona 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   is the market name for 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    (Coffea arabica ) cultivated on the slopes of Hualalai  and Mauna Loa  in the North and South  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  13 KB (1,986 words) - 14:16, 3 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_cup" title="Coffee cup">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     cup
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   cup is a container that 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                    and espresso -based drinks are served in.  
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   cups are typically made of glaze d ceramic , and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  14 KB (2,098 words) - 16:51, 8 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Gloria_Jean%27s_Coffees" title="Gloria Jean's Coffees">
+                    Gloria Jean's 
+                    <span class="searchmatch">
+                      Coffees
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Gloria Jean's 
+                  <span class="searchmatch">
+                    Coffees
+                  </span>
+                   is an Australian-owned global specialty 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   company that has opened more than 1,000 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   houses across 39  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  17 KB (2,415 words) - 12:03, 25 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffee_production" title="Coffee production">
+                    <span class="searchmatch">
+                      Coffee
+                    </span>
+                     production
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Coffee
+                  </span>
+                   production is the industrial process  of converting the raw fruit of the 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   plant  into the finished 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  The cherry has  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  22 KB (3,549 words) - 08:07, 4 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Coffeemaker" title="Coffeemaker">
+                    Coffeemaker
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Coffee_maker" title="Coffee maker">
+                      <span class="searchmatch">
+                        Coffee
+                      </span>
+                       maker
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Coffeemakers or 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   machines are cooking  appliance s used to brew 
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   .  
+                  <span class="searchmatch">
+                    coffee
+                  </span>
+                   grounds are placed in a paper or metal filter inside 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  21 KB (3,241 words) - 23:18, 28 May 2014
+                </div>
+              </li>
+            </ul>
+          </div>
+          <p class="mw-search-pager-bottom">
+            View (previous 50 |  
+            <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=50&amp;profile=default&amp;search=coffee" title="Next 50 results" class="mw-nextlink">
+              next 50
+            </a>
+            ) (
+            <a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=0&amp;profile=default&amp;search=coffee" title="Show 20 results per page" class="mw-numlink">
+              20
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=0&amp;profile=default&amp;search=coffee" title="Show 50 results per page" class="mw-numlink">
+              50
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=100&amp;offset=0&amp;profile=default&amp;search=coffee" title="Show 100 results per page" class="mw-numlink">
+              100
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=250&amp;offset=0&amp;profile=default&amp;search=coffee" title="Show 250 results per page" class="mw-numlink">
+              250
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=500&amp;offset=0&amp;profile=default&amp;search=coffee" title="Show 500 results per page" class="mw-numlink">
+              500
+            </a>
+            )
+          </p>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/wiki/Special:Search">
+            http://en.wikipedia.org/wiki/Special:Search
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=search%3Dcoffee%26fulltext%3DSearch&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=search%3Dcoffee%26fulltext%3DSearch" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span>
+                  <a href="/w/index.php?search=coffee&amp;title=Special%3ASearch&amp;fulltext=Search" title="This is a special page which you cannot edit">
+                    Special page
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" value="coffee" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Special:Search&amp;search=coffee&amp;fulltext=Search" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.special.search","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":545,"wgHostname":"mw1182"});
+}
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+Jun 11, 2014 7:29:35 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+Jun 11, 2014 7:29:35 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request

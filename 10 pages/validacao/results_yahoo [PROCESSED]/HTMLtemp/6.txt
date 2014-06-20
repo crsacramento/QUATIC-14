@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=8"/>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <script>
+//<![CDATA[
+(function(){var h=document.documentElement;h.className+=" js";(new Image()).src='https://s.yimg.com/pv/i/all/vertical/games/us_srp_metro_games_201401161426.png';})();
+//]]>
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="Yahoo Games Search results for banana" href="https://games.search.yahoo.com/rss?ei=UTF-8&amp;p=banana&amp;fr=uh3_games_web_gs&amp;type=2button"/>
+    <title>
+      banana - Yahoo Games Search Results
+    </title>
+    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/pv/lib/s8/vertical/us_srp_purple_games_1_201406060131.css"/>
+    <link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?kx/yucs/uh3/uh/css/1033/uh_non_mail-min.css&amp;kx/yucs/uh_common/meta/3/css/meta-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/301/no_icons-min.css&amp;kx/yucs/uh3/uh/css/1031/uh_ssl-min.css"/>
+    <style type="text/css">
+      s,.sprt,.sprite,#ss a.ss-remove,.news-nph,.stars-sm span,.stars-lg span,.thmbplay,.sc-promo-img,.sc-close,.yui3-carousel-nav-item,.yui3-carousel-nav-item-selected,.yui3-carousel-button,#sidebar .bd ul.filter_list li.fts span,#sidebar .bd ul.filter_list li.fts span.active{background-image:url(https://s.yimg.com/pv/i/all/vertical/games/us_srp_metro_games_201401161426.png);}#logo{height: 34px;width: 119px;margin-top: 2px; margin-left: 23px;background-repeat:no-repeat;background-position: 0 0;display: block;overflow: hidden;text-indent: -9999px;}#logo{ background-image:url(https://s.yimg.com/rz/l/yahoo_games_en-US_f_p_119x34.png);*background-image:url(https://s.yimg.com/rz/l/yahoo_games_en-US_f_p_119x34.gif);}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {#logo{background-image:url(https://s.yimg.com/rz/l/yahoo_games_en-US_f_p_119x34_2x.png); background-size: 119px}}.games-entity-entry .play-button .play-icon,.games-entity-entry .sm-media .default-thumb,#popgame .popgame-img .default-thumb{background-image:url(https://s.yimg.com/pv/i/all/vertical/games/us_srp_metro_games_201401161426.png);}
+    </style>
+  </head>
+  <body id="ysch" class="ie microsoft windows v8_0">
+    <div id="doc" class="uh3-p">
+      <h1 class="off-left">
+        Yahoo Games Web Search
+      </h1>
+      <style>
+        #yucs{padding:0}#yucs .yucs-avatar{width:22px;height:22px}#yucs a#yucs-mail_link_id{_width:30px;_text-indent:0;_background-position:0 -4352px}#yucs-profile{_margin-right:-10px;_width:75px}#yucs #yucs-profile_text .yuhead-name-greeting{display:none}#yucs #yucs-profile_text .yuhead-name{top:0;max-width:65px;_width:40px}#yucs-profile_text{max-width:65px}#yucs #yucs-nav .yucs-menu ul li a:hover,#yucs #yucs-help .yucs-menu ul li a:hover,#yucs .yucs-profile-items-panel a:hover{background-color:transparent;text-decoration:underline}#yucs-top-inner{margin-left:0}#doc.uh3-p #yucsHead #yucs-top-home{margin-top:2px !important}#yucs .yucs-noscript .yucs-no_menu .yucs-signout:link{left:30px;top:10px;position:absolute;*left:0}#yucsHead{background-color:#fafafc}#yucs #yucs-profile_inner.yucs-nv3 .yucs-profile-items-panel li a{white-space:normal}
+      </style>
+      <div id="yucsHead" class="yucs-srp yucs-en-us ua-ie ua-ie7 yucs-standard">
+        <!-- meta -->        <div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="IiDwF4UkVbe" data-device="desktop" data-firstname="" data-flight="1402520291" data-forcecobrand="standard" data-guid="" data-host="games.search.yahoo.com" data-https="1" data-languagetag="en-us" data-property="srp" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="2145829076" data-userid="">
+        </div>
+        <!-- /meta -->        <div id="yucs-comet" style="display:none;">
+        </div>
+        <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-srp yucs-fcb- " data-disclaimertext="Do Not Track is no longer enabled on Yahoo. Your experience is now personalized. {disclaimerLink}More info{linkEnd}" data-ylt-link="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAI6DUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2finfo.yahoo.com%2fprivacy%2fus%2fyahoo%2f/RK=0/RS=jdn_kKSkgipyCMk.UqJy.MGkw4s-" data-ylt-disclaimerbarclose="/;_ylt=AwrBJR7jwphTrWQAJKDUwOZ_" data-ylt-disclaimerbaropen="/;_ylt=AwrBJR7jwphTrWQAJaDUwOZ_" data-linktarget="_top" data-lang="en-us" data-property="srp" data-device="Desktop" data-close-txt="Close this window">
+        </div>
+        <!--topbar-->        <style>
+          #doc.uh3lite, .uh3lite #yucsHead, #yucsHead, #doc.uh3lite #hd {
+    margin-top: 0!important;
+}
+        </style>
+        <div id="yucs-top-bar" class="yucs-ps">
+          <div id="yucs-top-inner">
+            <ul id="yucs-top-list">
+              <li id="yucs-top-home" class="yucs-top-first">
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAJqDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2f/RK=0/RS=P4RNAx8L42.RDIBOAP_2mRVCb40-">
+                  <span class="sp yucs-top-ico">
+                  </span>
+                  Home
+                </a>
+              </li>
+              <li id="yucs-top-mail">
+                <a href="https://mail.yahoo.com/;_ylt=AwrBJR7jwphTrWQAJ6DUwOZ_?.intl=us&amp;.lang=en-US&amp;.src=ym">
+                  Mail
+                </a>
+              </li>
+              <li id="yucs-top-news">
+                <a href="http://news.yahoo.com/;_ylt=AwrBJR7jwphTrWQAKKDUwOZ_">
+                  News
+                </a>
+              </li>
+              <li id="yucs-top-sports">
+                <a href="http://sports.yahoo.com/;_ylt=AwrBJR7jwphTrWQAKaDUwOZ_">
+                  Sports
+                </a>
+              </li>
+              <li id="yucs-top-finance">
+                <a href="http://finance.yahoo.com/;_ylt=AwrBJR7jwphTrWQAKqDUwOZ_">
+                  Finance
+                </a>
+              </li>
+              <li id="yucs-top-weather">
+                <a href="https://weather.yahoo.com/;_ylt=AwrBJR7jwphTrWQAK6DUwOZ_">
+                  Weather
+                </a>
+              </li>
+              <li id="yucs-top-games">
+                <a href="https://games.yahoo.com/;_ylt=AwrBJR7jwphTrWQALKDUwOZ_">
+                  Games
+                </a>
+              </li>
+              <li id="yucs-top-groups">
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQALaDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fgroups.yahoo.com%2f/RK=0/RS=YY20ZhfwcvvExf.oFBTmT0ippR0-">
+                  Groups
+                </a>
+              </li>
+              <li id="yucs-top-answers">
+                <a href="https://answers.yahoo.com/;_ylt=AwrBJR7jwphTrWQALqDUwOZ_">
+                  Answers
+                </a>
+              </li>
+              <li id="yucs-top-screen">
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAL6DUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fscreen.yahoo.com%2f/RK=0/RS=ZlmRi5F3q4s5LL77EMoij2G.iZc-">
+                  Screen
+                </a>
+              </li>
+              <li id="yucs-top-flickr">
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAMKDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.flickr.com%2f/RK=0/RS=S3O0jTIzr9k37j360pDW3OIOz44-">
+                  Flickr
+                </a>
+              </li>
+              <li id="yucs-top-mobile">
+                <a href="https://mobile.yahoo.com/;_ylt=AwrBJR7jwphTrWQAMaDUwOZ_">
+                  Mobile
+                </a>
+              </li>
+              <li id="yucs-more" class="yucs-menu yucs-more-activate" data-ylt="/;_ylt=AwrBJR7jwphTrWQAMqDUwOZ_">
+                <a href="#" id="yucs-more-link" class="yucs-leavable">
+                  More
+                  <span class="sp yucs-top-ico">
+                  </span>
+                </a>
+                <div id="yucs-top-menu">
+                  <div class="yui3-menu-content">
+                    <ul class="yucs-hide yucs-leavable">
+                      <li id="yucs-top-celebrity">
+                        <a href="https://celebrity.yahoo.com/;_ylt=AwrBJR7jwphTrWQAM6DUwOZ_">
+                          Celebrity
+                        </a>
+                      </li>
+                      <li id="yucs-top-shine">
+                        <a href="https://shine.yahoo.com/;_ylt=AwrBJR7jwphTrWQANKDUwOZ_">
+                          Shine
+                        </a>
+                      </li>
+                      <li id="yucs-top-movies">
+                        <a href="https://movies.yahoo.com/;_ylt=AwrBJR7jwphTrWQANaDUwOZ_">
+                          Movies
+                        </a>
+                      </li>
+                      <li id="yucs-top-music">
+                        <a href="https://music.yahoo.com/;_ylt=AwrBJR7jwphTrWQANqDUwOZ_">
+                          Music
+                        </a>
+                      </li>
+                      <li id="yucs-top-tv">
+                        <a href="https://tv.yahoo.com/;_ylt=AwrBJR7jwphTrWQAN6DUwOZ_">
+                          TV
+                        </a>
+                      </li>
+                      <li id="yucs-top-health">
+                        <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAOKDUwOZ_/RV=2/RE=1402549091/RO=10/RU=http%3a%2f%2fhealth.yahoo.com%2f/RK=0/RS=CVBYSW8NhHAGW5xKP9jsyqov6xI-">
+                          Health
+                        </a>
+                      </li>
+                      <li id="yucs-top-food">
+                        <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAOaDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ffood/RK=0/RS=vzydiy5XuRVXZeh8HKL4VOMImoc-">
+                          Food
+                        </a>
+                      </li>
+                      <li id="yucs-top-tech">
+                        <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAOqDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ftech/RK=0/RS=qf1yS3dbYA.7Mt6D2jrQkyj7jOk-">
+                          Tech
+                        </a>
+                      </li>
+                      <li id="yucs-top-shopping">
+                        <a href="http://shopping.yahoo.com/;_ylt=AwrBJR7jwphTrWQAO6DUwOZ_">
+                          Shopping
+                        </a>
+                      </li>
+                      <li id="yucs-top-travel">
+                        <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAPKDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ftravel/RK=0/RS=vfR9U02HwGCDN5H_7qLlI9_An.Y-">
+                          Travel
+                        </a>
+                      </li>
+                      <li id="yucs-top-autos">
+                        <a href="https://autos.yahoo.com/;_ylt=AwrBJR7jwphTrWQAPaDUwOZ_">
+                          Autos
+                        </a>
+                      </li>
+                      <li id="yucs-top-homes">
+                        <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAPqDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fhomes.yahoo.com%2fown-rent%2f/RK=0/RS=1WOI0xApITwrBGlpmyxUkB5hJMA-">
+                          Homes
+                        </a>
+                      </li>
+                    </ul>
+                    <!-- /yucs-hide -->                  </div>
+                  <!-- /yui3-menu-content -->                </div>
+                <!-- yucs-top-menu -->              </li>
+            </ul>
+            <!-- /yucs-top-list -->          </div>
+          <!-- /yucs-top-inner -->        </div>
+        <!-- /yucs-top-bar -->        <!--/topbar-->        <div id="yucs" class="yucs-mc  yog-grid" data-lang="en-us" data-property="srp" data-flight="1402520291" data-linktarget="_top" data-uhvc="/;_ylt=AwrBJR7jwphTrWQAP6DUwOZ_">
+          <div class="yucs-fl-left yog-cp">
+          </div>
+          <div class="yucs-fl-right">
+            <div id="yucs-profile" class="yucs-profile yucs-signedout">
+              <a id="yucs-menu_link_profile_signed_out" href="https://login.yahoo.com/config/login;_ylt=AwrBJR7jwphTrWQAQKDUwOZ_?.src=&amp;.intl=us&amp;.lang=en-US&amp;.done=https://games.search.yahoo.com/search%3fp=banana%26type=2button%26fr=uh3_games_web_gs" target="_top" rel="nofollow" class="sp yucs-fc" aria-label="Profile">
+              </a>
+              <div id="yucs-profile_text" class="yucs-fc">
+                <a id="yucs-login_signIn" href="https://login.yahoo.com/config/login;_ylt=AwrBJR7jwphTrWQAQaDUwOZ_?.src=&amp;.intl=us&amp;.lang=en-US&amp;.done=https://games.search.yahoo.com/search%3fp=banana%26type=2button%26fr=uh3_games_web_gs" target="_top" rel="nofollow" class="yucs-fc">
+                   Sign In 
+                </a>
+              </div>
+            </div>
+            <div class="yucs-mail_link yucs-mailpreview-ancestor">
+              <a id="yucs-mail_link_id" class="sp yltasis yucs-fc" href="https://mail.yahoo.com/;_ylt=AwrBJR7jwphTrWQAQqDUwOZ_?.intl=us&amp;.lang=en-US&amp;.src=ym" rel="nofollow" target="_top">
+                 Mail 
+              </a>
+            </div>
+            <div id="yucs-help" class="yucs-activate yucs-help yucs-menu_nav">
+              <a id="yucs-help_button" class="sp yltasis" href="javascript:void(0);" aria-label="Help" rel="nofollow">
+                <em class="yucs-hide yucs-menu_anchor">
+                  Help
+                </em>
+              </a>
+              <div id="yucs-help_inner" class="yucs-hide yucs-menu yucs-hm-activate" data-yltmenushown="/;_ylt=AwrBJR7jwphTrWQAQ6DUwOZ_">
+                <span class="sp yucs-dock">
+                </span>
+                <div class="yucs-yql_loading">
+                  <ul id="yuhead-help-panel">
+                    <li>
+                      <a class="yucs-acct-link" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQARKDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fedit.yahoo.com%2fmc2.0%2feval_profile%3f.intl%3dus%26.lang%3den-US%26.done%3dhttps%3a%2f%2fgames.search.yahoo.com%2fsearch%253fp%3dbanana%2526type%3d2button%2526fr%3duh3_games_web_gs%26amp%3b.src%3d%26amp%3b.intl%3dus%26amp%3b.lang%3den-US/RK=0/RS=_5HSwsnFmX9Od.WVlVyOvZ..gSc-" target="_top">
+                        Account Info
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div id="yucs-network_link">
+              <a id="yucs-home_link" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQARaDUwOZ_/RV=2/RE=1402549091/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2f/RK=0/RS=P4RNAx8L42.RDIBOAP_2mRVCb40-" rel="nofollow" target="_top">
+                Yahoo
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- contextual_shortcuts -->        <!-- /contextual_shortcuts -->        <!-- property: srp | languagetag: en-us | status: active | spaceid: 2145829076 | cobrand: standard | markup: empty -->        <div id="yUnivHead" class="yucs-hide">
+          <!-- empty -->        </div>
+      </div>
+      <div id="hd">
+        <a id="logo" href="http://games.yahoo.com/;_ylt=AwrBJR7jwphTrWQARqDUwOZ_">
+          Yahoo!
+        </a>
+        <div class="sbx">
+          <form method="get" name="s" id="sf" role="search" action="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAR6DUwOZ_">
+            <label for="yschsp" class="off-left">
+              Search query
+            </label>
+            <div id="sbq-wrap" class="sbq-w">
+              <input type="text" class="sbq" id="yschsp" name="p" value="banana" autocomplete="off" tabindex="1" onfocus="this.setAttribute('dirty',1);"/>
+            </div>
+            <button id="sbq-clear" type="button" class="sbq-x">
+              <span class="sprite">
+              </span>
+            </button>
+            <input type="submit" class="sbb" value="Search" tabindex="2"/>
+            <input type="hidden" name="fr2" value="sb-top"/>
+            <input type="hidden" name="fr" value="uh3_games_web_gs"/>
+            <input type="hidden" name="type" value="2button"/>
+          </form>
+        </div>
+      </div>
+      <div id="bd" role="document" class="content_wrapper">
+        <div id="sidebar">
+          <div class="bd">
+            <ul id="vertical_pivot_tabs">
+              <li class="pivot default_show">
+                <a href="https://search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQASKDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Web
+                </a>
+              </li>
+              <li class="pivot default_show">
+                <span class="active">
+                  Games
+                </span>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://images.search.yahoo.com/search/images;_ylt=AwrBJR7jwphTrWQASaDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Images
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://video.search.yahoo.com/search/video;_ylt=AwrBJR7jwphTrWQASqDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Video
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://shopping.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAS6DUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Shopping
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQATKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fmaps.yahoo.com%2fsearch%2fmaps%3f%26p%3dbanana%26fr2%3dpiv-games%26fr%3duh3_games_web_gs/RK=0/RS=A9_6fUBZS3JblfXq.u2OR2KEBuM-">
+                  Maps
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://blog.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQATaDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Blogs
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://news.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQATqDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  News
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://search.yahoo.com/local/s;_ylt=AwrBJR7jwphTrWQAT6DUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Local
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://autos.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAUKDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Autos
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://recipes.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAUaDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Recipes
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://sports.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAUqDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Sports
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://finance.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAU6DUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Finance
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://movies.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAVKDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Movies
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://celebrity.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAVaDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Celebrity
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://dictionary.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAVqDUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Dictionary
+                </a>
+              </li>
+              <li class="pivot default_hide">
+                <a href="https://dir.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAV6DUwOZ_?&amp;p=banana&amp;fr2=piv-games&amp;fr=uh3_games_web_gs">
+                  Directory
+                </a>
+              </li>
+              <li class="toggle more last on">
+                <a href="#">
+                  More
+                </a>
+              </li>
+              <li class="toggle less last">
+                <a href="#">
+                  Less
+                </a>
+              </li>
+            </ul>
+            <style type="text/css">
+              .sc cite{color:#ABAEB7;font-size:85%}.sc .sc-url{color:#1E7D83;font-weight:bold}.sc .timestamp{color:#ABAEB7}.sc .sc-url a{color:#8284cc}.sc .sc-links li{display:inline;padding:0 8px;line-height:1.5em}.sc .sc-links .fst{border-left:none;padding-left:0}.sc .sc-ft{clear:both}
+            </style>
+            <h4>
+               Filter by Game Price
+            </h4>
+            <ul id="refiner_price" class="filter_list">
+              <li class="default_show on">
+                <span class="active">
+                  Any Prices
+                </span>
+              </li>
+              <li class="default_show on">
+                <a href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAWKDUwOZ_?p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;section=entity&amp;limprc=%2B&amp;focuslim=limprc" class=" ">
+                  Free
+                </a>
+              </li>
+            </ul>
+            <h4>
+               Filter by Play Method
+            </h4>
+            <ul id="refiner_method" class="filter_list">
+              <li class="default_show on">
+                <span class="active">
+                  Any Methods
+                </span>
+              </li>
+              <li class="default_show on">
+                <a href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAWaDUwOZ_?p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;section=entity&amp;limmeth=-&amp;focuslim=limmeth" class=" ">
+                  Online
+                </a>
+              </li>
+            </ul>
+            <h4>
+               Filter by Game Genre
+            </h4>
+            <ul id="refiner_genre" class="filter_list">
+              <li class="default_show on">
+                <span class="active">
+                  Any Genres
+                </span>
+              </li>
+              <li class="default_show on">
+                <a href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAWqDUwOZ_?p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;section=entity&amp;limgenre=Puzzle&amp;focuslim=limgenre" class=" ">
+                  Puzzle
+                </a>
+              </li>
+            </ul>
+            <h4>
+               Filter by Provider
+            </h4>
+            <ul id="refiner_sources" class="filter_list">
+              <li class="default_show on">
+                <span class="active">
+                  Any Providers
+                </span>
+              </li>
+              <li class="default_show on">
+                <a href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAW6DUwOZ_?p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;section=entity&amp;provider=Oberon&amp;focuslim=provider" class=" ">
+                  Oberon
+                </a>
+              </li>
+              <li class="default_show on">
+                <a href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAXKDUwOZ_?p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;section=entity&amp;provider=MiniMe+Media&amp;focuslim=provider" class=" ">
+                  MiniMe Media
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div id="results">
+          <style type="text/css">
+            .sc cite{color:#ABAEB7;font-size:85%}.sc .sc-url{color:#1E7D83;font-weight:bold}.sc .timestamp{color:#ABAEB7}.sc .sc-url a{color:#8284cc}.sc .sc-links li{display:inline;padding:0 8px;line-height:1.5em}.sc .sc-links .fst{border-left:none;padding-left:0}.sc .sc-ft{clear:both}#shortcut_web_results{margin:12px 10px}#shortcut_web_results .res{margin-bottom:30px;zoom:1}#shortcut_web_results div.res span.url{color:#1E7D83;clear:left;font-weight:bold}#shortcut_web_results span.more{font-size:13px}#shortcut_web_results span.more em{font-weight:bold}#shortcut_web_results h2{font-size:12px;margin:20px 0 10px 0}#shortcut_web_results .cache a:link{font-size:11px;color:#BCA1D2;padding-left:3px}#shortcut_web_results .heading{margin-bottom:30px;font-size:16px}
+          </style>
+          <div id="cols">
+            <div id="left">
+              <div id="main">
+                <div id="games_entity" role="main">
+                  <ol>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster_first">
+                        <div class="sm-media">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAXaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fBananaBugs%2f2606/RK=0/RS=3FpXvcL9pd0TsHe.NV2sRlLUXPw-" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAXaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fBananaBugs%2f2606/RK=0/RS=3FpXvcL9pd0TsHe.NV2sRlLUXPw-" class="yschttl spt" target="_blank">
+                                <b>
+                                  Banana
+                                </b>
+                                 Bugs
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAXqDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fBananaBugs%2f2606/RK=0/RS=3FpXvcL9pd0TsHe.NV2sRlLUXPw-" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                Hordes of 
+                                <b>
+                                  banana
+                                </b>
+                                -hungry bugs are ravaging the village food supply and you’re the only monkey brave enough to take them on! Shoot...
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster">
+                        <div class="sm-media">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAX6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fVillaBanana%2fprod970021/RK=0/RS=_CxekWnYYGELmEU34H45A6m05fs-" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAX6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fVillaBanana%2fprod970021/RK=0/RS=_CxekWnYYGELmEU34H45A6m05fs-" class="yschttl spt" target="_blank">
+                                Villa 
+                                <b>
+                                  Banana
+                                </b>
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAYKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fVillaBanana%2fprod970021/RK=0/RS=_CxekWnYYGELmEU34H45A6m05fs-" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                Welcome to the tropical paradise of Villa 
+                                <b>
+                                  Banana
+                                </b>
+                                ! Work your way through adorable puzzle levels with tons...
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster">
+                        <div class="sm-media">
+                          <a href="http://games.yahoo.com/game/cook-banana-bread-flash.html;_ylt=AwrBJR7jwphTrWQAYaDUwOZ_" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                            <img class="has-default" data-src="https://s.yimg.com/lo/api/res/1.2/PSv0P9dY.VXo6c6sINgeIQ--/YXBwaWQ9dnNyY2hpbnRlcm5hbDtmaT1maWxsO3c9MTIwO2g9OTA7/http://media.zenfs.com/en_us/Games/Yahoo/web_cook-banana-bread/cook_banana_bread_intro.jpg"/>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://games.yahoo.com/game/cook-banana-bread-flash.html;_ylt=AwrBJR7jwphTrWQAYaDUwOZ_" class="yschttl spt" target="_blank">
+                                Cook 
+                                <b>
+                                  Banana
+                                </b>
+                                 Bread
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://games.yahoo.com/game/cook-banana-bread-flash.html;_ylt=AwrBJR7jwphTrWQAYqDUwOZ_" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                Learn to make a moist, delicious 
+                                <b>
+                                  banana
+                                </b>
+                                 bread with the help of this interactive-recipe cooking game!
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster">
+                        <div class="sm-media">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAY6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fTropix2QuestforGoldenBanana%2fprod60026/RK=0/RS=nrRC_xQpVQ4FWyZb7CxJW7ofywo-" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAY6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fTropix2QuestforGoldenBanana%2fprod60026/RK=0/RS=nrRC_xQpVQ4FWyZb7CxJW7ofywo-" class="yschttl spt" target="_blank">
+                                Tropix™ 2 - Quest for the Golden 
+                                <b>
+                                  Banana
+                                </b>
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fTropix2QuestforGoldenBanana%2fprod60026/RK=0/RS=nrRC_xQpVQ4FWyZb7CxJW7ofywo-" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                Take a vacation to endless game paradise! Complete puzzles, word games, hidden object games, and more. Earn valuable sand dollars...
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster">
+                        <div class="sm-media">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fDQTycoon%2f3218/RK=0/RS=M2VxBKS1PBGYQwfjQ7HZZLMi7eg-" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fDQTycoon%2f3218/RK=0/RS=M2VxBKS1PBGYQwfjQ7HZZLMi7eg-" class="yschttl spt" target="_blank">
+                                DQ Tycoon
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZqDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fDQTycoon%2f3218/RK=0/RS=M2VxBKS1PBGYQwfjQ7HZZLMi7eg-" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                ... very own Dairy Queen! From burgers to 
+                                <b>
+                                  banana
+                                </b>
+                                 splits, help Emily prepare your favorite DQ treats...
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="games-entity-entry res sm result_cluster">
+                        <div class="sm-media">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZ6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fHoratiosTravels%2f1630/RK=0/RS=NGUpGiJhDvyagYB1tA8Q_QqdKcI-" target="_blank">
+                            <div class="default-thumb">
+                            </div>
+                          </a>
+                        </div>
+                        <div class="sm-detail">
+                          <div class="sm-hd">
+                            <h3>
+                              <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAZ6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fHoratiosTravels%2f1630/RK=0/RS=NGUpGiJhDvyagYB1tA8Q_QqdKcI-" class="yschttl spt" target="_blank">
+                                Horatio’s Travels
+                              </a>
+                            </h3>
+                          </div>
+                          <div class="sm-bd sm-r">
+                            <div class="play-col">
+                              <a class="play-button play-web" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAaKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fgames.yahoo.net%2fgame%2fHoratiosTravels%2f1630/RK=0/RS=NGUpGiJhDvyagYB1tA8Q_QqdKcI-" target="_blank">
+                                <span class="play-title">
+                                  Play Now
+                                </span>
+                                <span class="play-icon">
+                                   
+                                </span>
+                              </a>
+                            </div>
+                            <div class="abstract-col">
+                              <div class="sm-abs">
+                                ...travel the earth while managing his famous ice cream stand. From 
+                                <b>
+                                  banana
+                                </b>
+                                 splits to bon bons, you must juggle rapid orders,...
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ol>
+                  <a class="more-link" href="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAaaDUwOZ_?ei=UTF-8&amp;p=banana&amp;type=2button&amp;fr=uh3_games_web_gs&amp;section=entity">
+                    More Yahoo Games »
+                  </a>
+                </div>
+                <div id="shortcut_web_results">
+                  <ol>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/game/cook-banana-bread-flash.html;_ylt=AwrBJR7jwphTrWQAaqDUwOZ_" target="_blank">
+                            Cook 
+                            <b>
+                              Banana
+                            </b>
+                             Bread | Play Online - Yahoo Games
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/cook-
+                          <b>
+                            banana
+                          </b>
+                          -bread
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAa6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4629817163646959%26mkt%3den-US%26setlang%3den-US%26w%3dWJlmP_yMx0o5ZbCTJhdUmly206za99eP%26icp%3d1%26.intl%3dus%26sig%3dUhnHmjXV0W2KhNJUcp5rng--/RK=0/RS=2xNcLJJcC7M01LdLZSbdbp26KYc-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          Learn to make a moist, delicious 
+                          <b>
+                            banana
+                          </b>
+                           bread with the help of this interactive-recipe cooking game!
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAbKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=https%3a%2f%2fuk.games.yahoo.com%2fgame%2fcook-banana-bread-flash.html/RK=0/RS=12tytC3aWKWptI3f_uhql2YfWfQ-" target="_blank">
+                            Cook 
+                            <b>
+                              Banana
+                            </b>
+                             Bread | Play Online - Yahoo Games UK
+                          </a>
+                        </h3>
+                        <span class="url">
+                          uk.
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/cook-
+                          <b>
+                            banana
+                          </b>
+                          -bread-flash.html
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAbaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4556274421073217%26mkt%3den-US%26setlang%3den-US%26w%3duc2zpw5hNOQX9Bk8HUulonxrSZ0WX0wY%26icp%3d1%26.intl%3dus%26sig%3dha4FvswAu4r.OJBXommpUw--/RK=0/RS=1FLUXKWgWa.FaXXcAmNVAhtUiKE-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          Play the online game Cook 
+                          <b>
+                            Banana
+                          </b>
+                           Bread on Yahoo Games UK. Learn to make a moist, delicious 
+                          <b>
+                            banana
+                          </b>
+                           bread with the help of this interactive-recipe cooking game...
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAbqDUwOZ_/RV=2/RE=1402549092/RO=10/RU=https%3a%2f%2fen-maktoob.games.yahoo.com%2fgame%2fcook-banana-bread-flash.html/RK=0/RS=2xn27Mw2TvrMwb4sLPbxSYAqKPE-" target="_blank">
+                            Cook 
+                            <b>
+                              Banana
+                            </b>
+                             Bread | Play Online - Yahoo Maktoob Games
+                          </a>
+                        </h3>
+                        <span class="url">
+                          en-maktoob.
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/cook-
+                          <b>
+                            banana
+                          </b>
+                          ...
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAb6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4997350362584659%26mkt%3den-US%26setlang%3den-US%26w%3d8-6guvq0i1XgiDLPFfEauOxxayyqWKNA%26icp%3d1%26.intl%3dus%26sig%3dLOXxYZURI0WovPHOHQ1RsA--/RK=0/RS=b0twvbosKj4w2a858KT1lVF0Hrc-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          Play the online game Cook 
+                          <b>
+                            Banana
+                          </b>
+                           Bread on Yahoo Maktoob Games. Learn to make a moist, delicious 
+                          <b>
+                            banana
+                          </b>
+                           bread with the help of this interactive-recipe cooking game...
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/blogs/plugged-in/taking-spin-real-world-mario-kart-185820231.html;_ylt=AwrBJR7jwphTrWQAcKDUwOZ_" target="_blank">
+                            Taking a spin with a real-world Mario Kart | Plugged In ...
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /blogs/plugged-in/taking-spin...
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAcaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4958682793512491%26mkt%3den-US%26setlang%3den-US%26w%3dvyrJr6ej33fO8sw3mxBI0cdTkyLfcMdI%26icp%3d1%26.intl%3dus%26sig%3dq8HFJyln5riTwqqN7S6KjQ--/RK=0/RS=TjjHU6k2CiK2_SdeAu23qTJRTBk-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          About the only power-up missing from the track was the 
+                          <b>
+                            banana
+                          </b>
+                           peel.
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAcqDUwOZ_/RV=2/RE=1402549092/RO=10/RU=https%3a%2f%2fen-maktoob.games.yahoo.com%2f/RK=0/RS=WrT4oaHMeZjvyOpH9wgUPLb.OXM-" target="_blank">
+                            Play Free Online Games | Yahoo Maktoob Games
+                          </a>
+                        </h3>
+                        <span class="url">
+                          en-maktoob.
+                          <b>
+                            games.yahoo.com
+                          </b>
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAc6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4589431592911988%26mkt%3den-US%26setlang%3den-US%26w%3dIMwpHWKD6RUnCF0q0kI_HyltCRNQxIxg%26icp%3d1%26.intl%3dus%26sig%3dTlz9q0YYX531oo0wI3QLpw--/RK=0/RS=_hWXjxP0GBfhdZy2OipoLDsbcIw-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          "Play the latest online games at Yahoo Maktoob Games . Play exclusive games from a wide selection of games.Arcade Game, Puzzle Game, Strategy Game, Card Game, Board ...
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/news/mario-kart-tv-best-videos-200019780.html;_ylt=AwrBJR7jwphTrWQAdKDUwOZ_" target="_blank">
+                            Mario Kart TV’s best videos: Unbelievable wins, amazing ...
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /news/mario-kart-tv-best-videos...
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAdaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d5065468541078148%26mkt%3den-US%26setlang%3den-US%26w%3d5Q5bIA69iJ3_gjtP1yS4R36cxRXgPotp%26icp%3d1%26.intl%3dus%26sig%3dEuGUvLvXhDKoqUeOmWpmDw--/RK=0/RS=4_q1ARUvXiYbX.HJgixpLJL59lY-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          Of course, to make it even worse, a lonely 
+                          <b>
+                            banana
+                          </b>
+                           peel takes out Waluigi just a bit later. The Cocky Catch-Up.
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/blogs/plugged-in/air-hockey-robot-beat-air-hockey-day-195536279.html;_ylt=AwrBJR7jwphTrWQAdqDUwOZ_" target="_blank">
+                            This robot will beat you in air hockey all day | Plugged In ...
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /blogs/plugged-in/air-hockey...
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAd6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4579493030007588%26mkt%3den-US%26setlang%3den-US%26w%3deaXPp75oGroig2n6zIeTU1kcAsIbQtZ1%26icp%3d1%26.intl%3dus%26sig%3dn9.Xv4qcfp0ehES5IkPx6g--/RK=0/RS=WibYHwehLP7KdKuqlvH3q.RBKwg-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          In an apparent effort to create a Skynet scenario in which humankind is demoted to second-
+                          <b>
+                            banana
+                          </b>
+                           status in the evolutionary food chain, ...
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAeKDUwOZ_/RV=2/RE=1402549092/RO=10/RU=https%3a%2f%2fmaktoob.games.yahoo.com%2fgame%2fcook-banana-bread-flash.html/RK=0/RS=XnRkk9LCX84PMX08thhNci92wi4-" target="_blank">
+                            ???? ???? ??? ????? ?????? ...
+                          </a>
+                        </h3>
+                        <span class="url">
+                          maktoob.
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/cook-
+                          <b>
+                            banana
+                          </b>
+                          -bread...
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAeaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4656570496980238%26mkt%3den-US%26setlang%3den-US%26w%3dq02cwl1l5x1FkH4xZnq12g31j_oRadtK%26icp%3d1%26.intl%3dus%26sig%3d3oGXSrHgwgshrthwCL0y8A--/RK=0/RS=Je2YQJglTrgSc_XORce7Y.KNGfQ-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          ?? ?????? ?????? ??? ???????? ???? ??? ????? ?????? ??? Yahoo??. ???? ??? ????? ???????? ?? ...
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/game/death-house-flash.html;_ylt=AwrBJR7jwphTrWQAeqDUwOZ_" target="_blank">
+                            Death House | Play Online - Yahoo Games
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/death-house
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAe6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4812263075089186%26mkt%3den-US%26setlang%3den-US%26w%3dUEt5PzwRJruMXUQ0IyQB2b7tJmLbo6aw%26icp%3d1%26.intl%3dus%26sig%3d5FJYuQoiTC9CswVZPA_1IQ--/RK=0/RS=lM_k5WBVyoYlO6S8mZQzGUmBnsg-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          Solve challenging puzzles with funny puppets in a spooky death house. Can you eliminate enough puppets in each room before 30 seconds have expired?
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="res">
+                        <h3>
+                          <a class="yschttl spt" href="https://games.yahoo.com/game/this-is-the-only-level-flash.html;_ylt=AwrBJR7jwphTrWQAfKDUwOZ_" target="_blank">
+                            This Is The Only Level | Play Online - Yahoo Games
+                          </a>
+                        </h3>
+                        <span class="url">
+                          <b>
+                            games.yahoo.com
+                          </b>
+                          /game/this-is-the-only-level
+                        </span>
+                         
+                        <span class="cache">
+                          <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAfaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2f98.139.21.31%2fsearch%2fsrpcache%3fei%3dUTF-8%26p%3dbanana%26fr%3duh3_games_web_gs%26type%3d2button%26u%3dhttp%3a%2f%2fcc.bingj.com%2fcache.aspx%3fq%3dbanana%2bsite%253agames.yahoo.com%26d%3d4988236427366453%26mkt%3den-US%26setlang%3den-US%26w%3dtUn1ap_Fv9bcY2GIkqCSu8dG0K50LOWm%26icp%3d1%26.intl%3dus%26sig%3dG7KiyuI_ndbkqx7t9q.v.Q--/RK=0/RS=5N93KXu.boeikweeRtEBrKklz8I-" target="_blank">
+                            Cached
+                          </a>
+                        </span>
+                        <div class="abstr">
+                          The level stays the same, but the rules keep changing! Guide the elephant to safety in each imagination variation of this deceptively simple map.
+                        </div>
+                      </div>
+                    </li>
+                  </ol>
+                  <a class="more" href="https://search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAfqDUwOZ_?ei=UTF-8&amp;p=banana&amp;fr=uh3_games_web_gs&amp;type=2button&amp;fr2=webr-dd&amp;vs=games.yahoo.com" target="_blank">
+                    More Web Results »
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div id="right">
+            </div>
+          </div>
+        </div>
+        <div class="bdc">
+          <div class="sbx">
+            <form method="get" name="sB" id="sB" role="search" action="https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAf6DUwOZ_">
+              <label for="yschsp-bot" class="off-left">
+                Search query
+              </label>
+              <div id="sbq-wrap-bot" class="sbq-w">
+                <input type="text" class="sbq" id="yschsp-bot" name="p" value="banana" autocomplete="off"/>
+              </div>
+              <button id="sbq-clear-bot" type="button" class="sbq-x">
+                <span class="sprite">
+                </span>
+              </button>
+              <input type="submit" class="sbb" value="Search"/>
+              <input type="hidden" name="fr2" value="sb-bot"/>
+              <input type="hidden" name="fr" value="uh3_games_web_gs"/>
+              <input type="hidden" name="type" value="2button"/>
+            </form>
+          </div>
+          <div id="ft" role="contentinfo">
+            <ul>
+              <li class="copyright">
+                Yahoo
+              </li>
+              <li>
+                <a href="http://help.yahoo.com/l/us/yahoo/search/;_ylt=AwrBJR7jwphTrWQAgKDUwOZ_">
+                  Help
+                </a>
+              </li>
+              <li>
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAgaDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2finfo.yahoo.com%2fprivacy%2fus%2fyahoo%2fsearch%2fdetails.html/RK=0/RS=U3SmdqrnXEpff3kh0vpId02Vov0-">
+                  Privacy
+                </a>
+              </li>
+              <li>
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAgqDUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2finfo.yahoo.com%2flegal%2fus%2fyahoo%2futos%2futos-173.html/RK=0/RS=EKt5IKzgD_zasKOSXAFGmbvHeMw-">
+                  Terms
+                </a>
+              </li>
+              <li>
+                <a href="http://r.search.yahoo.com/_ylt=AwrBJR7jwphTrWQAg6DUwOZ_/RV=2/RE=1402549092/RO=10/RU=http%3a%2f%2fadvertising.yahoo.com%2farticle%2fsearch-advertising.html/RK=0/RS=NC7M9ohHsYtponA4ATmHBbqoSB4-">
+                  Advertise
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- SpaceID=2145829076 loc=FOOT9 noad -->    <!-- fac-gd2-noad -->    <!-- gd2-status-2 -->    <!--QYZ CMS_NONE_AVAIL,,98.139.159.49;;FOOT9;2145829076;2;-->    <script>
+//<![CDATA[
+YUI_config={"spaceid":"2145829076","pvid":"XbExgjk4LjHhuSZrU5jCqAyWMTkzLlOYwuP_yx_o","beacon":"https:\/\/games.search.yahoo.com\/beacon\/p.gif","testid":"","fetchCSS":true,"comboBase":"https:\/\/yui-s.yahooapis.com\/combo?"};(function(){var e=window.location,d,b;function c(f){return decodeURIComponent(f.replace(/\+/g," "))}function a(j){var h=j.match(/([^\?#&]+)=([^#&]*)/g)||[],l={},g,f,k;for(g=0,f=h.length;g<f;++g){k=h[g].split("=");l[c(k[0])]=c(k[1])}return l}if(window.navigator&&window.navigator.userAgent.match(/Gecko\//)){d=/#.*$/.exec(e.href);d=d&&d[0]?d[0]:""}else{d=e.hash}b=a(d);if(b.sd){document.getElementById("yschsp").value=b.sd}else{if(b._sd){document.getElementById("yschsp").value=""}}})();(function(){YUI={Env:{mods:{},add:function(n,m,l,d){if(n&&n.addEventListener){n.addEventListener(m,l,d)}else{if(n&&n.attachEvent){n.attachEvent("on"+m,l)}}},remove:function(o,n,m,d){if(o&&o.removeEventListener){try{o.removeEventListener(n,m,d)}catch(l){}}else{if(o&&o.detachEvent){o.detachEvent("on"+n,m)}}}},add:function(l,n,d,m){YUI.Env.mods[l]={name:l,fn:n,version:d,details:m||{}}}};Y={_pending:[],use:function(){Y._pending.push(arguments)},Search:{}};var i=window,g=document,k=YUI.Env.add,f=YUI.Env.remove,b=(function(){var d=[];function l(){setTimeout(function(){var n=0,m=d.length;for(;n<m;n++){d[n]()}f(i,"load",l)},0)}k(i,"load",l);return{add:function(m){d.push(m)}}}()),a=(function(){var d=navigator.userAgent.match(/MSIE\s([^;]*)/);if(d){return parseFloat(d[1])}return 0}());function c(d){return d.replace(/^\s+|\s+$/g,"")}function e(m,d){var l=new RegExp("(\\s|^)"+d+"(\\s|$)");return m.className.match(l)}function j(m,d){var l=new RegExp("(\\s|^)"+d+"(\\s|$)");m.className=c(m.className.replace(l," "))}function h(l){var d=g.getElementById(l);if(d){d.reset()}}Y.Search.Loader=(function(){var l=[],m=false;function o(q,p){var s=g.createElement(q),r,t;for(r in p){if(p.hasOwnProperty(r)){t=p[r];s.setAttribute(r,t)}}return s}function d(){var r=0,p=l.length,s,t,q=g.getElementsByTagName("head")[0];for(;r<p;r++){s=l[r];if(s.type==="css"){t=o("link",{href:s.url,rel:"stylesheet",type:"text/css"})}else{if(s.type==="js"){t=o("script",{src:s.url})}else{continue}}q.appendChild(t)}m=true;l=[]}function n(){var r=arguments[0],s=Array.prototype.slice.call(arguments,1),q=0,p=s.length;for(;q<p;q++){l.push({type:r,url:s[q]})}if(m){d()}}b.add(d);return{js:function(){var p=Array.prototype.slice.call(arguments);n.apply(null,["js"].concat(p))},css:function(){var p=Array.prototype.slice.call(arguments);n.apply(null,["css"].concat(p))}}}());(function(){var o=0;function n(){if(--o===0&&typeof rt_AddTime==="function"){rt_AddTime("t2")}if(o===0&&typeof T!=="undefined"){T.stamp("img")}}function l(){var q=this,p=q.parentNode.parentNode,y,t,r,z,v,u,s;n();if(q.getAttribute("allowResize")==="true"||e(q,"sm-thumb")){j(p,"sm-hide");if(a&&e(p,"sm-media")){y=p.offsetWidth;t=p.offsetHeight;r=q.width;z=q.height;v=Math.max(r/y,z/t);if(v&&r&&z){q.style.width=(r/v)+"px";q.style.height=(z/v)+"px"}}}if(e(q,"has-default")){u=q.parentNode.childNodes;for(var s=0;s<u.length;s++){if(e(u[s],"default-thumb")){u[s].style.display="none";break}}q.style.display="block"}}function m(){var p=this.parentNode.parentNode,q;n();this.style.display="none";if(e(p,"imagedd-item")){q=p.parentNode;q.removeChild(p)}else{if(e(p,"ugc-thumb")){var r=p.parentNode;if(r&&r.parentNode&&e(r.parentNode,"thumb")){r.parentNode.className="res";r.removeChild(p)}}}}function d(){var p=g.images,q,r,s;for(q=0;q<p.length;q++){r=p[q];s=r.getAttribute("data-src")||r.getAttribute("__src")||r.getAttribute("_src");if(s){o++;r.onload=l;r.onerror=m;r.setAttribute("src",s);r.removeAttribute("data-src");r.removeAttribute("__src");r.removeAttribute("_src");j(r,"hidden")}}}b.add(d)}());b.add(function(){var l=g.getElementById("yschsp"),d=/(^|\s)sd(\s|$)/;if(l&&d.test(l.parentNode.className)){return}if(a&&(!l||!l.getAttribute("dirty"))){h("sf");h("sB")}});(function(){var l=g.getElementById("web"),m=(l)?l.getElementsByTagName("a"):[],p=/(?:^|\s+)yschttl(?:\s+|$)/,n=m.length,q,d=(function(){if(a&&a<7){return function(v,t){var u=new RegExp("^<a.*\\s"+t+'="([^"]*)"',"i"),s=u.exec(v.outerHTML);return s?s[1]:null}}else{return function(t,s){return t.getAttribute(s)}}}());function r(s){var w=s||i.event,u=w.target||w.srcElement,v;while(u){if(u.tagName&&u.tagName.toLowerCase()==="a"&&u.getAttribute("dirtyhref")){v=d(u,"dirtyhref");if(v){u.setAttribute("href",v)}break}u=u.parentNode}}k(g,"mousedown",r);k(g,"click",r);function o(w){var t,x,s,v,u;t=d(w,"href");if(!t){return}x=d(w,"ourl");if(!x){s=t.indexOf("/**");if(s<0){return}x=decodeURIComponent(t.substr(s+3))}v=w.cloneNode(true);v.setAttribute("href",x);v.setAttribute("dirtyhref",t);if(a){u=v.innerHTML;t=d(v,"dirtyhref");v.setAttribute("href",t);if(v.innerHTML!==u){return}v.setAttribute("href",x)}w.parentNode.replaceChild(v,w)}while(n--){q=m[n];if(p.test(q.className)){o(q)}}}())}());YUI.add("init-zrp", function(Y) {Y.namespace("Vertical.Zrp");Y.Vertical.Zrp.init = function() {return {isZrp: false} }});YUI.add("vertical-zrp",function(a){a.namespace("Vertical.Zrp");a.Vertical.Zrp.postProcessing=function(d){var b=document.getElementById("sbx-bot"),c=document.getElementById("results");if(b){b.style.visibility=d.isZrp?"hidden":"visible"}}},"3.3.0",{requires:["init-zrp"]});Y.use("vertical-zrp",function(b){if(b.Vertical.Zrp.init){var a=b.Vertical.Zrp.init();if(a){b.Vertical.Zrp.postProcessing(a)}}});Y.use("srp",function(){Y.Search.SRP.init({"enable_sidebar_collapse":"","pvid":"XbExgjk4LjHhuSZrU5jCqAyWMTkzLlOYwuP_yx_o","url_img_progress":"https:\/\/s.yimg.com\/pv\/i\/us\/sch\/gr4\/sp-progress2.gif","tts":null},{"aria_loading_results":"Retrieving search results. Please wait.","aria_results_loaded":"New search results have been retrieved. Press control shift and down arrow key to jump to the first search result. Press control shift and up arrow key to jump back to the search box.","common.expando.playvideo":"Play Video","common.expando.closevideo":"Close Video","common.results.error":"Sorry, there was a problem retrieving search results. Please try again.","common.results.loading":"Loading results...","srp.title":"%q - Yahoo Games Search Results","common.more":"More","common.less":"Less"});});Y.use("search-assist-client", function() {new Y.SEARCHASSIST.CLIENT({"property":"games","searchBox":"#yschsp","hostNodeToAttach":"#sbq-wrap","maxSuggests":10,"anyKeySearch":true,"backspaceBehaviorNative":true,"enableTrending":false,"autoAlign":false,"cancelButton":true,"tcpPreConnect":false,"quietMode":false,"ariaPlug":true,"stream":false,"reverseHighlight":true,"lang":"en-US","ult":{"spaceId":"2145829076","csrcpvid":"XbExgjk4LjHhuSZrU5jCqAyWMTkzLlOYwuP_yx_o","vtestid":""},"extraUltParams":{"fr":"uh3_games_web_gs","n_rslt":6},"yltCustom":"_ylt=AwrBJR7jwphTrWQAIqDUwOZ_","https":true});});Y.use('loader','srp',function(){Y.config=Y.mix(Y.config,{bootstrap:true,combine:true,comboBase:'https://s.yimg.com/zz/combo?',ignore:['skin-sam-tabview','gallery-jsonp'],root:'yui:3.10.0/build/',groups:{a:{combine:true,comboBase:'https://s.yimg.com/zz/combo?',ext:false,root:'pv/',modules:{"srp-universal-header-3":{"path":"lib\/s8\/vertical\/srp-universal-header-3_201305050738.js","requires":[]}}}}},true,null,0,true);Y.Search.use('srp-universal-header-3','node-focusmanager','base','io','json','async-queue','cookie','event-custom','event','substitute','event-resize','event-hover','event-mouseenter','event-delegate','oop','classnamemanager','querystring-stringify','lang/datatype-date','intl',function(){(function(){Y.Search.UniversalHeader.init({"js":"https:\/\/s.yimg.com\/zz\/combo?kx\/yucs\/uh3\/uh\/js\/998\/uh-min.js\u0026kx\/yucs\/uh3\/uh\/js\/102\/gallery-jsonp-min.js\u0026kx\/yucs\/uh3\/uh\/js\/1021\/menu_utils_v3-min.js\u0026kx\/yucs\/uh3\/uh\/js\/834\/localeDateFormat-min.js\u0026kx\/yucs\/uh3\/uh\/js\/872\/timestamp_library_v2-min.js\u0026kx\/yucs\/uh3\/uh\/js\/829\/logo_debug-min.js\u0026kx\/yucs\/uh_common\/meta\/13\/js\/meta-min.js\u0026kx\/yucs\/uh_common\/beacon\/18\/js\/beacon-min.js\u0026kx\/ucs\/comet\/js\/77\/cometd-yui3-min.js\u0026kx\/ucs\/comet\/js\/77\/conn-min.js\u0026kx\/ucs\/comet\/js\/77\/dark-test-min.js\u0026kx\/yucs\/uh3\/disclaimer\/js\/188\/disclaimer_seed-min.js\u0026kx\/yucs\/uh3\/uh3_top_bar\/js\/274\/top_bar_v3-min.js\u0026kx\/yucs\/uh3\/help\/js\/55\/help_menu_v3-min.js","sprite":"https:\/\/s.yimg.com\/dh\/ap\/ap\/default\/120503\/uh_sprite_2_16.png","options":[[{"menuText":"Preferences","actionType":"link","url":"https:\/\/search.yahoo.com\/preferences\/preferences?pref_done=https%3A%2F%2Fgames.search.yahoo.com%2Fsearch%3Fei%3DUTF-8%26p%3Dbanana%26type%3D2button%26fr%3Duh3_games_web_gs\u0026.bcrumb=Fuw7.ivp.0T\u0026fr=uh3_games_web_gs","target":"_top"}],[{"menuText":"Advertising Programs","actionType":"link","url":"http:\/\/advertising.yahoo.com\/","target":"_top"},{"menuText":"About This Page","actionType":"link","url":"http:\/\/help.yahoo.com\/l\/us\/yahoo\/search\/basics\/basics-23.html","target":"_top"}]]});}());});});Y.Search.Loader.js('https://s.yimg.com/pv/lib/s8/vertical/us_srp_purple_games_1_201404292033.js','https://s.yimg.com/pv/lib/s8/vertical/us_srp_purple_games_2_201405151115.js');
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(function(c){var e="https://",a=c&&c.JSON,f="ypcdb",g=document,d=["yahoo.com","flickr.com","rivals.com","yahoo.net","yimg.com"],b;function i(l,o,n,m){var k,p;try{k=new Date();k.setTime(k.getTime()+m*1000);g.cookie=[l,"=",encodeURIComponent(o),"; domain=",n,"; path=/; max-age=",m,"; expires=",k.toUTCString()].join("")}catch(p){}}function h(l){var k,m;try{k=new Image();k.onerror=k.onload=function(){k.onerror=k.onload=null;k=null};k.src=l}catch(m){}}function j(u,A,n,y){var w=0,v,z,x,s,t,p,m,r,l,o,k,q;try{b=location}catch(r){b=null}try{if(a){k=a.parse(y)}else{q=new Function("return "+y);k=q()}}catch(r){k=null}try{v=b.hostname;z=b.protocol;if(z){z+="//"}}catch(r){v=z=""}if(!v){try{x=g.URL||b.href||"";s=x.match(/^((http[s]?)\:[\/]+)?([^:\/\s]+|[\:\dabcdef\.]+)/i);if(s&&s[1]&&s[3]){z=s[1]||"";v=s[3]||""}}catch(r){z=v=""}}if(!v||!k||!z||!A){return}while(l=d[w++]){t=l.replace(/\./g,"\\.");p=new RegExp("(\\.)+"+t+"$");if(v==l||v.search(p)!=-1){o=l;break}}if(!o){return}if(z===e){A=n}w=0;while(m=A[w++]){h(z+m+k[m.substr(1+m.lastIndexOf("="))])}i(f,u,o,86400)}j('b0e93d962122c849bd356138bfb75829',['ad.yieldmanager.com/csync?ver=2.1','csync.yahooapis.com/csync?ver=2.1','u2sb.interclick.com/beacon.gif?ver=2.1'],['ad.yieldmanager.com/csync?ver=2.1','cdnk.interclick.com/beacon.gif?ver=2.1','csync.yahooapis.com/csync?ver=2.1'],'{"2.1":"&id=23351&value=r3r96qq9cuty8%26o%3d3%26f%3d37&optout=&timeout=1402520292&sig=11gijk91p"}')})(window);
+
+//]]>
+    </script>
+    <!-- fe01.vertical.search.bf1.yahoo.com compressed/chunked Wed Jun 11 20:58:11 UTC 2014 -->    <!-- 0--" -->  </body>
+</html>

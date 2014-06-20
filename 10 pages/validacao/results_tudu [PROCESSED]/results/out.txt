@@ -1,0 +1,383 @@
+INIT|correlation:1|HTML index:2
+
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+
+Action #0 | Page URL is: http://app.rasc.ch/tudu/welcome.action
+non_empty: CALL=4|LOGIN=3||total: 7
+ELEMENT: <input type="text" name="j_username" size="20" maxlength="50" /> (no text) | LOCATOR://input[@name=j_username and @type=text]
+type	//input[@name=j_username and @type=text]	testes
+INC_CORR|correlation:2|HTML index:2
+type	//input[@name=j_password and @type=password]	321abc
+INC_CORR|correlation:3|HTML index:2
+click	//input[@name=_acegi_security_remember_me and @type=checkbox]	EMPTY
+INC_CORR|correlation:4|HTML index:2
+elems.size()=1
+SUBMIT: <input type="submit" value="Log In" />
+SUBMIT=len:1
+clickAndWait	//input[@type=submit]	EMPTY
+INC_HTML|correlation:5|HTML index:3
+INC_HTML|correlation:6|HTML index:4
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+
+Action #1 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=9|CALL=2|LOGIN=3||total: 14
+ELEMENT: <input type="text" name="name" size="25" maxlength="50" /> (no text) | LOCATOR://input[@name=name and @type=text]
+SIBLING:click	//input[@name=rssAllowed and @type=checkbox]	EMPTY
+INC_CORR|correlation:7|HTML index:4
+type	//input[@name=name and @type=text]	banana
+INC_CORR|correlation:8|HTML index:4
+elems.size()=0
+<input type="text" name="name" size="25" maxlength="50" />
+
+Action #1 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=7|CALL=2|LOGIN=3||total: 12
+ELEMENT: <a href="/tudu/secure/myInfo.action" title="My info"> (has text) | LOCATOR://a[@title=My info and @href=http://app.rasc.ch/tudu/secure/myInfo.action and contains(text(),'My info')]]
+clickAndWait	//a[@title=My info and @href=http://app.rasc.ch/tudu/secure/myInfo.action and contains(text(),'My info')]]	EMPTY
+INC_HTML|correlation:9|HTML index:5
+
+Action #2 | Page URL is: http://app.rasc.ch/tudu/secure/myInfo.action
+non_empty: SELECT=1|INPUT=2|CALL=1|LOGIN=4||total: 8
+ELEMENT: <input type="text" name="lastName" maxlength="60" size="15" value="tester" /> (no text) | LOCATOR://input[@name=lastName and @type=text]
+SIBLING:type	//input[@name=firstName and @type=text]	EMPTY
+INC_CORR|correlation:10|HTML index:5
+SIBLING:type	//input[@name=email and @type=text]	EMPTY
+INC_CORR|correlation:11|HTML index:5
+SIBLING:type	//input[@name=password and @type=password]	EMPTY
+INC_CORR|correlation:12|HTML index:5
+SIBLING:type	//input[@name=verifyPassword and @type=password]	EMPTY
+INC_CORR|correlation:13|HTML index:5
+type	//input[@name=lastName and @type=text]	shirt
+INC_CORR|correlation:14|HTML index:5
+elems.size()=2
+SUBMIT: <input type="submit" value="Submit" onclick="document.forms[0].elements['method'].value='update';" />
+SUBMIT: <input type="submit" value="Cancel" />
+SUBMIT=len:2
+clickAndWait	//input[@type=submit and @onclick=document.forms[0].elements['method'].value='update';]	EMPTY
+INC_HTML|correlation:15|HTML index:6
+
+Action #3 | Page URL is: http://app.rasc.ch/tudu/secure/myInfo.action
+non_empty: SELECT=1|CALL=1|LOGIN=1||total: 3
+ELEMENT: <a href="/tudu/secure/showTodos.action" title="My Todos"> (has text) | LOCATOR://a[@title=My Todos and @href=http://app.rasc.ch/tudu/secure/showTodos.action and contains(text(),'My Todos')]]
+clickAndWait	//a[@title=My Todos and @href=http://app.rasc.ch/tudu/secure/showTodos.action and contains(text(),'My Todos')]]	EMPTY
+INC_HTML|correlation:16|HTML index:7
+
+Action #4 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=7|LOGIN=3||total: 10
+ELEMENT: <a href="/tudu/logout.action" title="Log out"> (has text) | LOCATOR://a[@title=Log out and @href=http://app.rasc.ch/tudu/logout.action and contains(text(),'Log out')]]
+clickAndWait	//a[@title=Log out and @href=http://app.rasc.ch/tudu/logout.action and contains(text(),'Log out')]]	EMPTY
+INC_HTML|correlation:17|HTML index:8
+
+Action #5 | Page URL is: http://app.rasc.ch/tudu/logout.action
+non_empty: CALL=3||total: 3
+ELEMENT: <a href="/tudu/welcome.action"> (has text) | LOCATOR://a[@href=http://app.rasc.ch/tudu/welcome.action and contains(text(),'Click here if you want to reconnect')]]
+clickAndWait	//a[@href=http://app.rasc.ch/tudu/welcome.action and contains(text(),'Click here if you want to reconnect')]]	EMPTY
+INC_HTML|correlation:18|HTML index:9
+
+Action #6 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=7|LOGIN=2||total: 9
+ELEMENT: <input type="text" name="description" size="50" maxlength="255" /> (no text) | LOCATOR://input[@name=description and @type=text]
+SIBLING:type	//input[@name=priority and @type=text]	EMPTY
+INC_CORR|correlation:19|HTML index:9
+SIBLING:type	//input[@id=editDueDateId and @name=dueDate and @type=text]	EMPTY
+INC_CORR|correlation:20|HTML index:9
+type	//input[@name=description and @type=text]	sandals
+INC_CORR|correlation:21|HTML index:9
+elems.size()=0
+<input type="text" name="description" size="50" maxlength="255" />
+
+Action #6 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=3|LOGIN=2||total: 5
+ELEMENT: <select id="addNewTodoAssignedUser" name="assignedUser"> (no text) | LOCATOR://select[@id=addNewTodoAssignedUser and @name=assignedUser]
+type	//input[@name=description and @type=text]	computer
+INC_CORR|correlation:22|HTML index:9
+type	//input[@name=priority and @type=text]	curtains
+INC_CORR|correlation:23|HTML index:9
+type	//input[@id=addDueDateId and @name=dueDate and @type=text]	shirt
+INC_CORR|correlation:24|HTML index:9
+select	//select[@id=addNewTodoAssignedUser and @name=assignedUser]	label=""
+INC_CORR|correlation:25|HTML index:9
+elems.size()=0
+<form name="addNewTodoForm" action="">
+INC_HTML|correlation:26|HTML index:10
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+
+Action #6 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: INPUT=2|LOGIN=1||total: 3
+ELEMENT: <textarea name="notes" rows="10" cols="37" onfocus="keyboardListener='off'" onblur="keyboardListener='on'" /> (no text) | LOCATOR://textarea[@name=notes and @onfocus=keyboardListener='off']
+SIBLING:type	//input[@name=description and @type=text]	EMPTY
+INC_CORR|correlation:27|HTML index:10
+SIBLING:type	//input[@name=priority and @type=text]	EMPTY
+INC_CORR|correlation:28|HTML index:10
+SIBLING:type	//input[@id=addDueDateId and @name=dueDate and @type=text]	EMPTY
+INC_CORR|correlation:29|HTML index:10
+type	//textarea[@name=notes and @onfocus=keyboardListener='off']	shirt
+INC_CORR|correlation:30|HTML index:10
+elems.size()=0
+<textarea name="notes" rows="10" cols="37" onfocus="keyboardListener='off'" onblur="keyboardListener='on'" />
+
+Action #6 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: LOGIN=1||total: 1
+ELEMENT: <input type="text" name="login" id="login" size="20" maxlength="50" /> (no text) | LOCATOR://input[@id=login and @name=login and @type=text]
+type	//input[@id=login and @name=login and @type=text]	testes
+INC_CORR|correlation:31|HTML index:10
+elems.size()=0
+<form name="shareListForm" action="">
+INC_HTML|correlation:32|HTML index:11
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+
+Action #6 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:33|HTML index:12
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+No suitable element found, going back to base URL. Redirects left:4
+
+Action #5 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:34|HTML index:13
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+No suitable element found, going back to base URL. Redirects left:3
+
+Action #4 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:35|HTML index:14
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+No suitable element found, going back to base URL. Redirects left:2
+
+Action #3 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:36|HTML index:15
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+No suitable element found, going back to base URL. Redirects left:1
+
+Action #2 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:37|HTML index:16
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+No suitable element found, going back to base URL. Redirects left:0
+
+Action #1 | Page URL is: http://app.rasc.ch/tudu/secure/showTodos.action
+non_empty: |total: 0
+INC_HTML|correlation:38|HTML index:17
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+Maximum redirects, stopping.
+-------TESTING-------
+start
+	1|2
+	2|3
+	3|4
+	4|5
+	5|6
+	6|7
+	7|8
+	8|9
+	9|10
+	10|11
+	11|12
+	12|13
+	13|14
+	14|15
+	15|16
+	final2
+	final3
+	final4
+	final5
+	final6
+	final7
+	final8
+	final9
+	final10
+	final11
+	final12
+	final13
+	final14
+	final15
+	final16
+processList
+10.txt
+11.txt
+12.txt
+13.txt
+14.txt
+15.txt
+16.txt
+2.txt
+3.txt
+4.txt
+5.txt
+6.txt
+7.txt
+8.txt
+9.txt
+	fileSizeAverage: 13695.733333333334
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:3.1882922175275996
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:3.041750228781713
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:3.041750228781713
+asc
+	keyword: asc
+	ratio:2.864103662454487
+asc
+	keyword: asc
+	ratio:2.864103662454487
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+	keyword: asc
+	ratio:0.0
+asc
+PatternNonSeleniumFinder.ProcessUrlsAndHTMLSize(pageInfo)
+	findURLSearchVariablesInHTML(http://app.rasc.ch/tudu/secure/showTodos.action,2)
+	passed inputs
+	passed selects
+	findURLSearchVariablesInHTML(http://app.rasc.ch/tudu/secure/myInfo.action,4)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(http://app.rasc.ch/tudu/secure/myInfo.action,5)
+	passed inputs
+	passed selects
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+processSeleniumActions
+0.0
+0.0
+-33.182
+33.182
+-37.251
+37.251
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+PatternNonSeleniumFinder.testForMasterDetail();
+-------TESTING-------
+********************************************
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+0: words:open |NONE
+1: words:typeUsername |LOGIN_USER|lines: 1 
+2: words:typePassword |LOGIN_USER_PASS|lines: 1 2 
+4: LOGIN|lines: 1 2 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+3: words:clickCheckbox |NONE
+***RESET***
+4: words:clickSubmit pageChange |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+5: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+6: words:clickCheckbox |NONE
+7: words:typeInput |INPUT|lines: 7 
+8: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+9: words:typeFirstName |NONE
+10: words:typeEmail |LOGIN_USER|lines: 10 
+11: words:typePassword |LOGIN_USER_PASS|lines: 10 11 
+13: LOGIN|lines: 10 11 
+***RESET***
+12: words:typeVerifyPassword |LOGIN_PASS|lines: 12 
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+13: words:typeLastName |NONE
+***RESET***
+14: words:clickSubmit pageChange |NONE
+15: CALL
+***RESET***
+16: CALL
+***RESET***
+17: CALL
+***RESET***
+18: words:typeInput |INPUT|lines: 18 
+19: words:typeInput |INPUT|lines: 18 19 
+20: words:typeInput |INPUT|lines: 18 19 20 
+21: words:typeInput |INPUT|lines: 18 19 20 21 
+22: words:typeInput |INPUT|lines: 18 19 20 21 22 
+23: words:typeInput |INPUT|lines: 18 19 20 21 22 23 
+24: words:selectUsername |LOGIN_USER|lines: 18 19 20 21 22 23 24 
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+25: words:open |NONE
+26: words:typeInput |INPUT|lines: 26 
+27: words:typeInput |INPUT|lines: 26 27 
+28: words:typeInput |INPUT|lines: 26 27 28 
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+29: words:type |NONE
+30: words:typeLogin |LOGIN|lines: 30 
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+31: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+32: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+33: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+34: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+35: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+36: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+37: words:open |NONE

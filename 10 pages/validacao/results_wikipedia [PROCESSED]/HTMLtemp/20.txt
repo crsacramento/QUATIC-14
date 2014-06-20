@@ -1,0 +1,2818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Portal:Featured content - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Portal:Featured_content"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Featured_content","wgTitle":"Featured content","wgCurRevisionId":610495398,"wgRevisionId":610495398,"wgArticleId":10515459,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia featured content","Portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Featured_content","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4387047"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-100 ns-subject page-Portal_Featured_content skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->        <div class="collection-creatorbox">
+          <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/Open_book.png?9" alt="" width="80" height="45" class="collection-creatorbox-book"/>
+          <div class="collection-creatorbox-row">
+            <div>
+              <a href="/wiki/Help:Books" title="Show help about creating books" rel="nofollow">
+                <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-help.png" alt="" width="16" height="16"/>
+                 Help
+              </a>
+            </div>
+            <span class="collection-creatorbox-title">
+              Book creator
+            </span>
+             (
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Portal%3AFeatured+content" title="Stop using the book creator" rel="nofollow">
+              disable
+            </a>
+            )
+          </div>
+          <div id="coll-book_creator_box" class="collection-creatorbox-row">
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=add_article&amp;arttitle=Portal%3AFeatured+content&amp;oldid=0" title="Add the current wiki page to your book" id="coll-add_article" rel="nofollow" onclick="collectionCall('AddArticle', ['removearticle', wgNamespaceNumber, wgTitle, &quot;0&quot;]); return false;">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-add.png" alt="" width="16" height="16"/>
+               Add this page to your book
+            </a>
+            <a href="/wiki/Special:Book" title="Click to edit/download/order your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-book_open.png" alt="" width="16" height="16"/>
+               Show book (0 pages)
+            </a>
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=suggest" title="Show suggestions based on the pages in your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-wand.png" alt="" width="16" height="16" style="vertical-align: text-bottom"/>
+               Suggest pages
+            </a>
+          </div>
+        </div>
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Portal:Featured content
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+            <p>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      All portals
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Overview
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Outlines
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Lists
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Glossaries
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Categories
+                    </b>
+                  </span>
+                </a>
+              </span>
+              <span class="plainlinks">
+                <a href="/wiki/Portal:Contents/Indexes" title="Portal:Contents/Indexes">
+                  <span class="mw-ui-button mw-ui-progressive">
+                    <b>
+                      Indexes
+                    </b>
+                  </span>
+                </a>
+              </span>
+            </p>
+          </div>
+          <table style="border-spacing:8px;margin:-8px -8px -2px; background-color:transparent">
+            <tbody>
+              <tr>
+                <td class="MainPageBG" style="padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF;background-color:#E6F2FF;vertical-align:top;color:#000; vertical-align:top;">
+                  <h2>
+                    <span class="mw-headline" id="Featured_content_in_Wikipedia">
+                      Featured content in Wikipedia
+                    </span>
+                  </h2>
+                  <div class="floatright">
+                    <a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star">
+                      <img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/60px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/80px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438"/>
+                    </a>
+                  </div>
+                  <p>
+                    Featured content represents the best that Wikipedia has to offer. These are the articles, pictures, and other contributions that showcase the polished result of the collaborative efforts that drive Wikipedia. All featured content undergoes a thorough review process to ensure that it meets the highest standards, and can serve as the best example of our end goals. A small bronze star (
+                    <a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star">
+                      <img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/14px-Cscr-featured.svg.png" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/21px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/28px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438"/>
+                    </a>
+                    ) in the top right corner of a page indicates that the content is featured. This page gives links to all of Wikipedia's featured content.
+                  </p>
+                </td>
+                <td width="300px" valign="top" style="padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF; background-color:#E6F2FF">
+                  <div style="position: relative; top: -3em;">
+                    <span id="P:FC">
+                    </span>
+                    <span id="WP:FX">
+                    </span>
+                    <span id="WP:FC">
+                    </span>
+                    <span id="WP:FEAT">
+                    </span>
+                    <span id="WP:FEATURE">
+                    </span>
+                  </div>
+                  <table class="shortcutbox noprint" style="float: right; border: 1px solid #aaa; background: #fff; margin: .3em .3em .3em 1em; padding: 3px; text-align: center;">
+                    <tbody>
+                      <tr>
+                        <th style="border: none; background: transparent;" class="plainlist">
+                          <small>
+                            <a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">
+                              Shortcuts
+                            </a>
+                            :
+                          </small>
+                          <ul>
+                            <li>
+                              <small>
+                                <a href="/wiki/P:FC" title="P:FC" class="mw-redirect">
+                                  P:FC
+                                </a>
+                              </small>
+                            </li>
+                            <li>
+                              <small>
+                                <a href="/wiki/Wikipedia:FX" title="Wikipedia:FX" class="mw-redirect">
+                                  WP:FX
+                                </a>
+                              </small>
+                            </li>
+                            <li>
+                              <small>
+                                <a href="/wiki/Wikipedia:FC" title="Wikipedia:FC" class="mw-redirect">
+                                  WP:FC
+                                </a>
+                              </small>
+                            </li>
+                            <li>
+                              <small>
+                                <a href="/wiki/Wikipedia:FEAT" title="Wikipedia:FEAT" class="mw-redirect">
+                                  WP:FEAT
+                                </a>
+                              </small>
+                            </li>
+                            <li>
+                              <small>
+                                <a href="/wiki/Wikipedia:FEATURE" title="Wikipedia:FEATURE" class="mw-redirect">
+                                  WP:FEATURE
+                                </a>
+                              </small>
+                            </li>
+                          </ul>
+                        </th>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <p>
+                    <b>
+                      <strong class="selflink">
+                        Featured content:
+                      </strong>
+                    </b>
+                     ?
+                  </p>
+                  <ul>
+                    <li>
+                      <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">
+                        Featured articles
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">
+                        Featured lists
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">
+                        Featured pictures
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Portal:Featured_sounds" title="Portal:Featured sounds">
+                        Featured sounds
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">
+                        Featured portals
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">
+                        Featured topics
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top; background-color:#F5FAFF; color:#000; margin:15px 0 0 0">
+            <tbody>
+              <tr>
+                <th>
+                  <h2>
+                    <span class="mw-headline" id="This_week.27s_Signpost_report">
+                      This week's 
+                      <a href="/wiki/Wikipedia:Wikipedia_Signpost" title="Wikipedia:Wikipedia Signpost">
+                        <i>
+                          Signpost
+                        </i>
+                      </a>
+                       report
+                    </span>
+                  </h2>
+                </th>
+              </tr>
+              <tr>
+                <td style="color:#000">
+                  <div style="clear:both; margin:2em 3em 0 3em;" class="plainlinks">
+                    <span style="text-shadow: 0px -1px 0px #EEE; color:#777; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif; text-transform:uppercase; font-weight:bold; font-size:110%; line-height:100%; display:block;">
+                      Featured content
+                    </span>
+                    <h2 style="border-bottom:1px solid #AAA; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif; font-size:190%; line-height:130%; margin:0; padding:.2em 10% .7em 0; text-align:left;">
+                      <span class="mw-headline" id="Ye_stately_homes_of_England">
+                        Ye stately homes of England
+                      </span>
+                    </h2>
+                    <div style="font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif; font-size:105%; margin-bottom:1.5em; padding-top:5px; text-align:left;" class="signpost-byline">
+                      <div class="NavFrame collapsed signpostshare noprint" style="border:none; float:right; width:23em; padding:0; margin:0 0 0 2em;">
+                        <div class="NavHead" style="background:none; text-align:left; color:#666 ; float:left; z-index:25;">
+                          <a class="external text" href="//en.wikipedia.org/wiki/en:Wikipedia:Wikipedia_Signpost/Issue?action=watch">
+                            Watchlist new issues
+                          </a>
+                            —  
+                        </div>
+                        <div class="NavHead" style="background:none; text-align:left; color:#666;">
+                          Share this  
+                        </div>
+                        <div class="NavContent plainlinks" style="background:#FFF; border:1px solid; border-color:#bbb #aaa #999; -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.2); -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.2); box-shadow: 0px 1px 3px rgba(0,0,0,0.2);; float:right; font-size:80%; margin:.5em 0 1em; text-align:left; padding:2px 5px; position:static; text-transform:uppercase; width:12em; z-index:20;">
+                          <div class="plainlist" style="margin-left: 0em;">
+                            <ul>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Icon_External_Link_E-Mail.png/12px-Icon_External_Link_E-Mail.png" width="12" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/4/42/Icon_External_Link_E-Mail.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/42/Icon_External_Link_E-Mail.png 2x" data-file-width="16" data-file-height="11"/>
+                                <a rel="nofollow" class="external text" href="mailto:?subject=Ye%20stately%20homes%20of%20England&amp;body=Ye%20stately%20homes%20of%20England%0Ahttp://en.wikipedia.org/wiki/Portal:Featured_content">
+                                  E-mail
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/12px-F_icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/18px-F_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/24px-F_icon.svg.png 2x" data-file-width="267" data-file-height="267"/>
+                                <a rel="nofollow" class="external text" href="//facebook.com/sharer.php?u=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content&amp;t=Ye+stately+homes+of+England">
+                                  Facebook
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/12px-Twitter_logo_initial.svg.png" width="12" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/18px-Twitter_logo_initial.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/24px-Twitter_logo_initial.svg.png 2x" data-file-width="50" data-file-height="69"/>
+                                <a rel="nofollow" class="external text" href="//twitter.com/share?via=wikisignpost&amp;url=http://en.wikipedia.org/wiki/Portal:Featured_content&amp;text=Ye+stately+homes+of+England&amp;related=wikisignpost,wikipedia">
+                                  Twitter
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/12px-Google_plus.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/18px-Google_plus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/24px-Google_plus.svg.png 2x" data-file-width="135" data-file-height="132"/>
+                                <a rel="nofollow" class="external text" href="//plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content">
+                                  Google+
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/12px-LinkedIn_logo_initials.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/18px-LinkedIn_logo_initials.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/24px-LinkedIn_logo_initials.png 2x" data-file-width="1024" data-file-height="1024"/>
+                                <a rel="nofollow" class="external text" href="//linkedin.com/shareArticle?mini=true&amp;url=http://en.wikipedia.org/wiki/Portal:Featured_content">
+                                  LinkedIn
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Reddit.svg/12px-Reddit.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Reddit.svg/18px-Reddit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Reddit.svg/24px-Reddit.svg.png 2x" data-file-width="256" data-file-height="256"/>
+                                <a rel="nofollow" class="external text" href="//ssl.reddit.com/submit?url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content&amp;title=Ye+stately+homes+of+England">
+                                  Reddit
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stumbleupon.svg/12px-Stumbleupon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stumbleupon.svg/18px-Stumbleupon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stumbleupon.svg/24px-Stumbleupon.svg.png 2x" data-file-width="256" data-file-height="256"/>
+                                <a rel="nofollow" class="external text" href="//www.stumbleupon.com/submit?url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content&amp;title=Ye+stately+homes+of+England">
+                                  StumbleUpon
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Delicious.svg/12px-Delicious.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Delicious.svg/18px-Delicious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Delicious.svg/24px-Delicious.svg.png 2x" data-file-width="256" data-file-height="256"/>
+                                <a rel="nofollow" class="external text" href="//delicious.com/save?v=5&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content&amp;tite=Ye+stately+homes+of+England">
+                                  Delicious
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Digg.svg/12px-Digg.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Digg.svg/18px-Digg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Digg.svg/24px-Digg.svg.png 2x" data-file-width="256" data-file-height="256"/>
+                                <a rel="nofollow" class="external text" href="http://digg.com/submit?url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content&amp;title=Ye+stately+homes+of+England}">
+                                  Digg
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Identica_Icon.png/12px-Identica_Icon.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Identica_Icon.png/18px-Identica_Icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Identica_Icon.png/24px-Identica_Icon.png 2x" data-file-width="26" data-file-height="26"/>
+                                <a rel="nofollow" class="external text" href="//identi.ca/index.php?action=newnotice&amp;status_textarea=Reading+Ye+stately+homes+of+England+in+%40wikisignpost%3A+http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPortal%3AFeatured_content">
+                                  Identica
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <span class="signpost-author">
+                        By 
+                        <a href="/wiki/User:Adam_Cuerden" title="User:Adam Cuerden">
+                          Adam Cuerden
+                        </a>
+                         and 
+                        <a href="/wiki/User:The_ed17" title="User:The ed17">
+                          The ed17
+                        </a>
+                      </span>
+                    </div>
+                    <div class="center">
+                      <div class="thumb tnone">
+                        <div class="thumbinner" style="width:752px;">
+                          <a href="/wiki/File:Waddesdon_Manor_North_Fa%C3%A7ade,_UK_-_Diliff.jpg" class="image">
+                            <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg/750px-Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg" width="750" height="386" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg/1125px-Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg/1500px-Waddesdon_Manor_North_Fa%C3%A7ade%2C_UK_-_Diliff.jpg 2x" data-file-width="8368" data-file-height="4310"/>
+                          </a>
+                          <div class="thumbcaption">
+                            <div class="magnify">
+                              <a href="/wiki/File:Waddesdon_Manor_North_Fa%C3%A7ade,_UK_-_Diliff.jpg" class="internal" title="Enlarge">
+                                <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                              </a>
+                            </div>
+                            
+David Iliff, or 
+                            <a href="/wiki/User:Diliff" title="User:Diliff">
+                              Diliff
+                            </a>
+                            , as he is known on here outside the file pages for his many, many, excellent photographs, is one of Wikipedia's longest-standing professional-standard photographers. This featured picture of 
+                            <a href="/wiki/Waddesdon_Manor" title="Waddesdon Manor">
+                              Waddesdon Manor
+                            </a>
+                             is merely the latest in a long series; his first upload to Commons, 
+                            <a href="/wiki/File:Yarra_Panorama.jpg" title="File:Yarra Panorama.jpg">
+                              this excellent photograph
+                            </a>
+                             from back in 2005, is still a superb image. He has consistently produced gorgeous work for Wikipedia and, while he's certainly not alone in his photographic efforts for Wikipedia, the 
+                            <i>
+                              Signpost
+                            </i>
+                             salutes him this week.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <center>
+                      <i>
+                        This
+                      </i>
+                       Signpost 
+                      <i>
+                        "Featured content" report covers material promoted from 25 to 31 May.
+                      </i>
+                    </center>
+                    <h3>
+                      <span class="mw-headline" id="Featured_articles">
+                        Featured articles
+                      </span>
+                    </h3>
+                    <p>
+                      Ten 
+                      <a href="/wiki/Wikipedia:FA" title="Wikipedia:FA" class="mw-redirect">
+                        featured articles
+                      </a>
+                       were promoted this week.
+                    </p>
+                    <div class="thumb tright">
+                      <div class="thumbinner" style="width:292px;">
+                        <a href="/wiki/File:Sitta_przewalskii_Keulemans.jpg" class="image">
+                          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sitta_przewalskii_Keulemans.jpg/290px-Sitta_przewalskii_Keulemans.jpg" width="290" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sitta_przewalskii_Keulemans.jpg/435px-Sitta_przewalskii_Keulemans.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/44/Sitta_przewalskii_Keulemans.jpg 2x" data-file-width="552" data-file-height="584"/>
+                        </a>
+                        <div class="thumbcaption">
+                          <div class="magnify">
+                            <a href="/wiki/File:Sitta_przewalskii_Keulemans.jpg" class="internal" title="Enlarge">
+                              <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                            </a>
+                          </div>
+                          <b>
+                            <a href="/wiki/Przevalski%27s_nuthatch" title="Przevalski's nuthatch">
+                              Przevalski's nuthatch
+                            </a>
+                          </b>
+                           as illustrated by 
+                          <a href="/wiki/John_Gerrard_Keulemans" title="John Gerrard Keulemans">
+                            J. G. Keulemans
+                          </a>
+                          .
+                        </div>
+                      </div>
+                    </div>
+                    <div class="thumb tright">
+                      <div class="thumbinner" style="width:292px;">
+                        <a href="/wiki/File:Lyndon_Johnson_and_Martin_Luther_King,_Jr._-_Voting_Rights_Act.jpg" class="image">
+                          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg/290px-Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg" width="290" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg/435px-Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg/580px-Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg 2x" data-file-width="3000" data-file-height="2009"/>
+                        </a>
+                        <div class="thumbcaption">
+                          <div class="magnify">
+                            <a href="/wiki/File:Lyndon_Johnson_and_Martin_Luther_King,_Jr._-_Voting_Rights_Act.jpg" class="internal" title="Enlarge">
+                              <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                            </a>
+                          </div>
+                          
+President 
+                          <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">
+                            Lyndon B. Johnson
+                          </a>
+                          , 
+                          <a href="/wiki/Martin_Luther_King,_Jr." title="Martin Luther King, Jr.">
+                            Martin Luther King, Jr.
+                          </a>
+                           and 
+                          <a href="/wiki/Rosa_Parks" title="Rosa Parks">
+                            Rosa Parks
+                          </a>
+                           at the signing of the 
+                          <b>
+                            <a href="/wiki/Voting_Rights_Act_of_1965" title="Voting Rights Act of 1965">
+                              Voting Rights Act of 1965
+                            </a>
+                          </b>
+                          .
+                        </div>
+                      </div>
+                    </div>
+                    <div class="thumb tright">
+                      <div class="thumbinner" style="width:292px;">
+                        <a href="/wiki/File:Wells_Cathedral_West_Face_Exterior,_UK_-_Diliff.jpg" class="image">
+                          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg/290px-Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg" width="290" height="250" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg/435px-Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg/580px-Wells_Cathedral_West_Face_Exterior%2C_UK_-_Diliff.jpg 2x" data-file-width="5867" data-file-height="5050"/>
+                        </a>
+                        <div class="thumbcaption">
+                          <div class="magnify">
+                            <a href="/wiki/File:Wells_Cathedral_West_Face_Exterior,_UK_-_Diliff.jpg" class="internal" title="Enlarge">
+                              <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                            </a>
+                          </div>
+                          
+We have a lot of gorgeous architectural pictures this week. Here's another one by 
+                          <a href="/wiki/User:Diliff" title="User:Diliff">
+                            Diliff
+                          </a>
+                          , of 
+                          <a href="/wiki/Wells_Cathedral" title="Wells Cathedral">
+                            Wells Cathedral
+                          </a>
+                          .
+                        </div>
+                      </div>
+                    </div>
+                    <ul>
+                      <li>
+                        <b>
+                          <a href="/wiki/Deathrow_(video_game)" title="Deathrow (video game)">
+                            <i>
+                              Deathrow
+                            </i>
+                             (video game)
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Deathrow_(video_game)/archive1" title="Wikipedia:Featured article candidates/Deathrow (video game)/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Czar" title="User:Czar">
+                              czar
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         An 
+                        <a href="/wiki/Xbox" title="Xbox">
+                          Xbox
+                        </a>
+                         science-fiction sports game created by 
+                        <a href="/wiki/Ubisoft" title="Ubisoft">
+                          Ubisoft
+                        </a>
+                         centred around the fictional sport of Blitz, a more-violent combination of 
+                        <a href="/wiki/Basketball" title="Basketball">
+                          basketball
+                        </a>
+                        , 
+                        <a href="/wiki/Hockey" title="Hockey">
+                          hockey
+                        </a>
+                        , and 
+                        <a href="/wiki/American_football" title="American football">
+                          American football
+                        </a>
+                        , with a 
+                        <i>
+                          <a href="/wiki/Blade_Runner" title="Blade Runner">
+                            Blade Runner
+                          </a>
+                        </i>
+                        -like design æsthetic.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Tadeusz_Ko%C5%9Bciuszko" title="Tadeusz Ko?ciuszko">
+                            Tadeusz Ko?ciuszko
+                          </a>
+                        </b>
+                         (1746–1817) 
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Tadeusz_Ko%C5%9Bciuszko/archive2" title="Wikipedia:Featured article candidates/Tadeusz Ko?ciuszko/archive2">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Gwillhickers" title="User:Gwillhickers">
+                              Gwillhickers
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         A Polish 
+                        <a href="/wiki/Military_engineer" title="Military engineer" class="mw-redirect">
+                          military engineer
+                        </a>
+                        , who managed to not only become a Polish, Lithuanian, and Belarusian military hero, but was a friend of 
+                        <a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">
+                          Thomas Jefferson
+                        </a>
+                         and assisted the Americans in the 
+                        <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">
+                          American Revolutionary War
+                        </a>
+                        . Seriously, just read the article, it's an amazing story of someone who never saw what he saw as a just war without hurrying over to help out in it, and who, at the end of his life, tried to use his fortune to help educate and free the American slaves, although his plans were thwarted after his death.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Gubby_Allen" title="Gubby Allen">
+                            Gubby Allen
+                          </a>
+                        </b>
+                         (1902–1989) 
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Gubby_Allen/archive1" title="Wikipedia:Featured article candidates/Gubby Allen/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Sarastro1" title="User:Sarastro1">
+                              Sarastro1
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         A cricketer who captained England in eleven 
+                        <a href="/wiki/Test_cricket" title="Test cricket">
+                          Test matches
+                        </a>
+                        , later served in the administration of cricket and had a role in the subject of another recently-promoted featured article, the 
+                        <a href="/wiki/D%27Oliveira_affair" title="D'Oliveira affair">
+                          D'Oliveira affair
+                        </a>
+                        . This was a complicated situation involving 
+                        <a href="/wiki/Basil_D%27Oliveira" title="Basil D'Oliveira">
+                          Basil D'Oliveira
+                        </a>
+                        , a mixed-race South African cricketer who was playing for English teams, and the threatened cancellation of a tour of South Africa should he be included on the national English team. Calls for Allen's resignation began after it came to light that he was partially responsible for D'Oliveira's initial exclusion from the team.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Invisible_rail" title="Invisible rail">
+                            Invisible rail
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Invisible_rail/archive1" title="Wikipedia:Featured article candidates/Invisible rail/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Jimfbleak" title="User:Jimfbleak">
+                              Jimfbleak
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         might sound like an unusual train, but it is actually a large flightless bird. Its name stems from the difficulty of finding it; a German ornithologist commented in the 1930s that "I am solidly confident no European has ever seen this rail alive, for that requires such a degree of toughening and such demands on oneself as I cannot so easily attribute to others."
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Babe_Ruth" title="Babe Ruth">
+                            Babe Ruth
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Babe_Ruth/archive2" title="Wikipedia:Featured article candidates/Babe Ruth/archive2">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Wehwalt" title="User:Wehwalt">
+                              Wehwalt
+                            </a>
+                             )
+                          </i>
+                        </small>
+                         was quite likely the greatest baseball player of all time. Starting in 1914, Ruth changed baseball to focus far more on home runs, something that endures in the present iteration of the game. Outside baseball, Ruth was a celebrity known just as much for his drinking and womanizing as for his baseball skills.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Voting_Rights_Act_of_1965" title="Voting Rights Act of 1965">
+                            Voting Rights Act of 1965
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Voting_Rights_Act_of_1965/archive1" title="Wikipedia:Featured article candidates/Voting Rights Act of 1965/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Prototime" title="User:Prototime">
+                              Prototime
+                            </a>
+                             )
+                          </i>
+                        </small>
+                         prohibited discrimination in voting. Designed to supplement the fourteenth and fifteenth amendments to the US constitution, the Voting Rights Act ended widespread disenfranchisement of racial minorities, particularly in the Southern region of the country. It has been championed as the most effective civil rights law ever enacted in the US.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Union_Films" title="Union Films">
+                            Union Films
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Union_Films/archive1" title="Wikipedia:Featured article candidates/Union Films/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Crisco_1492" title="User:Crisco 1492">
+                              Crisco 1492
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         was a film production company located in the Dutch East Indies, now Indonesia. The latest in a lengthy series of Indonesian film articles from the nominator, Union Films produced seven movies before it was dissolved in 1942 as a result of a Japanese invasion and occupation. All are now considered lost.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Przevalski%27s_nuthatch" title="Przevalski's nuthatch">
+                            Przevalski's nuthatch
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Przevalski%27s_nuthatch/archive1" title="Wikipedia:Featured article candidates/Przevalski's nuthatch/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Fuhghettaboutit" title="User:Fuhghettaboutit">
+                              Fuhghettaboutit
+                            </a>
+                             )
+                          </i>
+                        </small>
+                         is a bird endemic to parts of Tibet and China. Partly translated from the companion 
+                        <a href="//fr.wikipedia.org/wiki/Sitta_przewalskii" class="extiw" title="fr:Sitta przewalskii">
+                          French Wikipedia article
+                        </a>
+                        , Przevalski's nuthatch was only given a separate species designation from the white-cheeked nuthatch in 2005, though many bird organizations have not followed suit.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Empress_Matilda" title="Empress Matilda">
+                            Empress Matilda
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Empress_Matilda/archive1" title="Wikipedia:Featured article candidates/Empress Matilda/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Hchc2009" title="User:Hchc2009">
+                              Hchc2009
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         was a claimant to the English throne during a nearly twenty-year civil war ("The Anarchy"). The nominator says that Matilda was "one of the few female war-time leaders of the medieval period", and that "even at the end of her long life she was felt to still be a powerful personality".
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Clackline_Bridge" title="Clackline Bridge">
+                            Clackline Bridge
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_article_candidates/Clackline_Bridge/archive1" title="Wikipedia:Featured article candidates/Clackline Bridge/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Evad37" title="User:Evad37">
+                              Evad37
+                            </a>
+                             )
+                          </i>
+                        </small>
+                         is an unusual Australian work of engineering—it carried a major highway over both a waterway and a railroad by using a curved, sloped design. Designed and constructed in the 1930s, Clackline was quickly outdated and had to be widened in 1959 and 1960, but continuing concerns about safety led to further alterations in the 1970s. The bridge was bypassed in 2007 and 2008, but it continues to see use in local road service.
+                      </li>
+                    </ul>
+                    <h3>
+                      <span class="mw-headline" id="Featured_lists">
+                        Featured lists
+                      </span>
+                    </h3>
+                    <p>
+                      Five 
+                      <a href="/wiki/Wikipedia:FL" title="Wikipedia:FL" class="mw-redirect">
+                        featured lists
+                      </a>
+                       were promoted this week.
+                    </p>
+                    <div class="thumb tright">
+                      <div class="thumbinner" style="width:292px;">
+                        <a href="/wiki/File:UK-2014-Oxford-All_Souls_College_03.jpg" class="image">
+                          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/UK-2014-Oxford-All_Souls_College_03.jpg/290px-UK-2014-Oxford-All_Souls_College_03.jpg" width="290" height="362" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/UK-2014-Oxford-All_Souls_College_03.jpg/435px-UK-2014-Oxford-All_Souls_College_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/UK-2014-Oxford-All_Souls_College_03.jpg/580px-UK-2014-Oxford-All_Souls_College_03.jpg 2x" data-file-width="6000" data-file-height="7491"/>
+                        </a>
+                        <div class="thumbcaption">
+                          <div class="magnify">
+                            <a href="/wiki/File:UK-2014-Oxford-All_Souls_College_03.jpg" class="internal" title="Enlarge">
+                              <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                            </a>
+                          </div>
+                          <a href="/wiki/User:Godot13" title="User:Godot13">
+                            Godot13
+                          </a>
+                           took this lovely photograph of the Hawksmoor Towers at 
+                          <a href="/wiki/All_Souls_College,_Oxford" title="All Souls College, Oxford">
+                            All Souls College, Oxford
+                          </a>
+                          .
+                        </div>
+                      </div>
+                    </div>
+                    <ul>
+                      <li>
+                        The 
+                        <b>
+                          <a href="/wiki/Kumi_Koda_discography" title="Kumi Koda discography">
+                            discography of Kumi Koda
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_list_candidates/Kumi_Koda_discography/archive1" title="Wikipedia:Featured list candidates/Kumi Koda discography/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Prosperosity" title="User:Prosperosity" class="mw-redirect">
+                              Prosperosity
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         includes 31 albums and 56 singles. Koda, a Japanese pop singer, has found great success in her native country, reaching the top of the charts put out by 
+                        <a href="/wiki/Oricon" title="Oricon">
+                          Oricon
+                        </a>
+                         and 
+                        <a href="/wiki/G-Music" title="G-Music">
+                          G-Music
+                        </a>
+                        .
+                      </li>
+                      <li>
+                        The 
+                        <b>
+                          <a href="/wiki/List_of_Marvel_Cinematic_Universe_films" title="List of Marvel Cinematic Universe films">
+                            List of Marvel Cinematic Universe films
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_list_candidates/List_of_Marvel_Cinematic_Universe_films/archive1" title="Wikipedia:Featured list candidates/List of Marvel Cinematic Universe films/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Favre1fan93" title="User:Favre1fan93">
+                              Favre1fan93
+                            </a>
+                            , 
+                            <a href="/wiki/User:TriiipleThreat" title="User:TriiipleThreat">
+                              TriiipleThreat
+                            </a>
+                            , 
+                            <a href="/wiki/User:Fandraltastic" title="User:Fandraltastic">
+                              Fandraltastic
+                            </a>
+                             and 
+                            <a href="/wiki/User_talk:Richiekim" title="User talk:Richiekim">
+                              Richiekim
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         includes a quickly expanding roster of movies that revolve around Marvel's superheroes. It includes nine released films; four more named movies are on the way, with two more (unnamed) planned and a plethora of ideas for more. 
+                        <i>
+                          The Avengers
+                        </i>
+                        , the 2012 film that featured most of the universe's characters, is the third-highest grossing film of all time, while the series as a whole will soon surpass the 
+                        <i>
+                          Harry Potter
+                        </i>
+                         films as the most lucrative of all time.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/Anatomical_terms_of_motion" title="Anatomical terms of motion">
+                            Anatomical terms of motion
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_list_candidates/Anatomical_terms_of_motion/archive1" title="Wikipedia:Featured list candidates/Anatomical terms of motion/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:LT910001" title="User:LT910001">
+                              LT910001
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         can range from flexion to adduction to plantarflexion. They are scientific terms used to describe specific motions capable of being done by humans, so that "eversion", for instance, describes when you stand on the outside of your foot.
+                      </li>
+                      <li>
+                        The 
+                        <b>
+                          <a href="/wiki/List_of_international_cricket_centuries_by_Graeme_Smith" title="List of international cricket centuries by Graeme Smith">
+                            list of international cricket centuries by Graeme Smith
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_list_candidates/List_of_international_cricket_centuries_by_Graeme_Smith/archive1" title="Wikipedia:Featured list candidates/List of international cricket centuries by Graeme Smith/archive1">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Vensatry" title="User:Vensatry">
+                              Vensatry
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         is 37 items long. Smith, a recently retired South African cricketer, is the country's second-highest centurion of all time.
+                      </li>
+                      <li>
+                        The 
+                        <b>
+                          <a href="/wiki/Latin_Grammy_Award_for_Best_Alternative_Music_Album" title="Latin Grammy Award for Best Alternative Music Album">
+                            Latin Grammy Award for Best Alternative Music Album
+                          </a>
+                        </b>
+                        , 
+                        <small>
+                          <i>
+                            (
+                            <a href="/wiki/Wikipedia:Featured_list_candidates/Latin_Grammy_Award_for_Best_Alternative_Music_Album/archive2" title="Wikipedia:Featured list candidates/Latin Grammy Award for Best Alternative Music Album/archive2">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Hahc21" title="User:Hahc21">
+                              Hahc21
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         as the name suggests, is awarded to an alternative music album put out by a Latin artist in the previous year. First awarded in 2004, five of the eight victors have come from Mexico, including the only two-time winner Julieta Venegas.
+                      </li>
+                    </ul>
+                    <h3>
+                      <span class="mw-headline" id="Featured_pictures">
+                        Featured pictures
+                      </span>
+                    </h3>
+                    <p>
+                      Five 
+                      <a href="/wiki/Wikipedia:FP" title="Wikipedia:FP" class="mw-redirect">
+                        featured pictures
+                      </a>
+                       were promoted this week.
+                    </p>
+                    <div class="thumb tright">
+                      <div class="thumbinner" style="width:292px;">
+                        <a href="/wiki/File:Presa_de_El_Atazar_-_01.jpg" class="image">
+                          <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Presa_de_El_Atazar_-_01.jpg/290px-Presa_de_El_Atazar_-_01.jpg" width="290" height="193" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Presa_de_El_Atazar_-_01.jpg/435px-Presa_de_El_Atazar_-_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Presa_de_El_Atazar_-_01.jpg/580px-Presa_de_El_Atazar_-_01.jpg 2x" data-file-width="3888" data-file-height="2592"/>
+                        </a>
+                        <div class="thumbcaption">
+                          <div class="magnify">
+                            <a href="/wiki/File:Presa_de_El_Atazar_-_01.jpg" class="internal" title="Enlarge">
+                              <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                            </a>
+                          </div>
+                          
+This stunning view of the 
+                          <a href="/wiki/El_Atazar_Dam" title="El Atazar Dam">
+                            El Atazar Dam
+                          </a>
+                           in Spain is a new featured picture.
+                        </div>
+                      </div>
+                    </div>
+                    <ul>
+                      <li>
+                        <b>
+                          <a href="/wiki/File:BROSIUS,_Marriott_(BEP_engraved_portrait)_(name_cropped_out).jpg" title="File:BROSIUS, Marriott (BEP engraved portrait) (name cropped out).jpg">
+                            Marriott Henry Brosius
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (created by 
+                            <a href="/wiki/Bureau_of_Engraving_and_Printing" title="Bureau of Engraving and Printing">
+                              Bureau of Engraving and Printing
+                            </a>
+                            , restored and 
+                            <a href="/wiki/Wikipedia:Featured_picture_candidates/Rep._Marriott_H._Brosius" title="Wikipedia:Featured picture candidates/Rep. Marriott H. Brosius">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Godot13" title="User:Godot13">
+                              Godot13
+                            </a>
+                            )
+                          </i>
+                        </small>
+                        <a href="/wiki/Marriott_Henry_Brosius" title="Marriott Henry Brosius">
+                          Marriott Henry Brosius
+                        </a>
+                         (1843–1901) served 
+                        <a href="/wiki/Pennsylvania" title="Pennsylvania">
+                          Pennsylvania
+                        </a>
+                         from 1889 to 1901 as a 
+                        <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">
+                          Republican
+                        </a>
+                         in the 
+                        <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">
+                          United States House of Representatives
+                        </a>
+                        . He also served as a soldier in the 
+                        <a href="/wiki/American_Civil_War" title="American Civil War">
+                          American Civil War
+                        </a>
+                        , reaching the rank of second lieutenant.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/File:Presa_de_El_Atazar_-_01.jpg" title="File:Presa de El Atazar - 01.jpg">
+                            El Atazar Dam
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (created by 
+                            <a href="/wiki/User:Kadellar" title="User:Kadellar">
+                              Carlos Delgado
+                            </a>
+                            , 
+                            <a href="/wiki/Wikipedia:Featured_picture_candidates/El_Atazar_Dam" title="Wikipedia:Featured picture candidates/El Atazar Dam">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Crisco_1492" title="User:Crisco 1492">
+                              Crisco 1492
+                            </a>
+                            )
+                          </i>
+                        </small>
+                        <a href="/wiki/El_Atazar_Dam" title="El Atazar Dam">
+                          El Atazar Dam
+                        </a>
+                        , near 
+                        <a href="/wiki/Madrid,_Spain" title="Madrid, Spain" class="mw-redirect">
+                          Madrid, Spain
+                        </a>
+                        , is a curved, 
+                        <a href="/wiki/Arch_dam" title="Arch dam">
+                          arch dam
+                        </a>
+                         blocking a narrow gorge.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/File:UK-2014-Oxford-All_Souls_College_03.jpg" title="File:UK-2014-Oxford-All Souls College 03.jpg">
+                            Hawksmoor Towers, All Souls College, Oxford
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (created and 
+                            <a href="/wiki/Wikipedia:Featured_picture_candidates/Hawksmoor_Towers,_All_Souls_College,_Oxford" title="Wikipedia:Featured picture candidates/Hawksmoor Towers, All Souls College, Oxford">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Godot13" title="User:Godot13">
+                              Godot13
+                            </a>
+                            )
+                          </i>
+                        </small>
+                         The towers, designed by renowned architect 
+                        <a href="/wiki/Nicholas_Hawksmoor" title="Nicholas Hawksmoor">
+                          Nicholas Hawksmoor
+                        </a>
+                        , for 
+                        <a href="/wiki/All_Souls_College,_Oxford" title="All Souls College, Oxford">
+                          All Souls College
+                        </a>
+                        , part of 
+                        <a href="/wiki/Oxford_University" title="Oxford University" class="mw-redirect">
+                          Oxford University
+                        </a>
+                        . 
+                        <a href="/wiki/User:Godot13" title="User:Godot13">
+                          Godot13
+                        </a>
+                        , besides his excellent work with currency, is also a talented photographer.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/File:Wells_Cathedral_West_Face_Exterior,_UK_-_Diliff.jpg" title="File:Wells Cathedral West Face Exterior, UK - Diliff.jpg">
+                            Wells Cathedral
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (created and 
+                            <a href="/wiki/Wikipedia:Featured_picture_candidates/File:Wells_Cathedral_West_Face_Exterior,_UK_-_Diliff.jpg" title="Wikipedia:Featured picture candidates/File:Wells Cathedral West Face Exterior, UK - Diliff.jpg">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Diliff" title="User:Diliff">
+                              Diliff
+                            </a>
+                            )
+                          </i>
+                        </small>
+                        <a href="/wiki/Wells_Cathedral" title="Wells Cathedral">
+                          Wells Cathedral
+                        </a>
+                        , in 
+                        <a href="/wiki/Somerset,_England" title="Somerset, England" class="mw-redirect">
+                          Somerset, England
+                        </a>
+                        , has been described as "unquestionably one of the most beautiful" and "the most poetic" of English cathedrals. Diliff's photograph of it, like the Waddesdon Manor one that leads this page, is, as you might expect from those quotes, stunning.
+                      </li>
+                      <li>
+                        <b>
+                          <a href="/wiki/File:Waddesdon_Manor_North_Fa%C3%A7ade,_UK_-_Diliff.jpg" title="File:Waddesdon Manor North Façade, UK - Diliff.jpg">
+                            Waddesdon Manor
+                          </a>
+                        </b>
+                        <small>
+                          <i>
+                            (created and 
+                            <a href="/wiki/Wikipedia:Featured_picture_candidates/File:Waddesdon_Manor_North_Fa%C3%A7ade,_UK_-_Diliff.jpg" title="Wikipedia:Featured picture candidates/File:Waddesdon Manor North Façade, UK - Diliff.jpg">
+                              nominated
+                            </a>
+                             by 
+                            <a href="/wiki/User:Diliff" title="User:Diliff">
+                              Diliff
+                            </a>
+                            )
+                          </i>
+                        </small>
+                        <a href="/wiki/Waddesdon_Manor" title="Waddesdon Manor">
+                          Waddesdon Manor
+                        </a>
+                         is a country house in 
+                        <a href="/wiki/Buckinghamshire,_England" title="Buckinghamshire, England" class="mw-redirect">
+                          Buckinghamshire, England
+                        </a>
+                        , built in the style of a French 
+                        <a href="/wiki/Ch%C3%A2teau" title="Château">
+                          château
+                        </a>
+                         in the late 19th century. Now owned by the 
+                        <a href="/wiki/National_Trust" title="National Trust">
+                          National Trust
+                        </a>
+                        , its "theme of unparallelled luxury" makes it an impressive and popular visitor attraction.
+                      </li>
+                    </ul>
+                    <p>
+                      <br style="clear:both;"/>
+                    </p>
+                    <ul class="gallery mw-gallery-packed">
+                      <li class="gallerybox" style="width: 304px">
+                        <div style="width: 304px">
+                          <div class="thumb" style="width: 302px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/File:Schweikart_Tadeusz_Ko%C5%9Bciuszko.jpg" class="image">
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schweikart_Tadeusz_Ko%C5%9Bciuszko.jpg/453px-Schweikart_Tadeusz_Ko%C5%9Bciuszko.jpg" width="302" height="400" data-file-width="491" data-file-height="650"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                            <p>
+                              Portrait by Karl Gottlieb Schweikart of 
+                              <b>
+                                <a href="/wiki/Tadeusz_Ko%C5%9Bciuszko" title="Tadeusz Ko?ciuszko">
+                                  Tadeusz Ko?ciuszko
+                                </a>
+                              </b>
+                              , the subject of a new featured article.
+                            </p>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="gallerybox" style="width: 305.33333333333px">
+                        <div style="width: 305.33333333333px">
+                          <div class="thumb" style="width: 303.33333333333px;">
+                            <div style="margin:0px auto;">
+                              <a href="/wiki/File:Babe_Ruth2.jpg" class="image">
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Babe_Ruth2.jpg/455px-Babe_Ruth2.jpg" width="304" height="400" data-file-width="2623" data-file-height="3456"/>
+                              </a>
+                            </div>
+                          </div>
+                          <div class="gallerytext">
+                            <p>
+                              Baseball player 
+                              <b>
+                                <a href="/wiki/Babe_Ruth" title="Babe Ruth">
+                                  Babe Ruth
+                                </a>
+                              </b>
+                              , the subject of another featured article.
+                            </p>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                    <p>
+                      <br/>
+                    </p>
+                    <div style="clear:both;">
+                    </div>
+                    <div style="margin-top:60px; font-size:116%; text-align:left; font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif; font-style:italic; clear:both; padding-bottom:10px;">
+                      <a href="/wiki/Wikipedia:Wikipedia_Signpost/2014-05-28/Featured_content" title="Wikipedia:Wikipedia Signpost/2014-05-28/Featured content">
+                        ? 
+                        <span style="text-transform:uppercase; font-size:80%;">
+                          Previous
+                        </span>
+                         "Featured content report"
+                      </a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td/>
+              </tr>
+              <tr>
+                <th>
+                  <h2>
+                    <span class="mw-headline" id="Featured_content_procedures">
+                      Featured content procedures
+                    </span>
+                  </h2>
+                </th>
+              </tr>
+              <tr>
+                <td style="color:#000">
+                  <table class="infobox bordered" style="text-align: center; border: none; margin-top: 1ex" cellpadding="4">
+                    <tbody>
+                      <tr>
+                        <td style="border-top: none; border-left: none; background: transparent"/>
+                        <th>
+                          Articles
+                        </th>
+                        <th>
+                          Pictures
+                        </th>
+                        <th>
+                          Lists
+                        </th>
+                        <th>
+                          Portals
+                        </th>
+                        <th>
+                          Topics
+                        </th>
+                      </tr>
+                      <tr>
+                        <th>
+                          Featured:
+                        </th>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">
+                            4278
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_articles" title="Wikipedia talk:Featured articles">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">
+                            4,097
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_pictures" title="Wikipedia talk:Featured pictures">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">
+                            2597
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_lists" title="Wikipedia talk:Featured lists">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">
+                            166
+                          </a>
+                           / 
+                          <a href="/wiki/Portal_talk:Featured_portals" title="Portal talk:Featured portals">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">
+                            129
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_topics" title="Wikipedia talk:Featured topics">
+                            T
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>
+                          Criteria:
+                        </th>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_article_criteria" title="Wikipedia:Featured article criteria">
+                            FA?
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_article_criteria" title="Wikipedia talk:Featured article criteria">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_picture_criteria" title="Wikipedia:Featured picture criteria">
+                            FP?
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_picture_criteria" title="Wikipedia talk:Featured picture criteria">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_list_criteria" title="Wikipedia:Featured list criteria">
+                            FL?
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_list_criteria" title="Wikipedia talk:Featured list criteria">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_portal_criteria" title="Wikipedia:Featured portal criteria">
+                            FPO?
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_portal_criteria" title="Wikipedia talk:Featured portal criteria">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_topic_criteria" title="Wikipedia:Featured topic criteria">
+                            FT?
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_topic_criteria" title="Wikipedia talk:Featured topic criteria">
+                            T
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>
+                          Candidates:
+                        </th>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_article_candidates" title="Wikipedia:Featured article candidates">
+                            FAC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_article_candidates" title="Wikipedia talk:Featured article candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">
+                            FPC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_list_candidates" title="Wikipedia:Featured list candidates">
+                            FLC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_list_candidates" title="Wikipedia talk:Featured list candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_portal_candidates" title="Wikipedia:Featured portal candidates">
+                            FPOC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_portal_candidates" title="Wikipedia talk:Featured portal candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_topic_candidates" title="Wikipedia:Featured topic candidates">
+                            FTC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_topic_candidates" title="Wikipedia talk:Featured topic candidates">
+                            T
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>
+                          Removal:
+                        </th>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_article_review" title="Wikipedia:Featured article review">
+                            FARC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_article_review" title="Wikipedia talk:Featured article review">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_picture_candidates#Nominations_for_delisting" title="Wikipedia:Featured picture candidates">
+                            FPR
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_list_removal_candidates" title="Wikipedia:Featured list removal candidates">
+                            FLRC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_list_removal_candidates" title="Wikipedia talk:Featured list removal candidates">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_portal_review" title="Wikipedia:Featured portal review">
+                            FPR
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_portal_review" title="Wikipedia talk:Featured portal review">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Featured_topic_removal_candidates" title="Wikipedia:Featured topic removal candidates">
+                            FTRC
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Featured_topic_removal_candidates" title="Wikipedia talk:Featured topic removal candidates" class="mw-redirect">
+                            T
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <th>
+                          Former:
+                        </th>
+                        <td>
+                          <a href="/wiki/Wikipedia:Former_featured_articles" title="Wikipedia:Former featured articles">
+                            1,040
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Former_featured_articles" title="Wikipedia talk:Former featured articles">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Former_featured_pictures" title="Wikipedia:Former featured pictures">
+                            FFP
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Former_featured_lists" title="Wikipedia:Former featured lists">
+                            212
+                          </a>
+                           / 
+                          <a href="/wiki/Wikipedia_talk:Former_featured_lists" title="Wikipedia talk:Former featured lists">
+                            T
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Former_featured_portals" title="Wikipedia:Former featured portals">
+                            FFPO
+                          </a>
+                        </td>
+                        <td>
+                          <a href="/wiki/Wikipedia:Former_featured_topics" title="Wikipedia:Former featured topics">
+                            FFT
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <ul>
+                    <li>
+                      <a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Pages" title="Special:RecentChangesLinked/Portal:Featured content/Pages">
+                        Recent changes impacting this page
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Updates" title="Special:RecentChangesLinked/Portal:Featured content/Updates">
+                        Recent updates to the featured status pages
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Wikipedia:Today%27s_featured_article/requests" title="Wikipedia:Today's featured article/requests">
+                        Wikipedia:Today's featured article/requests
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">
+                        Category:Wikipedia featured content
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  <h2>
+                    <span class="mw-headline" id="Newest_featured_content_edit">
+                      Newest featured content 
+                      <small>
+                        <span class="editlink noprint plainlinks navbar">
+                          <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Announcements/New_featured_content&amp;action=edit">
+                            edit
+                          </a>
+                        </span>
+                      </small>
+                    </span>
+                  </h2>
+                </th>
+              </tr>
+              <tr>
+                <td style="color:#000">
+                  <table style="width:100%">
+                    <tbody>
+                      <tr>
+                        <th style="width:33%;background-color:#E6FFF2">
+                          <a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">
+                            Articles
+                          </a>
+                        </th>
+                        <th style="width:33%;background-color:#E0F2CE">
+                          <a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">
+                            Topics
+                          </a>
+                        </th>
+                        <th style="width:33%;background-color:#FFE6F2">
+                          <a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">
+                            Portals
+                          </a>
+                        </th>
+                      </tr>
+                      <tr valign="top">
+                        <td style="background-color:#F5FFFA">
+                          <ul>
+                            <li>
+                              <a href="/wiki/Hurricane_Kate_(1985)" title="Hurricane Kate (1985)">
+                                Hurricane Kate (1985)
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Sesame_Workshop" title="Sesame Workshop">
+                                Sesame Workshop
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/U.S._Route_31_in_Michigan" title="U.S. Route 31 in Michigan">
+                                U.S. Route 31 in Michigan
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Russian_battleship_Peresvet" title="Russian battleship Peresvet">
+                                Russian battleship 
+                                <i>
+                                  Peresvet
+                                </i>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Greed_(film)" title="Greed (film)">
+                                <i>
+                                  Greed
+                                </i>
+                                 (film)
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/1880_Democratic_National_Convention" title="1880 Democratic National Convention">
+                                1880 Democratic National Convention
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Kronan_(ship)" title="Kronan (ship)">
+                                <i>
+                                  Kronan
+                                </i>
+                                 (ship)
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Sega_CD" title="Sega CD">
+                                Sega CD
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Clackline_Bridge" title="Clackline Bridge">
+                                Clackline Bridge
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Empress_Matilda" title="Empress Matilda">
+                                Empress Matilda
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Przevalski%27s_nuthatch" title="Przevalski's nuthatch">
+                                Przevalski's nuthatch
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Union_Films" title="Union Films">
+                                Union Films
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Babe_Ruth" title="Babe Ruth">
+                                Babe Ruth
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Gubby_Allen" title="Gubby Allen">
+                                Gubby Allen
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Invisible_rail" title="Invisible rail">
+                                Invisible rail
+                              </a>
+                            </li>
+                          </ul>
+                        </td>
+                        <td style="background-color:#F2FFE6">
+                          <ul>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/1990%E2%80%9391_South_Pacific_cyclone_season" title="Wikipedia:Featured topics/1990–91 South Pacific cyclone season">
+                                1990–91 South Pacific cyclone season
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Maya_Angelou_autobiographies" title="Wikipedia:Featured topics/Maya Angelou autobiographies">
+                                Maya Angelou autobiographies
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Sega_Genesis" title="Wikipedia:Featured topics/Sega Genesis">
+                                Sega Genesis
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Interstate_96" title="Wikipedia:Featured topics/Interstate 96">
+                                Interstate 96
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/God_of_War_franchise" title="Wikipedia:Featured topics/God of War franchise">
+                                God of War franchise
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Battlecruisers_of_the_world" title="Wikipedia:Featured topics/Battlecruisers of the world">
+                                Battlecruisers of the world
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Category_5_Pacific_hurricanes" title="Wikipedia:Featured topics/Category 5 Pacific hurricanes">
+                                Category 5 Pacific hurricanes
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Lexington-class_battlecruiser_%26_aircraft_carrier" title="Wikipedia:Featured topics/Lexington-class battlecruiser &amp; aircraft carrier">
+                                Lexington-class battlecruiser &amp; aircraft carrier
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/John_Edward_Brownlee" title="Wikipedia:Featured topics/John Edward Brownlee">
+                                John Edward Brownlee
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Command_in_the_South_West_Pacific_Area" title="Wikipedia:Featured topics/Command in the South West Pacific Area">
+                                Command in the South West Pacific Area
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/United_States_Bicentennial_coinage" title="Wikipedia:Featured topics/United States Bicentennial coinage">
+                                United States Bicentennial coinage
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Maya_Angelou" title="Wikipedia:Featured topics/Maya Angelou">
+                                Maya Angelou
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Phedina" title="Wikipedia:Featured topics/Phedina">
+                                Phedina
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Hurricane_Isabel" title="Wikipedia:Featured topics/Hurricane Isabel">
+                                Hurricane Isabel
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Wikipedia:Featured_topics/Dan_Leno_on_stage_and_record" title="Wikipedia:Featured topics/Dan Leno on stage and record">
+                                Dan Leno on stage and record
+                              </a>
+                            </li>
+                          </ul>
+                        </td>
+                        <td style="background-color:#FFF5FA">
+                          <ul>
+                            <li>
+                              <a href="/wiki/Portal:Freedom_of_speech" title="Portal:Freedom of speech">
+                                Freedom of speech
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Star_Trek" title="Portal:Star Trek">
+                                Star Trek
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Technology" title="Portal:Technology">
+                                Technology
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Sports" title="Portal:Sports">
+                                Sports
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Geography" title="Portal:Geography">
+                                Geography
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">
+                                Massachusetts
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Cheshire" title="Portal:Cheshire">
+                                Cheshire
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Bollywood" title="Portal:Bollywood">
+                                Bollywood
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Society" title="Portal:Society">
+                                Society
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Indonesia" title="Portal:Indonesia">
+                                Indonesia
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:New_England" title="Portal:New England">
+                                New England
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Maryland_Roads" title="Portal:Maryland Roads">
+                                Maryland Roads
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Arts" title="Portal:Arts">
+                                Arts
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:Animation" title="Portal:Animation">
+                                Animation
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Portal:History" title="Portal:History">
+                                History
+                              </a>
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table style="width:100%">
+                    <tbody>
+                      <tr>
+                        <th style="width:33%;background-color:#FFF2E6">
+                          <a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">
+                            Lists
+                          </a>
+                        </th>
+                        <th style="width:34%;background-color:#F2E6FF">
+                          <a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">
+                            Pictures
+                          </a>
+                        </th>
+                      </tr>
+                      <tr valign="top">
+                        <td style="background-color:#FFFAF5">
+                          <ul>
+                            <li>
+                              <a href="/wiki/List_of_awards_and_nominations_received_by_Psych" title="List of awards and nominations received by Psych">
+                                List of awards and nominations received by 
+                                <i>
+                                  Psych
+                                </i>
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_tallest_dams_in_China" title="List of tallest dams in China">
+                                List of tallest dams in China
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_Eurasian_nuthatch_subspecies" title="List of Eurasian nuthatch subspecies">
+                                List of Eurasian nuthatch subspecies
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Ralph_Richardson,_roles_and_awards" title="Ralph Richardson, roles and awards">
+                                Ralph Richardson, roles and awards
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_international_cricket_centuries_by_Graeme_Smith" title="List of international cricket centuries by Graeme Smith">
+                                List of international cricket centuries by Graeme Smith
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Latin_Grammy_Award_for_Best_Alternative_Music_Album" title="Latin Grammy Award for Best Alternative Music Album">
+                                Latin Grammy Award for Best Alternative Music Album
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Anatomical_terms_of_motion" title="Anatomical terms of motion">
+                                Anatomical terms of motion
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_Marvel_Cinematic_Universe_films" title="List of Marvel Cinematic Universe films">
+                                List of Marvel Cinematic Universe films
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Kumi_Koda_discography" title="Kumi Koda discography">
+                                Kumi Koda discography
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_SpongeBob_SquarePants_guest_stars" title="List of SpongeBob SquarePants guest stars">
+                                List of SpongeBob SquarePants guest stars
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/List_of_National_Natural_Landmarks_in_Illinois" title="List of National Natural Landmarks in Illinois">
+                                List of National Natural Landmarks in Illinois
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Axis_order_of_battle_for_the_invasion_of_Yugoslavia" title="Axis order of battle for the invasion of Yugoslavia">
+                                Axis order of battle for the invasion of Yugoslavia
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Lo_Nuestro_Award_for_Pop_Album_of_the_Year" title="Lo Nuestro Award for Pop Album of the Year">
+                                Lo Nuestro Award for Pop Album of the Year
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/79th_Academy_Awards" title="79th Academy Awards">
+                                79th Academy Awards
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/Deportation_of_Armenian_intellectuals_on_24_April_1915" title="Deportation of Armenian intellectuals on 24 April 1915">
+                                Deportation of Armenian intellectuals on 24 April 1915
+                              </a>
+                            </li>
+                          </ul>
+                        </td>
+                        <td style="background-color:#FAF5FF">
+                          <ul>
+                            <li>
+                              <a href="/wiki/File:Miranda_en_la_Carraca_by_Arturo_Michelena.jpg" title="File:Miranda en la Carraca by Arturo Michelena.jpg">
+                                Miranda en La Carraca
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:John_Lorimer_Worden_-_Mathew_Brady_-_left_photograph.jpg" title="File:John Lorimer Worden - Mathew Brady - left photograph.jpg">
+                                John Lorimer Worden
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:Befreiungshalle_Kelheim_BS.jpg" title="File:Befreiungshalle Kelheim BS.jpg">
+                                Befreiungshalle at night
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:Gas_mask_MUA_IMGP0157.jpg" title="File:Gas mask MUA IMGP0157.jpg">
+                                Gas mask
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:Nice_tramway_place_Garibaldi.jpg" title="File:Nice tramway place Garibaldi.jpg">
+                                Nice tramway
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:Charles_Kingley_-_1899_Westward_Ho!_cover_2.jpg" title="File:Charles Kingley - 1899 Westward Ho! cover 2.jpg">
+                                Westward Ho! cover
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:Charles_Kingley_-_1899_Westward_Ho!_frontispiece.jpg" title="File:Charles Kingley - 1899 Westward Ho! frontispiece.jpg">
+                                Westward Ho! frontispiece
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:US-NBN-CA-San_Francisco-1741-1870-5-6758-B.jpg" title="File:US-NBN-CA-San Francisco-1741-1870-5-6758-B.jpg">
+                                Five-dollar National Gold Bank Note
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:US-NBN-CA-Oakland-2248-1870-10-388-B.jpg" title="File:US-NBN-CA-Oakland-2248-1870-10-388-B.jpg">
+                                Ten-dollar National Gold Bank Note
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:US-NBN-CA-San_Francisco-1741-1870-20-2772-C.jpg" title="File:US-NBN-CA-San Francisco-1741-1870-20-2772-C.jpg">
+                                Twenty-dollar National Gold Bank Note
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:US-NBN-CA-San_Francisco-1741-1870-50-1616-A.jpg" title="File:US-NBN-CA-San Francisco-1741-1870-50-1616-A.jpg">
+                                Fifty-dollar National Gold Bank Note
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:US-NBN-CA-Petaluma-2193-1870-100-209-A.jpg" title="File:US-NBN-CA-Petaluma-2193-1870-100-209-A.jpg">
+                                One-hundred-dollar National Gold Bank Note
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:KotaKinabalu_Sabah_CityMosque-08.jpg" title="File:KotaKinabalu Sabah CityMosque-08.jpg">
+                                Kota Kinabalu City Mosque
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:WonderSwan-Black-Left.jpg" title="File:WonderSwan-Black-Left.jpg">
+                                WonderSwan
+                              </a>
+                            </li>
+                            <li>
+                              <a href="/wiki/File:WonderSwan-Color-Blue-Left.jpg" title="File:WonderSwan-Color-Blue-Left.jpg">
+                                WonderSwan Color
+                              </a>
+                            </li>
+                          </ul>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="reflist" style="list-style-type: decimal;">
+          </div>
+          <div id="contents-footer" class="hlist plainlinks selfreference" style="margin-top:5px; border:1px solid #B8C7D9; background-color:#E6F2FF; padding:1em; text-align:center">
+            <div style="font-size:140%">
+              <a href="/wiki/Portal:Contents" title="Portal:Contents">
+                Content listings
+              </a>
+            </div>
+            <div style="font-size:105%; font-weight:bold">
+              Lists
+            </div>
+            <div>
+              <ul>
+                <li>
+                  <a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">
+                    Overviews
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">
+                    Outlines
+                  </a>
+                </li>
+                <li>
+                  <strong class="selflink">
+                    Featured content
+                  </strong>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">
+                    Lists
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">
+                    Glossaries
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">
+                    Portals
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Indexes" title="Portal:Contents/Indexes">
+                    Indexes
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <ul>
+                <li>
+                  <a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference">
+                    Reference
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts">
+                    Culture
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places">
+                    Geography
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness">
+                    Health
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events">
+                    History
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic">
+                    Mathematics
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences">
+                    Nature
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self">
+                    People
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking">
+                    Philosophy
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems">
+                    Religion
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences">
+                    Society
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences">
+                    Technology
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <ul>
+                <li>
+                  <a href="/wiki/List_of_academic_disciplines" title="List of academic disciplines" class="mw-redirect">
+                    Academic disciplines
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">
+                    Anniversaries
+                  </a>
+                  <ul>
+                    <li>
+                      <span style="font-size:90%">
+                        <a href="/wiki/June_11" title="June 11">
+                          today
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">
+                    Countries and territories
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Current_events" title="Portal:Current events">
+                    Current events
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Lists_of_people" title="Lists of people">
+                    People
+                  </a>
+                  <ul>
+                    <li>
+                      <span style="font-size:90%">
+                        <a href="/wiki/Deaths_in_2014" title="Deaths in 2014">
+                          deaths this year
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/wiki/List_of_timelines" title="List of timelines">
+                    Timelines
+                  </a>
+                  <ul>
+                    <li>
+                      <span style="font-size:90%">
+                        <a href="/wiki/List_of_centuries" title="List of centuries">
+                          centuries
+                        </a>
+                      </span>
+                    </li>
+                    <li>
+                      <span style="font-size:90%">
+                        <a href="/wiki/List_of_decades" title="List of decades">
+                          decades
+                        </a>
+                      </span>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div style="font-size:105%; font-weight:bold">
+              Indices
+            </div>
+            <div>
+              <ul>
+                <li>
+                  <a href="/wiki/Portal:Contents/A%E2%80%93Z_index" title="Portal:Contents/A–Z index">
+                    A–Z index
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">
+                    Categories
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">
+                    Dewey Decimal classes
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">
+                    Library of Congress Classification
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Wikipedia:Outline_of_Roget%27s_Thesaurus" title="Wikipedia:Outline of Roget's Thesaurus">
+                    Roget's Thesaurus
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">
+                    Spoken articles
+                  </a>
+                </li>
+                <li>
+                  <a href="/wiki/Category:Wikipedia_books" title="Category:Wikipedia books">
+                    Wikipedia books
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div align="right">
+            <small>
+              <span class="noprint plainlinks purgelink">
+                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;action=purge#">
+                  <span title="Purge this page">
+                    Purge page cache
+                  </span>
+                </a>
+              </span>
+            </small>
+          </div>
+          <!-- 
+NewPP limit report
+Parsed by mw1173
+CPU time usage: 0.620 seconds
+Real time usage: 0.936 seconds
+Preprocessor visited node count: 518/1000000
+Preprocessor generated node count: 2662/1500000
+Post?expand include size: 75645/2048000 bytes
+Template argument size: 5737/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 14/500
+Lua time usage: 0.020/10.000 seconds
+Lua memory usage: 820 KB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:10515459-0!*!0!!*!4!* and timestamp 20140611174001 and revision id 610495398
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=610495398">
+            http://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=610495398
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">
+                  Wikipedia featured content
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Portals" title="Category:Portals">
+                  Portals
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AFeatured+content&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AFeatured+content" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-portal" class="selected">
+                <span>
+                  <a href="/wiki/Portal:Featured_content">
+                    Portal
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Portal_talk:Featured_content" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Portal:Featured_content">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-viewsource">
+                <span>
+                  <a href="/w/index.php?title=Portal:Featured_content&amp;action=edit" title="This page is protected.
+You can view its source [e]" accesskey="e">
+                    View source
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Portal:Featured_content&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Portal:Featured_content" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Portal:Featured_content&amp;oldid=610495398" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Portal:Featured_content&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q4387047" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-book_creator_disable">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Portal%3AFeatured+content">
+                  Disable book creator
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%3AFeatured+content&amp;oldid=610495398&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Portal:Featured_content&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-als">
+                <a href="//als.wikipedia.org/wiki/Wikipedia:Artikel-_und_Listenkandidaturen" title="Wikipedia:Artikel- und Listenkandidaturen – Alemannisch" lang="als" hreflang="als">
+                  Alemannisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%89_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1" title="?????:????? ????? – Arabic" lang="ar" hreflang="ar">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-be-x-old">
+                <a href="//be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%A3%D0%B7%D0%BD%D0%B0%D0%B3%D0%B0%D1%80%D0%BE%D0%B4%D1%8B" title="?????????:?????????? – ?????????? (???????????)?" lang="be-x-old" hreflang="be-x-old">
+                  ?????????? (???????????)?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Wikipedia:Bewertungen" title="Wikipedia:Bewertungen – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contenus_de_qualit%C3%A9" title="Wikipédia:Contenus de qualité – French" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hi">
+                <a href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4_%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF_%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81" title="??????????:????????? ???? ????? – Hindi" lang="hi" hreflang="hi">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-id">
+                <a href="//id.wikipedia.org/wiki/Wikipedia:Isi_pilihan" title="Wikipedia:Isi pilihan – Indonesian" lang="id" hreflang="id">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ro">
+                <a href="//ro.wikipedia.org/wiki/Wikipedia:Proiecte_de_evaluare" title="Wikipedia:Proiecte de evaluare – Romanian" lang="ro" hreflang="ro">
+                  Român?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tt">
+                <a href="//tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD_%D1%8D%D1%87%D1%82%D3%99%D0%BB%D0%B5%D0%BA" title="??????:????????? ??????? – Tatar" lang="tt" hreflang="tt">
+                  ???????/tatarça
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tr">
+                <a href="//tr.wikipedia.org/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik" title="Vikipedi:Seçkin içerik – Turkish" lang="tr" hreflang="tr">
+                  Türkçe
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="//vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Ch? ??:N?i dung ch?n l?c – Vietnamese" lang="vi" hreflang="vi">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ts">
+                <a href="//ts.wikipedia.org/wiki/Portal:Featured_content" title="Portal:Featured content – Tsonga" lang="ts" hreflang="ts">
+                  Xitsonga
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-yue">
+                <a href="//zh-yue.wikipedia.org/wiki/Portal:%E6%AD%A3%E5%98%A2" title="Portal:?? – Cantonese" lang="zh-yue" hreflang="zh-yue">
+                  ??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="//zh.wikipedia.org/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="Portal:???? – Chinese" lang="zh" hreflang="zh">
+                  ??
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q4387047#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 28 May 2014 at 14:00.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Portal:Featured_content" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.gallery","mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.collection.bookcreator"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":198,"wgHostname":"mw1170"});
+}
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+URL:https://games.search.yahoo.com/search?p=banana&type=2button&fr=uh3_games_web_gs
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:10
+POSSIBLE-MASTER-DETAIL
+POSSIBLE-MASTER-DETAIL

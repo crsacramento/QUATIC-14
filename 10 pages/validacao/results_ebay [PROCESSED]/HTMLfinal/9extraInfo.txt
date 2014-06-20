@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/help/policies/user-agreement.html?rt=nc
+RATIOTOTAL:0.9951264419529947
+RATIOPREVIOUS:24.215
+SELENIUMSTEP:11

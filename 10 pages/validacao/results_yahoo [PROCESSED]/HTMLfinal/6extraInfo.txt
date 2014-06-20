@@ -1,0 +1,8 @@
+URL:https://games.search.yahoo.com/search?p=banana&type=2button&fr=uh3_games_web_gs
+RATIOTOTAL:3.800323825203019
+RATIOPREVIOUS:-669.977
+SELENIUMSTEP:9
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=mnp-search_box and @class=yucs-search-input and @name=p and @type=search]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:banana
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:25

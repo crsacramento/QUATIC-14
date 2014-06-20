@@ -1,0 +1,8 @@
+URL:http://en.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search=shirt&fulltext=Search
+RATIOTOTAL:0.20265581226446566
+RATIOPREVIOUS:54.807
+SELENIUMSTEP:28
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=searchText and @class=mw-ui-input and @name=search and @type=search]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:shirt
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:152

@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/securitycenter/index.html
+RATIOTOTAL:0.5617704688906081
+RATIOPREVIOUS:-71.667
+SELENIUMSTEP:9

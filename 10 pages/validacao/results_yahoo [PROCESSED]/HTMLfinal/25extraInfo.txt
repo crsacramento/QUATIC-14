@@ -1,0 +1,4 @@
+URL:https://login.yahoo.com/?.src=ym&.intl=us&.lang=en-US&.done=http://mail.yahoo.com
+RATIOTOTAL:1.775824002939994
+RATIOPREVIOUS:-93.841
+SELENIUMSTEP:35

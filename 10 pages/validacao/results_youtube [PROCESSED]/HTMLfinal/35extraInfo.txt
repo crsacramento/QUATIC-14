@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/user/patagoniavideo
+RATIOTOTAL:0.8701985046304892
+RATIOPREVIOUS:256.944
+SELENIUMSTEP:41

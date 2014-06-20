@@ -1,0 +1,4 @@
+URL:https://www.facebook.com/appcenter/category/games/?ref=pf
+RATIOTOTAL:3.9163973983067435
+RATIOPREVIOUS:240.116
+SELENIUMSTEP:12

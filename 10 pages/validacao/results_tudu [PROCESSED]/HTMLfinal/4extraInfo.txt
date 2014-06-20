@@ -1,0 +1,7 @@
+URL:http://app.rasc.ch/tudu/secure/myInfo.action
+PRESENT-SORT-KEYWORD:asc
+RATIOTOTAL:3.041750228781713
+RATIOPREVIOUS:-33.182
+SELENIUMSTEP:9
+INPUT-PATTERN-TEXTBOX://input[@name=name and @type=text]
+INPUT-PATTERN-TEXT:banana

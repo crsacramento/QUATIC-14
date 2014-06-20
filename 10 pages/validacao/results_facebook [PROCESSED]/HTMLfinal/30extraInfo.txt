@@ -1,0 +1,16 @@
+URL:https://m.facebook.com/r.php
+RATIOTOTAL:0.1021760696131114
+RATIOPREVIOUS:1.461
+SELENIUMSTEP:44
+POSSIBLE-LOGIN-PASS-TEXT-BOX
+POSSIBLE-LOGIN-WITH-:1-OCURRENCES-OF:phone
+INPUT-PATTERN-TEXTBOX://input[@class=_5whq input and @name=lastname and @type=text]
+INPUT-PATTERN-TEXT:banana
+INPUT-PATTERN-TEXTBOX://input[@class=_5whq input and @name=email and @type=text]
+INPUT-PATTERN-TEXT:a5442766@drdrb.net
+INPUT-PATTERN-TEXTBOX://input[@id=month and @class=birthday_entry_field input tiapm and @name=month and @type=text]
+INPUT-PATTERN-TEXT:computer
+INPUT-PATTERN-TEXTBOX://input[@id=day and @class=birthday_entry_field input tiapm and @name=day and @type=text]
+INPUT-PATTERN-TEXT:banana
+INPUT-PATTERN-TEXTBOX://input[@id=year and @class=birthday_entry_field input tiapm and @name=year and @type=text]
+INPUT-PATTERN-TEXT:computer

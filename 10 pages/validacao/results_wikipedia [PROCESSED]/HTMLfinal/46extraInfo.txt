@@ -1,0 +1,4 @@
+URL:http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=edit&section=58
+RATIOTOTAL:1.3851716350018937
+RATIOPREVIOUS:-383.201
+SELENIUMSTEP:50

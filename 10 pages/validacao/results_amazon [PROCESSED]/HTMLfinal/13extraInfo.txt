@@ -1,0 +1,4 @@
+URL:http://www.amazon.com/gp/product/B00ESGYQWA/ref=s9_nwrsa_gw_g318_i6?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=14MPN184M7E013MQAGQV&pf_rd_t=101&pf_rd_p=1263340922&pf_rd_i=507846
+RATIOTOTAL:2.5815617778062907
+RATIOPREVIOUS:224.236
+SELENIUMSTEP:15

@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head title="Endre språk">
+    <title>
+      Endre språk
+    </title>
+    <meta name="description" content="Facebook er et sosialt verktøy som hjelper folk med å holde kontakten med venner og andre som jobber, studerer og lever rundt dem. De bruker Facebook til..."/>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+  </head>
+  <body tabindex="0" class="nontouch x1 _513c acw">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <style type="text/css">
+      /*&lt;![CDATA[*/._5v2e{margin:16px 8px 8px 8px;}.nontouch ._5ejl&gt;div:first-child{padding-top:8px;}._56bf{border:1px solid #adb2ba;}._55x2&gt;*,._55x2._55x2&gt;*{border-bottom:1px solid #e5e5e5;border-bottom-color:rgba(0, 0, 0, .101);}._55x2&gt;:last-child{border-bottom:none;}._55wo{background:#fff;}.nontouch ._55wr{padding:4px;}.acw{background-color:#fff;}.acb{background-color:#3b5998;}.aps{padding:2px 3px;}.apm{padding:4px 3px;}.apl{padding:6px 3px;}.nontouch ._5b6o{border-collapse:collapse;margin:0;width:100%;}.nontouch ._5b6p{border:0;padding:6px 0 6px 6px;vertical-align:middle;}.nontouch ._5b6q{padding:6px;}.nontouch ._4g34{width:100%;}.nontouch a,.nontouch a:visited{color:#3b5998;text-decoration:none;}.nontouch .sec,.nontouch .sec:visited{color:#6d84b4;}.nontouch a:focus,.nontouch a:hover,.nontouch .sec:focus,.nontouch .sec:hover{background-color:#3b5998;color:#fff;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}._513c #viewport{margin:0 auto;max-width:600px;}#page{position:relative;}.nontouch ._5ui2{background:#eceff5;padding:0 0 12px;}.nontouch ._5ui2 a,.nontouch ._5ui2 a:visited{color:#2b55ad;}.nontouch ._5ui2 a:hover,.nontouch ._5ui2 a:focus{background:#2b55ad;color:#fff;}.nontouch ._5ui3,.nontouch ._5ui4{padding:0 6px 6px;}._52jc{font-size:12px;line-height:16px;}.fcb{color:#000;}.fcg{color:gray;}.mfss{font-size:small;}body,tr,input,textarea,.mfsm{font-size:medium;}.img{border:0;display:inline-block;vertical-align:top;}i.img u{position:absolute;width:0;height:0;overflow:hidden;}/*]]&gt;*/
+    </style>
+    <div class="mfsm">
+      <div id="viewport">
+        <div>
+          <div class="acb aps" id="header">
+            <h1>
+              <a href="/home.php">
+                <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook"/>
+              </a>
+            </h1>
+          </div>
+        </div>
+        <div id="objects_container">
+          <div class="acw apm" title="Endre språk">
+            <strong>
+              Endre språk
+            </strong>
+          </div>
+          <div id="root" role="main" class="acw">
+            <div class="_55wo _55x2 _56bf _5ejl _5v2e">
+              <div class="_55wr acw apl">
+                <div>
+                  <strong/>
+                </div>
+                <strong>
+                  Norsk (bokmål)
+                </strong>
+              </div>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=af_ZA&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDGnxgI9zpjecrS">
+                          Afrikaans
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=az_AZ&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQB9TZZhTY2sVHO_">
+                          Az?rbaycan dili
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=id_ID&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDq_AOV7mKcpka8">
+                          Bahasa Indonesia
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ms_MY&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQB4RFidPNUnzzEG">
+                          Bahasa Melayu
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=jv_ID&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCsInBJMJfdTJFA">
+                          Basa Jawa
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=cx_PH&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCm-oKF2_p-cjAZ">
+                          Bisaya
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=bs_BA&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAJDuRw5IxMq500">
+                          Bosanski
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ca_ES&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBqFjlfqXKnf0vk">
+                          Català
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=cs_CZ&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCEgt5OYA1CWRrJ">
+                          ?eština
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=cy_GB&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDOyaKiiLL6UjzK">
+                          Cymraeg
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=da_DK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDNafxFVOy0Frg_">
+                          Dansk
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=de_DE&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCSWIy0a1SWT2qj">
+                          Deutsch
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=et_EE&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAscVb242e4kCdz">
+                          Eesti
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=en_GB&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBpNqKS2hD0wWgm">
+                          English (UK)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=en_US&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQD_LkFdLIRqYfQK">
+                          English (US)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=es_LA&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBGoABXh4kevd4e">
+                          Español
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=es_ES&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDZOJqGoAjgGYt9">
+                          Español (España)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=eu_ES&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBHBlDIWU-HzNJW">
+                          Euskara
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=tl_PH&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBMrCL99vcOAUXC">
+                          Filipino
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=fr_CA&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCs5Ng8PH2b9F68">
+                          Français (Canada)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=fr_FR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDJtF6Pp_-uPnfp">
+                          Français (France)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=gl_ES&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAOk2CgkCQuUdz3">
+                          Galego
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=gn_PY&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQARmdHeXjUyueyo">
+                          Guarani
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=hr_HR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBe_Qwq7buHGiaG">
+                          Hrvatski
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=it_IT&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDk4GtAHywN0Yjq">
+                          Italiano
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sw_KE&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCFKvUvrYltd_BK">
+                          Kiswahili
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=lv_LV&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCT_PbnwsbsQ4u9">
+                          Latviešu
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=lt_LT&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBc8qD1vX360Oka">
+                          Lietuvi?
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=hu_HU&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCoQLkhrDmB_N6_">
+                          Magyar
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=nl_NL&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQD2YiAkYWMVK6nO">
+                          Nederlands
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=pl_PL&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCqf3_2HXF_RsO4">
+                          Polski
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=pt_BR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQD_zSp9OPiQiIzn">
+                          Português (Brasil)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=pt_PT&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQApH0Xgyt2nzjQt">
+                          Português (Portugal)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ro_RO&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAvas0EyKZmvdxN">
+                          Român?
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sq_AL&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAq-OWWObca5YY4">
+                          Shqip
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sk_SK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQB6KCJs6xA0d1Lo">
+                          Sloven?ina
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sl_SI&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBXFeoHD3xPzyL-">
+                          Slovenš?ina
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=fi_FI&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAV6MFeLns4v5Bl">
+                          Suomi
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sv_SE&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCRbd-3Y0j3zt-W">
+                          Svenska
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=vi_VN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBbVtxG18QKQOvR">
+                          Ti?ng Vi?t
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=tr_TR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAY1L-DbWeAXJo7">
+                          Türkçe
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=el_GR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCWt4Xy9_Dm2TyC">
+                          ????????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=bg_BG&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAOS7b3avcijz6o">
+                          ?????????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=mk_MK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDhQAy79ELHl-wi">
+                          ??????????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ru_RU&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAZ9YoU9yhPOaWG">
+                          ???????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=sr_RS&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQC3jP1nwNgi67AF">
+                          ??????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=uk_UA&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDqgD3dokTTS2XE">
+                          ??????????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=hy_AM&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCMIF83tJKNiI4v">
+                          ???????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=he_IL&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQC0cLf2Q1zSyGau">
+                          ?????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ur_PK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCM95otIvZ2pIDi">
+                          ????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ar_AR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAkXk6qLegokeNe">
+                          ???????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=hi_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQA5DLcfmgF2VLKj">
+                          ??????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=bn_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAx-MyLqMkS7c9Q">
+                          ?????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=pa_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCGAMwXk4paxyfC">
+                          ??????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ta_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAk6meLTvFbohvZ">
+                          ?????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=te_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAf6BZ63XLFgLc6">
+                          ??????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=kn_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQBLM8B0A-7JO7nF">
+                          ?????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ml_IN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCJesTsLb6X54ZN">
+                          ??????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=si_LK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAtYryhaNLNHIH5">
+                          ?????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=th_TH&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDb5_v8XNwRLsW0">
+                          ???????
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ko_KR&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQA7v7_ZHnAJMWIZ">
+                          ???
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=zh_TW&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDjujY9knAyp3g3">
+                          ??(??)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=zh_CN&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQCv1MTajOaJqo8p">
+                          ??(??)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=zh_HK&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQAnshlRl7J1kFX8">
+                          ??(??)
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="_5b6o _55wr">
+                <tbody>
+                  <tr>
+                    <td class="_4g34 _5b6q _5b6p">
+                      <h3>
+                        <a href="/a/language.php?l=ja_JP&amp;lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&amp;gfid=AQDwmMzqDlf0J4qd">
+                          ???
+                        </a>
+                      </h3>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="_52jc _55wo _55wr _5ui2">
+          <div id="footer">
+            <div class="_5ui3">
+              <span class="mfss fcg">
+                <b>
+                  Norsk (bokmål)
+                </b>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=pt_PT&amp;lref=https%3A%2F%2Fm.facebook.com%2Flanguage.php%3Fn%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php%253Frefsrc%253Dhttps%25253A%25252F%25252Fm.facebook.com%25252Fhelp%25252Fcookies%26refid%3D9&amp;gfid=AQC6gdv0i3PjLhbU">
+                  Português (Portugal)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=en_US&amp;lref=https%3A%2F%2Fm.facebook.com%2Flanguage.php%3Fn%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php%253Frefsrc%253Dhttps%25253A%25252F%25252Fm.facebook.com%25252Fhelp%25252Fcookies%26refid%3D9&amp;gfid=AQCo-jpRNWLtETgL">
+                  English (US)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Flanguage.php%3Fn%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php%253Frefsrc%253Dhttps%25253A%25252F%25252Fm.facebook.com%25252Fhelp%25252Fcookies%26refid%3D9">
+                  Mer…
+                </a>
+              </span>
+            </div>
+            <div class="_5ui4">
+              <span class="mfss fcb">
+                <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php">
+                  Logg inn på Facebook
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                Facebook ©2014
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="static_templates">
+      </div>
+    </div>
+  </body>
+</html>

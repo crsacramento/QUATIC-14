@@ -1,0 +1,6 @@
+URL:https://login.yahoo.com/config/login;_ylt=AwrBJSD4wphTf3wAREhNbK5_?.src=&.intl=us&.lang=en-US&.done=http://sports.search.yahoo.com/search%3fp=dress
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:18
+POSSIBLE-MASTER-DETAIL
+POSSIBLE-MASTER-DETAIL

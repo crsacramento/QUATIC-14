@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head title="Informasjonskapsler, piksler og lignende teknologi">
+    <title>
+      Informasjonskapsler, piksler og lignende teknologi
+    </title>
+    <meta name="description" content="Facebook er et sosialt verktøy som hjelper folk med å holde kontakten med venner og andre som jobber, studerer og lever rundt dem. De bruker Facebook til..."/>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+  </head>
+  <body tabindex="0" class="nontouch x1 _513c _55wm">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <style type="text/css">
+      /*&lt;![CDATA[*/.nontouch ._53_z ._1k1q{margin-bottom:12px;}._4-fg ul{list-style:square;padding-left:15px;}._4-fg ol{list-style:decimal;padding-left:20px;}._4-fg li{margin:5px 0;}._4-f0{color:#161b28;}._4-f3{margin-bottom:6px;}._4-f4{font-size:17px;padding:12px 0 8px 0;}._4-fd{background-color:#fff;}div._:not(:last-child) div._{border-top:1px solid #ddd;margin:0 10px;}div._:not(:last-child) div._{border-top:1px solid #ddd;}._65w{position:relative;}.acw{background-color:#fff;}.acb{background-color:#3b5998;}.aclb{background-color:#eceff5;}.aps{padding:2px 3px;}.apm{padding:4px 3px;}.apl{padding:6px 3px;}.nontouch a,.nontouch a:visited{color:#3b5998;text-decoration:none;}.nontouch .sec,.nontouch .sec:visited{color:#6d84b4;}.nontouch a:focus,.nontouch a:hover,.nontouch .sec:focus,.nontouch .sec:hover{background-color:#3b5998;color:#fff;}.ib .l{display:inline-block;margin-right:4px;}.nontouch .ib .l{float:left;}.nontouch .ib .c{display:table-cell;}.img{border:0;display:inline-block;vertical-align:top;}i.img u{position:absolute;width:0;height:0;overflow:hidden;}.nontouch ._55wr{padding:4px;}.clear{clear:both;}body{text-align:left;direction:ltr;}body,tr,input,textarea,button{font-family:sans-serif;}body,p,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:bold;}ul,ol{list-style:none;}article,aside,figcaption,figure,footer,header,nav,section{display:block;}._513c #viewport{margin:0 auto;max-width:600px;}._55wm{background:#d3d6db;}._55wo{background:#fff;}#page{position:relative;}.nontouch ._5ui2{background:#eceff5;padding:0 0 12px;}.nontouch ._5ui2 a,.nontouch ._5ui2 a:visited{color:#2b55ad;}.nontouch ._5ui2 a:hover,.nontouch ._5ui2 a:focus{background:#2b55ad;color:#fff;}.nontouch ._5ui3,.nontouch ._5ui4{padding:0 6px 6px;}._52jc{font-size:12px;line-height:16px;}.fcb{color:#000;}.fcg{color:gray;}.mfss{font-size:small;}body,tr,input,textarea,.mfsm{font-size:medium;}/*]]&gt;*/
+    </style>
+    <meta name="Search.searchable" content="false"/>
+    <meta name="msvalidate.01" content="07183A7737D6D3C1D669A2A397810DD4"/>
+    <meta name="google-site-verification" content="PhnHvS3RgnJIJ9D0KKElExCGN6ZL9_SEV_fnvxzRl-o"/>
+    <meta name="Search.helpType" content="page"/>
+    <div class="mfsm">
+      <div id="viewport">
+        <div>
+          <div class="acb aps" id="header">
+            <h1>
+              <a href="/home.php?refid=69">
+                <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook"/>
+              </a>
+            </h1>
+          </div>
+        </div>
+        <div id="objects_container">
+          <div class="acw apm" title="Informasjonskapsler, piksler og lignende teknologi">
+            <strong>
+              Informasjonskapsler, piksler og lignende teknologi
+            </strong>
+          </div>
+          <div id="root" role="main" class="_65w _55wm">
+            <div class="_4-fg">
+              <div class="_53_z">
+                <div class="_4-fd _4-fg">
+                  <div class="_4-f3">
+                    <div class="_4-f4 _4-f0">
+                      Slik fungerer informasjonskapsler
+                    </div>
+                    <div class="_1k1q">
+                      Informasjonskapsler og lignende teknologi bidrar til å gi en bedre, raskere og sikrere opplevelse.
+                    </div>
+                    <div class="aclb apl">
+                      <div class="_1k1q">
+                        Teknologi som informasjonskapsler, pikseltagger ("piksler") og lokal lagring brukes for å levere, sikre og forstå produkter, tjenester og annonser både på og utenfor Facebook. Vi vil at denne siden skal hjelpe deg med å forstå disse teknologiene og hvordan de brukes. Det kan hende du kan blokkere slik teknologi i nettleseren eller på enheten din, men da er det ikke sikkert at du kan bruke enkelte funksjoner på Facebook. Hvis du vil ha mer informasjon om hvorvidt verktøyene er tilgjengelige, hva de gjør og hvordan de fungerer, går du til hjelpen for nettleseren eller enheten. Generelt er det slik at verktøy som disse i nettleseren eller på enheten bare berører den aktuelle nettleseren eller enheten. Hvis du bruker flere nettlesere eller enheter, kan du foreta ulike valg for hver av dem.
+                      </div>
+                      <div class="_1k1q">
+                        <strong>
+                          Kom tilbake hit med jevne mellomrom for å få den nyeste informasjonen om slik teknologi og hvordan den brukes
+                        </strong>
+                        . 
+                      </div>
+                    </div>
+                    <div class="_1k1q">
+                      <strong>
+                        Hva er 
+                        <a href="/help/182104755198570?refid=69">
+                          informasjonskapsler
+                        </a>
+                        , 
+                        <a href="/help/236257763148568?refid=69" target="blank">
+                          piksler
+                        </a>
+                        , 
+                        <a href="/help/330525367015217?refid=69" target="blank">
+                          lokal lagring
+                        </a>
+                         og lignende teknologi?
+                      </strong>
+                    </div>
+                    <div class="_1k1q">
+                      Vi og våre tilknyttede selskaper, tredjeparter og samarbeidspartnere ("samarbeidspartnere") bruker disse teknologiene av sikkerhetshensyn og til å levere produkter, tjenester og annonser og for å få en bedre forståelse av hvordan disse produktene, tjenestene og annonsene brukes. Ved hjelp av disse teknologiene kan et nettsted eller en applikasjon lagre informasjon på nettleseren eller enheten din, og senere lese av denne informasjonen. På denne siden forklarer vi mer om hver av disse teknologiene og hvordan de brukes.
+                    </div>
+                  </div>
+                  <div class="_4-f3">
+                    <div class="_4-f4 _4-f0">
+                      Hvorfor bruker vi slik teknologi?
+                    </div>
+                    <table style="width: 100%;" cellpadding="8">
+                      <tbody>
+                        <tr>
+                          <td style="width: 33%; padding-left: 0;">
+                            <strong>
+                              vise deg ting du er interessert i
+                            </strong>
+                          </td>
+                          <td style="width: 33%;">
+                            <strong>
+                              forbedre opplevelsen din
+                            </strong>
+                          </td>
+                          <td style="padding-right: 0;">
+                            <strong>
+                              beskyttelse og sikkerhet
+                            </strong>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td valign="top" style="padding-left: 0;">
+                            De hjelper oss med å finne ut hvem du er, slik at vi kan vise deg innhold som er mest mulig relevant for deg, inkludert funksjoner, produkter og annonser.
+                          </td>
+                          <td valign="top">
+                            De fungerer sammen med Facebook-funksjoner og hjelper oss med å forbedre våre produkter og tjenester, slik at du kan gjøre ting som å se hvilke venner som er pålogget chatten, bruke deleknapper og laste opp bilder.
+                          </td>
+                          <td valign="top" style="padding-right: 0;">
+                            De hjelper oss med å sikre Facebook ved å gi oss beskjed dersom noen prøver å få tilgang til brukerkontoen din eller holder på med aktivitet som bryter med våre retningslinjer. 
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <br/>
+                    <table style="border-collapse: collapse;" border="1" cellpadding="8">
+                      <tbody>
+                        <tr>
+                          <th align="left" style="width: 130px; background: #eee;">
+                            Brukskategorier
+                          </th>
+                          <th align="left" style="background: #eee;">
+                            Eksempler
+                          </th>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Godkjenning
+                          </td>
+                          <td>
+                            Disse verktøyene forteller oss når du er logget inn, slik at vi kan vise deg passende funksjoner og opplevelser. 
+                            <br/>
+                            <br/>
+                             Informasjonskapsler, lokal lagring og lignende teknologi forteller oss for eksempel når du er logget på Facebook, slik at vi kan vise deg relevant og sosial informasjon når du besøker andre nettsteder som bruker våre sosiale programtillegg. Vi bruker også denne informasjonen til å forstå hvordan folk bruker 
+                            <a href="/about/privacy/your-info-on-other?refid=69#platform">
+                              plattformen
+                            </a>
+                             vår og andre applikasjoner og tjenester.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Sikkerhet og nettstedets integritet
+                          </td>
+                          <td>
+                            Vi bruker disse til å holde Facebook trygt og sikkert. De støtter opp under eller muliggjør sikkerhetsfunksjoner, og hjelper oss med å oppdage aktivitet som bryter med vår 
+                            <a href="/legal/terms?refid=69">
+                              erklæring om plikter og rettigheter
+                            </a>
+                            . 
+                            <br/>
+                            <br/>
+                             De hjelper oss for eksempel med å beskytte brukerkontoen din slik at ingen andre enn deg får tilgang til den. Informasjonskapsler gir også informasjon om at flere personer har logget inn på samme datamaskin. 
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Annonsering
+                          </td>
+                          <td>
+                            Ting som informasjonskapsler og piksler brukes til å forstå og levere annonser, og til å gjøre dem mer relevante for deg. 
+                            <br/>
+                            <br/>
+                             Vi kan for eksempel lese en informasjonskapsel slik at vi kan levere annonser du kan ha interesse av, på Facebook eller andre nettsteder. Vi kan også bruke en informasjonskapsel til å finne ut om en person som fikk levert en annonse på Facebook, senere besøkte annonsørens nettsted. På samme måte kan våre partnere bruke en informasjonskapsel eller annen lignende teknologi til å finne ut om vi har levert en annonse og resultatene for denne, eller gi oss informasjon om hvordan du samhandler med dem. Det kan også hende at vi samarbeider med en partner om å levere en annonse til deg på eller utenfor Facebook, for eksempel etter at du har besøkt partnerens nettsted eller applikasjon, og dette kan innebære bruk av informasjonskapsler, lokal lagring på enheten din eller lignende teknologi.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Lokalisering
+                          </td>
+                          <td>
+                            Disse hjelper Facebook med å levere en lokalisert opplevelse. 
+                            <br/>
+                            <br/>
+                             Vi kan for eksempel lagre informasjon i en informasjonskapsel i nettleseren eller på enheten din, slik at du får se nettstedet på ditt foretrukne språk.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Funksjoner og tjenester på nettstedet
+                          </td>
+                          <td>
+                            Disse gir funksjonalitet som hjelper oss med å levere produkter og tjenester. 
+                            <br/>
+                            <br/>
+                             Informasjonskapsler, for eksempel, kan hjelpe deg med å logge inn ved å fylle ut brukernavnfeltet på forhånd, og gi deg en bedre opplevelse med chatten ved å vise deg hvilke venner som er pålogget. Vi kan også bruke informasjonskapsler og lignende teknologi til å tilby sosiale programtillegg og annet tilpasset innhold og andre tilpassede opplevelser til deg eller andre, for eksempel å gi forslag til deg og andre. 
+                            <a href="https://www.facebook.com/about/privacy/your-info?refid=69#howweuse">
+                              Les mer
+                            </a>
+                            . 
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Resultater
+                          </td>
+                          <td>
+                            Vi bruker disse for å tilby en best mulig opplevelse. 
+                            <br/>
+                            <br/>
+                             Vi kan for eksempel bruke informasjonskapsler til å sende trafikk via forskjellige servere og innhente informasjon om hvor raskt Facebook lastes inn for forskjellige personer. Vi kan noen ganger lagre informasjon i nettleseren eller på enheten din, slik at Facebook-funksjoner du bruker, lastes inn og svarer raskere.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style="background: #f5f5f5;">
+                            Analyse og undersøkelser
+                          </td>
+                          <td>
+                            Disse brukes til å forstå, forbedre og undersøke produkter og tjenester, inkludert når du logger inn på Facebook eller andre nettsteder og applikasjoner fra en datamaskin eller mobilenhet. 
+                            <br/>
+                            <br/>
+                             Vi kan for eksempel bruke informasjonskapsler til å få kjennskap til hvordan du bruker sosiale programtillegg, slik at vi kan forbedre dem. Vi og samarbeidspartnerne våre kan bruke disse teknologiene og den informasjonen vi mottar til å forbedre og forstå hvordan du bruker nettsteder, applikasjoner, produkter, tjenester og annonser. Vi kan dele informasjon om denne analysen med samarbeidspartnerne våre. 
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <div class="_1k1q">
+                      De spesifikke navnene på informasjonskapslene, pikslene og annen lignende teknologi vi bruker, kan bli endret fra tid til annen, men de vil generelt sett falle innenfor kategoriene ovenfor. Hvis du vil vite mer om disse verktøyene, kan du lese våre 
+                      <a href="/about/privacy/cookies?refid=69">
+                        retningslinjer for bruk av informasjon
+                      </a>
+                      . Du kan også ta en titt på delen om informasjonskapsler i den offentlig tilgjengelige granskningen som gir en 
+                      <a href="https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpa1/t39.2365-6/851576_193932070769264_1415834022_n.pdf" target="_blank">
+                        oversikt
+                      </a>
+                       over informasjonskapslene vi bruker. Rapporten ble utarbeidet av 
+                      <a href="http://lm.facebook.com/l.php?u=http%3A%2F%2Fdataprotection.ie%2Fdocuments%2Fpress%2FFacebook_Ireland_Audit_Review_Report_21_Sept_2012.pdf&amp;h=jAQGBvUX9&amp;s=1" target="_blank">
+                        Irish Data Protection Commissioner’s Office
+                      </a>
+                      . Dette vil gi deg en god oversikt over informasjonskapslene vi beskriver på denne siden.
+                    </div>
+                  </div>
+                  <div class="_4-f3">
+                    <div class="_4-f4 _4-f0">
+                      Les mer
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/182104755198570?refid=69">
+                          <span>
+                            Hva er informasjonskapsler?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/115180708570932?refid=69">
+                          <span>
+                            Hvordan bruker Facebook informasjonskapsler?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/411070688917609?refid=69">
+                          <span>
+                            Når kan Facebook lagre informasjonskapsler på datamaskinen eller enheten min?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/441197859229066?refid=69">
+                          <span>
+                            Når kan Facebook lese informasjonskapsler på datamaskinen eller enheten min?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/265264330237024?refid=69">
+                          <span>
+                            Hvorfor legger Facebook til informasjonskapsler i alle nettlesere som besøker Facebook-nettsteder?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/159967110798373?refid=69">
+                          <span>
+                            Hvordan bruker tredjeparter informasjonskapsler, pikseltagger ("piksler") og lignende teknologi på Facebook?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/441677795848490?refid=69">
+                          <span>
+                            Hvordan bruker Facebook informasjonskapsler for å forbedre sikkerheten?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/203204253144453?refid=69">
+                          <span>
+                            Hvordan bruker Facebook informasjonskapsler, lokal lagring eller lignende teknologi når jeg bruker en mobilenhet?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/239530772765713?refid=69">
+                          <span>
+                            Bruker Facebook informasjonskapsler hvis jeg ikke har en brukerkonto eller har logget ut av brukerkontoen min?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/236257763148568?refid=69">
+                          <span>
+                            Hva er pikseltagger ("piksler")? Hvordan bruker Facebook dem?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/330525367015217?refid=69">
+                          <span>
+                            Hva er lokal lagring? Hvordan bruker Facebook teknologi for lokal lagring?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                    <div class="ib">
+                      <img src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/r/qBzDkqSytkk.png" width="24" height="24" class="l img"/>
+                      <div class="_55wr c">
+                        <a href="/help/133547810119620?refid=69">
+                          <span>
+                            Hvordan virker Facebook sammen med tjenester fra tredjepartsleverandører for å vise relevante annonser?
+                          </span>
+                        </a>
+                      </div>
+                      <div class="clear">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="_52jc _55wo _55wr _5ui2">
+          <div id="footer">
+            <div class="_5ui3">
+              <span class="mfss fcg">
+                <b>
+                  Norsk (bokmål)
+                </b>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=pt_PT&amp;lref=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies&amp;gfid=AQC9YLYLVEyyxihj&amp;refid=69">
+                  Português (Portugal)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/a/language.php?l=en_US&amp;lref=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies&amp;gfid=AQA7b0LmpP71Cr0s&amp;refid=69">
+                  English (US)
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies&amp;refid=69">
+                  Mer…
+                </a>
+              </span>
+            </div>
+            <div class="_5ui4">
+              <span class="mfss fcb">
+                <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fabout%2Fprivacy%2Fyour-info-on-other&amp;refid=69">
+                  Logg inn på Facebook
+                </a>
+                <span aria-hidden="true">
+                   · 
+                </span>
+                Facebook ©2014
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="static_templates">
+      </div>
+    </div>
+  </body>
+</html>

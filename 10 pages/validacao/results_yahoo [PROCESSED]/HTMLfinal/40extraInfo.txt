@@ -1,0 +1,8 @@
+URL:https://shine.search.yahoo.com/search?ei=UTF-8&fr=shine_main&p=phone
+RATIOTOTAL:1.4017263120194237
+RATIOPREVIOUS:-101.415
+SELENIUMSTEP:57
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=mediasearchform-p and @class=yom-field yom-field-search and @name=p and @type=text]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:phone
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:55

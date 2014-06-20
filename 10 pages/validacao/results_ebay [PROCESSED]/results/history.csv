@@ -1,0 +1,68 @@
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=sign-in-link and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2F]	EMPTY
+clickAndWait	//a[@href=http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc and contains(text(),'Privacy Policy')]	EMPTY
+type	//textarea[@id=Textarea1 and @name=feedback]	dress
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+select	//select[@id=gh-cat and @class=gh-sb and @name=_sacat and @title=Select a category for search]	label="All Categories"
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/sch/Theme-Park-Club-Passes-/170594/i.html and contains(text(),'Theme Park & Club Passes')]	EMPTY
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://pages.ebay.com/securitycenter/index.html and contains(text(),'Security Center')]	EMPTY
+clickAndWait	//a[@id=gh-as-a and @class=thrd and @title=Advanced Search and @href=http://www.ebay.com/sch/ebayadvsearch/?rt=nc and contains(text(),'Advanced')]	EMPTY
+clickAndWait	//a[@href=http://pages.ebay.com/help/policies/user-agreement.html?rt=nc and contains(text(),'User Agreement')]	EMPTY
+clickAndWait	//a[@href=http://pages.ebay.com/help/index.html and contains(text(),'Browse help')]	EMPTY
+clickAndWait	//a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome and contains(text(),'sign in')]	EMPTY
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?FYPShow&_trksid=p4853.m2379.l4061 and contains(text(),'forgot your password')]	EMPTY
+type	//input[@id=input and @name=input and @type=text]	computer
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=gh-a and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348 and contains(text(),'Sign in')]	EMPTY
+clickAndWait	//a[@id=v4-0 and @href=http://pages.ebay.com/help/new/contextual/signin.html]	EMPTY
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279 and contains(text(),'contact us')]	EMPTY
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279]	EMPTY
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow and contains(text(),'Retrieve your User ID')]	EMPTY
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000000450&sid=b86fd3af-6a67-4456-8579-48f336828491&convId=5177175012 and contains(text(),'contact us')]	EMPTY
+clickAndWait	//a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fsignin.ebay.com%2Fws%2FeBayISAPI.dll%3FChangePasswordAndCreateHint%26guest%3D1&pp=pass&pageType=708&i1=0 and contains(text(),'change your password')]	EMPTY
+clickAndWait	//a[@href=http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&CurrentPage=MyeBayPersonalInfo]	EMPTY
+clickAndWait	//a[@id=v4-1 and @href=http://pages.ebay.com/help/new/contextual/account_protection.html]	EMPTY
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=vi and @title=Nike Air Jordan Retro 1 SB X Lance Mountain SZ 10 Black Bred Royal 653532-002 and @href=http://www.ebay.com/itm/Nike-Air-Jordan-Retro-1-SB-X-Lance-Mountain-SZ-10-Black-Bred-Royal-653532002-/331224017341]	EMPTY
+clickAndWait	//a[@class=thrd and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html and contains(text(),'Men's Shoes')]	EMPTY
+type	//input[@id=gh-ac and @class=gh-tb and @name=_nkw and @type=text]	banana
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+clickAndWait	//a[@class=cbx and @title=New with defects and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750 and contains(text(),'New with defects')]	EMPTY
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=thrd and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]	EMPTY
+clickAndWait	//a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'My eBay')]	EMPTY
+type	//input[@id=userid and @class=txtBxF and @name=userid and @type=text]	username
+type	//input[@id=pass and @class=txtBxF and @name=pass and @type=password]	password
+click	//input[@id=signed_in and @name=keepMeSignInOption and @type=checkbox]	EMPTY
+clickAndWait	//input[@id=sgnBt and @class=btn btn-prim sd-sgnBtn and @name=sgnBt and @type=submit]	EMPTY
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@title=Sporting Goods and @href=http://www.ebay.com/global/sporting-goods/hunting/]	EMPTY
+clickAndWait	//a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Butchering-Knives-Tools-/178084 and contains(text(),'Butchering Knives & Tools')]	EMPTY
+clickAndWait	//a[@title= Meyerco Game Shears and @href=http://www.ebay.com/itm/Meyerco-Game-Shears/121354747672?hash=item1c414e7f18]	EMPTY
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch]	EMPTY
+type	//input[@id=q and @class=srch-str and @name=q and @type=text and @onfocus=this.value='']	username
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+open	http://www.ebay.com/	EMPTY
+clickAndWait	//a[@class=rt and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2Ffeed and contains(text(),'My Feed')]	EMPTY
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062 and contains(text(),'Forgot your user ID')]	EMPTY
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]	EMPTY
+clickAndWait	//a[@id=gh-shop-a and @href=http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694 and contains(text(),'Shop by category')]	EMPTY
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/chp/Nursery-Decor-/66697 and contains(text(),'Nursery Decor')]	EMPTY
+clickAndWait	//a[@class=thrd and @title=Baby and @href=http://www.ebay.com/chp/baby and contains(text(),'Baby')]	EMPTY
+clickAndWait	//a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Blocks-Sorters-/100225 and contains(text(),'Blocks & Sorters')]	EMPTY
+clickAndWait	//a[@title=MULA Shape Sorter, Multicolor and @href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab]	EMPTY
+type	//input[@id=w1-43-_enter_val and @title=Increase max bid and @type=text]	curtains
+clickAndWait	//input[@id=gh-btn and @class=btn btn-ter and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab and contains(text(),'recently visited item page?')]	EMPTY
+type	//input[@id=shZipCode and @class=sh-TxtCnt and @name=zipCode and @type=text]	shirt
+clickAndWait	//input[@id=gh-btn and @class=btn btn-ter and @type=submit]	EMPTY
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/chp/Airline-/3253 and contains(text(),'Airline')]	EMPTY
+clickAndWait	//a[@title=Parigi Euro Disney 7 giorni in villetta 4 stelle 4/5 persone in Stupendo Resort and @href=http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c]	EMPTY
+clickAndWait	//a[@href=http://pages.ebay.com/pt/en-us/coverage/index.html]	EMPTY
+clickAndWait	//a[@class=gh-p and @href=http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport and contains(text(),'Customer Support')]	EMPTY
+clickAndWait	//a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'Notifications')]	EMPTY
+clickAndWait	//a[@id=fdbklnk and @class=sd-cmTx and @title=Send us your comments - link opens in a new tab or window and @href=http://qu.ebay.com/survey?srvName=signin+(si-US)]	EMPTY
+open	http://www.ebay.com/	EMPTY
+open	http://www.ebay.com/	EMPTY

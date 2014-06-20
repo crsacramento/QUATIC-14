@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc
+RATIOTOTAL:1.3474406480130146
+RATIOPREVIOUS:21.152
+SELENIUMSTEP:3

@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="ff" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Kelle keerii?e — Wikipedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ff)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//ff.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Balol Atom Wikipedia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+    <link rel="canonical" href="http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: ffwiki:resourceloader:filter:minify-css:7:014df849c0fa231657399265c5bea175 */
+    </style>
+    <script src="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Specialpages","wgNamespaceNumber":-1,"wgPageName":"Spécial:Pages_spéciales","wgTitle":"Pages spéciales","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"ff","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Siilo","Colte","MBooy","See?to","Duujal","Korse","Morso","Juko","Siilto","Yarkomaa","Jolal","Bowte"],"wgMonthNamesShort":["","Sii","Col","Mbo","See","Duu","Kor","Mor","Juk","Sto","Yar","Jol","Bow"],"wgRelevantPageName":"Spécial:Pages_spéciales","wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"ff","pageLanguageDir":"ltr","svgMaxSize":2048},"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"Fulfulde","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"mathJax":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"",
+"language":"ff","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs828":false,"searchNs829":false,"variant":"ff"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: ffwiki:resourceloader:filter:minify-js:7:9a3ccf40e4ac57198f0918a028922a17 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Specialpages page-Spécial_Pages_spéciales skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="ff">
+        <span dir="auto">
+          Kelle keerii?e
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Diw fayde:					
+          <a href="#mw-navigation">
+            peeragol
+          </a>
+          , 					
+          <a href="#p-search">
+            ?a??itugol
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-maintenance">
+            <span class="mw-headline" id="Rapports_de_maintenance">
+              Rapports de maintenance
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories_inutilis%C3%A9es" title="Spécial:Catégories inutilisées">
+                        Catégories inutilisées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories_demand%C3%A9es" title="Spécial:Catégories demandées">
+                        Catégories les plus demandées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories_non_cat%C3%A9goris%C3%A9es" title="Spécial:Catégories non catégorisées">
+                        Catégories sans catégories
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Doubles_redirections" title="Spécial:Doubles redirections">
+                        Doubles redirections
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Fichiers_demand%C3%A9s" title="Spécial:Fichiers demandés">
+                        Fichiers les plus demandés
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Fichiers_inutilis%C3%A9s" title="Spécial:Fichiers inutilisés">
+                        Fichiers orphelins
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Fichiers_non_cat%C3%A9goris%C3%A9s" title="Spécial:Fichiers non catégorisés">
+                        Fichiers sans catégories
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Mod%C3%A8les_demand%C3%A9s" title="Spécial:Modèles demandés">
+                        Modèles demandés
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Mod%C3%A8les_inutilis%C3%A9s" title="Spécial:Modèles inutilisés">
+                        Modèles inutilisés
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Mod%C3%A8les_non_cat%C3%A9goris%C3%A9s" title="Spécial:Modèles non catégorisés">
+                        Modèles sans catégories
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pages_courtes" title="Spécial:Pages courtes">
+                        Pages courtes
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_en_impasse" title="Spécial:Pages en impasse">
+                        Pages en impasse
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_les_moins_modifi%C3%A9es" title="Spécial:Pages les moins modifiées">
+                        Pages les moins modifiées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_anciennes" title="Spécial:Pages anciennes">
+                        Pages les plus anciennement modifiées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_demand%C3%A9es" title="Spécial:Pages demandées">
+                        Pages les plus demandées
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pages_longues" title="Spécial:Pages longues">
+                        Pages longues
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_orphelines" title="Spécial:Pages orphelines">
+                        Pages orphelines
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pages_prot%C3%A9g%C3%A9es" title="Spécial:Pages protégées">
+                        Pages protégées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_non_cat%C3%A9goris%C3%A9es" title="Spécial:Pages non catégorisées">
+                        Pages sans catégories
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Sans_interwiki" title="Spécial:Sans interwiki">
+                        Pages sans liens inter-langues
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Redirections_cass%C3%A9es" title="Spécial:Redirections cassées">
+                        Redirections cassées
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Titres_prot%C3%A9g%C3%A9s" title="Spécial:Titres protégés">
+                        Titres protégés
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-pages">
+            <span class="mw-headline" id="Listes_de_pages">
+              Listes de pages
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:ArbreCat%C3%A9gorie" title="Spécial:ArbreCatégorie">
+                        Arborescence des catégories
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:TrackingCategories" title="Spécial:TrackingCategories">
+                        Catégories de suivi
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">
+                        Liste des catégories
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Liste_des_redirections" title="Spécial:Liste des redirections">
+                        Liste des redirections
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pages_avec_la_propri%C3%A9t%C3%A9" title="Spécial:Pages avec la propriété">
+                        Pages avec une propriété de page
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:DisambiguationPages" title="Spécial:DisambiguationPages">
+                        Pages d’ambiguïté
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:DisambiguationPageLinks" title="Spécial:DisambiguationPageLinks">
+                        Pages menant vers des pages d’ambiguïté
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Nearby" title="Spécial:Nearby">
+                        Pages près de vous
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Toutes_les_pages" title="Spécial:Toutes les pages">
+                        Toutes les pages
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Index" title="Spécial:Index">
+                        Toutes les pages commençant par…
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Recherche" title="Spécial:Recherche">
+                        Yiylo
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-login">
+            <span class="mw-headline" id="S.27identifier_.2F_s.27inscrire">
+              S'identifier / s'inscrire
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Cr%C3%A9er_un_compte" title="Spécial:Créer un compte">
+                        Créer un compte
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Connexion" title="Spécial:Connexion">
+                        Se?o
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Fusionner_le_compte" title="Spécial:Fusionner le compte">
+                        État de l’unification du compte
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-users">
+            <span class="mw-headline" id="Utilisateurs_et_droits_rattach.C3.A9s">
+              Utilisateurs et droits rattachés
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Contributions" title="Spécial:Contributions">
+                        Ballitte kuutoro
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:ChangerCouriel" title="Spécial:ChangerCouriel">
+                        Changer l’adresse de courriel
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Liste_des_droits_de_groupe" title="Spécial:Liste des droits de groupe">
+                        Droits des groupes d'utilisateurs
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Droits_des_groupes_globaux" title="Spécial:Droits des groupes globaux">
+                        Gestion des groupes globaux
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:CentralAuth" title="Spécial:CentralAuth">
+                        Gestionnaire de compte global
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:GlobalBlockList" title="Spécial:GlobalBlockList">
+                        Liste des adresses IP bloquées globalement
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Utilisateurs_globaux" title="Spécial:Utilisateurs globaux">
+                        Liste des comptes globaux
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Liste_des_utilisateurs" title="Spécial:Liste des utilisateurs">
+                        Liste des utilisateurs
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Utilisateurs_actifs" title="Spécial:Utilisateurs actifs">
+                        Liste des utilisateurs actifs
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:OAuthListConsumers" title="Spécial:OAuthListConsumers">
+                        Lister les applications OAuth
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Notifications" title="Spécial:Notifications">
+                        Notifications
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pr%C3%A9f%C3%A9rences" title="Spécial:Préférences">
+                        Préférences
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:R%C3%A9initialisation_du_mot_de_passe" title="Spécial:Réinitialisation du mot de passe">
+                        Remise à zéro du mot de passe
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:ResetTokens" title="Spécial:ResetTokens">
+                        Réinitialiser les jetons
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Liste_des_blocages" title="Spécial:Liste des blocages">
+                        Utilisateurs bloqués
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-changes">
+            <span class="mw-headline" id="Modifications_r.C3.A9centes_et_journaux">
+              Modifications récentes et journaux
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Balises" title="Spécial:Balises">
+                        Balises des modifications valides
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Suivi_des_liens" title="Spécial:Suivi des liens">
+                        Bayle to??ii?e ?um
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Liste_de_suivi" title="Spécial:Liste de suivi">
+                        Doggol ndeenka am
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Nouveaux_fichiers" title="Spécial:Nouveaux fichiers">
+                        Galerie des nouveaux fichiers
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Journal_du_filtre_antiabus" title="Spécial:Journal du filtre antiabus">
+                        Journal des filtres antiabus
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Nouvelles_pages" title="Spécial:Nouvelles pages">
+                        Kelle kese
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Journal" title="Spécial:Journal">
+                        Loge
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Spécial:Modifications récentes">
+                        Wailitooji kesi
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-media">
+            <span class="mw-headline" id="Rapports_et_import_de_fichiers_m.C3.A9dias">
+              Rapports et import de fichiers médias
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Liste_des_fichiers" title="Spécial:Liste des fichiers">
+                        Liste de fichiers
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:ListDuplicatedFiles" title="Spécial:ListDuplicatedFiles">
+                        Liste de fichiers en double
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Recherche_fichier_en_double" title="Spécial:Recherche fichier en double">
+                        Recherche de doublons
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Recherche_MIME" title="Spécial:Recherche MIME">
+                        Recherche par type de contenu MIME
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Usage_global" title="Spécial:Usage global">
+                        Usage global du fichier
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-wiki">
+            <span class="mw-headline" id="Donn.C3.A9es_et_outils">
+              Données et outils
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:ApiSandbox" title="Spécial:ApiSandbox">
+                        Bac à sable API
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:TemplateSandbox" title="Spécial:TemplateSandbox">
+                        Bac à sable de modèle
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Filtre_antiabus" title="Spécial:Filtre antiabus">
+                        Configuration du filtre antiabus
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Hieroglyphs" title="Spécial:Hieroglyphs">
+                        Essayer un balisage par hiéroglyphe
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:ExpansionDesMod%C3%A8les" title="Spécial:ExpansionDesModèles">
+                        Expansion des modèles
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Gadgets" title="Spécial:Gadgets">
+                        Gadgets
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Modifier_les_sets_de_wikis" title="Spécial:Modifier les sets de wikis">
+                        Jeux de wikis
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Matrice_des_sites" title="Spécial:Matrice des sites">
+                        Liste des wikis de Wikimedia Foundation
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Messages_syst%C3%A8me" title="Spécial:Messages système">
+                        Messages système
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence" title="Spécial:Ouvrages de référence">
+                        Sewnde defte
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Statistiques" title="Spécial:Statistiques">
+                        Statistiques
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Version" title="Spécial:Version">
+                        Version
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Interwiki" title="Spécial:Interwiki">
+                        Voir les données interwiki
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-redirects">
+            <span class="mw-headline" id="Pages_sp.C3.A9ciales_redirig.C3.A9es">
+              Pages spéciales redirigées
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Page_au_hasard_dans_une_cat%C3%A9gorie" title="Spécial:Page au hasard dans une catégorie">
+                        Page au hasard dans la catégorie
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Redirection_au_hasard" title="Spécial:Redirection au hasard">
+                        Page de redirection au hasard
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Recherche_de_lien" title="Spécial:Recherche de lien">
+                        Recherche de liens externes
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Redirection" title="Spécial:Redirection">
+                        Redirigé par fichier, utilisateur, page ou ID de révision
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Spécial:Page au hasard">
+                        ?erewol kawral
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-highuse">
+            <span class="mw-headline" id="Pages_d.27utilisation_intensive">
+              Pages d'utilisation intensive
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories_les_plus_li%C3%A9es" title="Spécial:Catégories les plus liées">
+                        Catégories les plus utilisées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Fichiers_les_plus_li%C3%A9s" title="Spécial:Fichiers les plus liés">
+                        Fichiers les plus utilisés
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Mod%C3%A8les_les_plus_li%C3%A9s" title="Spécial:Modèles les plus liés">
+                        Modèles les plus utilisés
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:MostInterwikis" title="Spécial:MostInterwikis">
+                        Pages avec le plus d'interwikis
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_les_plus_li%C3%A9es" title="Spécial:Pages les plus liées">
+                        Pages les plus liées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_les_plus_modifi%C3%A9es" title="Spécial:Pages les plus modifiées">
+                        Pages les plus modifiées
+                      </a>
+                    </li>
+                    <li class="mw-specialpagecached">
+                      <a href="/wiki/Sp%C3%A9cial:Pages_les_plus_cat%C3%A9goris%C3%A9es" title="Spécial:Pages les plus catégorisées">
+                        Pages utilisant le plus de catégories
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-pagetools">
+            <span class="mw-headline" id="Outils_pour_les_pages">
+              Outils pour les pages
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Citer" title="Spécial:Citer">
+                        Citation
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Comparer_des_pages" title="Spécial:Comparer des pages">
+                        Comparer des pages
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:10%"/>
+                <td style="width:30%">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Exporter" title="Spécial:Exporter">
+                        Jiggito kello
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es" title="Spécial:Pages liées">
+                        Ko jokkii ?oo
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-wikibaseclient">
+            <span class="mw-headline" id="Client_Wikidata">
+              Client Wikidata
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:UnconnectedPages" title="Spécial:UnconnectedPages">
+                        Pages non reliées à un élément
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpagesgroup" id="mw-specialpagesgroup-other">
+            <span class="mw-headline" id="Autres_pages_sp.C3.A9ciales">
+              Autres pages spéciales
+            </span>
+          </h2>
+          <table style="width:100%;" class="mw-specialpages-table">
+            <tbody>
+              <tr>
+                <td style="width:30%;vertical-align:top">
+                  <ul>
+                    <li>
+                      <a href="/wiki/Sp%C3%A9cial:VipsTest" title="Spécial:VipsTest">
+                        Page de test de la mise à l’échelle de VIPS
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+                <td style="width:30%"/>
+              </tr>
+            </tbody>
+          </table>
+          <h2 class="mw-specialpages-note-top">
+            <span class="mw-headline" id="L.C3.A9gende">
+              Légende
+            </span>
+          </h2>
+          <div class="mw-specialpages-notes">
+            <ul>
+              <li>
+                 Pages spéciales normales.
+
+              </li>
+              <li>
+                <span class="mw-specialpagerestricted">
+                  Pages spéciales restreintes.
+                </span>
+              </li>
+            </ul>
+          </div>
+          <noscript>
+            <img src="//ff.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Ittaa ko to "
+          <a dir="ltr" href="http://ff.wikipedia.org/wiki/Spécial:Pages_spéciales">
+            http://ff.wikipedia.org/wiki/Spécial:Pages_spéciales
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Menu de navigation
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Kuutor?e maa keerii?e
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Sp%C3%A9cial%3APages+sp%C3%A9ciales&amp;type=signup">
+                Créer un compte
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Sp%C3%A9cial%3APages+sp%C3%A9ciales" title="A?a wasiyaa yo a se?o; kono wa??aaki [o]" accesskey="o">
+                Se connecter
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Boowal in?e
+            </h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span>
+                  <a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Ceci est une page spéciale, vous ne pouvez pas la modifier.">
+                    Hello heeriingo
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Lomtoo?e
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Jiyte
+            </h3>
+            <ul>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Ba?e
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Yiylo
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Rechercher" title="Yiylo e Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Spécial:Recherche" name="title"/>
+                <input type="submit" name="fulltext" value="Yiylo" title="Yiylo ndii loowdi e kelle ?ee" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Tar" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/ff/b/bc/Wiki.png);" href="/wiki/Hello_ja%C9%93%C9%93orgo" title="Yillo hello ja??orgo ngoo">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Peeragol
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Hello_ja%C9%93%C9%93orgo" title="Yillo hello ja??orgo ngoo [z]" accesskey="z">
+                  Hello ja??orgo
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Damugal_renndo" title="Ba?te e??oore ndee, hol ko mbaaw-?aa wa?de, hol to njiytataa ge?e">
+                  Ja??ogol renndo
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Doggol bayle cakkitii?e e Wiki hee [r]" accesskey="r">
+                  Wailitooji kesi
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Loow hello hawraango [x]" accesskey="x">
+                  ?erewol kawral
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Ko ?oo yiytetee">
+                  Ballal
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ff.wikipedia.org&amp;uselang=ff" title="Aidez-nous">
+                  Dokkal
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Wakannde gollir?e
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-specialpages">
+                <a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Doggol kelle keerii?e fof [q]" accesskey="q">
+                  Kelle keerii?e
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Sp%C3%A9cial:Pages_sp%C3%A9ciales&amp;printable=yes" rel="alternate" title="Jame binndittoo?e ngoo hello [p]" accesskey="p">
+                  Yamre winndittoonde
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            ?em?e go?e
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/Wikipedia:Dawirgol_suturo" title="Wikipedia:Dawirgol suturo">
+            Dawirgol suturo
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:Ba%C9%97te" title="Wikipedia:Ba?te">
+            Ba?te Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:Deentine_kuu%C9%93tidin%C9%97e" title="Wikipedia:Deentine kuu?tidin?e">
+            Deentine
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Développeurs
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//ff.m.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" class="noprint stopMobileRedirectToggle">
+            Affichage mobile
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":264,"wgHostname":"mw1106"});
+}
+//]]>
+    </script>
+  </body>
+</html>

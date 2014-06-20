@@ -1,0 +1,4 @@
+URL:https://developers.facebook.com/?ref=pf
+RATIOTOTAL:1.5978373479797723
+RATIOPREVIOUS:-15.629
+SELENIUMSTEP:25

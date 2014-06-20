@@ -1,0 +1,952 @@
+INIT|correlation:1|HTML index:2
+
+open	http://www.facebook.com	EMPTY
+
+Action #0 | Page URL is: https://www.facebook.com/?_fb_noscript=1
+menu elements found:21
+non_empty: SELECT=3|INPUT=3|CALL=35|LOGIN=6||total: 47
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="text" class="inputtext _58mg _5dba DOMControl_placeholder" data-type="text" name="lastname" value="Last Name" aria-required="1" placeholder="Last Name" id="u_0_3" aria-label="Last Name" /> (no text) | LOCATOR://input[@id=u_0_3 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=lastname and @type=text]
+type	//input[@id=u_0_3 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=lastname and @type=text]	phone
+INC_CORR|correlation:2|HTML index:2
+elems.size()=36
+SUBMIT=len:6
+clickAndWait	//input[@id=u_0_n and @type=submit]	EMPTY
+INC_HTML|correlation:3|HTML index:3
+
+Action #1 | Page URL is: https://www.facebook.com/login.php?login_attempt=1
+menu elements found:20
+non_empty: CALL=23|LOGIN=13||total: 36
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login.php?login_attempt=1" onclick="intl_set_cookie_locale(&quot;hi_IN&quot;, &quot;https:\/\/www.facebook.com\/login.php?login_attempt=1&quot;);" title="Hindi"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("hi_IN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??????')]
+clickAndWait	//a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("hi_IN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??????')]	EMPTY
+INC_HTML|correlation:4|HTML index:4
+
+Action #2 | Page URL is: https://www.facebook.com/login.php?login_attempt=1
+menu elements found:20
+non_empty: CALL=23|LOGIN=12||total: 35
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login.php?login_attempt=1" onclick="intl_set_cookie_locale(&quot;zh_CN&quot;, &quot;https:\/\/www.facebook.com\/login.php?login_attempt=1&quot;);" title="Simplified Chinese (China)"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??(??)')]
+clickAndWait	//a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??(??)')]	EMPTY
+INC_HTML|correlation:5|HTML index:5
+
+Action #3 | Page URL is: https://www.facebook.com/login.php?login_attempt=1
+menu elements found:20
+non_empty: CALL=23|LOGIN=11||total: 34
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/pages/create/?ref_type=sitefooter" title="Create a Page"> (has text) | LOCATOR://a[@href=https://www.facebook.com/pages/create/?ref_type=sitefooter and contains(text(),'Create Page')]
+clickAndWait	//a[@href=https://www.facebook.com/pages/create/?ref_type=sitefooter and contains(text(),'Create Page')]	EMPTY
+INC_HTML|correlation:6|HTML index:6
+
+Action #4 | Page URL is: https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter
+menu elements found:20
+non_empty: CALL=22|LOGIN=13||total: 35
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter" onclick="intl_set_cookie_locale(&quot;zh_CN&quot;, &quot;https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter&quot;);" title="Simplified Chinese (China)"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'??(??)')]
+clickAndWait	//a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'??(??)')]	EMPTY
+INC_HTML|correlation:7|HTML index:7
+
+Action #5 | Page URL is: https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter
+menu elements found:20
+non_empty: CALL=22|LOGIN=12||total: 34
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter" onclick="intl_set_cookie_locale(&quot;pt_PT&quot;, &quot;https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter&quot;);" title="Portuguese (Portugal)"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("pt_PT", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'Português (Portugal)')]
+clickAndWait	//a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("pt_PT", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'Português (Portugal)')]	EMPTY
+INC_HTML|correlation:8|HTML index:8
+
+Action #6 | Page URL is: https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter
+menu elements found:20
+non_empty: CALL=22|LOGIN=11||total: 33
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/recover/initiate" target=""> (has text) | LOCATOR://a[@href=https://www.facebook.com/recover/initiate and contains(text(),'Forgot your password?')]
+clickAndWait	//a[@href=https://www.facebook.com/recover/initiate and contains(text(),'Forgot your password?')]	EMPTY
+INC_HTML|correlation:9|HTML index:9
+
+Action #7 | Page URL is: https://www.facebook.com/login/identify?ctx=recover
+menu elements found:23
+non_empty: CALL=21|LOGIN=4||total: 25
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="uiButton" href="/login.php" role="button"> (has text) | LOCATOR://a[@class=uiButton and @href=https://www.facebook.com/login.php and contains(text(),'Cancel')]
+clickAndWait	//a[@class=uiButton and @href=https://www.facebook.com/login.php and contains(text(),'Cancel')]	EMPTY
+INC_HTML|correlation:10|HTML index:10
+
+Action #8 | Page URL is: https://www.facebook.com/login.php
+menu elements found:20
+non_empty: CALL=22|LOGIN=12||total: 34
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login.php" onclick="intl_set_cookie_locale(&quot;en_US&quot;, &quot;https:\/\/www.facebook.com\/login.php&quot;);" title="English (US)"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login.php and @onclick=intl_set_cookie_locale("en_US", "https:\/\/www.facebook.com\/login.php"); and contains(text(),'English (US)')]
+clickAndWait	//a[@href=https://www.facebook.com/login.php and @onclick=intl_set_cookie_locale("en_US", "https:\/\/www.facebook.com\/login.php"); and contains(text(),'English (US)')]	EMPTY
+INC_HTML|correlation:11|HTML index:11
+
+Action #9 | Page URL is: https://www.facebook.com/login.php
+menu elements found:20
+non_empty: CALL=22|LOGIN=11||total: 33
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/appcenter/category/games/?ref=pf" title="Check out Facebook games."> (has text) | LOCATOR://a[@href=https://www.facebook.com/appcenter/category/games/?ref=pf and contains(text(),'Games')]
+clickAndWait	//a[@href=https://www.facebook.com/appcenter/category/games/?ref=pf and contains(text(),'Games')]	EMPTY
+INC_HTML|correlation:12|HTML index:12
+
+Action #10 | Page URL is: https://www.facebook.com/appcenter/category/games/?ref=pf
+menu elements found:83
+non_empty: CALL=154|SEARCH=1|LOGIN=2||total: 157
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="text" class="inputtext" name="email" id="email" value="" tabindex="1" /> (no text) | LOCATOR://input[@id=email and @class=inputtext and @name=email and @type=text]
+a5442766@drdrb.net|123456
+type	//input[@id=email and @class=inputtext and @name=email and @type=text]	a5442766@drdrb.net
+INC_CORR|correlation:13|HTML index:12
+type	//input[@id=pass and @class=inputtext and @name=pass and @type=password]	123456
+INC_CORR|correlation:14|HTML index:12
+click	//input[@id=persist_box and @class=uiInputLabelInput uiInputLabelCheckbox and @name=persistent and @type=checkbox]	EMPTY
+INC_CORR|correlation:15|HTML index:12
+elems.size()=17
+SUBMIT=len:4
+clickAndWait	//input[@id=u_0_c and @type=submit]	EMPTY
+INC_HTML|correlation:16|HTML index:13
+INC_HTML|correlation:17|HTML index:14
+open	http://www.facebook.com	EMPTY
+
+Action #11 | Page URL is: https://www.facebook.com/
+menu elements found:84
+non_empty: SELECT=1|INPUT=1|CALL=62|SEARCH=4|LOGIN=1||total: 69
+masterElements size:0|detailElements size:0
+ELEMENT: <textarea class="DOMControl_placeholder uiTextareaAutogrow input autofocus mentionsTextarea textInput" title="What's on your mind?" name="xhpc_message" placeholder="What's on your mind?" role="textbox" aria-autocomplete="list" autocomplete="off" aria-expanded="false" aria-owns="typeahead_list_u_0_p" aria-haspopup="true" onkeydown="run_with(this, [&quot;legacy:control-textarea&quot;], function() {TextAreaControl.getInstance(this)});" id="u_0_q"> (has text) | LOCATOR://textarea[@id=u_0_q and @class=DOMControl_placeholder uiTextareaAutogrow input autofocus mentionsTextarea textInput and @name=xhpc_message]
+type	//textarea[@id=u_0_q and @class=DOMControl_placeholder uiTextareaAutogrow input autofocus mentionsTextarea textInput and @name=xhpc_message]	dress
+INC_CORR|correlation:18|HTML index:14
+elems.size()=50
+SUBMIT=len:16
+clickAndWait	//input[@class=uiLinkButtonInput and @type=submit]	EMPTY
+INC_HTML|correlation:19|HTML index:15
+
+Action #12 | Page URL is: https://www.facebook.com/?stype=lo&jlou=Aff3oyBP61hP4kXeuItnL9FnELGCuUVDe0ylhPn_GGo7DR2pL8obTwvkZU1gWbn_B7RE1c94BiWjx-sKv8B9M8_I9ZjwfuHRzRsXmogsX8EyMA&smuh=59074&lh=Ac9X4I5HRCYfwuve
+menu elements found:21
+non_empty: SELECT=3|INPUT=2|CALL=33|LOGIN=3||total: 41
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/directory/places/" title="Browse our places directory."> (has text) | LOCATOR://a[@href=https://www.facebook.com/directory/places/ and contains(text(),'Locations')]
+clickAndWait	//a[@href=https://www.facebook.com/directory/places/ and contains(text(),'Locations')]	EMPTY
+INC_HTML|correlation:20|HTML index:16
+
+Action #13 | Page URL is: https://www.facebook.com/directory/places/
+menu elements found:61
+non_empty: CALL=89|SEARCH=1||total: 90
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/find-friends?ref=pf" title="Find anyone on the web."> (has text) | LOCATOR://a[@href=https://www.facebook.com/find-friends?ref=pf and contains(text(),'Find Friends')]
+clickAndWait	//a[@href=https://www.facebook.com/find-friends?ref=pf and contains(text(),'Find Friends')]	EMPTY
+INC_HTML|correlation:21|HTML index:17
+
+Action #14 | Page URL is: https://www.facebook.com/find-friends?ref=pf
+menu elements found:21
+non_empty: CALL=73|SEARCH=1||total: 74
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="text" class="inputtext  DOMControl_placeholder" size="42" title="Enter a name" placeholder="Enter a name" maxlength="256" id="q_ff" name="q" value="Enter a name" required="true" /> (no text) | LOCATOR://input[@id=q_ff and @class=inputtext DOMControl_placeholder and @name=q and @type=text]
+type	//input[@id=q_ff and @class=inputtext DOMControl_placeholder and @name=q and @type=text]	phone
+INC_CORR|correlation:22|HTML index:17
+elems.size()=16
+SUBMIT=len:4
+clickAndWait	//input[@id=u_0_0 and @type=submit]	EMPTY
+INC_HTML|correlation:23|HTML index:18
+
+Action #15 | Page URL is: https://www.facebook.com/login.php?login_attempt=1
+menu elements found:20
+non_empty: CALL=19|LOGIN=9||total: 28
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page" rel="nofollow"> (has text) | LOCATOR://a[@href=https://www.facebook.com/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page and contains(text(),'Sign up for Facebook')]
+clickAndWait	//a[@href=https://www.facebook.com/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page and contains(text(),'Sign up for Facebook')]	EMPTY
+INC_HTML|correlation:24|HTML index:19
+
+Action #16 | Page URL is: https://www.facebook.com/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page
+menu elements found:21
+non_empty: SELECT=3|INPUT=3|CALL=21|LOGIN=3||total: 30
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://developers.facebook.com/?ref=pf" title="Develop on our platform."> (has text) | LOCATOR://a[@href=https://developers.facebook.com/?ref=pf and contains(text(),'Developers')]
+clickAndWait	//a[@href=https://developers.facebook.com/?ref=pf and contains(text(),'Developers')]	EMPTY
+INC_HTML|correlation:25|HTML index:20
+
+Action #17 | Page URL is: https://developers.facebook.com/?ref=pf
+menu elements found:36
+non_empty: CALL=44|SEARCH=1|LOGIN=4||total: 49
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.facebook-pmdcenter.com%2F&h=9AQH3PB8K&s=1" target="_blank" rel="nofollow" onmouseover="LinkshimAsyncLink.swap(this, &quot;http:\/\/www.facebook-pmdcenter.com\/&quot;);" onclick="LinkshimAsyncLink.swap(this, &quot;http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.facebook-pmdcenter.com\u00252F&h=9AQH3PB8K&s=1&quot;);"> (has text) | LOCATOR://a[@href=http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.facebook-pmdcenter.com%2F&h=9AQH3PB8K&s=1 and @onclick=LinkshimAsyncLink.swap(this, "http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.facebook-pmdcenter.com\u00252F&h=9AQH3PB8K&s=1"); and contains(text(),'Preferred Developers')]
+clickAndWait	//a[@href=http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.facebook-pmdcenter.com%2F&h=9AQH3PB8K&s=1 and @onclick=LinkshimAsyncLink.swap(this, "http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.facebook-pmdcenter.com\u00252F&h=9AQH3PB8K&s=1"); and contains(text(),'Preferred Developers')]	EMPTY
+INC_HTML|correlation:26|HTML index:21
+
+Action #18 | Page URL is: https://developers.facebook.com/?ref=pf
+menu elements found:36
+non_empty: CALL=43|SEARCH=1|LOGIN=4||total: 48
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="text" class="inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder" name="query" placeholder="Search in docs" id="u_0_9" value="Search in docs" aria-label="Search in docs" /> (no text) | LOCATOR://input[@id=u_0_9 and @class=inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder and @name=query and @type=text]
+type	//input[@id=u_0_9 and @class=inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder and @name=query and @type=text]	dress
+INC_CORR|correlation:27|HTML index:21
+elems.size()=1
+THERE ARE NO DYNAMIC, BUTTON OR STATIC SUBMITS
+INC_HTML|correlation:28|HTML index:22
+open	http://www.facebook.com	EMPTY
+No suitable element found, going back to base URL. Redirects left:4
+
+Action #17 | Page URL is: https://developers.facebook.com/?ref=pf
+menu elements found:36
+non_empty: CALL=43|LOGIN=4||total: 47
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/roadmap/"> (has text) | LOCATOR://a[@href=https://developers.facebook.com/roadmap/ and contains(text(),'Developer Roadmap')]
+clickAndWait	//a[@href=https://developers.facebook.com/roadmap/ and contains(text(),'Developer Roadmap')]	EMPTY
+INC_HTML|correlation:29|HTML index:23
+
+Action #18 | Page URL is: https://developers.facebook.com/roadmap/
+menu elements found:36
+non_empty: CALL=75|SEARCH=1|LOGIN=2||total: 78
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/login/?next=%2Froadmap%2F"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and contains(text(),'Log In')]
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and contains(text(),'Log In')]	EMPTY
+INC_HTML|correlation:30|HTML index:24
+
+Action #19 | Page URL is: https://www.facebook.com/login/?next=%2Froadmap%2F
+menu elements found:20
+non_empty: CALL=18|LOGIN=11||total: 29
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="rtl" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;ar_AR&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Arabic"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("ar_AR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'???????')]
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("ar_AR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'???????')]	EMPTY
+INC_HTML|correlation:31|HTML index:25
+
+Action #20 | Page URL is: https://www.facebook.com/login/?next=%2Froadmap%2F
+menu elements found:20
+non_empty: CALL=18|LOGIN=10||total: 28
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;pt_BR&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Portuguese (Brazil)"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("pt_BR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Português (Brasil)')]
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("pt_BR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Português (Brasil)')]	EMPTY
+INC_HTML|correlation:32|HTML index:26
+
+Action #21 | Page URL is: https://www.facebook.com/login/?next=%2Froadmap%2F
+menu elements found:20
+non_empty: CALL=18|LOGIN=9||total: 27
+masterElements size:0|detailElements size:0
+ELEMENT: <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;it_IT&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Italian"> (has text) | LOCATOR://a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("it_IT", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Italiano')]
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("it_IT", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Italiano')]	EMPTY
+INC_HTML|correlation:33|HTML index:27
+
+Action #22 | Page URL is: https://www.facebook.com/login/?next=%2Froadmap%2F
+menu elements found:20
+non_empty: CALL=18|LOGIN=8||total: 26
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://www.facebook.com/policies/?ref=pf" accesskey="9" title="Review our terms and policies."> (has text) | LOCATOR://a[@href=https://www.facebook.com/policies/?ref=pf and contains(text(),'Terms')]
+clickAndWait	//a[@href=https://www.facebook.com/policies/?ref=pf and contains(text(),'Terms')]	EMPTY
+INC_HTML|correlation:34|HTML index:28
+
+Action #23 | Page URL is: https://www.facebook.com/policies/?ref=pf
+menu elements found:24
+non_empty: CALL=30||total: 30
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://m.facebook.com/"> (has text) | LOCATOR://a[@href=https://m.facebook.com/ and contains(text(),'switch to our mobile site')]
+clickAndWait	//a[@href=https://m.facebook.com/ and contains(text(),'switch to our mobile site')]	EMPTY
+INC_HTML|correlation:35|HTML index:29
+
+Action #24 | Page URL is: https://m.facebook.com/
+menu elements found:4
+non_empty: CALL=6|LOGIN=3||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="btn btnS largeBtn" href="/r.php?refid=8"> (has text) | LOCATOR://a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=8 and contains(text(),'Create New Account')]
+clickAndWait	//a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=8 and contains(text(),'Create New Account')]	EMPTY
+INC_HTML|correlation:36|HTML index:30
+
+Action #25 | Page URL is: https://m.facebook.com/r.php?refid=8
+menu elements found:1
+non_empty: SELECT=1|INPUT=5|CALL=5|LOGIN=3||total: 14
+masterElements size:0|detailElements size:0
+ELEMENT: <input autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" class="_5whq input" name="pass" type="text" /> (no text) | LOCATOR://input[@class=_5whq input and @name=pass and @type=text]
+a5442766@drdrb.net|123456
+type	//input[@class=_5whq input and @name=firstname and @type=text]	phone
+INC_CORR|correlation:37|HTML index:30
+type	//input[@class=_5whq input and @name=lastname and @type=text]	banana
+INC_CORR|correlation:38|HTML index:30
+type	//input[@class=_5whq input and @name=email and @type=text]	a5442766@drdrb.net
+INC_CORR|correlation:39|HTML index:30
+type	//input[@id=month and @class=birthday_entry_field input tiapm and @name=month and @type=text]	computer
+INC_CORR|correlation:40|HTML index:30
+type	//input[@id=day and @class=birthday_entry_field input tiapm and @name=day and @type=text]	banana
+INC_CORR|correlation:41|HTML index:30
+type	//input[@id=year and @class=birthday_entry_field input tiapm and @name=year and @type=text]	computer
+INC_CORR|correlation:42|HTML index:30
+type	//input[@class=_5whq input and @name=pass and @type=text]	123456
+INC_CORR|correlation:43|HTML index:30
+elems.size()=14
+SUBMIT=len:2
+clickAndWait	//input[@id=signup_button and @class=_56bs _56bv and @name=submit and @type=submit]	EMPTY
+INC_HTML|correlation:44|HTML index:31
+INC_HTML|correlation:45|HTML index:32
+open	http://www.facebook.com	EMPTY
+
+Action #26 | Page URL is: https://www.facebook.com/
+menu elements found:104
+non_empty: SELECT=3|INPUT=2|CALL=28|LOGIN=3||total: 36
+masterElements size:0|detailElements size:0
+ELEMENT: <input type="text" class="inputtext _58mg _5dba DOMControl_placeholder" data-type="text" name="firstname" value="First Name" aria-required="1" placeholder="First Name" id="u_0_1" aria-label="First Name" /> (no text) | LOCATOR://input[@id=u_0_1 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=firstname and @type=text]
+type	//input[@id=u_0_1 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=firstname and @type=text]	shirt
+INC_CORR|correlation:46|HTML index:32
+elems.size()=36
+SUBMIT=len:4
+clickAndWait	//button[@id=u_0_i and @class=_6j mvm _6wk _6wl _58mi _3mc _6o _6v and @name=websubmit and @type=submit]	EMPTY
+INC_HTML|correlation:47|HTML index:33
+
+Action #27 | Page URL is: https://m.facebook.com/r.php
+menu elements found:1
+non_empty: SELECT=1|CALL=5|LOGIN=1||total: 7
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/home.php"> (no text) | LOCATOR://a[@href=https://m.facebook.com/home.php]
+clickAndWait	//a[@href=https://m.facebook.com/home.php]	EMPTY
+INC_HTML|correlation:48|HTML index:34
+
+Action #28 | Page URL is: https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fhome.php&refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php&_rdr
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQAqjXbtL3WeIq5U&refid=9"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQAqjXbtL3WeIq5U&refid=9 and contains(text(),'Português (Portugal)')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQAqjXbtL3WeIq5U&refid=9 and contains(text(),'Português (Portugal)')]	EMPTY
+INC_HTML|correlation:49|HTML index:35
+
+Action #29 | Page URL is: https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fhome.php&refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&_rdr
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&refid=9"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&refid=9 and contains(text(),'Mais…')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&refid=9 and contains(text(),'Mais…')]	EMPTY
+INC_HTML|correlation:50|HTML index:36
+
+Action #30 | Page URL is: https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&refid=9
+menu elements found:5
+non_empty: LOGIN=69||total: 69
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/a/language.php?l=nb_NO&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&gfid=AQDY2XtXAMMneqxx"> (has text) | LOCATOR://a[@href=https://m.facebook.com/a/language.php?l=nb_NO&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&gfid=AQDY2XtXAMMneqxx and contains(text(),'Norsk (bokmål)')]
+clickAndWait	//a[@href=https://m.facebook.com/a/language.php?l=nb_NO&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&gfid=AQDY2XtXAMMneqxx and contains(text(),'Norsk (bokmål)')]	EMPTY
+INC_HTML|correlation:51|HTML index:37
+
+Action #31 | Page URL is: https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fhome.php&refsrc=https%3A%2F%2Fm.facebook.com%2Flanguage.php&_rdr
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="btn btnS" href="/r.php?refid=9"> (has text) | LOCATOR://a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Registrer deg')]
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Registrer deg')]	EMPTY
+INC_HTML|correlation:52|HTML index:38
+
+Action #32 | Page URL is: https://m.facebook.com/r.php?refid=9
+menu elements found:1
+non_empty: SELECT=1|CALL=4|LOGIN=1||total: 6
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/about/privacy/?page=cookies"> (has text) | LOCATOR://a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Bruk av informasjonskapsler')]
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Bruk av informasjonskapsler')]	EMPTY
+INC_HTML|correlation:53|HTML index:39
+
+Action #33 | Page URL is: https://m.facebook.com/about/privacy/?page=cookies
+menu elements found:5
+non_empty: CALL=8|LOGIN=1||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/help/cookies"> (has text) | LOCATOR://a[@href=https://m.facebook.com/help/cookies and contains(text(),'Les mer')]
+clickAndWait	//a[@href=https://m.facebook.com/help/cookies and contains(text(),'Les mer')]	EMPTY
+INC_HTML|correlation:54|HTML index:40
+
+Action #34 | Page URL is: https://m.facebook.com/help/cookies
+menu elements found:5
+non_empty: CALL=24|LOGIN=1||total: 25
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/about/privacy/your-info-on-other?refid=69#platform"> (has text) | LOCATOR://a[@href=https://m.facebook.com/about/privacy/your-info-on-other?refid=69#platform and contains(text(),'plattformen')]
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/your-info-on-other?refid=69#platform and contains(text(),'plattformen')]	EMPTY
+INC_HTML|correlation:55|HTML index:41
+
+Action #35 | Page URL is: https://m.facebook.com/about/privacy/your-info-on-other?refid=69#platform
+menu elements found:1
+non_empty: CALL=2||total: 2
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/help/cookies"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/help/cookies and contains(text(),'Tilbake til forrige side')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/help/cookies and contains(text(),'Tilbake til forrige side')]	EMPTY
+INC_HTML|correlation:56|HTML index:42
+
+Action #36 | Page URL is: https://m.facebook.com/help/cookies
+menu elements found:6
+non_empty: CALL=23|LOGIN=1||total: 24
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/legal/terms?refid=69"> (has text) | LOCATOR://a[@href=https://m.facebook.com/legal/terms?refid=69 and contains(text(),'erklæring om plikter og rettigheter')]
+clickAndWait	//a[@href=https://m.facebook.com/legal/terms?refid=69 and contains(text(),'erklæring om plikter og rettigheter')]	EMPTY
+INC_HTML|correlation:57|HTML index:43
+
+Action #37 | Page URL is: https://m.facebook.com/legal/terms?refid=69
+menu elements found:5
+non_empty: CALL=36|LOGIN=1||total: 37
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies"> (has text) | LOCATOR://a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies and contains(text(),'Logg inn på Facebook')]
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies and contains(text(),'Logg inn på Facebook')]	EMPTY
+INC_HTML|correlation:58|HTML index:44
+
+Action #38 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies
+menu elements found:4
+non_empty: CALL=2|LOGIN=6||total: 8
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9 and contains(text(),'Mer…')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9 and contains(text(),'Mer…')]	EMPTY
+INC_HTML|correlation:59|HTML index:45
+
+Action #39 | Page URL is: https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9
+menu elements found:5
+non_empty: LOGIN=69||total: 69
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/a/language.php?l=vi_VN&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&gfid=AQBbVtxG18QKQOvR"> (has text) | LOCATOR://a[@href=https://m.facebook.com/a/language.php?l=vi_VN&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&gfid=AQBbVtxG18QKQOvR and contains(text(),'Ti?ng Vi?t')]
+clickAndWait	//a[@href=https://m.facebook.com/a/language.php?l=vi_VN&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&gfid=AQBbVtxG18QKQOvR and contains(text(),'Ti?ng Vi?t')]	EMPTY
+INC_HTML|correlation:60|HTML index:46
+
+Action #40 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flanguage.php&_rdr
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/a/language.php?l=en_US&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flanguage.php&gfid=AQCJklPm08CVscnr&refid=9"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/a/language.php?l=en_US&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flanguage.php&gfid=AQCJklPm08CVscnr&refid=9 and contains(text(),'English (US)')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=en_US&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flanguage.php&gfid=AQCJklPm08CVscnr&refid=9 and contains(text(),'English (US)')]	EMPTY
+INC_HTML|correlation:61|HTML index:47
+
+Action #41 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&_rdr
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/help/?refid=9"> (has text) | LOCATOR://a[@href=https://m.facebook.com/help/?refid=9 and contains(text(),'Help Center')]
+clickAndWait	//a[@href=https://m.facebook.com/help/?refid=9 and contains(text(),'Help Center')]	EMPTY
+INC_HTML|correlation:62|HTML index:48
+
+Action #42 | Page URL is: https://m.facebook.com/help/?refid=9
+menu elements found:5
+non_empty: CALL=19|SEARCH=1|LOGIN=2||total: 22
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=6"> (has text) | LOCATOR://a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=6 and contains(text(),'Log in to Facebook')]
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=6 and contains(text(),'Log in to Facebook')]	EMPTY
+INC_HTML|correlation:63|HTML index:49
+
+Action #43 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=6
+menu elements found:4
+non_empty: CALL=2|LOGIN=6||total: 8
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="btn btnS largeBtn" href="/r.php?refid=9"> (has text) | LOCATOR://a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Create New Account')]
+clickAndWait	//a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Create New Account')]	EMPTY
+INC_HTML|correlation:64|HTML index:50
+
+Action #44 | Page URL is: https://m.facebook.com/r.php?refid=9
+menu elements found:1
+non_empty: SELECT=1|CALL=4|LOGIN=1||total: 6
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/about/privacy/?page=cookies"> (has text) | LOCATOR://a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Cookie Use')]
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Cookie Use')]	EMPTY
+INC_HTML|correlation:65|HTML index:51
+
+Action #45 | Page URL is: https://m.facebook.com/about/privacy/?page=cookies
+menu elements found:8
+non_empty: CALL=8|LOGIN=1||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php"> (has text) | LOCATOR://a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php and contains(text(),'Log in to Facebook')]
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php and contains(text(),'Log in to Facebook')]	EMPTY
+INC_HTML|correlation:66|HTML index:52
+
+Action #46 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php
+menu elements found:4
+non_empty: CALL=1|LOGIN=6||total: 7
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sec" href="/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQB53bLiFTE1vbVn&refid=9"> (has text) | LOCATOR://a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQB53bLiFTE1vbVn&refid=9 and contains(text(),'Português (Portugal)')]
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQB53bLiFTE1vbVn&refid=9 and contains(text(),'Português (Portugal)')]	EMPTY
+INC_HTML|correlation:67|HTML index:53
+
+Action #47 | Page URL is: https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&_rdr
+menu elements found:7
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="btn btnS" href="/r.php?refid=9"> (has text) | LOCATOR://a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Criar conta')]
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Criar conta')]	EMPTY
+INC_HTML|correlation:68|HTML index:54
+
+Action #48 | Page URL is: https://m.facebook.com/r.php?refid=9
+menu elements found:1
+non_empty: SELECT=1|CALL=4|LOGIN=1||total: 6
+masterElements size:0|detailElements size:0
+ELEMENT: <select id="gender" name="gender"> (has text) | LOCATOR://select[@id=gender and @name=gender]
+options:3
+OPTION TEXT:Masculino
+select	//select[@id=gender and @name=gender]	label="Masculino"
+INC_CORR|correlation:69|HTML index:54
+elems.size()=14
+THERE ARE NO DYNAMIC, BUTTON OR STATIC SUBMITS
+
+Action #48 | Page URL is: https://m.facebook.com/r.php?refid=9
+menu elements found:1
+non_empty: CALL=4|LOGIN=1||total: 5
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="/login/"> (has text) | LOCATOR://a[@href=https://m.facebook.com/login/ and contains(text(),'Já tens uma conta?')]
+clickAndWait	//a[@href=https://m.facebook.com/login/ and contains(text(),'Já tens uma conta?')]	EMPTY
+INC_HTML|correlation:70|HTML index:55
+
+Action #49 | Page URL is: https://m.facebook.com/login/
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="btn btnS" href="/r.php"> (has text) | LOCATOR://a[@class=btn btnS and @href=https://m.facebook.com/r.php and contains(text(),'Criar conta')]
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php and contains(text(),'Criar conta')]	EMPTY
+INC_HTML|correlation:71|HTML index:56
+-------TESTING-------
+start
+	1|2
+	2|3
+	3|4
+	4|5
+	5|6
+	6|7
+	7|8
+	8|9
+	9|10
+	10|11
+	11|12
+	12|13
+	13|14
+	14|15
+	15|16
+	16|17
+	17|18
+	18|19
+	19|20
+	20|21
+	21|22
+	22|23
+	23|24
+	24|25
+	25|26
+	26|27
+	27|28
+	28|29
+	29|30
+	30|31
+	31|32
+	32|33
+	33|34
+	34|35
+	35|36
+	36|37
+	37|38
+	38|39
+	39|40
+	40|41
+	41|42
+	42|43
+	43|44
+	44|45
+	45|46
+	46|47
+	47|48
+	48|49
+	49|50
+	50|51
+	51|52
+	52|53
+	53|54
+	54|55
+	final2
+	final3
+	final4
+	final5
+	final6
+	final7
+	final8
+	final9
+	final10
+	final11
+	final12
+	final13
+	final14
+	final15
+	final16
+	final17
+	final18
+	final19
+	final20
+	final21
+	final22
+	final23
+	final24
+	final25
+	final26
+	final27
+	final28
+	final29
+	final30
+	final31
+	final32
+	final33
+	final34
+	final35
+	final36
+	final37
+	final38
+	final39
+	final40
+	final41
+	final42
+	final43
+	final44
+	final45
+	final46
+	final47
+	final48
+	final49
+	final50
+	final51
+	final52
+	final53
+	final54
+	final55
+processList
+10.txt
+11.txt
+12.txt
+13.txt
+14.txt
+15.txt
+16.txt
+17.txt
+18.txt
+19.txt
+2.txt
+20.txt
+21.txt
+22.txt
+23.txt
+24.txt
+25.txt
+26.txt
+27.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+32.txt
+33.txt
+34.txt
+35.txt
+36.txt
+37.txt
+38.txt
+39.txt
+4.txt
+40.txt
+41.txt
+42.txt
+43.txt
+44.txt
+45.txt
+46.txt
+47.txt
+48.txt
+49.txt
+5.txt
+50.txt
+51.txt
+52.txt
+53.txt
+54.txt
+55.txt
+6.txt
+7.txt
+8.txt
+9.txt
+	fileSizeAverage: 75771.16666666667
+	ratio:0.0
+	ratio:1.2931964005657384
+	ratio:0.16487802088305356
+	ratio:0.15608839774144517
+	ratio:0.29129814111348423
+	ratio:0.1588335052691547
+	ratio:0.1588335052691547
+	ratio:0.6200379651890451
+	ratio:0.5730016035123299
+	ratio:0.15566607350641293
+	ratio:3.9163973983067435
+	ratio:7.231774619633238
+	ratio:10.150549791367428
+	ratio:5.573756068161371
+	ratio:1.6473680621696467
+	ratio:1.000274950673849
+	ratio:0.7338279512655429
+	ratio:1.1416743836155794
+	ratio:1.5978373479797723
+	ratio:0.0
+	ratio:0.006057713246243624
+	ratio:1.9114922782852755
+	ratio:2.0953748897447797
+	ratio:0.1504134158331995
+	ratio:0.1566690935646145
+	ratio:0.1566690935646145
+	ratio:0.7078946037080948
+	ratio:0.6464992180402835
+	ratio:0.22682770710934458
+	ratio:0.1021760696131114
+	ratio:1.213218748556509
+	ratio:1.199836349358925
+	ratio:0.24282323751119048
+	ratio:0.06982867273611114
+	ratio:0.718267942731074
+	ratio:0.7275986687988174
+	ratio:0.23903551702824513
+	ratio:0.23438995044289054
+	ratio:0.4585913287156284
+	ratio:0.37041794702030456
+	ratio:0.3705895162407864
+	ratio:1.0799886500361835
+	ratio:0.8740659925609345
+	ratio:0.6639728832647422
+	ratio:0.6719574508333205
+	ratio:0.060735504050573326
+	ratio:0.3165188165243155
+	ratio:0.3171391052445191
+	ratio:0.229414443048917
+	ratio:0.22655055683010467
+	ratio:0.24550235687717623
+	ratio:0.060577132462436234
+	ratio:0.23087938023918508
+	ratio:0.2262338136538305
+	ratio:0.22649776630072563
+PatternNonSeleniumFinder.ProcessUrlsAndHTMLSize(pageInfo)
+	findURLSearchVariablesInHTML(https://www.facebook.com/login.php?login_attempt=1,2)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://www.facebook.com/appcenter/category/games/?ref=pf,12)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://www.facebook.com/?stype=lo&jlou=Aff3oyBP61hP4kXeuItnL9FnELGCuUVDe0ylhPn_GGo7DR2pL8obTwvkZU1gWbn_B7RE1c94BiWjx-sKv8B9M8_I9ZjwfuHRzRsXmogsX8EyMA&smuh=59074&lh=Ac9X4I5HRCYfwuve,14)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://www.facebook.com/login.php?login_attempt=1,17)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://developers.facebook.com/roadmap/,22)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://m.facebook.com/r.php,30)
+	passed inputs
+	passed selects
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+Found input pattern
+	findURLSearchVariablesInHTML(https://m.facebook.com/r.php,32)
+	passed inputs
+	passed selects
+Found input pattern
+processSeleniumActions
+-50.067
+-0.628
+-0.628
+0.0
+0.0
+3.167
+0.0
+0.0
+0.0
+0.0
+-6.062
+2.503
+0.0
+0.0
+240.116
+-143.693
+-263.77
+-25.217
+-20.298
+-6.266
+36.476
+-15.629
+0.0
+0.0
+-0.009
+-0.009
+74.931
+-97.192
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+6.858
+-29.315
+-1.558
+73.055
+-74.055
+1.883
+0.08
+35.275
+-35.294
+-2.28
+3.013
+15.622
+-24.137
+24.155
+31.578
+-48.591
+32.493
+-32.484
+-0.068
+6.378
+-6.33
+-1.754
+2.657
+-0.971
+0.07
+-1.637
+1.305
+-1.305
+PatternNonSeleniumFinder.testForMasterDetail();
+-------TESTING-------
+********************************************
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+1: words:open |NONE
+2: words:typeLastNameInput |INPUT|lines: 1 
+3: INPUT|lines: 1 
+***RESET***
+2: CALL
+***RESET***
+3: CALL
+***RESET***
+4: CALL
+***RESET***
+5: CALL
+***RESET***
+6: CALL
+***RESET***
+7: CALL
+***RESET***
+8: CALL
+***RESET***
+9: CALL
+***RESET***
+10: CALL
+***RESET***
+11: CALL
+***RESET***
+13: words:typeEmail |LOGIN_USER|lines: 12 
+14: words:typePassword |LOGIN_USER_PASS|lines: 12 13 
+15: LOGIN|lines: 12 13 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+15: words:clickCheckbox |NONE
+15: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+17: words:open |NONE
+18: words:type |INPUT|lines: 17 
+19: INPUT|lines: 17 
+***RESET***
+18: CALL
+***RESET***
+19: CALL
+***RESET***
+20: CALL
+***RESET***
+22: words:type |INPUT|lines: 21 
+23: INPUT|lines: 21 
+***RESET***
+22: CALL
+***RESET***
+23: CALL
+***RESET***
+24: CALL
+***RESET***
+25: CALL
+***RESET***
+27: words:typeSearch |SEARCH|lines: 26 
+28: SEARCH|lines: 26 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+28: words:open |NONE
+28: CALL
+***RESET***
+29: CALL
+***RESET***
+30: CALL
+***RESET***
+31: CALL
+***RESET***
+32: CALL
+***RESET***
+33: CALL
+***RESET***
+34: CALL
+***RESET***
+35: CALL
+***RESET***
+37: words:typeFirstNameInput |INPUT|lines: 36 
+38: words:typeLastNameInput |INPUT|lines: 36 37 
+39: INPUT|lines: 36 37 
+***RESET***
+39: words:typeEmail |LOGIN_USER|lines: 38 
+40: words:type |INPUT|lines: 38 39 
+41: words:type |INPUT|lines: 38 39 40 
+42: words:type |INPUT|lines: 38 39 40 41 
+43: INPUT|lines: 38 39 40 41 
+***RESET***
+43: words:typePassword |LOGIN_PASS|lines: 42 
+43: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+45: words:open |NONE
+46: words:typeFirstNameInput |INPUT|lines: 45 
+47: INPUT|lines: 45 
+***RESET***
+46: CALL
+***RESET***
+47: CALL
+***RESET***
+48: CALL
+***RESET***
+49: CALL
+***RESET***
+50: CALL
+***RESET***
+51: CALL
+***RESET***
+52: CALL
+***RESET***
+53: CALL
+***RESET***
+54: CALL
+***RESET***
+55: CALL
+***RESET***
+56: CALL
+***RESET***
+57: CALL
+***RESET***
+58: CALL
+***RESET***
+59: CALL
+***RESET***
+60: CALL
+***RESET***
+61: CALL
+***RESET***
+62: CALL
+***RESET***
+63: CALL
+***RESET***
+64: CALL
+***RESET***
+65: CALL
+***RESET***
+66: CALL
+***RESET***
+67: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+69: words:select |NONE
+69: CALL
+***RESET***
+70: CALL
+***RESET***

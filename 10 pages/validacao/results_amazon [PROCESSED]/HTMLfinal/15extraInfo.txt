@@ -1,0 +1,4 @@
+URL:https://www.amazon.com/ap/forgotpassword?openid.pape.max_auth_age=0&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&pageId=usflex&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.assoc_handle=usflex&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB00ESGYQWA%3Fie%3DUTF8%26ref_%3Ddv_dp_gc_sign_in
+RATIOTOTAL:0.0641745104651892
+RATIOPREVIOUS:-1.678
+SELENIUMSTEP:17

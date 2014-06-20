@@ -1,0 +1,6 @@
+URL:https://m.facebook.com/r.php
+RATIOTOTAL:1.199836349358925
+RATIOPREVIOUS:-74.055
+SELENIUMSTEP:47
+INPUT-PATTERN-TEXTBOX://input[@id=u_0_1 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=firstname and @type=text]
+INPUT-PATTERN-TEXT:shirt

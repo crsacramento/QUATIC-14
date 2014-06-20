@@ -1,0 +1,7 @@
+URL:https://fyp.ebay.com/EnterUserInfo?ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1&clientapptype=19&un=username
+RATIOTOTAL:0.6511678490411139
+RATIOPREVIOUS:-148.326
+SELENIUMSTEP:38
+POSSIBLE-SEARCH-KEYWORD-IN-URL:username
+INPUT-PATTERN-TEXTBOX://input[@id=pass and @class=txtBxF and @name=pass and @type=password]
+INPUT-PATTERN-TEXT:password

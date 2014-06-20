@@ -1,0 +1,4 @@
+URL:http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750
+RATIOTOTAL:1.4965683328935169
+RATIOPREVIOUS:-283.068
+SELENIUMSTEP:31

@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Special:PasswordReset
+RATIOTOTAL:0.15928944364933426
+RATIOPREVIOUS:-34.083
+SELENIUMSTEP:20

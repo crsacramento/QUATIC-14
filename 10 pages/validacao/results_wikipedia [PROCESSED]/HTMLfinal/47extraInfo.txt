@@ -1,0 +1,7 @@
+URL:http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=submit
+RATIOTOTAL:0.2304241350073836
+RATIOPREVIOUS:60.373
+SELENIUMSTEP:52
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Wikipedia:Accueil
+INPUT-PATTERN-TEXTBOX://input[@id=wpSummary and @class=mw-summary and @name=wpSummary and @type=text]
+INPUT-PATTERN-TEXT:coffee

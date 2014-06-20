@@ -1,0 +1,4 @@
+URL:https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyeBay%26%26CurrentPage%3DMyeBayPersonalInfo%26guest%3D1&pageType=1883
+RATIOTOTAL:0.6694515637334376
+RATIOPREVIOUS:148.13
+SELENIUMSTEP:24

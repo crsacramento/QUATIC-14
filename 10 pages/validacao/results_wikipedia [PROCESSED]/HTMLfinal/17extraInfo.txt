@@ -1,0 +1,5 @@
+URL:http://en.wikipedia.org/wiki/Category:Seaside_resorts_in_Pakistan
+PRESENT-SORT-KEYWORD:sort
+RATIOTOTAL:0.31225618071469685
+RATIOPREVIOUS:-68.775
+SELENIUMSTEP:18

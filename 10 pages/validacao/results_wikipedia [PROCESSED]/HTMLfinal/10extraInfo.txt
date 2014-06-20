@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom
+RATIOTOTAL:1.6357517305042895
+RATIOPREVIOUS:177.665
+SELENIUMSTEP:11

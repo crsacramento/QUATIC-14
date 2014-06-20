@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/help/new/contextual/account_protection.html
+RATIOTOTAL:0.6599559975578311
+RATIOPREVIOUS:-150.491
+SELENIUMSTEP:25

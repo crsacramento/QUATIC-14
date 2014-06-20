@@ -1,0 +1,10 @@
+URL:http://sports.search.yahoo.com/search?p=dress
+RATIOTOTAL:2.9316544842223107
+RATIOPREVIOUS:-336.94
+SELENIUMSTEP:16
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=sportsSearch and @class=sports-input p-xs mt-xs mb-xs fz-xs w-100 sports-input-inactive and @name=p and @type=text]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:dress
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:37
+INPUT-PATTERN-TEXTBOX://input[@id=yschsp and @class=sbq and @name=p and @type=text and @onfocus=this.setAttribute('dirty',1);]
+INPUT-PATTERN-TEXT:shirt

@@ -1,0 +1,71 @@
+open	http://www.facebook.com	EMPTY
+type	//input[@id=u_0_3 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=lastname and @type=text]	phone
+clickAndWait	//input[@id=u_0_n and @type=submit]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("hi_IN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??????')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login.php?login_attempt=1 and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?login_attempt=1"); and contains(text(),'??(??)')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/pages/create/?ref_type=sitefooter and contains(text(),'Create Page')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("zh_CN", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'??(??)')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter and @onclick=intl_set_cookie_locale("pt_PT", "https:\/\/www.facebook.com\/login.php?next=https\u00253A\u00252F\u00252Fwww.facebook.com\u00252Fpages\u00252Fcreate\u00252F\u00253Fref_type\u00253Dsitefooter"); and contains(text(),'Português (Portugal)')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/recover/initiate and contains(text(),'Forgot your password?')]	EMPTY
+clickAndWait	//a[@class=uiButton and @href=https://www.facebook.com/login.php and contains(text(),'Cancel')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login.php and @onclick=intl_set_cookie_locale("en_US", "https:\/\/www.facebook.com\/login.php"); and contains(text(),'English (US)')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/appcenter/category/games/?ref=pf and contains(text(),'Games')]	EMPTY
+type	//input[@id=email and @class=inputtext and @name=email and @type=text]	a5442766@drdrb.net
+type	//input[@id=pass and @class=inputtext and @name=pass and @type=password]	123456
+click	//input[@id=persist_box and @class=uiInputLabelInput uiInputLabelCheckbox and @name=persistent and @type=checkbox]	EMPTY
+clickAndWait	//input[@id=u_0_c and @type=submit]	EMPTY
+open	http://www.facebook.com	EMPTY
+type	//textarea[@id=u_0_q and @class=DOMControl_placeholder uiTextareaAutogrow input autofocus mentionsTextarea textInput and @name=xhpc_message]	dress
+clickAndWait	//input[@class=uiLinkButtonInput and @type=submit]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/directory/places/ and contains(text(),'Locations')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/find-friends?ref=pf and contains(text(),'Find Friends')]	EMPTY
+type	//input[@id=q_ff and @class=inputtext DOMControl_placeholder and @name=q and @type=text]	phone
+clickAndWait	//input[@id=u_0_0 and @type=submit]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page and contains(text(),'Sign up for Facebook')]	EMPTY
+clickAndWait	//a[@href=https://developers.facebook.com/?ref=pf and contains(text(),'Developers')]	EMPTY
+clickAndWait	//a[@href=http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.facebook-pmdcenter.com%2F&h=9AQH3PB8K&s=1 and @onclick=LinkshimAsyncLink.swap(this, "http:\/\/l.facebook.com\/l.php?u=http\u00253A\u00252F\u00252Fwww.facebook-pmdcenter.com\u00252F&h=9AQH3PB8K&s=1"); and contains(text(),'Preferred Developers')]	EMPTY
+type	//input[@id=u_0_9 and @class=inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder and @name=query and @type=text]	dress
+open	http://www.facebook.com	EMPTY
+clickAndWait	//a[@href=https://developers.facebook.com/roadmap/ and contains(text(),'Developer Roadmap')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and contains(text(),'Log In')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("ar_AR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'???????')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("pt_BR", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Português (Brasil)')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/login/?next=%2Froadmap%2F and @onclick=intl_set_cookie_locale("it_IT", "https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"); and contains(text(),'Italiano')]	EMPTY
+clickAndWait	//a[@href=https://www.facebook.com/policies/?ref=pf and contains(text(),'Terms')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/ and contains(text(),'switch to our mobile site')]	EMPTY
+clickAndWait	//a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=8 and contains(text(),'Create New Account')]	EMPTY
+type	//input[@class=_5whq input and @name=firstname and @type=text]	phone
+type	//input[@class=_5whq input and @name=lastname and @type=text]	banana
+type	//input[@class=_5whq input and @name=email and @type=text]	a5442766@drdrb.net
+type	//input[@id=month and @class=birthday_entry_field input tiapm and @name=month and @type=text]	computer
+type	//input[@id=day and @class=birthday_entry_field input tiapm and @name=day and @type=text]	banana
+type	//input[@id=year and @class=birthday_entry_field input tiapm and @name=year and @type=text]	computer
+type	//input[@class=_5whq input and @name=pass and @type=text]	123456
+clickAndWait	//input[@id=signup_button and @class=_56bs _56bv and @name=submit and @type=submit]	EMPTY
+open	http://www.facebook.com	EMPTY
+type	//input[@id=u_0_1 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=firstname and @type=text]	shirt
+clickAndWait	//button[@id=u_0_i and @class=_6j mvm _6wk _6wl _58mi _3mc _6o _6v and @name=websubmit and @type=submit]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/home.php]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQAqjXbtL3WeIq5U&refid=9 and contains(text(),'Português (Portugal)')]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&refid=9 and contains(text(),'Mais…')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/a/language.php?l=nb_NO&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Fnext%3Dhttps%253A%252F%252Fm.facebook.com%252Fhome.php%26refsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flogin.php&gfid=AQDY2XtXAMMneqxx and contains(text(),'Norsk (bokmål)')]	EMPTY
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Registrer deg')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Bruk av informasjonskapsler')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/help/cookies and contains(text(),'Les mer')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/your-info-on-other?refid=69#platform and contains(text(),'plattformen')]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/help/cookies and contains(text(),'Tilbake til forrige side')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/legal/terms?refid=69 and contains(text(),'erklæring om plikter og rettigheter')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fhelp%2Fcookies and contains(text(),'Logg inn på Facebook')]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9 and contains(text(),'Mer…')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/a/language.php?l=vi_VN&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&gfid=AQBbVtxG18QKQOvR and contains(text(),'Ti?ng Vi?t')]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=en_US&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Flanguage.php&gfid=AQCJklPm08CVscnr&refid=9 and contains(text(),'English (US)')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/help/?refid=9 and contains(text(),'Help Center')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flogin.php&refid=6 and contains(text(),'Log in to Facebook')]	EMPTY
+clickAndWait	//a[@class=btn btnS largeBtn and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Create New Account')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/about/privacy/?page=cookies and contains(text(),'Cookie Use')]	EMPTY
+clickAndWait	//a[@href=https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Fr.php and contains(text(),'Log in to Facebook')]	EMPTY
+clickAndWait	//a[@class=sec and @href=https://m.facebook.com/a/language.php?l=pt_PT&lref=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fr.php&gfid=AQB53bLiFTE1vbVn&refid=9 and contains(text(),'Português (Portugal)')]	EMPTY
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php?refid=9 and contains(text(),'Criar conta')]	EMPTY
+select	//select[@id=gender and @name=gender]	label="Masculino"
+clickAndWait	//a[@href=https://m.facebook.com/login/ and contains(text(),'Já tens uma conta?')]	EMPTY
+clickAndWait	//a[@class=btn btnS and @href=https://m.facebook.com/r.php and contains(text(),'Criar conta')]	EMPTY

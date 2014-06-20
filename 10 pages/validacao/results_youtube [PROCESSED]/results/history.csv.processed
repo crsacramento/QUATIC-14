@@ -1,0 +1,60 @@
+open 
+typeSearch 
+clickSubmit pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+typeSearch 
+open 
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+typeEmail 
+typePassword 
+clickCheckbox 
+clickLogin pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+typeSearch 
+clickSubmit pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickHomeLink pageChange
+clickHomeLink pageChange
+clickLink pageChange

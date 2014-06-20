@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" data-cast-api-enabled="true">
+  <head>
+    <script>
+//<![CDATA[
+var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function b(k,g){var a,d;g?a=!0:document.getElementById("c4-custom-tab-iframe")?(document.body.className+=" exp-wider-browse",a=!0):a=!1;a?(a=1056,d=1262):(a=951,d=1136);var c=(window.innerWidth||document.documentElement.clientWidth)-21-50;1251<=(window.innerWidth||document.documentElement.clientWidth)&&k&&(c-=230);return c>=d?"content-snap-width-3":c>=a?"content-snap-width-2":"content-snap-width-1"};function e(k,g,a,d){var c=document.getElementsByTagName("html")[0],h=[c.className];k&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),g&&h.push("show-guide"));a&&h.push(" ",b(g,d));c.className=h.join(" ")}var f=["yt","www","masthead","sizing","runBeforeBodyIsReady"],l=this;f[0]in l||!l.execScript||l.execScript("var "+f[0]);for(var m;f.length&&(m=f.shift());)f.length||void 0===e?l[m]?l=l[m]:l=l[m]={}:l[m]=e;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,true,false,false);
+  
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflKNUgKf.js" name="www-scheduler">
+    </script>
+    <script>
+//<![CDATA[
+var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};
+//]]>
+    </script>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-core-vfldcTd0v.css" name="www-core"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    ytimg.preload("http:\/\/r4---sn-4jjo-apne.googlevideo.com\/crossdomain.xml");
+    ytimg.preload("http:\/\/r4---sn-4jjo-apne.googlevideo.com\/generate_204");
+  
+//]]>
+    </script>
+    <title>
+      Patagonia Men's Insulated Fjord Flannel Jacket - YouTube
+    </title>
+    <link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"/>
+    <link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon"/>
+    <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"/>
+    <link rel="canonical" href="http://www.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <link rel="shortlink" href="http://youtu.be/7tnzj_PE6lQ"/>
+    <meta name="title" content="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+    <meta name="description" content="This heavyweight organic cotton flannel shirt insulated with 60-g Thermogreen® 100% polyester (90% recycled) insulation makes a great overshirt when conditio..."/>
+    <meta name="keywords" content=""/>
+    <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7tnzj_PE6lQ" title="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+    <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7tnzj_PE6lQ" title="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+    <meta property="og:site_name" content="YouTube"/>
+    <meta property="og:url" content="http://www.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <meta property="og:title" content="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+    <meta property="og:image" content="http://i1.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg"/>
+    <meta property="og:description" content="This heavyweight organic cotton flannel shirt insulated with 60-g Thermogreen® 100% polyester (90% recycled) insulation makes a great overshirt when conditio..."/>
+    <meta property="al:ios:app_store_id" content="544007664"/>
+    <meta property="al:ios:app_name" content="YouTube"/>
+    <meta property="al:ios:url" content="vnd.youtube://watch/7tnzj_PE6lQ"/>
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=7tnzj_PE6lQ&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="al:android:app_name" content="YouTube"/>
+    <meta property="al:android:package" content="com.google.android.youtube"/>
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=7tnzj_PE6lQ&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="og:type" content="video"/>
+    <meta property="og:video" content="http://www.youtube.com/v/7tnzj_PE6lQ?version=3&amp;autohide=1"/>
+    <meta property="og:video:type" content="application/x-shockwave-flash"/>
+    <meta property="og:video:width" content="1280"/>
+    <meta property="og:video:height" content="720"/>
+    <meta property="fb:app_id" content="87741124305"/>
+    <meta name="twitter:card" content="player"/>
+    <meta name="twitter:site" content="@youtube"/>
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <meta name="twitter:title" content="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+    <meta name="twitter:description" content="This heavyweight organic cotton flannel shirt insulated with 60-g Thermogreen® 100% polyester (90% recycled) insulation makes a great overshirt when conditio..."/>
+    <meta name="twitter:image" content="http://i1.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg"/>
+    <meta name="twitter:app:name:iphone" content="YouTube"/>
+    <meta name="twitter:app:id:iphone" content="544007664"/>
+    <meta name="twitter:app:name:ipad" content="YouTube"/>
+    <meta name="twitter:app:id:ipad" content="544007664"/>
+    <meta name="twitter:app:url:iphone" content="vnd.youtube://watch/7tnzj_PE6lQ"/>
+    <meta name="twitter:app:url:ipad" content="vnd.youtube://watch/7tnzj_PE6lQ"/>
+    <meta name="twitter:app:name:googleplay" content="YouTube"/>
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube"/>
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=7tnzj_PE6lQ"/>
+    <meta name="twitter:player" content="https://www.youtube.com/embed/7tnzj_PE6lQ"/>
+    <meta name="twitter:player:width" content="1280"/>
+    <meta name="twitter:player:height" content="720"/>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-pageframe-vflPXdM4J.css" name="www-pageframe"/>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-watch-transcript-vflp-Zp3x.css" name="www-watch-transcript"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}
+//]]>
+    </script>
+  </head>
+  <body dir="ltr" class="  ltr  ie ie8     site-center-aligned site-as-giant-card sitewide-ticker-visible appbar-hidden     not-nirvana-dogfood  not-watch8    delayed-frame-styles-not-in  " id="body">
+    <div id="body-container">
+      <form name="logoutForm" method="POST" action="/logout">
+        <input type="hidden" name="action_logout" value="1"/>
+      </form>
+      <div id="masthead-positioner">
+        <div id="ticker" class="cookie-alert">
+          <div id="ticker-inner" class="yt-base-gutter">
+            <img class="ticker-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt=""/>
+            <div class="ticker-content">
+              
+
+            Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+            
+              <span>
+                <a href="/redirect?event=gcookie&amp;q=https%3A%2F%2Fwww.google.com%2Fintl%2Fen%2Fpolicies%2Ftechnologies%2Fcookies&amp;usg=Y47905-KCVaXRQN63Q_3VjwtMnU=" target="_blank">
+                  Learn more
+                </a>
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary yt-uix-close" type="button" onclick="yt.www.masthead.dismissCookieAlert();;return false;" data-close-parent-id="ticker">
+                  <span class="yt-uix-button-content">
+                    Got it
+ 
+                  </span>
+                </button>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter">
+          <div id="yt-masthead" class="">
+            <div class="yt-masthead-logo-container ">
+              <a id="logo-container" href="/" title="YouTube home" class="    
+">
+                <img id="logo" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+                <span class="content-region">
+                  PT
+                </span>
+              </a>
+              <div id="appbar-guide-button-container">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Guide">
+                  <span class="yt-uix-button-icon-wrapper">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide"/>
+                  </span>
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                </button>
+                <div id="appbar-guide-button-notification-check" class="yt-valign">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="appbar-guide-notification-icon yt-valign-content"/>
+                </div>
+              </div>
+              <div id="appbar-main-guide-notification-container">
+              </div>
+            </div>
+            <div id="yt-masthead-signin">
+              <span id="appbar-onebar-upload-group" class="yt-uix-button-group">
+                <a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=mhsb" id="upload-btn">
+                  <span class="yt-uix-button-content">
+                    Upload 
+                  </span>
+                </a>
+              </span>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true">
+                <span class="yt-uix-button-content">
+                  Sign in 
+                </span>
+              </button>
+            </div>
+            <div id="yt-masthead-content">
+              <form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel('masthead-search-term').value == '') return false;">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" id="search-btn" tabindex="2" dir="ltr">
+                  <span class="yt-uix-button-content">
+                    Search 
+                  </span>
+                </button>
+                <div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr">
+                  <label>
+                    <input id="masthead-search-term" autocomplete="off" class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"/>
+                  </label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div id="masthead-appbar-container" class="clearfix">
+          <div id="masthead-appbar">
+            <div id="appbar-content" class="">
+            </div>
+          </div>
+        </div>
+        <iframe id="masthead-ie-mask">
+        </iframe>
+      </div>
+      <div id="masthead-positioner-height-offset">
+      </div>
+      <div id="page-container">
+        <div id="page" class="  watch      watch-non-stage-mode   clearfix">
+          <div id="guide" class="yt-scrollbar">
+            <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+              <div id="guide-container">
+                <div class="guide-module-content guide-module-loading">
+                  <p class="yt-spinner">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                    <span class="yt-spinner-message">
+                      
+Loading...
+    
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="alerts" class="content-alignment">
+            <div class="yt-alert yt-alert-default yt-alert-info hid " id="old-browser-alert">
+              <div class="yt-alert-icon">
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon"/>
+              </div>
+              <div class="yt-alert-buttons">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick="yt.net.cookies.set('hideOldBrowserBox', 'true', 604800);;return false;" data-close-parent-class="yt-alert">
+                  <span class="yt-uix-button-content">
+                    Close 
+                  </span>
+                </button>
+              </div>
+              <div class="yt-alert-content" role="alert">
+              </div>
+            </div>
+            <script>
+//<![CDATA[
+
+    if (!navigator.userAgent.match(/Trident\/\d\.\d/)) {
+      document.getElementById('old-browser-alert').style.display = 'block';
+    }
+  
+//]]>
+            </script>
+          </div>
+          <div id="header">
+          </div>
+          <div id="player" class="      watch-small  ">
+            <div id="theater-background">
+            </div>
+            <div id="player-mole-container">
+              <div id="playlist" class="playlist">
+              </div>
+              <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+                <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt=""/>
+                <div class="content">
+                  <h1 id="unavailable-message" class="message">
+                    
+            This video is unavailable.
+    
+                  </h1>
+                  <div id="unavailable-submessage" class="submessage">
+                  </div>
+                </div>
+              </div>
+              <div id="player-api" class="player-width player-height off-screen-target player-api">
+              </div>
+              <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+//]]>
+              </script>
+              <script>
+//<![CDATA[
+var ytplayer = ytplayer || {};ytplayer.config = {"url": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf", "url_v8": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "params": {"allowfullscreen": "true", "allowscriptaccess": "always", "bgcolor": "#000000"}, "attrs": {"id": "movie_player"}, "url_v9as2": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "html5": false, "assets": {"css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js", "html": "\/html5_player_template"}, "sts": 16225, "args": {"referrer": "http:\/\/www.youtube.com\/user\/patagoniavideo\/videos", "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/mv\/m\/cmbypass\/yes\/upn\/dG0bO6q5SKc\/id\/o-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ\/signature\/C45EEA9917F293EDDD9C4BEC0F3B74670179724A.283E20C809845395349A10DF36BC8D78F0D7210F\/expire\/1402526781\/sver\/3\/sparams\/as%2Ccmbypass%2Cid%2Cip%2Cipbits%2Citag%2Cplayback_host%2Csource%2Cexpire\/ipbits\/0\/fexp\/900356%2C913434%2C923341%2C924203%2C930008%2C932617%2C934026%2C936118\/ms\/au\/source\/youtube\/playback_host\/r4---sn-4jjo-apne.googlevideo.com\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear\/mws\/yes\/mt\/1402505261\/itag\/0\/ip\/193.136.33.197\/key\/yt5", "ldpj": "-36", "cc_font": "Arial Unicode MS, arial, verdana, _sans", "watermark": ",http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "plid": "AAT7kjdA9j1DJjU7", "vid": "7tnzj_PE6lQ", "focEnabled": "1", "rvs": "id=DsL6d3I0-e4\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Refugio+Pack+28L\u0026length_seconds=69\u0026author=Patagonia,id=BXazW3PSlVY\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Down+Sweater+Jacket\u0026length_seconds=60\u0026author=Patagonia,id=05DbSNfzDG4\u0026session_data=feature%3Dendscreen\u0026title=Deep+Water%3A+Pe%27ahi+Paddle+Days\u0026length_seconds=244\u0026author=Patagonia,id=903f5plLiYE\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Long-Sleeved+Buckshot+Shirt\u0026length_seconds=47\u0026author=Patagonia,id=QE5hQg6FYIU\u0026session_data=feature%3Dendscreen\u0026title=John+Gierach+Talks+Tenkara%3A+All+Fishermen+Are+Liars\u0026length_seconds=371\u0026author=Tenkara+USA,id=khbVXfc4F4s\u0026session_data=feature%3Dendscreen\u0026title=TENKARA%2B+Canyoneering\u0026length_seconds=214\u0026author=Tenkara+USA,id=5NGFBH4T6gU\u0026session_data=feature%3Dendscreen\u0026title=Tenkara+and+Canyoneering\u0026length_seconds=214\u0026author=Tenkara+USA,id=2xaFM3Dtuxo\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Long-Sleeved+Iron+Ridge+Shirt\u0026length_seconds=45\u0026author=Patagonia,id=fK2dClEB_aM\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Women%27s+Featherstone+Dress\u0026length_seconds=92\u0026author=Patagonia,id=f8HSzy6J0Ww\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Black+Hole+Pack+25L\u0026length_seconds=95\u0026author=Patagonia,id=fTzTXXlzkbU\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Women%27s+Velocity+Running+Tights\u0026length_seconds=73\u0026author=Patagonia,id=I6IuGHCwUHI\u0026session_data=feature%3Dendscreen\u0026title=TENKARA%40+South+Boulder+Creek\u0026length_seconds=27\u0026author=Tenkara+USA", "fmt_list": "22\/1280x720\/9\/0\/115,43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/1\/0,17\/176x144\/99\/1\/0", "ucid": "UCl3xZ-f3cQhOHvH6f-7-ssQ", "eventid": "ZYiYU6u5JvH-iAaitYCICg", "ttsurl": "http:\/\/www.youtube.com\/api\/timedtext?hl=en_US\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026caps=asr\u0026key=yttt1\u0026signature=2F5DEE21A953907CD6E01BDE743700E62DC9FAB5.73BE3FD7A97FAFC818D393374DE2C2383FF149AD\u0026v=7tnzj_PE6lQ\u0026expire=1402530517\u0026asr_langs=ko%2Cru%2Cde%2Cen%2Cja%2Ces%2Cit%2Cfr%2Cpt%2Cnl", "vq": "auto", "cbrver": "8.0", "aid": "P--N7mIVKbs", "hl": "en", "uid": "l3xZ-f3cQhOHvH6f-7-ssQ", "host_language": "en", "fexp": "900356,913434,923341,924203,930008,932617,934026,936118", "c": "WEB", "baseUrl": "http:\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/962985656\/", "atc": "a=3\u0026b=fM3mb98jCPNtEA4cUkG4ifucWZE\u0026c=1402505317\u0026d=1\u0026e=7tnzj_PE6lQ\u0026c3a=28\u0026c1a=1\u0026hh=xJk_ag4fK-G9NSdqHXti0CBGqSg", "idpj": "-6", "rmktPingThreshold": 0, "t": "vjVQa1PpcFNqPD9ZkyNfU5Psj8CYGNsITpBKU-WEd14=", "cosver": "6.0", "cc_asr": 1, "sdetail": "p:\/user\/patagoniavideo\/videos", "rmktEnabled": "1", "video_id": "7tnzj_PE6lQ", "csi_page_type": "watch,watch7", "ytfocEnabled": "1", "cc_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/subtitle_module.swf", "title": "Patagonia Men's Insulated Fjord Flannel Jacket", "ptk": "youtube_none", "keywords": "", "cc3_module": "1", "cr": "PT", "adaptive_fmts": "type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22\u0026lmt=1402116133522507\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D0CD75B23514A75F994C52440799879C886FB91FB.4F13267AF098CF89992249928BF02EB246F125C2%26expire%3D1402526781%26mws%3Dyes%26clen%3D11014167%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.187%26itag%3D136%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116133522507\u0026index=709-896\u0026size=1280x720\u0026itag=136\u0026bitrate=1865684\u0026clen=11014167\u0026init=0-708,type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026lmt=1402116130555747\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D44F0F936124A468ED23639910474C7D1D145FDE2.421811FEBE19E79AFEC632B031415CA1F959EDDE%26expire%3D1402526781%26mws%3Dyes%26clen%3D5409554%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.187%26itag%3D135%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116130555747\u0026index=709-896\u0026size=854x480\u0026itag=135\u0026bitrate=897219\u0026clen=5409554\u0026init=0-708,type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026lmt=1402116132447484\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3DAB26F5B54F76DDD476110D678EF9DCE426630F4C.7595E98F1DFD4A0F36C58FFB85B94CEC531A394E%26expire%3D1402526781%26mws%3Dyes%26clen%3D2615916%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.187%26itag%3D134%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116132447484\u0026index=709-896\u0026size=640x360\u0026itag=134\u0026bitrate=447501\u0026clen=2615916\u0026init=0-708,type=video%2Fmp4%3B+codecs%3D%22avc1.4d4015%22\u0026lmt=1402116129772069\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D9E34D43D87236501FEE1BEEBED5F60AE6F4EABA2.D25E933A962A94131A1C426E7B0E44820B417824%26expire%3D1402526781%26mws%3Dyes%26clen%3D1942434%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.187%26itag%3D133%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116129772069\u0026index=673-860\u0026size=426x240\u0026itag=133\u0026bitrate=254211\u0026clen=1942434\u0026init=0-672,type=video%2Fmp4%3B+codecs%3D%22avc1.42c00c%22\u0026lmt=1402116129839063\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D2BECF4F64D36FA0F0C6CDF993D6EB2BD80E7F9F2.0F79132873650543593EFEC6095BC3286F74DAC6%26expire%3D1402526781%26mws%3Dyes%26clen%3D863914%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.187%26itag%3D160%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116129839063\u0026index=671-858\u0026size=256x144\u0026itag=160\u0026bitrate=110649\u0026clen=863914\u0026init=0-670,type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026lmt=1402116124263724\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fmv%3Dm%26upn%3D7nWKHlleFqo%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3DDAE93B452FAE0FB2F3EE1F2174D629A95A5E0E7B.3602ED7853AD268586E2D761859DE72E7C861724%26expire%3D1402526781%26mws%3Dyes%26clen%3D1016122%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mt%3D1402505261%26gir%3Dyes%26sver%3D3%26dur%3D63.250%26itag%3D140%26ip%3D193.136.33.197%26key%3Dyt5%26lmt%3D1402116124263724\u0026index=592-707\u0026itag=140\u0026bitrate=129226\u0026clen=1016122\u0026init=0-591", "cos": "Windows", "sourceid": "y", "account_playback_token": "QUFFLUhqbmxsOFJaVjhWZEswRzlYMEo4djJDMnF6Y1BSQXxBQ3Jtc0ttdE9kREEycVkyeDcwek11MHJYMlplTnBCSG9LS09CdlZtT0hFYk03SDlBZ29SUnJrNmstcGpIbUY5QVVpeDlZNVpGaXhaNFVXa3lwejN5OUVJb3VzVmJhTTVsenNsTi1qTnlJS1drUWx3ZG11Z0RvNA==", "cbr": "IE", "sw": "0.1", "length_seconds": 64, "timestamp": 1402505317, "enablejsapi": 1, "storyboard_spec": "http:\/\/i1.ytimg.com\/sb\/7tnzj_PE6lQ\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#4e4KZc2INVmc9PfjU6r50tl-vGc|80#45#65#10#10#1000#M$M#rjhSodcZTxVIWyk8Sv8Xtw48FIs|160#90#65#5#5#1000#M$M#WVsj0eY3jAAkF10VBQ5DBu9SqII", "enablecsi": "1", "pltype": "contentugc", "dash": "1", "loaderUrl": "http:\/\/www.youtube.com\/watch?v=7tnzj_PE6lQ", "url_encoded_fmt_stream_map": "type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22\u0026itag=22\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fipbits%3D0%26upn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D48711EE72FBAF66B789F7FD1D43975C35C380DEE.418A045ACE70A0956892879FD2D2D073DC20BDAC%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26ratebypass%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D22%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v23.cache2.googlevideo.com\u0026quality=hd720,type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026itag=43\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fipbits%3D0%26upn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D9E5F4D5FA0C440425DAECE08D37E9C376C7BE3F6.7AED13033B93874DA4E81F9BA235B5A9A4652371%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26ratebypass%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D43%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v6.cache4.googlevideo.com\u0026quality=medium,type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026itag=18\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fipbits%3D0%26upn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D6AD4D4BF3E2813894855961A00DB81FBD50EA178.BBC94A69C5F0A3175A41D7105FC9726DDC98AAD7%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26ratebypass%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D18%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v10.cache3.googlevideo.com\u0026quality=medium,type=video%2Fx-flv\u0026itag=5\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fupn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D68978A9D9A92269102EFF091D8389904572C217D.967723A15354D7048287CEE7A41871C8A8D79E2C%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D5%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v13.cache6.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=36\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fupn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D866C156254F0A36031035D4ABA8FC93B1EA83012.7B409137325D5622896CC2ACD102559399DF1EB8%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D36%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v21.cache6.googlevideo.com\u0026quality=small,type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=17\u0026url=http%3A%2F%2Fr4---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fupn%3DgHk0fIwC5YA%26id%3Do-AK7MOPDpya2yPb99vOGr61qk-10a2AlMc441e9pkXpiQ%26signature%3D81FC0B5A5907A8CE6F01AD36F4D38508F3E728C5.F686B5577AF329B6AC90A0E7A606BA69B1F86036%26expire%3D1402526781%26mws%3Dyes%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26ipbits%3D0%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26ms%3Dau%26source%3Dyoutube%26mv%3Dm%26sver%3D3%26mt%3D1402505261%26itag%3D17%26ip%3D193.136.33.197%26key%3Dyt5\u0026fallback_host=tc.v10.cache7.googlevideo.com\u0026quality=small"}, "min_version": "8.0.0"};(function() {var encoded = [];for (var key in ytplayer.config.args) {encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));}var swf = "    \u003cobject classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\"\u003e\u003cparam name=\"movie\" value=\"http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf\"\u003e\u003cparam name=\"flashvars\" value=\"__flashvars__\"\u003e\u003cparam name=\"allowfullscreen\" value=\"true\"\u003e\u003cparam name=\"allowscriptaccess\" value=\"always\"\u003e\u003cparam name=\"bgcolor\" value=\"#000000\"\u003e\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e\u003c\/object\u003e\n";swf = swf.replace('__flashvars__', encoded.join('&'));document.getElementById("player-api").innerHTML = swf;ytplayer.config.loaded = true}());
+//]]>
+              </script>
+              <div id="watch-timeline-mole-container" class="video-mole">
+              </div>
+            </div>
+            <div class="clear">
+            </div>
+          </div>
+          <div id="content" class="  content-alignment    yt-card ">
+            <div id="watch7-container" class="">
+              <div id="watch7-main-container">
+                <div id="watch7-main" class="clearfix">
+                  <div id="watch7-content" class="watch-content " itemscope="" itemid="" itemtype="http://schema.org/VideoObject">
+                    <link itemprop="url" href="http://www.youtube.com/watch?v=7tnzj_PE6lQ"/>
+                    <meta itemprop="name" content="Patagonia Men's Insulated Fjord Flannel Jacket"/>
+                    <meta itemprop="description" content="This heavyweight organic cotton flannel shirt insulated with 60-g Thermogreen® 100% polyester (90% recycled) insulation makes a great overshirt when conditio..."/>
+                    <meta itemprop="paid" content="False"/>
+                    <meta itemprop="channelId" content="UCl3xZ-f3cQhOHvH6f-7-ssQ"/>
+                    <meta itemprop="videoId" content="7tnzj_PE6lQ"/>
+                    <meta itemprop="duration" content="PT1M4S"/>
+                    <meta itemprop="unlisted" content="False"/>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="http://www.youtube.com/user/patagoniavideo"/>
+                    </span>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="https://plus.google.com/114995186896749964487"/>
+                    </span>
+                    <link itemprop="thumbnailUrl" href="http://i1.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg"/>
+                    <span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject">
+                      <link itemprop="url" href="http://i1.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg"/>
+                      <meta itemprop="width" content="1280"/>
+                      <meta itemprop="height" content="720"/>
+                    </span>
+                    <link itemprop="embedURL" href="https://www.youtube.com/embed/7tnzj_PE6lQ"/>
+                    <meta itemprop="playerType" content="HTML5 Flash"/>
+                    <meta itemprop="width" content="1280"/>
+                    <meta itemprop="height" content="720"/>
+                    <meta itemprop="isFamilyFriendly" content="True"/>
+                    <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW"/>
+                    <div class="yt-uix-button-panel">
+                      <div id="watch7-headline" class="clearfix  yt-uix-expander yt-uix-expander-collapsed">
+                        <h1 id="watch-headline-title" class="yt">
+                          <span id="eow-title" class="watch-title  yt-uix-expander-head" dir="ltr" title="Patagonia Men's Insulated Fjord Flannel Jacket">
+                            
+    Patagonia Men's Insulated Fjord Flannel Jacket
+  
+                          </span>
+                        </h1>
+                      </div>
+                      <div id="watch7-user-header" class=" spf-nolink ">
+                        <a href="/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=watch">
+                          <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                            <span class="yt-thumb-square">
+                              <span class="yt-thumb-clip">
+                                <img src="https://yt3.ggpht.com/-s3AUNZ0SZzo/AAAAAAAAAAI/AAAAAAAAAAA/wX0iy0H2YYo/s88-c-k-no/photo.jpg" alt="Patagonia" width="48" height="48"/>
+                                <span class="vertical-align">
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                        </a>
+                        <a href="/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=watch" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="watch">
+                          Patagonia
+                        </a>
+                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-tooltip yt-channel-title-icon-verified" alt="" title="Verified"/>
+                        <span class="yt-user-separator">
+                          ·
+                        </span>
+                        <a class="yt-uix-sessionlink yt-user-videos" href="/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ/videos" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=watch">
+                          837 videos
+                        </a>
+                        <br/>
+                        <span id="watch7-subscription-container">
+                          <span class=" yt-uix-button-subscription-container with-preferences">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-live="polite" aria-role="button" aria-busy="false" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=watch&amp;ved=CAIQmys" data-style-type="branded" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbDFqVy0yMW8wZWgxNkMzY2NreWtzX0xvdkVMZ3xBQ3Jtc0trdWlQOVhxSFhnWmFmdnhBZkFVa0hORnp5QVIwYVN5bVhmbWdzTW5ZM2xJUFBMNmJLeTczU3dVTEZMVTdhQkpFbUIzT19Fc255UHZaZlVwU01qZGNDZi0zTkVGYmRwSzNweUxsTV9lQ2VmV0lFT1VFYnRqTWZraWpDZDY0ellpX2x2SlBrMTRVcFBHN3dKcWE2VVJ1U3cwUmtYTUdBNG9LZ2RzY2dYSzluallkSUVtTmkzbmMxNnpHVkJQQjM0ZlNVMTNzeGk%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCl3xZ-f3cQhOHvH6f-7-ssQ&amp;passive=true" data-channel-external-id="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscribe"/>
+                              </span>
+                              <span class="yt-uix-button-content">
+                                <span class="subscribe-label" aria-label="Subscribe">
+                                  Subscribe
+                                </span>
+                                <span class="subscribed-label" aria-label="Unsubscribe">
+                                  Subscribed
+                                </span>
+                                <span class="unsubscribe-label" aria-label="Unsubscribe">
+                                  Unsubscribe
+                                </span>
+                              </span>
+                            </button>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" data-channel-external-id="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences"/>
+                              </span>
+                            </button>
+                            <span class="yt-subscription-button-subscriber-count-branded-horizontal" title="28,229">
+                              28,229
+                            </span>
+                            <span class="yt-subscription-button-disabled-mask" title="">
+                            </span>
+                            <div class="yt-uix-overlay " data-overlay-style="primary" data-overlay-shape="tiny">
+                              <div class="yt-dialog hid ">
+                                <div class="yt-dialog-base">
+                                  <span class="yt-dialog-align">
+                                  </span>
+                                  <div class="yt-dialog-fg">
+                                    <div class="yt-dialog-fg-content">
+                                      <div class="yt-dialog-header">
+                                        <h2 class="yt-dialog-title">
+                                          
+                        Subscription preferences
+
+
+                
+                                        </h2>
+                                      </div>
+                                      <div class="yt-dialog-loading">
+                                        <div class="yt-dialog-waiting-content">
+                                          <div class="yt-spinner-img">
+                                          </div>
+                                          <div class="yt-dialog-waiting-text">
+                                            Loading...
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-content">
+                                        <div class="subscription-preferences-overlay-content-container">
+                                          <div class="subscription-preferences-overlay-loading ">
+                                            <p class="yt-spinner">
+                                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                                              <span class="yt-spinner-message">
+                                                
+Loading...
+    
+                                              </span>
+                                            </p>
+                                          </div>
+                                          <div class="subscription-preferences-overlay-content">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-working">
+                                        <div class="yt-dialog-working-overlay">
+                                        </div>
+                                        <div class="yt-dialog-working-bubble">
+                                          <div class="yt-dialog-waiting-content">
+                                            <div class="yt-spinner-img">
+                                            </div>
+                                            <div class="yt-dialog-waiting-text">
+                                              Working...
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </span>
+                        </span>
+                        <div id="watch7-views-info">
+                          <span class="watch-view-count">
+                            14 views
+                          </span>
+                          <div class="video-extras-sparkbars">
+                            <div class="video-extras-sparkbar-likes" style="width: 0%">
+                            </div>
+                            <div class="video-extras-sparkbar-dislikes" style="width: 0%">
+                            </div>
+                          </div>
+                          <span class="video-extras-likes-dislikes">
+                            <img class="icon-watch-stats-like" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Like"/>
+                            <span class="likes-count">
+                              0
+                            </span>
+                            
+
+       
+      
+                            <img class="icon-watch-stats-dislike" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Dislike"/>
+                            <span class="dislikes-count">
+                              0
+                            </span>
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-buttons" class="clearfix">
+                        <div id="watch7-sentiment-actions">
+                          <span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional">
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-like" title="" data-position="bottomright" data-orientation="vertical" data-force-position="true" data-like-tooltip="I like this" data-unlike-tooltip="Unlike" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-like"/>
+                                </span>
+                                <span class="yt-uix-button-content">
+                                  Like 
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to like 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                    Patagonia
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-dislike" title="I dislike this" data-position="bottomright" data-orientation="vertical" data-force-position="true" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-dislike" alt="I dislike this"/>
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to dislike 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                    Patagonia
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                          </span>
+                        </div>
+                        <div id="watch7-secondary-actions" class="yt-uix-button-group" data-button-toggle-group="required">
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger  yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-details" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                About 
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-share" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Share 
+                              </span>
+                            </button>
+                          </span>
+                          <span class="yt-uix-clickcard">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" data-upsell="playlist" data-force-position="true" data-trigger-for="action-panel-none" data-position="bottomleft" data-orientation="vertical" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Add to 
+                              </span>
+                            </button>
+                            <div class="watch7-hovercard yt-uix-clickcard-content">
+                              <h3 class="watch7-hovercard-header">
+                                Sign in to YouTube
+                              </h3>
+                              <div class="watch7-hovercard-message">
+                                
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to add 
+                                <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                  Patagonia
+                                </span>
+                                's video to your playlist.
+
+    
+                              </div>
+                              <ul class="watch7-hovercard-icon-strip clearfix">
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-youtube-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gplus-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gmail-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-picasa-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-chrome-icon">
+                                  </div>
+                                </li>
+                              </ul>
+                              <div class="watch7-hovercard-account-line">
+                                <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg">
+                                  <span class="yt-uix-button-content">
+                                    Sign in 
+                                  </span>
+                                </a>
+                              </div>
+                            </div>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Transcript" data-trigger-for="action-panel-transcript" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-action-panel-transcript" alt="Transcript"/>
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Statistics" data-trigger-for="action-panel-stats" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats" alt="Statistics"/>
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Report" data-trigger-for="action-panel-report" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-action-panel-report" alt="Report"/>
+                              </span>
+                            </button>
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-panels" class="yt-uix-button-panel">
+                        <div id="action-panel-details" class="action-panel-content ">
+                          <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel">
+                            <div id="watch-description-content">
+                              <div id="watch-description-clip">
+                                <p id="watch-uploader-info">
+                                  <strong>
+                                    Published on Jun 11, 2014
+                                  </strong>
+                                </p>
+                                <div id="watch-description-text">
+                                  <p id="eow-description">
+                                    This heavyweight organic cotton flannel shirt insulated with 60-g Thermogreen® 100% polyester (90% recycled) insulation makes a great overshirt when conditions get cold.
+                                  </p>
+                                </div>
+                                <div id="watch-description-extras">
+                                  <ul class="watch-extras-section">
+                                    <li>
+                                      <h4 class="title">
+                                        
+Category
+        
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-category">
+                                          <a href="/sports" class=" yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg">
+                                            Sports
+                                          </a>
+                                        </p>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <h4 class="title">
+                                        License
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-reuse">
+                                          
+Standard YouTube License
+  
+                                        </p>
+                                      </div>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <ul id="watch-description-extra-info">
+                              </ul>
+                            </div>
+                            <div id="watch-description-toggle" class="yt-uix-expander-head yt-uix-button-panel">
+                              <div id="watch-description-expand" class="expand">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show more 
+                                  </span>
+                                </button>
+                              </div>
+                              <div id="watch-description-collapse" class="collapse">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show less 
+                                  </span>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div id="action-panel-share" class="action-panel-content hid">
+                          <div id="watch-actions-share-loading">
+                            <div class="action-panel-loading">
+                              <p class="yt-spinner">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                                <span class="yt-spinner-message">
+                                  
+Loading...
+    
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                          <div id="watch-actions-share-panel">
+                          </div>
+                        </div>
+                        <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-transcript" class="action-panel-content hid">
+                          <div id="watch-actions-transcript-loading">
+                            <div class="action-panel-loading">
+                              <p class="yt-spinner">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                                <span class="yt-spinner-message">
+                                  
+Loading...
+    
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                          <div id="watch-actions-transcript" class="watch-actions-panel hid">
+                            <div id="caption-line-template" class="hid">
+                              <!--
+    <div class="caption-line-time">
+      <div class="caption-line-start">__start__</div>
+    </div>
+    <div class="editable-line-text">
+      <span class="editable-line-text-original">__original__</span>
+      <label class="editable-line-text-current hid">__current__</label>
+      <textarea class="editable-line-text-input hid">__input__</textarea>
+    </div>
+    -->                            </div>
+                            <div id="watch-transcript-container">
+                              <div id="watch-transcript-not-found" class="hid">
+                                
+The interactive transcript could not be loaded.
+      
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div id="action-panel-stats" class="action-panel-content hid">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-login" class="action-panel-content hid">
+                          <div class="action-panel-login">
+                            <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg">
+                              <span class="yt-uix-button-content">
+                                Sign in 
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+                          <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+                            <em>
+                              Ratings have been disabled for this video.
+                            </em>
+                          </div>
+                        </div>
+                        <div id="action-panel-rental-required" class="action-panel-content hid">
+                          <div id="watch-actions-rental-required" class="watch-actions-panel">
+                            <strong>
+                              Rating is available when the video has been rented.
+                            </strong>
+                          </div>
+                        </div>
+                        <div id="action-panel-error" class="action-panel-content hid">
+                          <div class="action-panel-error">
+                            
+      This feature is not available right now. Please try again later.
+    
+                          </div>
+                        </div>
+                        <div id="watch7-action-panel-footer">
+                          <hr class="yt-horizontal-rule "/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=7tnzj_PE6lQ" data-viewtype="FILTERED" style="display: none;">
+                    </div>
+                    <div id="watch-discussion">
+                      <div class="comments-iframe-container">
+                        <div id="comments-test-iframe">
+                        </div>
+                        <div id="distiller-spinner" class="action-panel-loading">
+                          <p class="yt-spinner">
+                            <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+                            <span class="yt-spinner-message">
+                              
+Loading...
+    
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="watch7-sidebar" class="watch-sidebar">
+                    <div id="watch7-sidebar-playlist">
+                    </div>
+                    <div id="watch7-sidebar-contents" class="watch-sidebar-gutter ">
+                      <div id="watch7-sidebar-offer">
+                      </div>
+                      <div id="watch7-sidebar-discussion">
+                      </div>
+                      <div id="watch7-sidebar-ads">
+                      </div>
+                      <div id="watch7-sidebar-modules">
+                        <div class="watch-sidebar-section">
+                          <div class="watch-sidebar-body">
+                            <ul id="watch-related" class="video-list">
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=DsL6d3I0-e4" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CAUQzRooAA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="DsL6d3I0-e4">
+                                    <img data-thumb="//i1.ytimg.com/vi/DsL6d3I0-e4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:09
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="DsL6d3I0-e4">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Refugio Pack 28L">
+                                    
+    Patagonia Refugio Pack 28L
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    No views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=BXazW3PSlVY" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CAYQzRooAQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="BXazW3PSlVY">
+                                    <img data-thumb="//i1.ytimg.com/vi/BXazW3PSlVY/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:00
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="BXazW3PSlVY">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Down Sweater Jacket">
+                                    
+    Patagonia Men's Down Sweater Jacket
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    No views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=05DbSNfzDG4" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CAcQzRooAg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="05DbSNfzDG4">
+                                    <img data-thumb="//i1.ytimg.com/vi/05DbSNfzDG4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:04
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="05DbSNfzDG4">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Deep Water: Pe'ahi Paddle Days">
+                                    
+    Deep Water: Pe'ahi Paddle Days
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    5 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=903f5plLiYE" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CAgQzRooAw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="903f5plLiYE">
+                                    <img data-thumb="//i1.ytimg.com/vi/903f5plLiYE/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      0:47
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="903f5plLiYE">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Long-Sleeved Buckshot Shirt">
+                                    
+    Patagonia Men's Long-Sleeved Buckshot Shirt
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=QE5hQg6FYIU" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=related&amp;ved=CAkQzRooBA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="QE5hQg6FYIU">
+                                    <img data-thumb="//i1.ytimg.com/vi/QE5hQg6FYIU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      6:11
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="QE5hQg6FYIU">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="John Gierach Talks Tenkara: All Fishermen Are Liars">
+                                    
+    John Gierach Talks Tenkara: All Fishermen Are Liars
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g">
+                                          Tenkara USA
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    4,588 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=khbVXfc4F4s" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=related&amp;ved=CAoQzRooBQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="khbVXfc4F4s">
+                                    <img data-thumb="//i1.ytimg.com/vi/khbVXfc4F4s/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:34
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="khbVXfc4F4s">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="TENKARA+ Canyoneering">
+                                    
+    TENKARA+ Canyoneering
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g">
+                                          Tenkara USA
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    4,353 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=5NGFBH4T6gU" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=related&amp;ved=CAsQzRooBg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="5NGFBH4T6gU">
+                                    <img data-thumb="//i1.ytimg.com/vi/5NGFBH4T6gU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:34
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="5NGFBH4T6gU">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Tenkara and Canyoneering">
+                                    
+    Tenkara and Canyoneering
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g">
+                                          Tenkara USA
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    395 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=2xaFM3Dtuxo" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CAwQzRooBw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="2xaFM3Dtuxo">
+                                    <img data-thumb="//i1.ytimg.com/vi/2xaFM3Dtuxo/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      0:45
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="2xaFM3Dtuxo">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Long-Sleeved Iron Ridge Shirt">
+                                    
+    Patagonia Men's Long-Sleeved Iron Ridge Shirt
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=fK2dClEB_aM" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CA0QzRooCA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="fK2dClEB_aM">
+                                    <img data-thumb="//i1.ytimg.com/vi/fK2dClEB_aM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:32
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="fK2dClEB_aM">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Women's Featherstone Dress">
+                                    
+    Patagonia Women's Featherstone Dress
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=f8HSzy6J0Ww" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CA4QzRooCQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="f8HSzy6J0Ww">
+                                    <img data-thumb="//i1.ytimg.com/vi/f8HSzy6J0Ww/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:35
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="f8HSzy6J0Ww">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Black Hole Pack 25L">
+                                    
+    Patagonia Black Hole Pack 25L
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    2 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=fTzTXXlzkbU" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CA8QzRooCg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="fTzTXXlzkbU">
+                                    <img data-thumb="//i1.ytimg.com/vi/fTzTXXlzkbU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:13
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="fTzTXXlzkbU">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Women's Velocity Running Tights">
+                                    
+    Patagonia Women's Velocity Running Tights
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=I6IuGHCwUHI" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=related&amp;ved=CBAQzRooCw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="I6IuGHCwUHI">
+                                    <img data-thumb="//i1.ytimg.com/vi/I6IuGHCwUHI/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      0:27
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="I6IuGHCwUHI">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="TENKARA@ South Boulder Creek">
+                                    
+    TENKARA@ South Boulder Creek
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcTgnl5MvFJ9t95LD_C2H9g">
+                                          Tenkara USA
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    999 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=d0QbaEqLObw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBEQzRooDA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="d0QbaEqLObw">
+                                    <img data-thumb="//i1.ytimg.com/vi/d0QbaEqLObw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:14
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="d0QbaEqLObw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Women's Leashless Jacket">
+                                    
+    Patagonia Women's Leashless Jacket
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=WY_BKL_Tm7Q" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBIQzRooDQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="WY_BKL_Tm7Q">
+                                    <img data-thumb="//i1.ytimg.com/vi/WY_BKL_Tm7Q/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:22
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="WY_BKL_Tm7Q">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Stealth Gear Bag 34L">
+                                    
+    Patagonia Stealth Gear Bag 34L
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=KBV7Wxf_5YY" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBMQzRooDg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="KBV7Wxf_5YY">
+                                    <img data-thumb="//i1.ytimg.com/vi/KBV7Wxf_5YY/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:23
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="KBV7Wxf_5YY">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Women's Dimensions Jacket">
+                                    
+    Patagonia Women's Dimensions Jacket
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=JcaX1CZSlVE" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBQQzRooDw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="JcaX1CZSlVE">
+                                    <img data-thumb="//i1.ytimg.com/vi/JcaX1CZSlVE/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:11
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="JcaX1CZSlVE">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Leashless Jacket">
+                                    
+    Patagonia Men's Leashless Jacket
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=C4z-YuJwCNw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBUQzRooEA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="C4z-YuJwCNw">
+                                    <img data-thumb="//i1.ytimg.com/vi/C4z-YuJwCNw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:09
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="C4z-YuJwCNw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Quandary Pants">
+                                    
+    Patagonia Men's Quandary Pants
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=Fds6ICx1cbc" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBYQzRooEQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Fds6ICx1cbc">
+                                    <img data-thumb="//i1.ytimg.com/vi/Fds6ICx1cbc/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:03
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Fds6ICx1cbc">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Men's Down Sweater Hoody">
+                                    
+    Patagonia Men's Down Sweater Hoody
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1 view
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=62Qje4ZR4zM" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=relmfu&amp;ved=CBcQzRooEg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="62Qje4ZR4zM">
+                                    <img data-thumb="//i1.ytimg.com/vi/62Qje4ZR4zM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:03
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="62Qje4ZR4zM">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Patagonia Women's Conejo Fleece Vest">
+                                    
+    Patagonia Women's Conejo Fleece Vest
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ">
+                                          Patagonia
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    2 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=ho4d627hUKw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&amp;feature=related&amp;ved=CBgQzRooEw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="ho4d627hUKw">
+                                    <img data-thumb="//i1.ytimg.com/vi/ho4d627hUKw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Thumbnail" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:06
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="ho4d627hUKw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Foam Fastball">
+                                    
+    Foam Fastball
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCpVm7bg6pXKo1Pr6k5kxG9A" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCpVm7bg6pXKo1Pr6k5kxG9A">
+                                          National Geographic
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    8,977 views
+                                  </span>
+                                </a>
+                              </li>
+                              <div id="watch-more-related" class="hid">
+                                <li id="watch-more-related-loading">
+                                  
+Loading more suggestions...
+    
+                                </li>
+                              </div>
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore">
+                                <span class="yt-uix-button-content">
+                                  Load more suggestions 
+                                </span>
+                              </button>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="watch7-hidden-extras">
+                <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer-container" class="yt-base-gutter">
+      <div id="footer">
+        <div id="footer-main">
+          <div id="footer-logo">
+            <a href="/" title="YouTube home">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+            </a>
+          </div>
+          <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="language" data-button-toggle="true">
+                <span class="yt-uix-button-icon-wrapper">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-footer-language"/>
+                </span>
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Language:
+  
+                  </span>
+                  
+  English
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="country" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Country:
+  
+                  </span>
+                  
+  Portugal
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-button-action="yt.www.picker.load" data-picker-position="footer" data-picker-key="safetymode" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Safety:
+    
+                  </span>
+                  
+Off
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+          </ul>
+          <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-tracking-param="" data-ghelp-anchor="google-help">
+            <span class="yt-uix-button-content">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="questionmark"/>
+              
+Help
+ 
+            </span>
+          </button>
+          <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-spinner-img" alt="Loading icon"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="footer-links">
+          <ul id="footer-links-primary">
+            <li>
+              <a href="//www.youtube.com/yt/about/">
+                About
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/press/">
+                Press &amp; Blogs
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/copyright/">
+                Copyright
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/creators/">
+                Creators &amp; Partners
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/advertise/">
+                Advertising
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/dev/">
+                Developers
+              </a>
+            </li>
+            <li>
+              <a href="https://plus.google.com/+youtube" dir="ltr">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul id="footer-links-secondary">
+            <li>
+              <a href="/t/terms">
+                Terms
+              </a>
+            </li>
+            <li>
+              <a href="https://www.google.com/intl/en/policies/privacy/">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/policyandsafety/">
+                
+Policy &amp; Safety
+  
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">
+                Send feedback
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Try something new!
+              </a>
+            </li>
+            <li/>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="yt-dialog hid " id="feed-privacy-lb">
+      <div class="yt-dialog-base">
+        <span class="yt-dialog-align">
+        </span>
+        <div class="yt-dialog-fg">
+          <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+                <div class="yt-spinner-img">
+                </div>
+                <div class="yt-dialog-waiting-text">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+              </div>
+            </div>
+            <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay">
+              </div>
+              <div class="yt-dialog-working-bubble">
+                <div class="yt-dialog-waiting-content">
+                  <div class="yt-spinner-img">
+                  </div>
+                  <div class="yt-dialog-waiting-text">
+                    Working...
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="hid">
+      <div id="shared-addto-watch-later-login" class="hid">
+        <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;service=youtube&amp;hl=en&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ&amp;passive=true" class="sign-in-link">
+          Sign in
+        </a>
+         to add this to Watch Later
+
+    
+      </div>
+      <div id="yt-uix-videoactionmenu-menu">
+        <div class="hide-on-create-pl-panel">
+          <h3>
+            
+Add to
+      
+          </h3>
+        </div>
+        <div class="add-to-widget">
+        </div>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+var ytspf = ytspf || {};ytspf.enabled = false;
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/spf-vfl-JJ8Rx.js" name="spf">
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/base.js" name="www/base">
+    </script>
+    <script>
+//<![CDATA[
+spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/results_fibonacci": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_twobillion": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("je", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    yt.setConfig({
+      'VIDEO_ID': "7tnzj_PE6lQ",
+      'THUMB_NON_DELAY_LOAD_COUNT': 0,
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          'www/watch_transcript',
+          'www/watch_missilecommand',
+        ''       ],
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflYwgnUA.js",
+      'REPORTVIDEO_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vfl4OZza8.css",
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflXSX6i0.js",
+      'WATCH_MISSILECOMMAND_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vfl9eaIzr.css",
+
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",'EMBED_HTML_URL': "\/\/www.youtube.com\/embed\/__videoid__",'FLASH_UPGRADE': "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need to upgrade your Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e",'PLAYER_FALLBACK': "The Adobe Flash Player or an HTML5 supported browser is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e",'QUICKTIME_FALLBACK': "The Adobe Flash Player or QuickTime is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"http:\/\/www.apple.com\/quicktime\/download\/\"\u003eGet the latest version of QuickTime\u003c\/a\u003e"});
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "id=DsL6d3I0-e4\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Refugio+Pack+28L\u0026length_seconds=69\u0026author=Patagonia,id=BXazW3PSlVY\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Down+Sweater+Jacket\u0026length_seconds=60\u0026author=Patagonia,id=05DbSNfzDG4\u0026session_data=feature%3Dendscreen\u0026title=Deep+Water%3A+Pe%27ahi+Paddle+Days\u0026length_seconds=244\u0026author=Patagonia,id=903f5plLiYE\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Long-Sleeved+Buckshot+Shirt\u0026length_seconds=47\u0026author=Patagonia,id=QE5hQg6FYIU\u0026session_data=feature%3Dendscreen\u0026title=John+Gierach+Talks+Tenkara%3A+All+Fishermen+Are+Liars\u0026length_seconds=371\u0026author=Tenkara+USA,id=khbVXfc4F4s\u0026session_data=feature%3Dendscreen\u0026title=TENKARA%2B+Canyoneering\u0026length_seconds=214\u0026author=Tenkara+USA,id=5NGFBH4T6gU\u0026session_data=feature%3Dendscreen\u0026title=Tenkara+and+Canyoneering\u0026length_seconds=214\u0026author=Tenkara+USA,id=2xaFM3Dtuxo\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Men%27s+Long-Sleeved+Iron+Ridge+Shirt\u0026length_seconds=45\u0026author=Patagonia,id=fK2dClEB_aM\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Women%27s+Featherstone+Dress\u0026length_seconds=92\u0026author=Patagonia,id=f8HSzy6J0Ww\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Black+Hole+Pack+25L\u0026length_seconds=95\u0026author=Patagonia,id=fTzTXXlzkbU\u0026session_data=feature%3Dendscreen\u0026title=Patagonia+Women%27s+Velocity+Running+Tights\u0026length_seconds=73\u0026author=Patagonia,id=I6IuGHCwUHI\u0026session_data=feature%3Dendscreen\u0026title=TENKARA%40+South+Boulder+Creek\u0026length_seconds=27\u0026author=Tenkara+USA"},
+
+
+          'BG_P': "Dn+HLSacSIBbJ0cqoVIuJBb55F\/9GNYWmng7wk7nsVzUy\/X1sZDqxINx\/x0YAj4Pb2DcaZAZ80bY7v18ycxrxTM11MWD9FGj4UrzkXMz\/fxRxkTJUgzRFuJuYUTPI25Qhdnvjf7KtGhQIBxB\/NTjt+8\/0h6fovhC\/eDtdC5axkeJnNZllHaGlnj4fRg7\/Ubxh72WGZoOw3gFMUnZYZJgPWQyP62CLoNmhai+N6Dwq5oa8BpFl3cg4wDog7+3mlRZcKsehYpSmv3Y5B948\/OO0Jdr4yLpIhrx0lioYFZxqReUQ7Vu7WA90lQee3mAHXwnWB9Di7umtidlRGL3okhRwXPLp\/iTtZQK3MU2xpsWz7sCe6Jbvog2spYfK9TwXBhaQ8m7HvVKtKgrQDlVlrGdRW\/fzYQlS8gmnXZRJ+OzS7u\/GaqLj5YLpCKbjtUjVjqOckIliWpJH8+O4av\/8+OdU45S3FgISLKA8bvDvmGeiX1o\/mf6dxKRxgZ5e+7gS1gw6hR1HisgsFZ+4YDS\/6KDV6i6PYRF\/COSq4CaY32GC+E5zo7agbPdBK17rcWVUnaJcq1gyLmhLZ14k+oIPlYxalM5RtEKjZvpHVn7gn\/QtdjgVp4dQhWXDuUMsUENxizSTNvr4gCx2Xsnd9ibldjtAc5SxXJ6LAAOEqxLjp04j7KA0Y0Lw3QOT6igbUl0ToixdNeT37p8e5WGxaXgP8cJmQ6H20lh7d1ru0JR+OP+PVaqBcWfLdfHykOEljAIX3QkZ194GJIDMThYyGSoN0iwMXhFmI6HV+fXJkmNemUelByrvU5AL\/iVjCjC6uRdS1VoyETI86c4OmFApISTIt0zXmSShTzwdTn\/APPr5bOtu2rrrRUEhtQ3FxGNPA98EH+V36xc9YZnGV8qtAo\/2Dylr+A7QMaSQAL73tVnoNKc0122sZMvEFcBRej0AZ27PhbdyVEZPgJQafrVjeJfRzD1XqYx76ZkzKNaFO41VayYtV12OxNM5DTlJPy9AI8k\/OzyBoA3TICYXXlTyEgaozBLZk2NG99R6D\/ulJbLkWpFczEnsunc+sCTvLtuOMbd4AkEDb0BV6lBdTZYZMOBn3GlVD5fdT4UJ8CrA7B996BSnf\/qy+jPsvs7vhvk9OAlM1O9tWIJq4IZbeKwJDXiJrWV+ZvdJGmzdMjJLKFYOC8+damT2WsBF\/w+d+9Dnzw8OpGyEILGuvMpaeuD\/MgXO0xgu9btg8F7m0l4LU6JePJeIbyVlhWpVzK9De6PvfskUdV5muWrTIiqd+mwx8D4CtK315Cj2UtGO3WzjBqOKoHkvnrCQOvEBXGap6nNYvdZ29eoJVN5ejLslYi+Na0OMU1djsmmtL5qEjAhNgYxbWtX9gIlb3j9NLdiYgvlMK\/\/0sSSQF0uC\/FHQGD23AFTracDOUlIxjp2czTA8zuEhAEZklQteVqaDt+uvfyTsuxSWGheaZW7WnGKmbGLW66YN+m8WuLj299fe\/g0mDq16vWEBYthEfLm+MsfNhoOEzo8jDufcUIdcytQUc5HS3C\/IZiByOejSZs6CLBwa+wGB5JcXcLesNMHfHVu\/PldsYtv20zyCjzLYBdTYcX9Zkoycvo1+s6mklRFosGfwRcsFV+Kk7bUc2zWuBFK8N\/6DDfuQKH2a9lWNAmnWMkSPL4grlVp7lHHUc9pepD3rNBX3xNLkgf9aVLm1\/wwuV2gxTK1iN3dkgx4lN1D7AQZLuhK3FTUvZ9YFk5kJazFu6zk5Rd1Q2FYLmxpxCyqbPf\/1jrqBcv0N+OWwbKXayMaUlx6fHdID8BHhhBN\/CgFldNkIrdfxPTWBaS3erWf7oEU0ITUhVF\/455iSSiTmo3B3x6PWkAjG243fYX+YY8fv3Y3CFFLaaLu6I8tAAAEO\/m1FswJvjtQaULtMiTXqrR\/10vBtj78zh5VCdFda3dJbm+PuR9NMDQw83Jqvvp6BImdA1MEqSIJdItvBdPEO6Rz89zc00dtwFNlgMeTbD9ulhVSaHqTjeV\/E9ehikqpl5KFJGs4qb3bXvhGRU7A045kqPltF4ubt9IlvYplEL0a7x1xblgtr1u2SeZGs64rBtX\/K+RMuhVO00pL3hUevsoPSmKYCwhdkBotIECmuqedaBPk55EX2C7pcT4dofR3oCEWZiSpehWp847U15qK2FqNN0LTgTIGDAZMpqAZnYNOrm9YGu4yWs51A5jUu0buYnUyzDHvs9Pw98rThiaG8hbsa\/XpIeStr6pj7N9e89QSbkwBIt42lbdpwnnOR1DRroHVcHwEsko2kzbYJyHJE8IJPypP3BswsRiTsHf+TDdp5AoFH7UHBDgS+KHQNqU1lvf3TnN4k3CYwSZHfVK+DHMDzthfuDszzKYpw7pPrLO3khMSSdtIrPRbrpHmLJ0+lwfiYbIRWhblf5Bix4P3TsbIBqWui9eMKsIQ1yO5zudppGmZFZyRV7GbpdRRbDN2e0+3natXxa12ZI2NbT1Q8uiG5KOrc2hGub5XevNNiapoZOdBGM9bpFdSw1RYvvmPt3QXE6DbeXVentCLK9Z1kWmTMxUzsE11qYZG7rxb+Vn0sQ0K00YBh8EFNteybnTcEAk84BQthiewGlDHvIG5fML3HtIuRND7BAiY3L\/5ESSY7VSu1k6m7SX90Zws7gQem39pXnkz7t0KmZAmlnMLp6XHJmZz\/80eRR9bRYWnIW8evs1iFaa6\/QkBieTcp1sjmSvRaobkTQnMoenpbuEyFWAPLfXqrRbWSNOwSRiqMn6Do2lHtttJMuTS+an5vz7tb9i+xOh\/zSSuzGMVih3L6WJw3zs3tdrmsQnqWSQEEWeqASXWjfrAqHKpHuuUtrmt2kgzbkUCOvhIhxWWJm9LAWrKbLQjxg7WDM7dlTvcPQ4\/4Wu4hu00moZu0R8Ez4rNUUgES+K1lNV\/n5saZLlaWT6QzHPTnFhZucCdo5TZbMhLjFaaVlrfHbinsSpHAdgQyFO4qMpS9ZsttFCArfKK78zLCl7bHOCwE+14py+WAjea7GY9TA+MIwQI3F7uELVWCnwPQxwYixbyQVK1zTad4avM2K9RW8YJHRyuc9SRV1DHOUMHfIrjzpY+501O+eSHDOdQ8guZolJHjZEAWAahG5VYUHv+3KaG+lCaJo2ryqY2oUCkGBFI+\/MWAX30z8HsG130rw7FyN6VpzwpWj96i74pCxyyH931VCfhTGTOdxe9T8Wm1caKGcMzTR3KS3454sReOOAQ8WEPKnfI5vwCSEjxq7MZwmMJ90qroxeszIJYbJcIiggFI8jA24SAuGRQEsfWjig4qB0Bbo+7GgiyzUujq1tOyNo3PORnpE6U56i5iRdTIduXfj35UmYUe44Rj+7FqkeSgkMV\/hlPN3ZthKy\/JUivbqbcLBXDCu2JwFK6Uf9tcytgZaIVqZ3uiY658kS2uL3VGWAyr9fvHDnrZxNF3XLt1rJADiDCX3MoMwwt7OOg48C\/yGVdDAtDwKpo0OwDBACZ1E3W9Z\/d2\/2af3tZIMgZS7DBp8uF45uoYx9Kch9FdxG9DJwOn80zBRzOLFZ85qJW3P\/TdNfdIO+4f1h1CV9W83oSnrOLv3saKKWq\/QBMChPUMDTeZFVf533t9n9WWd7jHcnv1IAc\/+xLNASOV6fVDIv3FcyiGoLh7SMYRuAc6HkU1aEH34k3WJD\/pq0jch46li9sLfCYJwMlWC4NZwGlPXg\/YODAgzsVmnWVXzJ2V6nL30FV0uGIw5GHxqU0pJ2eMBAhbWk1B2EWIaLFGTelpUPG+S7ubKkwV0kRqz3CMbNiegmhEz\/ulA5SfID5vcH1+\/CATTg0ud6t+TzMZTJdR7EevGhvucL\/8RNObpwfVHZa1q+GF8umVmOGSjDS2A019kYQbF1A6TVm\/EqwZDMzodezQgHqNCpc97eMgZtd8JxL7qbK6NMTsvGRAcjcoJBdE5PBaLahttd62HnxKGGN7KyQOXzPq5ee13md0iBirM9UtDsOPFWfQ8wS0o80mTvyDu\/98Hb4C2YRhsqyZJk5lHga1lPwLS8B1GoxIYL3M5OtaMSVBSDskOb7XOmMNY0JXTr3zQ9eR7GyhH7NyoU5GX3ZsYd+QGghZngKTGIQIvnfUXnCK6W5PcS6yKEvxtY1g1EbtMxJaT8kin\/hltjLIM1vVxq8Kagxg7xClScF7anqUPVyKh+maumZaI6SuF0NWB0HM\/gPJCNODM0MUGqsybSBxHQFdFqh1cqLvzK9\/5EqYK24UuF9BYW+Y\/bbF0iiSBHWlIwJCMU0Lo4pfOZdy51OFkjX4TZwAu23khC2A4YFK1Xa1IaqTInHYj9MC9+HuFXHhd8cLkh1zQltN6H6Q0gKlTm\/O1AQWLz+EutOmnJNnHdkEJLPqtgiG4hyLeksrAMK21phEcrZuho6A2JYdcQCL9mtAtyrDog53YwLd30O\/\/4kHwQLUhBu0wvqIk04pKZ3S1L2xw6IfOb71lkQ2nh\/gP3ShH1I+hrvlFcv69vZ2jOn\/snrB\/GmJZvtewREHwnqg6Hdx32XDt1nGU\/G20rbLUMuYpxt0QJhh\/Hg5E0OHSNQ26lIUY9uczx33AgOiDpMbv1IMznOzxWFgac9XoogCDett1EVTvkIdnP\/ubC6cD1jW2IBpHuo5RZkm1bKKY5BcQBQf\/LUFfWvwyt3b4duGgm8Zo48XQTsurgG97LV8h53NY1Q8wiczih87MDqPNQK+eruQ5Eea9osCZ\/J88cr7Oy+EG+S2576okL5ZYMp8nXFC1G1P7eKBDOJPtUq8fvVdHlq59X7TYFBg2b9lPPG337R7XV0280kNkBw7xKaXhhoPM4kZEfH0d+4DyMZ8idaERI7LmrXiWs2+IqEjxAOPGSxXLpm2+IMV8Z8k7xtrSJj4R3i4decLLr2GQS108XFwXJusB7Qhmr8LzVcDSGxhvE9v+aHZrLDSJtOO11AMb\/YXASCtY0f824RJshpCGNyEjensKBb8vEWzOsttjZy\/c9f3OOviyhKykJMxRaZ\/3hbqS1plbnkbJEuuXYhX1+gxXvwLqzhqQux7UpST8J6n2ULnprtDlEW1FKsWs1s1rv185KYi3HuWkfcP+\/NprXCQApQqVRfSyfOoBWzz+h6CuuIbZIa9Xu9LwzVhfbr1qDP1sz\/D86ZfgSU6NgMdiAJ0Ci9vYfneULGr0kdEK0VKcYq2xGQGJAe8zmObnir3iNwb7meHikrxUdcEd2xAvDif7rfg11cmxc2BwjxK8U2EYl0wkvDeCL4+gViWLFYEqVwi\/58k7NDFutA9jbKk8tQEso0Ca0rx2VVsSmnU\/NsbrkOt2pDdvxPEBlmUJZ1sRQmtKbewnxonTh8R3HuMizy5RR18FKhuPtQzvHbIBbVj9\/WKcPTrHnE0X2h\/cwM7aWTFyDrF2Wy3y\/UcSgUw2M6LbSIcxtuBzGvMJOZxI9cIP8NPqCrlrxhsxwEHwPHP53PXtsK0rFPBlLUlnJo1u\/pqwHUR+Sh5m2nkDHjuh3YRpKRIU7L2Bju7ykN0t+ZzCVTNAAj\/NqESJtHU6rWkplNe6DBn62Tgrb+QcsC0k38LIL3+6FGG96gzW6nnd5co0xXdj5w20pust3Ob0aexY9pctCdzogGBSqYbSYTXMwDp04F+TFcT5JTMQZKyVKQstINIpykKuAxFH+wvDd6FMs8Q3HB\/MBis8iZl11V+CpPAcxCYrOuR5FOIMoq2Ux4TeYTzhhb3R6IyOJTtZIdAPCOyFYAjyvHk5rwPbUfSE4BdJ7EOR2Ru02q6uSH8K9X98CB\/Y3CafWSxbvLU21+OT2ad5lgXsev2i0wISVJKqiG3B7RZTpJU4\/qxq1pclXjyBU4P6cXqDdH3yZsSCpPia9zOv\/+cqJKxwLakfJTYD041DXA0VzK82zdea4Uevbs06P98RNc2Q0BYzStu2zIC2NHB7RF0nNXgFzC3DGQrneH8oeUcpll5MofwThbDmYvwqxn6AXw28lWboWnKRRxXKXZOl5YuEj3JOXkbJqAUZK+D56ymtX2aY5onHTgZ2kK5MsD6UrmL843YJ8CtQVq8wNidhWpO\/IqpNrwLskWEIk6R6fNEHx0SQUr39scE2tx\/XtmFT1kIn2F1BR35h73EYAmUbGRaNbrPEF12xtZGYW9034FK3tvlr1wqLZgxfCORLJgQCl1ZvVMz8lOxbantTo3UE29vns+4rPHt\/vW7e\/iMPrfQKfwraK+RokJNYXy0W8OjEd2e3Chko5rxSNlaT0ceqgb5pThrmppD7I7ZymUbYeiGVzzeyWUN\/r0YjTa1TqYSvD3F4GMaICA0oOFNfFcT++aBD7Bx+txVB4OPC9vwYwO8bwoOJaJJfn9NzVtLn10BWdwEXCiIS0V2P3PYaDNO09KTH5qNaJPAjtko3DZMqZeRAtp3oaTdBIAuiktAuroNeMlGEPyQZ5dDW2k8kUWN13vIA4T9HEOzqnJnZqdSJInQFTe6QNrARd1FzuerSolSHwRtruDB3wICw4ND6ad7GAYZRvPYE05s4Q9+gjWp7shAFlQhFadmauxg\/0hnSnpnP+uzKiukhea8TlQM2NrJSsZN3Uy0YeUYNqkopc80R6ac51ieKr3JCRBnK8FePfLc0ZEU+Id4Nt\/3WHDeoyRGLUzZ0sx73wb9t3dLfSzmJ3knYBC4eI7X7l7Q9YZKzvVuYAxzfWM189uLXzDIRU6RJ5uatAlxREdhbJpxbsERe\/+Y6KsiMlmuhs63KZMQf2CGz9NolPxD4Gv3Wwjrg7CgueDxFiKEXlN5FQezSgX6RNzi9sScxA0NjioWMSgOjo2h86IX\/0QvWU9HdhF5H7PkvWKU83hcOnadHTCZ0FIRsCfaOrkFrLcWpSr2LdP\/pqmYAxLvttcMu+PtPvqzrbdmzwYO4+FCvj84Z2jMdfdP7rWGQgl\/X6ojiJmUSePLMnHdcGI3sQXhVP9jtRV54vq7o\/KZH2t6gB42RvrLtCLUA3z9yKOYrI0b1JFex3iptQ\/IUi7EBOKaBsqvMxWEzc3g0ksvgeOd9vIa40tqVvTCHdbavTMoVriy93a0eB\/3ryzn10k9Pmej7mXNxtjWbWhePyLYHPPDm5sUzQFWeJ+Z081a3xDoJp8gWU5ziXVnWR\/oMhw\/JscNIGE\/CHz62nHSjtdwBqybWDiAdttB0It8sStOgJVouaC9chYYBzuuupksQhIfRsv2d5pRxTSqU\/uaBBxCLrytLf+lor9so77WidLftLmR3MJoNlOmY4bpb6zwaNZi0DM+MDDzeDsXzMLX78MCopF2K8JEE9mm62DSIFceF\/43\/RbKmuxi02naDBAvzJcgoXnK73IMuwdUqfSxar5RzprEOH\/8UsyLBJXvU6KsvHAy5sNnOvdBCZwIAViy1uj\/kEF+0wfASjvwPnCcOjsKh6mRC5OsnvylySj+ojN2USfDe4H8wUwJdQ+5yZ8GA94ngVZ+upnnzKNcYoxd5+Uhe1x4n8xgM4t6td8eltz8irrufn791ulJEyMeznFfsul29hXyBKTjntUmlcoKPFN7LSdcvSElcDOuqT61p4aOyH+KfwYsdfoGh8mbNDLN41VltxxxC+ugw\/U07howMoknCW5JNR2w4Oh0WyFPJV9CXFKVsqLzhhEJg1jrWyyXhZf7ULDO3hSraYAYFE63cX+i2la\/bxYh\/a9RwNT6P8+AnKyp+9dyI389GDGV+\/bZQGcKr\/MbbULHVHjfC2NQgxZz5i43NWl0XnEhvJG5MovEbJ8mdXB1vBd9G6QlUNrL4kVexBVGzCMa1XQipjfVWoVYnplyWgTuq+6TOf4H\/j7I\/xtiGnOHsdfwyHkl32F616z+bfEFKoQgIrKxnOjFpgoX7dyPnHnkTkOElI\/7E7lHOmdPgCShOgmZdA1vn7xRt4qHS4ylPKgxSuEqk\/+Izeq4gFK4LetEb5YeeZB6ud3ZxPtQaUnSc7DbTXXUtTMiQ63obMgYg4k6Rv44ZV2pfFuIJf5B8oGBpsFTg6dOStH6H5cwPO8jwSUJmk0slqwuKp8KvmTvw8OH8Pt9AcVja1g8SIfNb\/QEks0O7D4XXVBIXIwKBa5b2dM0jmikMPg3oEPkOxb\/KoVThrP6e4b4U1Tm4aYDVUVoeZM16BcfxPBZoEzRT3WOKWY7mR\/vClt7bJ\/9oOy70odXsWuofvWQSV8HuMQhlk9BfZD+xEyh1eervGjc\/zozRuI\/EnPIYanOXQep1qx9t3Wr7afBtUfMDPjiU+WRQhRg35XZGRrB6udXXLFtmyWMAQnTlwm18s+1m6rHgxzyltArLmmIc8cZgg8w7yH\/RcbKxln4dx0b6Jy+HMtTRwF1Iw6fhQb1ROjD2VVLS79USQQRki3w6gd7gsxYgxS++R2rRvQOB01G6QDCWfPXEokTRPr0pB3UxgPP0oVNd1GflZ4DblQfUdLy2ra6ivUewo79qKF7vRvy9K0e8CKW6nJHzTz7vxVGnca8cVKOQQbSF+x83WMd79+uh7muoAa0+8OHQBWQfujYhVawamjEdKaBBlTOMR6rThYLN896gUHEXDcmlcyT0uXyifqlJLd63VMklmkSFmFs8nLTQxy1lTGXDk\/D58\/vHwGbKUBU6A84R4XmjUoQMjsyzgc3XRl2iccdJzBKRw\/Di1t+LzRmX1vAHEteeVVsvrrWrXAiUlUWJcILKIFWpOyCNsCSLBMrPVlveb6XHWT0ov1zaACr4YpuBD064\/FjJYVEXeBPiAN77bNRYrPMxuhSOVBy46LHMiaO3wfq\/ECfWzHiBuT9WKuliyr8uUMb6nWs7222kwFfbvWggAqszIbyCWgrIOC6JurBb\/5IdO5G6YXpz0Anz1bN1dXC+C7X7xDnHJNZNBTtUNk0\/fZVjX5XN6ZCwKWMwqJDbd0BczMQU3UK2XXs44TAEAAxvnzRRBlh\/mIjAIm+hLSXiTpL+hIts8h1jupUz1kfqhcXvs08crMeGu2CCJKJt6ehUwgJM\/uI2CJ2RVwxFnw+OilbD2MwBgtt+L\/6EkTjfpPkkN\/fCIVBS2K\/sx3hIpHwn5IGrYkcdJShhQO9q1Jl6oNxhykTsN6B8mKrkrVlIl\/AOO3ER58CWHx7LrtVr0kNrCXjDaik2+ZU3uTyfxy5caqaWBAwJKgeG\/dWYtk0JnNPno3yo6zug7fG7zpb\/Vfrx064MqnooYfLYGXXYYXnTSuL0QEYsZLXcRInhLaWtcZpy7IWebpWoJMfybkT9NADRmKfipv34TCXFqhMBK06xA+31p6FEkjlNis0b4uM\/ZIXLv3IXe8YMLassf0geKG58wTQVEWLIUv8JcMw7okwhg5dENm8pYFPXglXySjLmpwQZXtMMjsmbpjUih8H2s0qJLVZi\/dezzia\/Qntzac3bGBEn6cZJLUr3hj4TObdKATEMXY4owrzNLpXyhbkCTmknsYRNwCYaW3qAxlKW9KqQpeuQBwun249sHBJbn2uzxheKtsNCFxU\/59df5Tvr7fZij01n9J50fIK82e2c2TMvpXkC3kBGYSKTl\/jKX2W0KPW43QyiaSGO\/zN7feXVW6nKZrq9X2JdGx2pilueC\/KeZzkmVDGnhKKZOghLrgfN7eU4qG6YKUWqA96K\/M+Sas6\/OSIIYPDDOsOpRQq5ickfRtEJlY1nd5TfpCH\/8nMb4JBueKtl9tlkRaoR6\/u7vBqEYkH56I85yUdn0O1Y51F5UeFeHfyVHO40E9cGHV\/YjOwskdcHXY+qhQ+wx2wfAmH5B2euKeIg4c6Mv7GSjgB9iah6mL496N7UiANfwhKMJNo8xb9x7nd5jsEozptsBLXXNSb0IB2Y2N7xBjC6bYwEzdAxRUBXSBphQJEnHDnABKhoTjrs2sLw2vY+nKZXEOShHAe0SWZTf9DJcpOaFfyk5SwrMhI3adBMmyPDyUZ0OWwhWubnPGA5l60eKivWBDSa8hgeGiHZ5hQegoFZBTjcSKqnBpeNXAa8mZhO8eyXqPCw0oDxv0AePKTk0ItJyuREHwsgGJ1W9rJkOrPQUxx8DncTclBw5RWyVtva5ru72I3t6unzJYwTzsNL6peq3aSDMEMQ==",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/mh9BvXvsxoRt2VwDBqXIVelkjjJrqSBaZhfLksfh10Q.js",
+
+      'HL_LOCALE': "en_US",
+
+      'TTS_URL': "http:\/\/www.youtube.com\/api\/timedtext?hl=en_US\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026caps=asr\u0026key=yttt1\u0026signature=2F5DEE21A953907CD6E01BDE743700E62DC9FAB5.73BE3FD7A97FAFC818D393374DE2C2383FF149AD\u0026v=7tnzj_PE6lQ\u0026expire=1402530517\u0026asr_langs=ko%2Cru%2Cde%2Cen%2Cja%2Ces%2Cit%2Cfr%2Cpt%2Cnl",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': 0,
+      'ALLOW_RATINGS': true,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {"socialEnabled": false, "rmktEnabled": true, "ytfocHistoryEnabled": false, "aid": "P--N7mIVKbs", "ytfocEnabled": true, "uid": "l3xZ-f3cQhOHvH6f-7-ssQ", "vid": "7tnzj_PE6lQ", "baseUrl": "http:\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/962985656\/", "rmktPingThreshold": 0, "focEnabled": true},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': true,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"show_pyv": false, "show_companion": false, "check_status": false, "use_gut": false, "show_afv": false, "show_instream": false, "show_afc": false, "log_pyv": false},
+      'PLAYBACK_ID': "AAT7kjdA9j1DJjU7",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': ""
+    });
+
+    yt.setMsg({
+        'HTML5_SUBS_ASR': "automatic captions",
+      'LOADING': "Loading..."    });
+
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbG1KRERBdVJMZHZaUUlzOXZ4eF83QTI3YmI5d3xBQ3Jtc0tsbXdkTGNlcTNYOVJsMmdrT2VlWThjc0RYb211ZFNqNzNGelI4Ry0yQWJpcmdubnFMcjFTa09ac1lXUGFsZk5ac0VlbzFVNzhJelgxY0ZMclN2cXpJU2tib2tleXdZYmduV1ZXTkpUR0FMNWM0cnhwSWdhWFFSSFR3OTRzTjh0ZGpzZ0VxODhGRWk2LWpqWFZib051bG5UcDhiOEE=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+      yt.setConfig('DISTILLER_CONFIG', {"video_id": "7tnzj_PE6lQ", "signin_url": "https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026hl=en\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dcomments%26hl%3Den%26next%3D%252Fwatch%253Fv%253D7tnzj_PE6lQ\u0026passive=true", "host_override": "https:\/\/plus.googleapis.com", "owner_id": "l3xZ-f3cQhOHvH6f-7-ssQ", "reauth": false, "privacy_setting": "PUBLIC", "channel_id": "UCl3xZ-f3cQhOHvH6f-7-ssQ", "page_size": null, "query": "http:\/\/www.youtube.com\/watch?v=7tnzj_PE6lQ"});
+
+
+  
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+yt.setConfig({'EVENT_ID': "ZYiYU6u5JvH-iAaitYCICg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.TY07tiUU0tE.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNfGmB_-do3YO3g20AHt3L6itPzpQ",'GAPI_LOCALE': "en_US",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "Cgs5Smk3eXd6MmdKcw%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "PT",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20140603",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflJ-fDqc.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflOO0AKr\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vfloTNTLX.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vfl672lIU.css",'PREFETCH_CSS_RESOURCES' : ["http:\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js",''         ],'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"amPms": ["AM", "PM"], "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatShortDate": "MMM d, yyyy", "formatLongDateOnly": "MMMM d, yyyy", "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "formatWeekdayShortTime": "EE h:mm a", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "formatLongDate": "MMMM d, yyyy h:mm a"},'PAGE_CL': 68561176,'PAGE_BUILD_TIMESTAMP': "Wed Jun  4 13:21:47 2014 (1401913307)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"accept_language": "en-us", "is_branded": "", "is_partner": "", "logged_in": false, "guide_subs": "NA", "experiments": "900356,901812,902022,906001,906957,911507,912714,912909,913434,918119,918121,919389,920605,921410,921905,922316,922804,923341,924203,927006,927616,927881,927906,929237,930008,930819,931020,931339,931341,931943,931950,931967,931970,931978,932617,933218,934026,934113,935707,936118,937003,937803,937817,938006,938626,938632,938639,938664,938667,938675,939201,941414,943301,943407,944702,945114,946801"}});yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbG1KRERBdVJMZHZaUUlzOXZ4eF83QTI3YmI5d3xBQ3Jtc0tsbXdkTGNlcTNYOVJsMmdrT2VlWThjc0RYb211ZFNqNzNGelI4Ry0yQWJpcmdubnFMcjFTa09ac1lXUGFsZk5ac0VlbzFVNzhJelgxY0ZMclN2cXpJU2tib2tleXdZYmduV1ZXTkpUR0FMNWM0cnhwSWdhWFFSSFR3OTRzTjh0ZGpzZ0VxODhGRWk2LWpqWFZib051bG5UcDhiOEE=",
+    'XSRF_REDIRECT_TOKEN': "WqLx9eSmBiG48UxJaWy3REBUTX18MTQwMjU5MTcxN0AxNDAyNTA1MzE3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "http:\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vflc4nA10.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl1kVl-L.js",'SBOX_SETTINGS': {"HAS_ON_SCREEN_KEYBOARD": false, "REQUEST_LANGUAGE": "en", "EXPERIMENT_ID": -1, "PSUGGEST_TOKEN": null, "SESSION_INDEX": null, "REQUEST_DOMAIN": "pt"},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed", "SUGGESTION_DISMISS_LABEL": "Dismiss"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vfl_e-1q2.js",
+    'YPC_LOADER_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflZOrvGI.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 165);yt.setConfig({'TIMING_ACTION': "watch,watch7",'TIMING_INFO': {"yt_spf": 0, "yt_li": 0, "e": "900356,913434,923341,924203,930008,932617,934026,936118", "ei": "ZYiYU6u5JvH-iAaitYCICg", "yt_ref": "user", "yt_lt": "cold", "yt_pl": 0, "yt_ad": 0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbG1KRERBdVJMZHZaUUlzOXZ4eF83QTI3YmI5d3xBQ3Jtc0tsbXdkTGNlcTNYOVJsMmdrT2VlWThjc0RYb211ZFNqNzNGelI4Ry0yQWJpcmdubnFMcjFTa09ac1lXUGFsZk5ac0VlbzFVNzhJelgxY0ZMclN2cXpJU2tib2tleXdZYmduV1ZXTkpUR0FMNWM0cnhwSWdhWFFSSFR3OTRzTjh0ZGpzZ0VxODhGRWk2LWpqWFZib051bG5UcDhiOEE=",
+    'XSRF_REDIRECT_TOKEN': "WqLx9eSmBiG48UxJaWy3REBUTX18MTQwMjU5MTcxN0AxNDAyNTA1MzE3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
+//]]>
+    </script>
+  </body>
+</html>

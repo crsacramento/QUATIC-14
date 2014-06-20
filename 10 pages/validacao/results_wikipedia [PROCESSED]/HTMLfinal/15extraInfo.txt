@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road
+RATIOTOTAL:0.4711926659717965
+RATIOPREVIOUS:111.214
+SELENIUMSTEP:16

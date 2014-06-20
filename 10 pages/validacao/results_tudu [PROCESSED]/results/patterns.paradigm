@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Paradigm:Model xmi:version="2.0"
+ xmlns:xmi="http://www.omg.org/XMI" xmlns:Paradigm="http://www.example.org/Paradigm"
+title="http://app.rasc.ch/tudu/welcome.action" >
+	<nodes xsi:type="Paradigm:Init" name="Init" number="0" outgoingLinks="//@relations.0"/>
+	<nodes xsi:type="Paradigm:Login" name="Login1" number="1" incomingLinks="//@relations.0" outgoingLinks="//@relations.1">
+		<configurations validity="Invalid" check="StayOnSamePage" >
+			<inputs  field="username" value="testes"/>
+			<inputs  field="password" value="321abc"/>
+		</configurations>
+		<fields name="username" id="//input[@name=j_username and @type=text]"/>
+		<fields name="password" id="//input[@name=j_password and @type=password]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input2" number="2" incomingLinks="//@relations.1" outgoingLinks="//@relations.2">
+		<configurations value="banana" />
+		<field name="input_0" id="//input[@name=name and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Call" name="Call4" number="4" incomingLinks="//@relations.3" outgoingLinks="//@relations.4">
+		<configurations />
+		<field name="call_0" id="//a[@title=My info and @href=http://app.rasc.ch/tudu/secure/myInfo.action and contains(text(),'My info')]]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input5" number="5" incomingLinks="//@relations.4" outgoingLinks="//@relations.5">
+		<configurations value="EMPTY" />
+		<field name="input_0" id="//input[@name=firstName and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input7" number="7" incomingLinks="//@relations.6" outgoingLinks="//@relations.7">
+		<configurations value="shirt" />
+		<field name="input_0" id="//input[@name=lastName and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Call" name="Call9" number="9" incomingLinks="//@relations.8" outgoingLinks="//@relations.9">
+		<configurations />
+		<field name="call_0" id="//a[@title=My Todos and @href=http://app.rasc.ch/tudu/secure/showTodos.action and contains(text(),'My Todos')]]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Call" name="Call10" number="10" incomingLinks="//@relations.9" outgoingLinks="//@relations.10">
+		<configurations />
+		<field name="call_0" id="//a[@href=http://app.rasc.ch/tudu/welcome.action and contains(text(),'Click here if you want to reconnect')]]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input11" number="11" incomingLinks="//@relations.10" outgoingLinks="//@relations.11">
+		<configurations value="EMPTY" />
+		<field name="input_0" id="//input[@name=priority and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input12" number="12" incomingLinks="//@relations.11" outgoingLinks="//@relations.12">
+		<configurations value="EMPTY" />
+		<field name="input_0" id="//input[@id=editDueDateId and @name=dueDate and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input13" number="13" incomingLinks="//@relations.12" outgoingLinks="//@relations.13">
+		<configurations value="sandals" />
+		<field name="input_0" id="//input[@name=description and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input14" number="14" incomingLinks="//@relations.13" outgoingLinks="//@relations.14">
+		<configurations value="shirt" />
+		<field name="input_0" id="//input[@id=addDueDateId and @name=dueDate and @type=text]"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:Input" name="Input16" number="16" incomingLinks="//@relations.15" outgoingLinks="//@relations.16">
+		<configurations value="shirt" />
+		<field name="input_0" id="//textarea[@name=notes and @onfocus=keyboardListener='off']"/>
+	</nodes>
+	<nodes xsi:type="Paradigm:End" name="End" number="18" incomingLinks="//@relations.17"/>
+
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.0" destination="//@nodes.1"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.1" destination="//@nodes.2"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.2" destination="//@nodes.3"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.3" destination="//@nodes.4"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.4" destination="//@nodes.5"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.5" destination="//@nodes.6"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.6" destination="//@nodes.7"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.7" destination="//@nodes.8"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.8" destination="//@nodes.9"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.9" destination="//@nodes.10"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.10" destination="//@nodes.11"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.11" destination="//@nodes.12"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.12" destination="//@nodes.13"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.13" destination="//@nodes.14"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.14" destination="//@nodes.15"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.15" destination="//@nodes.16"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.16" destination="//@nodes.17"/>
+	<relations xsi:type="Paradigm:Sequence" label=">>" source="//@nodes.17" destination="//@nodes.18"/>
+</Paradigm:Model>

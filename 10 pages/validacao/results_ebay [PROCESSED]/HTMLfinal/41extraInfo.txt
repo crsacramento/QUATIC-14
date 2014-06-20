@@ -1,0 +1,4 @@
+URL:https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062
+RATIOTOTAL:0.7088082398874203
+RATIOPREVIOUS:-137.446
+SELENIUMSTEP:49

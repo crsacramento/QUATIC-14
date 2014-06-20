@@ -1,0 +1,8 @@
+URL:https://www.amazon.com/ap/forgotpassword
+RATIOTOTAL:0.012934717806759205
+RATIOPREVIOUS:-0.348
+SELENIUMSTEP:9
+INPUT-PATTERN-TEXTBOX://input[@id=ap_email and @name=email and @type=email]
+INPUT-PATTERN-TEXT:username
+INPUT-PATTERN-TEXTBOX://input[@id=ap_captcha_guess and @name=guess and @type=text]
+INPUT-PATTERN-TEXT:coffee

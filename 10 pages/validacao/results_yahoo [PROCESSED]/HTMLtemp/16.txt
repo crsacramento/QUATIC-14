@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>
+      Yahoo Search - Web Search
+    </title>
+    <meta name="description" content="The search engine that helps you find exactly what you're looking for. Find the most relevant information, video, images, and answers from all across the Web."/>
+    <link rel="apple-touch-icon" sizes="72x72" href="http://l.yimg.com/pv/static/img/yahoo_icon_ipad_76.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="http://l.yimg.com/pv/static/img/yahoo_icon_ipad_152.png"/>
+    <link rel="stylesheet" type="text/css" href="http://l.yimg.com/zz/combo?kx/yucs/uh_common/meta/3/css/meta-min.css&amp;kx/yucs/uh3/uh3_top_bar/css/301/no_icons-min.css&amp;pv/static/lib/syc-purple_201404041600.css"/>
+    <style>
+      #logo{height:37px;width:142px;top: 0;left: 0;position:absolute;margin-top:5px;display: block;overflow: hidden;text-indent: -9999px;background-repeat:no-repeat;outline: none;}#logo{ background-image:url(http://l.yimg.com/rz/l/yahoo_en-US_f_p_142x37.png);*background-image:url(http://l.yimg.com/rz/l/yahoo_en-US_f_p_142x37.gif);}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {#logo{background-image:url(http://l.yimg.com/rz/l/yahoo_en-US_f_p_142x37_2x.png); background-size: 142px}}#logo {background-size:350px;}.logo-container{position:relative;}
+    </style>
+  </head>
+  <body id="syc" class=" ie microsoft windows v8_0 ">
+    <div id="hd">
+      <div id="yucsHead" class="yucs-srp yucs-en-us ua-ie ua-ie7 yucs-standard">
+        <!-- meta -->        <div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="IiDwF4UkVbe" data-device="desktop" data-firstname="" data-flight="1402520339" data-forcecobrand="standard" data-guid="" data-host="search.yahoo.com" data-https="0" data-languagetag="en-us" data-property="srp" data-protocol="http" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="95810469" data-userid="">
+        </div>
+        <!-- /meta -->        <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-srp yucs-fcb- " data-disclaimertext="Do Not Track is no longer enabled on Yahoo. Your experience is now personalized. {disclaimerLink}More info{linkEnd}" data-ylt-link="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AgOSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2finfo.yahoo.com%2fprivacy%2fus%2fyahoo%2f/RK=0/RS=nWfnVNtmoXvFHhZ9NysAQLkLN_A-" data-ylt-disclaimerbarclose="/;_ylt=A0LEV1QSw5hTii0AgeSl87UF" data-ylt-disclaimerbaropen="/;_ylt=A0LEV1QSw5hTii0AguSl87UF" data-linktarget="_top" data-lang="en-us" data-property="srp" data-device="Desktop" data-close-txt="Close this window">
+        </div>
+        <div id="yucs" class="yucs-mc " data-lang="en-us" data-property="srp" data-flight="1402520339" data-linktarget="_top" data-uhvc="/;_ylt=A0LEV1QSw5hTii0Ag.Sl87UF">
+          <!--topbar-->          <style>
+            #doc.uh3lite, .uh3lite #yucsHead, #yucsHead, #doc.uh3lite #hd {
+    margin-top: 0!important;
+}
+          </style>
+          <div id="yucs-top-bar" class="yucs-ps">
+            <div id="yucs-top-inner">
+              <ul id="yucs-top-list">
+                <li id="yucs-top-home" class="yucs-top-first">
+                  <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AhOSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2f/RK=0/RS=ZECUsiVyc06mBJ0Rt3HvvtTsz8I-">
+                    <span class="sp yucs-top-ico">
+                    </span>
+                    Home
+                  </a>
+                </li>
+                <li id="yucs-top-mail">
+                  <a href="https://mail.yahoo.com/;_ylt=A0LEV1QSw5hTii0AheSl87UF?.intl=us&amp;.lang=en-US&amp;.src=ym">
+                    Mail
+                  </a>
+                </li>
+                <li id="yucs-top-news">
+                  <a href="http://news.yahoo.com/;_ylt=A0LEV1QSw5hTii0AhuSl87UF">
+                    News
+                  </a>
+                </li>
+                <li id="yucs-top-sports">
+                  <a href="http://sports.yahoo.com/;_ylt=A0LEV1QSw5hTii0Ah.Sl87UF">
+                    Sports
+                  </a>
+                </li>
+                <li id="yucs-top-finance">
+                  <a href="http://finance.yahoo.com/;_ylt=A0LEV1QSw5hTii0AiOSl87UF">
+                    Finance
+                  </a>
+                </li>
+                <li id="yucs-top-weather">
+                  <a href="https://weather.yahoo.com/;_ylt=A0LEV1QSw5hTii0AieSl87UF">
+                    Weather
+                  </a>
+                </li>
+                <li id="yucs-top-games">
+                  <a href="https://games.yahoo.com/;_ylt=A0LEV1QSw5hTii0AiuSl87UF">
+                    Games
+                  </a>
+                </li>
+                <li id="yucs-top-groups">
+                  <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0Ai.Sl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fgroups.yahoo.com%2f/RK=0/RS=UQ.vCY7fuRgRT4atGRupbx5VxlY-">
+                    Groups
+                  </a>
+                </li>
+                <li id="yucs-top-answers">
+                  <a href="https://answers.yahoo.com/;_ylt=A0LEV1QSw5hTii0AjOSl87UF">
+                    Answers
+                  </a>
+                </li>
+                <li id="yucs-top-screen">
+                  <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AjeSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fscreen.yahoo.com%2f/RK=0/RS=lL5nXKvD.DQMjA0zyvtmtrb.Qdw-">
+                    Screen
+                  </a>
+                </li>
+                <li id="yucs-top-flickr">
+                  <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AjuSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fwww.flickr.com%2f/RK=0/RS=tWmEmMB2CMXT9dyiCIx3OcgdJZs-">
+                    Flickr
+                  </a>
+                </li>
+                <li id="yucs-top-mobile">
+                  <a href="https://mobile.yahoo.com/;_ylt=A0LEV1QSw5hTii0Aj.Sl87UF">
+                    Mobile
+                  </a>
+                </li>
+                <li id="yucs-more" class="yucs-menu yucs-more-activate" data-ylt="/;_ylt=A0LEV1QSw5hTii0AkOSl87UF">
+                  <a href="#" id="yucs-more-link" class="yucs-leavable">
+                    More
+                    <span class="sp yucs-top-ico">
+                    </span>
+                  </a>
+                  <div id="yucs-top-menu">
+                    <div class="yui3-menu-content">
+                      <ul class="yucs-hide yucs-leavable">
+                        <li id="yucs-top-celebrity">
+                          <a href="https://celebrity.yahoo.com/;_ylt=A0LEV1QSw5hTii0AkeSl87UF">
+                            Celebrity
+                          </a>
+                        </li>
+                        <li id="yucs-top-shine">
+                          <a href="https://shine.yahoo.com/;_ylt=A0LEV1QSw5hTii0AkuSl87UF">
+                            Shine
+                          </a>
+                        </li>
+                        <li id="yucs-top-movies">
+                          <a href="https://movies.yahoo.com/;_ylt=A0LEV1QSw5hTii0Ak.Sl87UF">
+                            Movies
+                          </a>
+                        </li>
+                        <li id="yucs-top-music">
+                          <a href="https://music.yahoo.com/;_ylt=A0LEV1QSw5hTii0AlOSl87UF">
+                            Music
+                          </a>
+                        </li>
+                        <li id="yucs-top-tv">
+                          <a href="https://tv.yahoo.com/;_ylt=A0LEV1QSw5hTii0AleSl87UF">
+                            TV
+                          </a>
+                        </li>
+                        <li id="yucs-top-health">
+                          <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AluSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2fhealth.yahoo.com%2f/RK=0/RS=adqSei4.g4KVjTFw2F8KoUhDF0I-">
+                            Health
+                          </a>
+                        </li>
+                        <li id="yucs-top-food">
+                          <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0Al.Sl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ffood/RK=0/RS=ManrsBYK7IUI62J4u8VnNR97ugc-">
+                            Food
+                          </a>
+                        </li>
+                        <li id="yucs-top-tech">
+                          <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AmOSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ftech/RK=0/RS=LRIXF0va_5Fuyi7ocnlZMajhaJY-">
+                            Tech
+                          </a>
+                        </li>
+                        <li id="yucs-top-shopping">
+                          <a href="http://shopping.yahoo.com/;_ylt=A0LEV1QSw5hTii0AmeSl87UF">
+                            Shopping
+                          </a>
+                        </li>
+                        <li id="yucs-top-travel">
+                          <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AmuSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fwww.yahoo.com%2ftravel/RK=0/RS=5upNjSUcV7Iz69hBWo4sIbaUaQQ-">
+                            Travel
+                          </a>
+                        </li>
+                        <li id="yucs-top-autos">
+                          <a href="https://autos.yahoo.com/;_ylt=A0LEV1QSw5hTii0Am.Sl87UF">
+                            Autos
+                          </a>
+                        </li>
+                        <li id="yucs-top-homes">
+                          <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AnOSl87UF/RV=2/RE=1402549139/RO=10/RU=https%3a%2f%2fhomes.yahoo.com%2fown-rent%2f/RK=0/RS=4XOrbCiCLU0Qd3KRsYP_qAOFuZk-">
+                            Homes
+                          </a>
+                        </li>
+                      </ul>
+                      <!-- /yucs-hide -->                    </div>
+                    <!-- /yui3-menu-content -->                  </div>
+                  <!-- yucs-top-menu -->                </li>
+              </ul>
+              <!-- /yucs-top-list -->            </div>
+            <!-- /yucs-top-inner -->          </div>
+          <!-- /yucs-top-bar -->          <!--/topbar-->        </div>
+      </div>
+    </div>
+    <div id="purple-syc">
+      <div id="bd">
+        <script src="http://l.yimg.com/rz/l/ai.min.js">
+        </script>
+        <div class="logo-container">
+          <a id="logo" target="_top" href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AoeSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2fwww.yahoo.com%2f/RK=0/RS=ERwYgkhcyYUDdH_npjkWO9fzUeM-" class="ai-large ai-purple ai-autoplay" style="visibility:hidden">
+            Yahoo
+          </a>
+        </div>
+        <noscript>
+          <a id="logo" target="_top" href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0AoeSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2fwww.yahoo.com%2f/RK=0/RS=ERwYgkhcyYUDdH_npjkWO9fzUeM-" class="ai-large ai-purple ai-autoplay" style="visibility:visible">
+            Yahoo
+          </a>
+        </noscript>
+        <div class="sbx">
+          <form method="get" name="s" id="sf" role="search" action="https://search.yahoo.com/search;_ylt=A0LEV1QSw5hTii0AouSl87UF" accept-charset="utf-8">
+            <label for="yschsp" class="off-left">
+              Search query
+            </label>
+            <div id="sbq-wrap" class="sbq-w">
+              <input type="text" class="sbq" id="yschsp" name="p" value="" autocomplete="off" autofocus="" tabindex="1" onfocus="this.setAttribute('dirty',1);"/>
+            </div>
+            <input type="submit" class="sbb" value="Search" tabindex="2"/>
+            <input type="hidden" name="fr" value="sfp"/>
+            <input type="hidden" name="fr2" value=""/>
+            <input type="hidden" name="iscqry" id="iscqry"/>
+          </form>
+        </div>
+      </div>
+      <div id="promo">
+        <div id="promo-bd">
+          Please try the full Yahoo experience at 
+          <a href="http://yahoo.com">
+            Yahoo.com
+          </a>
+        </div>
+      </div>
+      <div class="newsWeatherTrending">
+        <div class="borderTop">
+        </div>
+        <div class="regionsContainer">
+          <ol class="reg searchLeftMiddle">
+            <li class="last">
+              <div class="dd SycNews">
+                <div class="compTitle">
+                  <h3 class="title d-inline">
+                    Top News
+                  </h3>
+                </div>
+                <div class="compList">
+                  <ul>
+                    <li>
+                      <a href="http://news.yahoo.com/jihadists-bulldoze-berm-dividing-iraq-syria-195620030.html">
+                        Jihadists say Iraq-Syria border smashed
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://news.yahoo.com/defeated-cantor-says-he-won-t-try-a-write-in-campaign-161637338.html" title="Cantor loss touches off ‘Game of Thrones’ House GOP struggle">
+                        Cantor loss touches off ‘Game of Thrones’...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://news.yahoo.com/ntsb-looking-role-commute-morgan-crash-192425534.html" title="NTSB: Driver in Morgan crash had multi-state commute">
+                        NTSB: Driver in Morgan crash had multi-state...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://news.yahoo.com/police-shooter-oregon-school-had-assault-rifle-183042092.html" title="Police say Oregon school shooter had assault rifle">
+                        Police say Oregon school shooter had assault...
+                      </a>
+                    </li>
+                    <li class=" last">
+                      <a href="http://news.yahoo.com/las-vegas-gunman-killed-police-not-wife-authorities-192124662.html" title="Police: Vegas gunman killed by officers, not wife">
+                        Police: Vegas gunman killed by officers, not...
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ol>
+          <ol class="reg searchCenterTop">
+            <li class="last">
+              <div class="dd SycWeather">
+                <div class="compWeatherTitle">
+                  <div class="left">
+                    <h3>
+                      Porto
+                    </h3>
+                    <span class="currentTemprature">
+                      66°
+                    </span>
+                    <span class="tempratureFormat">
+                      F
+                    </span>
+                    <span class="weatherStatus">
+                      Fair
+                    </span>
+                  </div>
+                  <div class="right">
+                    <img src="http://l.yimg.com/fz/api/res/1.2/.Ylo_4EHM86gv55zVNMk5Q--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/31n.png" alt="Clear"/>
+                  </div>
+                </div>
+                <ol class="compWeatherList">
+                  <li class="compWeatherListItem ">
+                    <div class="thmb ">
+                      <noscript>
+                        <img src="http://l.yimg.com/fz/api/res/1.2/.Ylo_4EHM86gv55zVNMk5Q--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/31n.png" alt="Clear" title="Clear"/>
+                      </noscript>
+                      <img class="s-img hidden" src="http://l.yimg.com/fz/api/res/1.2/.Ylo_4EHM86gv55zVNMk5Q--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/31n.png" alt="Clear" title="Clear"/>
+                    </div>
+                    <h4>
+                      Today
+                    </h4>
+                    <span class="maxTemprature">
+                      74°
+                    </span>
+                    <span class="minTemprature">
+                      60°
+                    </span>
+                  </li>
+                  <li class="compWeatherListItem leftBorder">
+                    <div class="thmb ">
+                      <noscript>
+                        <img src="http://l.yimg.com/fz/api/res/1.2/jMCx1XLYoBAopgXbdOqrGw--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/32d.png" alt="Sunny" title="Sunny"/>
+                      </noscript>
+                      <img class="s-img hidden" src="http://l.yimg.com/fz/api/res/1.2/jMCx1XLYoBAopgXbdOqrGw--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/32d.png" alt="Sunny" title="Sunny"/>
+                    </div>
+                    <h4>
+                      Tomorrow
+                    </h4>
+                    <span class="maxTemprature">
+                      81°
+                    </span>
+                    <span class="minTemprature">
+                      64°
+                    </span>
+                  </li>
+                  <li class="compWeatherListItem leftBorder">
+                    <div class="thmb ">
+                      <noscript>
+                        <img src="http://l.yimg.com/fz/api/res/1.2/jMCx1XLYoBAopgXbdOqrGw--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/32d.png" alt="Sunny" title="Sunny"/>
+                      </noscript>
+                      <img class="s-img hidden" src="http://l.yimg.com/fz/api/res/1.2/jMCx1XLYoBAopgXbdOqrGw--/YXBwaWQ9c3JjaGRk/http://l.yimg.com/a/i/us/nws/weather/gr/32d.png" alt="Sunny" title="Sunny"/>
+                    </div>
+                    <h4>
+                      Friday
+                    </h4>
+                    <span class="maxTemprature">
+                      84°
+                    </span>
+                    <span class="minTemprature">
+                      66°
+                    </span>
+                  </li>
+                </ol>
+              </div>
+            </li>
+          </ol>
+          <ol class="reg searchRightMiddle">
+            <li class="last">
+              <div class="dd SycTrend">
+                <div class="compTitle">
+                  <h3 class="title d-inline">
+                    Trending Searches
+                  </h3>
+                </div>
+                <div class="compList">
+                  <ul>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Scott%20Caan">
+                        Scott Caan
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Chaining%206-year-old%20son" title="Chaining 6-year-old son">
+                        Chaining...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Tanith%20Belbin">
+                        Tanith Belbin
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Yellowstone%20falling%20tree" title="Yellowstone falling tree">
+                        Yellowstone...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Weight%20loss">
+                        Weight loss
+                      </a>
+                    </li>
+                  </ul>
+                  <ul>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Shailene%20Woodley" title="Shailene Woodley">
+                        Shailene...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Lamborghini%20crash" title="Lamborghini crash">
+                        Lamborghini...
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Keira%20Knightley">
+                        Keira Knightley
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Toyota%20recall">
+                        Toyota recall
+                      </a>
+                    </li>
+                    <li class=" last">
+                      <a href="http://search.yahoo.com/search?cs=bz&amp;p=Dumb%20and%20Dumber%20To" title="Dumb and Dumber To">
+                        Dumb and Dumber...
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ol>
+        </div>
+        <div class="borderBottom">
+        </div>
+      </div>
+      <div id="ft">
+        <ul>
+          <li class="copyright">
+            Yahoo
+          </li>
+          <li>
+            <a href="http://help.yahoo.com/l/us/yahoo/search/;_ylt=A0LEV1QSw5hTii0Ao.Sl87UF">
+              Help
+            </a>
+          </li>
+          <li>
+            <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0ApOSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2finfo.yahoo.com%2fprivacy%2fus%2fyahoo%2fsearch%2fdetails.html/RK=0/RS=Y8ZibhNKlIunRouhJ4GMY1gwc0k-">
+              Privacy
+            </a>
+          </li>
+          <li>
+            <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0ApeSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2finfo.yahoo.com%2flegal%2fus%2fyahoo%2futos%2futos-173.html/RK=0/RS=OCv.X5opxsfDD09zrcprBL4THIc-">
+              Terms
+            </a>
+          </li>
+          <li>
+            <a href="http://ri.search.yahoo.com/_ylt=A0LEV1QSw5hTii0ApuSl87UF/RV=2/RE=1402549139/RO=10/RU=http%3a%2f%2fadvertising.yahoo.com%2farticle%2fsearch-advertising.html/RK=0/RS=Y9J6Qgknnx_4hpd1jw7Gw28Z3gI-">
+              Advertise
+            </a>
+          </li>
+          <li>
+            <a href="http://search.yahoo.com/info/submit.html;_ylt=A0LEV1QSw5hTii0Ap.Sl87UF">
+              Submit Your Site
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+(function(){var d=document;window.onload=function(){var h=d.getElementsByTagName("head")[0],o=d.createElement("script");o.src="http://l.yimg.com/pv/static/lib/syc-purple_201404301444.js";YUI_config={"spaceid":"95810469","pvid":"egeZNDk4LjHhuSZrU5jCqAxZMTkzLlOYwxL_tuKI","testid":"","comboBase":"http:\/\/l.yimg.com\/zz\/combo?","combine":true,"injected":true,"root":"yui:3.10.0\/build\/","beacon":"http:\/\/search.yahoo.com\/beacon\/b.gif","core":["get","features","intl-base","yui-later","loader-base","loader-rollup","loader-yui3"],"debug":false,"sa":{"property":"web","searchBox":"#yschsp","hostNodeToAttach":"#sbq-wrap","maxSuggests":10,"anyKeySearch":false,"enableTrending":false,"autoAlign":false,"cancelButton":true,"tcpPreConnect":false,"quietMode":false,"ariaPlug":true,"stream":false,"webHistory":{"bcrumb":"Fuw7.ivp.0T","crumb":"9UycB0dxsAf","highlightHistory":false},"smw":false,"reverseHighlight":true,"subAssist":true,"device":{"tablet":{"skin":"desktop"}},"dataSrc":{"url":"https:\/\/search.yahoo.com\/sugg\/gossip\/gossip-us-ura\/","supportsEmptyQuery":true},"lang":"en-US","ult":{"spaceId":"95810469","csrcpvid":"egeZNDk4LjHhuSZrU5jCqAxZMTkzLlOYwxL_tuKI","vtestid":"","mtestid":""},"extraUltParams":{"fr":"","n_rslt":0},"yltCustom":"_ylt=A0LEV1QSw5hTii0AoOSl87UF","geo":[],"gossipParams":{"f":1},"https":true},"uh":"http:\/\/l.yimg.com\/zz\/combo?kx\/yucs\/uh3\/uh\/js\/771\/uh-min.js\u0026kx\/yucs\/uh3\/uh\/js\/607\/menu_utils_v3-min.js\u0026kx\/yucs\/uh_common\/meta\/13\/js\/meta-min.js\u0026kx\/yucs\/uh3\/disclaimer\/js\/188\/disclaimer_seed-min.js\u0026kx\/yucs\/uh3\/uh3_top_bar\/js\/274\/top_bar_v3-min.js"};h.appendChild(o);};}());
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+(function(c){var e="https://",a=c&&c.JSON,f="ypcdb",g=document,d=["yahoo.com","flickr.com","rivals.com","yahoo.net","yimg.com"],b;function i(l,o,n,m){var k,p;try{k=new Date();k.setTime(k.getTime()+m*1000);g.cookie=[l,"=",encodeURIComponent(o),"; domain=",n,"; path=/; max-age=",m,"; expires=",k.toUTCString()].join("")}catch(p){}}function h(l){var k,m;try{k=new Image();k.onerror=k.onload=function(){k.onerror=k.onload=null;k=null};k.src=l}catch(m){}}function j(u,A,n,y){var w=0,v,z,x,s,t,p,m,r,l,o,k,q;try{b=location}catch(r){b=null}try{if(a){k=a.parse(y)}else{q=new Function("return "+y);k=q()}}catch(r){k=null}try{v=b.hostname;z=b.protocol;if(z){z+="//"}}catch(r){v=z=""}if(!v){try{x=g.URL||b.href||"";s=x.match(/^((http[s]?)\:[\/]+)?([^:\/\s]+|[\:\dabcdef\.]+)/i);if(s&&s[1]&&s[3]){z=s[1]||"";v=s[3]||""}}catch(r){z=v=""}}if(!v||!k||!z||!A){return}while(l=d[w++]){t=l.replace(/\./g,"\\.");p=new RegExp("(\\.)+"+t+"$");if(v==l||v.search(p)!=-1){o=l;break}}if(!o){return}if(z===e){A=n}w=0;while(m=A[w++]){h(z+m+k[m.substr(1+m.lastIndexOf("="))])}i(f,u,o,86400)}j('b0e93d962122c849bd356138bfb75829',['ad.yieldmanager.com/csync?ver=2.1','csync.yahooapis.com/csync?ver=2.1','u2sb.interclick.com/beacon.gif?ver=2.1'],['ad.yieldmanager.com/csync?ver=2.1','cdnk.interclick.com/beacon.gif?ver=2.1','csync.yahooapis.com/csync?ver=2.1'],'{"2.1":"&id=23351&value=r3r96qq9cuty8%26o%3d3%26f%3d37&optout=&timeout=1402520338&sig=11gb4lijn"}')})(window);
+
+//]]>
+    </script>
+    <!-- fe077.syc.search.bf1.yahoo.com compressed/chunked Wed Jun 11 20:58:58 UTC 2014 -->  </body>
+</html>

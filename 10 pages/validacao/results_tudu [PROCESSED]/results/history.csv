@@ -1,0 +1,38 @@
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+type	//input[@name=j_username and @type=text]	testes
+type	//input[@name=j_password and @type=password]	321abc
+click	//input[@name=_acegi_security_remember_me and @type=checkbox]	EMPTY
+clickAndWait	//input[@type=submit]	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+click	//input[@name=rssAllowed and @type=checkbox]	EMPTY
+type	//input[@name=name and @type=text]	banana
+clickAndWait	//a[@title=My info and @href=http://app.rasc.ch/tudu/secure/myInfo.action and contains(text(),'My info')]]	EMPTY
+type	//input[@name=firstName and @type=text]	EMPTY
+type	//input[@name=email and @type=text]	EMPTY
+type	//input[@name=password and @type=password]	EMPTY
+type	//input[@name=verifyPassword and @type=password]	EMPTY
+type	//input[@name=lastName and @type=text]	shirt
+clickAndWait	//input[@type=submit and @onclick=document.forms[0].elements['method'].value='update';]	EMPTY
+clickAndWait	//a[@title=My Todos and @href=http://app.rasc.ch/tudu/secure/showTodos.action and contains(text(),'My Todos')]]	EMPTY
+clickAndWait	//a[@title=Log out and @href=http://app.rasc.ch/tudu/logout.action and contains(text(),'Log out')]]	EMPTY
+clickAndWait	//a[@href=http://app.rasc.ch/tudu/welcome.action and contains(text(),'Click here if you want to reconnect')]]	EMPTY
+type	//input[@name=priority and @type=text]	EMPTY
+type	//input[@id=editDueDateId and @name=dueDate and @type=text]	EMPTY
+type	//input[@name=description and @type=text]	sandals
+type	//input[@name=description and @type=text]	computer
+type	//input[@name=priority and @type=text]	curtains
+type	//input[@id=addDueDateId and @name=dueDate and @type=text]	shirt
+select	//select[@id=addNewTodoAssignedUser and @name=assignedUser]	label=""
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+type	//input[@name=description and @type=text]	EMPTY
+type	//input[@name=priority and @type=text]	EMPTY
+type	//input[@id=addDueDateId and @name=dueDate and @type=text]	EMPTY
+type	//textarea[@name=notes and @onfocus=keyboardListener='off']	shirt
+type	//input[@id=login and @name=login and @type=text]	testes
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY
+open	http://app.rasc.ch/tudu/welcome.action	EMPTY

@@ -1,0 +1,19 @@
+URL:http://app.rasc.ch/tudu/secure/showTodos.action
+PRESENT-SORT-KEYWORD:asc
+RATIOTOTAL:0.0
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:38
+INPUT-PATTERN-TEXTBOX://input[@name=priority and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://input[@id=editDueDateId and @name=dueDate and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://input[@name=description and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://input[@id=addDueDateId and @name=dueDate and @type=text]
+INPUT-PATTERN-TEXT:EMPTY
+INPUT-PATTERN-TEXTBOX://textarea[@name=notes and @onfocus=keyboardListener='off']
+INPUT-PATTERN-TEXT:shirt
+INPUT-PATTERN-TEXTBOX://input[@id=login and @name=login and @type=text]
+INPUT-PATTERN-TEXT:testes
+POSSIBLE-MASTER-DETAIL
+POSSIBLE-MASTER-DETAIL

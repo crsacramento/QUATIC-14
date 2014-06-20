@@ -1,0 +1,4 @@
+URL:http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O
+RATIOTOTAL:0.22459692770481818
+RATIOPREVIOUS:-48.474
+SELENIUMSTEP:35

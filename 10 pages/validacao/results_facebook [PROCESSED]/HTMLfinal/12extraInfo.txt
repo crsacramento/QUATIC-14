@@ -1,0 +1,7 @@
+URL:https://www.facebook.com/appcenter/category/games/?ref=pf
+RATIOTOTAL:7.231774619633238
+RATIOPREVIOUS:221.136
+SELENIUMSTEP:16
+POSSIBLE-LOGIN-PASS-TEXT-BOX
+INPUT-PATTERN-TEXTBOX://input[@id=email and @class=inputtext and @name=email and @type=text]
+INPUT-PATTERN-TEXT:a5442766@drdrb.net

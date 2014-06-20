@@ -1,0 +1,6 @@
+URL:https://www.facebook.com/?stype=lo&jlou=Aff3oyBP61hP4kXeuItnL9FnELGCuUVDe0ylhPn_GGo7DR2pL8obTwvkZU1gWbn_B7RE1c94BiWjx-sKv8B9M8_I9ZjwfuHRzRsXmogsX8EyMA&smuh=59074&lh=Ac9X4I5HRCYfwuve
+RATIOTOTAL:5.573756068161371
+RATIOPREVIOUS:-263.77
+SELENIUMSTEP:19
+INPUT-PATTERN-TEXTBOX://textarea[@id=u_0_q and @class=DOMControl_placeholder uiTextareaAutogrow input autofocus mentionsTextarea textInput and @name=xhpc_message]
+INPUT-PATTERN-TEXT:dress

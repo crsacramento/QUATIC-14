@@ -1,0 +1,7 @@
+URL:http://www.amazon.com/ref=nb_sb_noss_null
+RATIOTOTAL:2.0951254733227045
+RATIOPREVIOUS:81.086
+SELENIUMSTEP:33
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=twotabsearchtextbox and @name=field-keywords and @title=Search For and @type=text]
+POSSIBLE-LOGIN-WITH-:1-OCURRENCES-OF:EMPTY
+POSSIBLE-LOGIN-WITH-:8-OCURRENCES-OF:computer

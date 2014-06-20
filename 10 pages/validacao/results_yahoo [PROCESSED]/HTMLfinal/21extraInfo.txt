@@ -1,0 +1,4 @@
+URL:https://help.yahoo.com/kb/yahoo-account
+RATIOTOTAL:1.0001744817192102
+RATIOPREVIOUS:-75.737
+SELENIUMSTEP:30

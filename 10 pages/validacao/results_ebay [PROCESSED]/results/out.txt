@@ -1,0 +1,1115 @@
+INIT|correlation:1|HTML index:2
+
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+
+Action #0 | Page URL is: http://www.ebay.com/
+menu elements found:154
+non_empty: CALL=182|SEARCH=5|LOGIN=8||total: 195
+masterElements size:0|detailElements size:0
+ELEMENT: <a class="sign-in-link" href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2F"> (no text) | LOCATOR://a[@class=sign-in-link and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2F]
+clickAndWait	//a[@class=sign-in-link and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2F]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:2|HTML index:3
+
+Action #1 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2F
+menu elements found:4
+non_empty: CALL=3|LOGIN=6||total: 9
+masterElements size:0|detailElements size:0
+ELEMENT: <a _sp="m571.l2613" href="http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc"> (has text) | LOCATOR://a[@href=http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc and contains(text(),'Privacy Policy')]
+clickAndWait	//a[@href=http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc and contains(text(),'Privacy Policy')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:3|HTML index:4
+
+Action #2 | Page URL is: http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc
+menu elements found:27
+non_empty: INPUT=1|CALL=50|SEARCH=9|LOGIN=5||total: 65
+masterElements size:0|detailElements size:0
+ELEMENT: <textarea cols="14" rows="4" name="feedback" id="Textarea1" style="width: 318px;height: 70px; font-family:verdana; font-size:x-small;_font-size:xx-small;color:#999999"> (no text) | LOCATOR://textarea[@id=Textarea1 and @name=feedback]
+type	//textarea[@id=Textarea1 and @name=feedback]	dress
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:4|HTML index:4
+elems.size()=4
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-prim" type="submit" />
+SUBMIT: <input type="submit" name="submitBtn" value="Search" />
+SUBMIT: <input type="submit" name="feedbackButton" id="feedbackButton" value="Submit Comment" style="height: 24px" />
+SUBMIT: <input type="submit" name="Contactus" id="Contactus" value="Contact us" style="" />
+SUBMIT=len:4
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:5|HTML index:5
+
+Action #3 | Page URL is: http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+menu elements found:80
+non_empty: CALL=518|SEARCH=5|LOGIN=5||total: 528
+masterElements size:0|detailElements size:0
+ELEMENT: <select name="_sacat" id="gh-cat" size="1" class="gh-sb" title="Select a category for search"> (has text) | LOCATOR://select[@id=gh-cat and @class=gh-sb and @name=_sacat and @title=Select a category for search]
+options:1
+OPTION TEXT:All Categories
+select	//select[@id=gh-cat and @class=gh-sb and @name=_sacat and @title=Select a category for search]	label="All Categories"
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:6|HTML index:5
+elems.size()=1
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-prim" type="submit" />
+SUBMIT=len:1
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:7|HTML index:6
+
+Action #4 | Page URL is: http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+menu elements found:80
+non_empty: CALL=518|SEARCH=4|LOGIN=5||total: 527
+masterElements size:0|detailElements size:0
+ELEMENT: <a href="http://www.ebay.com/sch/Theme-Park-Club-Passes-/170594/i.html" class="ch"> (has text) | LOCATOR://a[@class=ch and @href=http://www.ebay.com/sch/Theme-Park-Club-Passes-/170594/i.html and contains(text(),'Theme Park & Club Passes')]
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/sch/Theme-Park-Club-Passes-/170594/i.html and contains(text(),'Theme Park & Club Passes')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:8|HTML index:7
+
+Action #5 | Page URL is: http://www.ebay.com/sch/Theme-Park-Club-Passes-/170594/i.html
+menu elements found:44
+non_empty: SELECT=1|INPUT=2|CALL=15|SEARCH=3|LOGIN=9||total: 30
+masterElements size:1|detailElements size:0
+ELEMENT: <a _sp="m571.l2616" class="thrd gf-bar-a" href="http://pages.ebay.com/securitycenter/index.html"> (has text) | LOCATOR://a[@class=thrd gf-bar-a and @href=http://pages.ebay.com/securitycenter/index.html and contains(text(),'Security Center')]
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://pages.ebay.com/securitycenter/index.html and contains(text(),'Security Center')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:9|HTML index:8
+
+Action #6 | Page URL is: http://pages.ebay.com/securitycenter/index.html
+menu elements found:26
+non_empty: CALL=23|SEARCH=2|LOGIN=3||total: 28
+masterElements size:1|detailElements size:0
+ELEMENT: <a id="gh-as-a" _sp="m570.l2614" title="Advanced Search" class="thrd" href="http://www.ebay.com/sch/ebayadvsearch/?rt=nc"> (has text) | LOCATOR://a[@id=gh-as-a and @class=thrd and @title=Advanced Search and @href=http://www.ebay.com/sch/ebayadvsearch/?rt=nc and contains(text(),'Advanced')]
+clickAndWait	//a[@id=gh-as-a and @class=thrd and @title=Advanced Search and @href=http://www.ebay.com/sch/ebayadvsearch/?rt=nc and contains(text(),'Advanced')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:10|HTML index:9
+
+Action #7 | Page URL is: http://www.ebay.com/sch/ebayadvsearch/?rt=nc
+menu elements found:31
+non_empty: SELECT=8|INPUT=8|CALL=13|SEARCH=12|LOGIN=2||total: 43
+masterElements size:1|detailElements size:0
+ELEMENT: <a _sp="m571.l2612" href="http://pages.ebay.com/help/policies/user-agreement.html?rt=nc"> (has text) | LOCATOR://a[@href=http://pages.ebay.com/help/policies/user-agreement.html?rt=nc and contains(text(),'User Agreement')]
+clickAndWait	//a[@href=http://pages.ebay.com/help/policies/user-agreement.html?rt=nc and contains(text(),'User Agreement')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:11|HTML index:10
+
+Action #8 | Page URL is: http://pages.ebay.com/help/policies/user-agreement.html?rt=nc
+menu elements found:27
+non_empty: CALL=45|SEARCH=5|LOGIN=2||total: 52
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://pages.ebay.com/help/index.html"> (has text) | LOCATOR://a[@href=http://pages.ebay.com/help/index.html and contains(text(),'Browse help')]
+clickAndWait	//a[@href=http://pages.ebay.com/help/index.html and contains(text(),'Browse help')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:12|HTML index:11
+
+Action #9 | Page URL is: http://ocsnext.ebay.com/ocs/home?
+menu elements found:31
+non_empty: CALL=15|SEARCH=11|LOGIN=2||total: 28
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome"> (has text) | LOCATOR://a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome and contains(text(),'sign in')]
+clickAndWait	//a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome and contains(text(),'sign in')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:13|HTML index:12
+
+Action #10 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome
+menu elements found:4
+non_empty: CALL=2|LOGIN=5||total: 7
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="https://scgi.ebay.com/ws/eBayISAPI.dll?FYPShow&_trksid=p4853.m2379.l4061"> (has text) | LOCATOR://a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?FYPShow&_trksid=p4853.m2379.l4061 and contains(text(),'forgot your password')]
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?FYPShow&_trksid=p4853.m2379.l4061 and contains(text(),'forgot your password')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:14|HTML index:13
+
+Action #11 | Page URL is: https://fyp.ebay.com/EnterUserInfo?&clientapptype=19
+menu elements found:7
+non_empty: INPUT=1|CALL=2||total: 3
+masterElements size:1|detailElements size:0
+ELEMENT: <input id="input" name="input" type="text" autocorrect="off" autocapitalize="off" value="" size="40" maxlength="64" autocomplete="off" /> (no text) | LOCATOR://input[@id=input and @name=input and @type=text]
+type	//input[@id=input and @name=input and @type=text]	computer
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:15|HTML index:13
+elems.size()=0
+THERE ARE NO DYNAMIC SUBMITS
+INC_HTML|correlation:16|HTML index:14
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+No suitable element found, going back to base URL. Redirects left:4
+
+Action #10 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=181|SEARCH=3|LOGIN=2||total: 186
+masterElements size:1|detailElements size:0
+ELEMENT: <a class="gh-a" href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348"> (has text) | LOCATOR://a[@class=gh-a and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348 and contains(text(),'Sign in')]
+clickAndWait	//a[@class=gh-a and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348 and contains(text(),'Sign in')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:17|HTML index:15
+
+Action #11 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348
+menu elements found:4
+non_empty: CALL=1|LOGIN=5||total: 6
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://pages.ebay.com/help/new/contextual/signin.html" id="v4-0"> (no text) | LOCATOR://a[@id=v4-0 and @href=http://pages.ebay.com/help/new/contextual/signin.html]
+clickAndWait	//a[@id=v4-0 and @href=http://pages.ebay.com/help/new/contextual/signin.html]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:18|HTML index:16
+
+Action #12 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=9|LOGIN=2||total: 11
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279" target="_blank"> (has text) | LOCATOR://a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279 and contains(text(),'contact us')]
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279 and contains(text(),'contact us')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:19|HTML index:17
+
+Action #13 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=8|LOGIN=2||total: 10
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279" target="_blank" /> (no text) | LOCATOR://a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279]
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000010130&sid=75ab2ffd-b239-470e-b72b-18b45e4fbc74&convId=5177187279]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:20|HTML index:18
+
+Action #14 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=6|LOGIN=2||total: 8
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow" target="_blank"> (has text) | LOCATOR://a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow and contains(text(),'Retrieve your User ID')]
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow and contains(text(),'Retrieve your User ID')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:21|HTML index:19
+
+Action #15 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=6|LOGIN=1||total: 7
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000000450&sid=b86fd3af-6a67-4456-8579-48f336828491&convId=5177175012" target="_blank"> (has text) | LOCATOR://a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000000450&sid=b86fd3af-6a67-4456-8579-48f336828491&convId=5177175012 and contains(text(),'contact us')]
+clickAndWait	//a[@href=http://contact.ebay.com/ws/eBayISAPI.dll?ContactCS&ref=1&topicrelid=5000000450&sid=b86fd3af-6a67-4456-8579-48f336828491&convId=5177175012 and contains(text(),'contact us')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:22|HTML index:20
+
+Action #16 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=5|LOGIN=1||total: 6
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fsignin.ebay.com%2Fws%2FeBayISAPI.dll%3FChangePasswordAndCreateHint%26guest%3D1&pp=pass&pageType=708&i1=0" target="_blank"> (has text) | LOCATOR://a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fsignin.ebay.com%2Fws%2FeBayISAPI.dll%3FChangePasswordAndCreateHint%26guest%3D1&pp=pass&pageType=708&i1=0 and contains(text(),'change your password')]
+clickAndWait	//a[@href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fsignin.ebay.com%2Fws%2FeBayISAPI.dll%3FChangePasswordAndCreateHint%26guest%3D1&pp=pass&pageType=708&i1=0 and contains(text(),'change your password')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:23|HTML index:21
+
+Action #17 | Page URL is: http://pages.ebay.com/help/new/contextual/signin.html
+non_empty: CALL=5||total: 5
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&CurrentPage=MyeBayPersonalInfo" /> (no text) | LOCATOR://a[@href=http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&CurrentPage=MyeBayPersonalInfo]
+clickAndWait	//a[@href=http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&CurrentPage=MyeBayPersonalInfo]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:24|HTML index:22
+
+Action #18 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyeBay%26%26CurrentPage%3DMyeBayPersonalInfo%26guest%3D1&pageType=1883
+menu elements found:4
+non_empty: CALL=1|LOGIN=4||total: 5
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://pages.ebay.com/help/new/contextual/account_protection.html" id="v4-1"> (no text) | LOCATOR://a[@id=v4-1 and @href=http://pages.ebay.com/help/new/contextual/account_protection.html]
+clickAndWait	//a[@id=v4-1 and @href=http://pages.ebay.com/help/new/contextual/account_protection.html]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:25|HTML index:23
+
+Action #19 | Page URL is: http://pages.ebay.com/help/new/contextual/account_protection.html
+non_empty: |total: 0
+masterElements size:1|detailElements size:0
+INC_HTML|correlation:26|HTML index:24
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+No suitable element found, going back to base URL. Redirects left:3
+
+Action #18 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=181|SEARCH=3|LOGIN=1||total: 185
+masterElements size:1|detailElements size:0
+ELEMENT: <a href="http://www.ebay.com/itm/Nike-Air-Jordan-Retro-1-SB-X-Lance-Mountain-SZ-10-Black-Bred-Royal-653532002-/331224017341" title="Nike Air Jordan Retro 1 SB X Lance Mountain SZ 10 Black Bred Royal 653532-002" class="vi"> (no text) | LOCATOR://a[@class=vi and @title=Nike Air Jordan Retro 1 SB X Lance Mountain SZ 10 Black Bred Royal 653532-002 and @href=http://www.ebay.com/itm/Nike-Air-Jordan-Retro-1-SB-X-Lance-Mountain-SZ-10-Black-Bred-Royal-653532002-/331224017341]
+clickAndWait	//a[@class=vi and @title=Nike Air Jordan Retro 1 SB X Lance Mountain SZ 10 Black Bred Royal 653532-002 and @href=http://www.ebay.com/itm/Nike-Air-Jordan-Retro-1-SB-X-Lance-Mountain-SZ-10-Black-Bred-Royal-653532002-/331224017341]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:27|HTML index:25
+
+Action #19 | Page URL is: http://www.ebay.com/itm/Nike-Air-Jordan-Retro-1-SB-X-Lance-Mountain-SZ-10-Black-Bred-Royal-653532002-/331224017341
+menu elements found:33
+non_empty: SELECT=1|INPUT=5|CALL=28|SEARCH=1|LOGIN=1||total: 36
+masterElements size:1|detailElements size:0
+ELEMENT: <a _sp="p2047675.l2706" href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html" class="thrd"> (has text) | LOCATOR://a[@class=thrd and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html and contains(text(),'Men's Shoes')]
+clickAndWait	//a[@class=thrd and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html and contains(text(),'Men's Shoes')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:28|HTML index:26
+
+Action #20 | Page URL is: http://www.ebay.com/sch/Mens-Shoes-/93427/i.html
+menu elements found:156
+non_empty: SELECT=1|INPUT=4|CALL=255|SEARCH=3|LOGIN=1||total: 264
+masterElements size:2|detailElements size:0
+ELEMENT: <input autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off" name="_nkw" id="gh-ac" placeholder="Search... " maxlength="300" size="50" class="gh-tb" type="text" /> (no text) | LOCATOR://input[@id=gh-ac and @class=gh-tb and @name=_nkw and @type=text]
+type	//input[@id=gh-ac and @class=gh-tb and @name=_nkw and @type=text]	banana
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:29|HTML index:26
+elems.size()=1
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-prim" type="submit" />
+SUBMIT=len:1
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:30|HTML index:27
+
+Action #21 | Page URL is: http://www.ebay.com/sch/i.html?_odkw=&_osacat=93427&_trksid=m570.l3201&_nkw=banana&_sacat=93427
+menu elements found:120
+non_empty: SELECT=1|INPUT=4|CALL=195|SEARCH=2|LOGIN=1||total: 203
+masterElements size:3|detailElements size:0
+ELEMENT: <a class="cbx" href="http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750" title="New with defects"> (has text) | LOCATOR://a[@class=cbx and @title=New with defects and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750 and contains(text(),'New with defects')]
+clickAndWait	//a[@class=cbx and @title=New with defects and @href=http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750 and contains(text(),'New with defects')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:31|HTML index:28
+
+Action #22 | Page URL is: http://www.ebay.com/sch/Mens-Shoes-/93427/i.html?_nkw=banana&_dcat=93427&rt=nc&LH_ItemCondition=1750
+menu elements found:71
+non_empty: SELECT=1|INPUT=3|CALL=49|SEARCH=2|LOGIN=1||total: 56
+masterElements size:4|detailElements size:0
+ELEMENT: <select class="slct" name="_fcid" id="zip_e1-46"> (no text) | LOCATOR://select[@id=zip_e1-46 and @class=slct and @name=_fcid]
+options:215
+OPTION TEXT:
+RANDOM OPTION HAS NO TEXT
+INC_HTML|correlation:32|HTML index:29
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+No suitable element found, going back to base URL. Redirects left:2
+
+Action #21 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=180|SEARCH=2|LOGIN=1||total: 183
+masterElements size:4|detailElements size:0
+ELEMENT: <a _sp="m571.l2898" class="thrd" href="http://my.ebay.com/wishlistsearch"> (has text) | LOCATOR://a[@class=thrd and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]
+clickAndWait	//a[@class=thrd and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:33|HTML index:30
+
+Action #22 | Page URL is: http://my.ebay.com/wishlistsearch
+menu elements found:31
+non_empty: CALL=14|SEARCH=2||total: 16
+masterElements size:4|detailElements size:0
+ELEMENT: <a _sp="m570.l2919" class="gh-eb-li-a" href="http://my.ebay.com/"> (has text) | LOCATOR://a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'My eBay')]
+clickAndWait	//a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'My eBay')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:34|HTML index:31
+
+Action #23 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1&pageType=3984
+menu elements found:4
+non_empty: LOGIN=4||total: 4
+masterElements size:4|detailElements size:0
+ELEMENT: <input size="40" maxlength="64" class="txtBxF" value="" name="pass" id="pass" type="password" /> (no text) | LOCATOR://input[@id=pass and @class=txtBxF and @name=pass and @type=password]
+type	//input[@id=userid and @class=txtBxF and @name=userid and @type=text]	username
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:35|HTML index:31
+type	//input[@id=pass and @class=txtBxF and @name=pass and @type=password]	password
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:36|HTML index:31
+click	//input[@id=signed_in and @name=keepMeSignInOption and @type=checkbox]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:37|HTML index:31
+elems.size()=2
+SUBMIT: <input type="submit" name="sgnBt" value="Sign in" id="sgnBt" class="btn btn-prim sd-sgnBtn" />
+SUBMIT: <input type="submit" name="register_signin" value="Register" id="register_signin" class="btn btn-scnd sd-sgnBtn" />
+SUBMIT=len:2
+clickAndWait	//input[@id=sgnBt and @class=btn btn-prim sd-sgnBtn and @name=sgnBt and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:38|HTML index:32
+INC_HTML|correlation:39|HTML index:33
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+
+Action #24 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=179|SEARCH=1|LOGIN=1||total: 181
+masterElements size:4|detailElements size:0
+ELEMENT: <a href="http://www.ebay.com/global/sporting-goods/hunting/" _sp="p2050601.m1383.l3255" title="Sporting Goods"> (no text) | LOCATOR://a[@title=Sporting Goods and @href=http://www.ebay.com/global/sporting-goods/hunting/]
+clickAndWait	//a[@title=Sporting Goods and @href=http://www.ebay.com/global/sporting-goods/hunting/]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:40|HTML index:34
+
+Action #25 | Page URL is: http://www.ebay.com/chp/hunting-/7301
+menu elements found:186
+non_empty: CALL=407|SEARCH=1||total: 408
+masterElements size:4|detailElements size:1
+ELEMENT: <a href="http://www.ebay.com/chp/Butchering-Knives-Tools-/178084" class="lfchildlistitem"> (has text) | LOCATOR://a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Butchering-Knives-Tools-/178084 and contains(text(),'Butchering Knives & Tools')]
+clickAndWait	//a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Butchering-Knives-Tools-/178084 and contains(text(),'Butchering Knives & Tools')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:41|HTML index:35
+
+Action #26 | Page URL is: http://www.ebay.com/chp/Butchering-Knives-Tools-/178084
+menu elements found:35
+non_empty: CALL=70|SEARCH=1||total: 71
+masterElements size:4|detailElements size:2
+ELEMENT: <a title=" Meyerco  Game Shears" href="http://www.ebay.com/itm/Meyerco-Game-Shears/121354747672?hash=item1c414e7f18"> (no text) | LOCATOR://a[@title= Meyerco Game Shears and @href=http://www.ebay.com/itm/Meyerco-Game-Shears/121354747672?hash=item1c414e7f18]
+clickAndWait	//a[@title= Meyerco Game Shears and @href=http://www.ebay.com/itm/Meyerco-Game-Shears/121354747672?hash=item1c414e7f18]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:42|HTML index:36
+
+Action #27 | Page URL is: http://www.ebay.com/itm/Meyerco-Game-Shears/121354747672?hash=item1c414e7f18
+menu elements found:34
+non_empty: SELECT=1|INPUT=5|CALL=28|SEARCH=1|LOGIN=1||total: 36
+masterElements size:4|detailElements size:2
+ELEMENT: <select name="country" id="shCountry" class="sh-TxtCnt sh-InlCnt"> (no text) | LOCATOR://select[@id=shCountry and @class=sh-TxtCnt sh-InlCnt and @name=country]
+options:2
+OPTION TEXT:
+RANDOM OPTION HAS NO TEXT
+INC_HTML|correlation:43|HTML index:37
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+No suitable element found, going back to base URL. Redirects left:1
+
+Action #26 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=178|SEARCH=1|LOGIN=1||total: 180
+masterElements size:4|detailElements size:2
+ELEMENT: <a _sp="m571.l2898" class="thrd gf-bar-a" href="http://my.ebay.com/wishlistsearch"> (no text) | LOCATOR://a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch]
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:44|HTML index:38
+
+Action #27 | Page URL is: http://my.ebay.com/wishlistsearch
+menu elements found:31
+non_empty: CALL=13|SEARCH=2||total: 15
+masterElements size:4|detailElements size:2
+ELEMENT: <input type="text" maxlength="60" id="q" name="q" size="38" class="srch-str" value="User ID, name or email address" onfocus="this.value=''" /> (no text) | LOCATOR://input[@id=q and @class=srch-str and @name=q and @type=text and @onfocus=this.value='']
+type	//input[@id=q and @class=srch-str and @name=q and @type=text and @onfocus=this.value='']	username
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:45|HTML index:38
+elems.size()=2
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-prim" type="submit" />
+SUBMIT: <input id="but_v4-0" name="" value="Search" title="" type="submit" />
+SUBMIT=len:2
+clickAndWait	//input[@id=gh-btn and @class=btn btn-prim and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:46|HTML index:39
+INC_HTML|correlation:47|HTML index:40
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+
+Action #28 | Page URL is: http://www.ebay.com/
+menu elements found:155
+non_empty: CALL=178|LOGIN=1||total: 179
+masterElements size:4|detailElements size:2
+ELEMENT: <a href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2Ffeed" class="rt" _sp="p2050601.m2818.l5192"> (has text) | LOCATOR://a[@class=rt and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2Ffeed and contains(text(),'My Feed')]
+clickAndWait	//a[@class=rt and @href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2Ffeed and contains(text(),'My Feed')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:48|HTML index:41
+
+Action #29 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.com%2Ffeed
+menu elements found:4
+non_empty: LOGIN=2||total: 2
+masterElements size:4|detailElements size:2
+ELEMENT: <a href="https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062"> (has text) | LOCATOR://a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062 and contains(text(),'Forgot your user ID')]
+clickAndWait	//a[@href=https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062 and contains(text(),'Forgot your user ID')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:49|HTML index:42
+
+Action #30 | Page URL is: https://scgi.ebay.com/ws/eBayISAPI.dll?UserIdRecognizerShow&_trksid=p4853.m2379.l4062
+menu elements found:18
+non_empty: CALL=6|SEARCH=1|LOGIN=3||total: 10
+masterElements size:4|detailElements size:2
+ELEMENT: <a _sp="m571.l2898" class="thrd gf-bar-a" href="http://my.ebay.com/wishlistsearch"> (has text) | LOCATOR://a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]
+clickAndWait	//a[@class=thrd gf-bar-a and @href=http://my.ebay.com/wishlistsearch and contains(text(),'eBay Wish list')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:50|HTML index:43
+
+Action #31 | Page URL is: http://my.ebay.com/wishlistsearch
+menu elements found:31
+non_empty: CALL=13||total: 13
+masterElements size:4|detailElements size:2
+ELEMENT: <a id="gh-shop-a" href="http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694"> (has text) | LOCATOR://a[@id=gh-shop-a and @href=http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694 and contains(text(),'Shop by category')]
+clickAndWait	//a[@id=gh-shop-a and @href=http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694 and contains(text(),'Shop by category')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:51|HTML index:44
+
+Action #32 | Page URL is: http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694
+menu elements found:80
+non_empty: CALL=517|LOGIN=2||total: 519
+masterElements size:4|detailElements size:2
+ELEMENT: <a href="http://www.ebay.com/chp/Nursery-Decor-/66697" class="ch"> (has text) | LOCATOR://a[@class=ch and @href=http://www.ebay.com/chp/Nursery-Decor-/66697 and contains(text(),'Nursery Decor')]
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/chp/Nursery-Decor-/66697 and contains(text(),'Nursery Decor')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:52|HTML index:45
+
+Action #33 | Page URL is: http://www.ebay.com/chp/Nursery-Decor-/66697
+menu elements found:60
+non_empty: CALL=154||total: 154
+masterElements size:4|detailElements size:3
+ELEMENT: <a class="thrd" href="http://www.ebay.com/chp/baby" title="Baby"> (has text) | LOCATOR://a[@class=thrd and @title=Baby and @href=http://www.ebay.com/chp/baby and contains(text(),'Baby')]
+clickAndWait	//a[@class=thrd and @title=Baby and @href=http://www.ebay.com/chp/baby and contains(text(),'Baby')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:53|HTML index:46
+
+Action #34 | Page URL is: http://www.ebay.com/chp/baby
+menu elements found:176
+non_empty: CALL=315|SORT=2|LOGIN=3||total: 320
+masterElements size:4|detailElements size:4
+ELEMENT: <a href="http://www.ebay.com/chp/Blocks-Sorters-/100225" class="lfchildlistitem"> (has text) | LOCATOR://a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Blocks-Sorters-/100225 and contains(text(),'Blocks & Sorters')]
+clickAndWait	//a[@class=lfchildlistitem and @href=http://www.ebay.com/chp/Blocks-Sorters-/100225 and contains(text(),'Blocks & Sorters')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:54|HTML index:47
+
+Action #35 | Page URL is: http://www.ebay.com/chp/Blocks-Sorters-/100225
+menu elements found:34
+non_empty: CALL=70|SORT=6||total: 76
+masterElements size:4|detailElements size:5
+ELEMENT: <a href="http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab" title="MULA Shape Sorter, Multicolor"> (no text) | LOCATOR://a[@title=MULA Shape Sorter, Multicolor and @href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab]
+clickAndWait	//a[@title=MULA Shape Sorter, Multicolor and @href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:55|HTML index:48
+
+Action #36 | Page URL is: http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab
+menu elements found:38
+non_empty: INPUT=6|CALL=42|SEARCH=1|SORT=4|LOGIN=2||total: 55
+masterElements size:4|detailElements size:5
+ELEMENT: <input id="w1-43-_enter_val" title="Increase max bid" autocomplete="off" type="text" maxlength="10" size="6" autofocus="" /> (no text) | LOCATOR://input[@id=w1-43-_enter_val and @title=Increase max bid and @type=text]
+type	//input[@id=w1-43-_enter_val and @title=Increase max bid and @type=text]	curtains
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:56|HTML index:48
+elems.size()=2
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-ter" type="submit" />
+SUBMIT=len:1
+clickAndWait	//input[@id=gh-btn and @class=btn btn-ter and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:57|HTML index:49
+
+Action #37 | Page URL is: http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+menu elements found:80
+non_empty: CALL=516|SORT=1|LOGIN=2||total: 519
+masterElements size:4|detailElements size:5
+ELEMENT: <a href="http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab"> (has text) | LOCATOR://a[@href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab and contains(text(),'recently visited item page?')]
+clickAndWait	//a[@href=http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab and contains(text(),'recently visited item page?')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:58|HTML index:50
+
+Action #38 | Page URL is: http://www.ebay.com/itm/MULA-Shape-Sorter-Multicolor/281108813739?hash=item41736417ab
+menu elements found:39
+non_empty: INPUT=5|CALL=42|SEARCH=1|SORT=4|LOGIN=2||total: 54
+masterElements size:4|detailElements size:5
+ELEMENT: <input type="text" class="sh-TxtCnt" name="zipCode" size="12" id="shZipCode" value="" /> (no text) | LOCATOR://input[@id=shZipCode and @class=sh-TxtCnt and @name=zipCode and @type=text]
+type	//input[@id=shZipCode and @class=sh-TxtCnt and @name=zipCode and @type=text]	shirt
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_CORR|correlation:59|HTML index:50
+elems.size()=2
+SUBMIT: <input value="Search" id="gh-btn" class="btn btn-ter" type="submit" />
+SUBMIT=len:1
+clickAndWait	//input[@id=gh-btn and @class=btn btn-ter and @type=submit]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:60|HTML index:51
+
+Action #39 | Page URL is: http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+menu elements found:80
+non_empty: CALL=516|LOGIN=2||total: 518
+masterElements size:4|detailElements size:5
+ELEMENT: <a href="http://www.ebay.com/chp/Airline-/3253" class="ch"> (has text) | LOCATOR://a[@class=ch and @href=http://www.ebay.com/chp/Airline-/3253 and contains(text(),'Airline')]
+clickAndWait	//a[@class=ch and @href=http://www.ebay.com/chp/Airline-/3253 and contains(text(),'Airline')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:61|HTML index:52
+
+Action #40 | Page URL is: http://www.ebay.com/chp/Airline-/3253
+menu elements found:34
+non_empty: CALL=66|SORT=3||total: 69
+masterElements size:4|detailElements size:6
+ELEMENT: <a href="http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c" title="Parigi Euro Disney 7 giorni in villetta 4 stelle 4/5 persone in Stupendo Resort "> (no text) | LOCATOR://a[@title=Parigi Euro Disney 7 giorni in villetta 4 stelle 4/5 persone in Stupendo Resort and @href=http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c]
+clickAndWait	//a[@title=Parigi Euro Disney 7 giorni in villetta 4 stelle 4/5 persone in Stupendo Resort and @href=http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:62|HTML index:53
+
+Action #41 | Page URL is: http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c
+menu elements found:32
+non_empty: INPUT=4|CALL=24|SORT=3||total: 31
+masterElements size:4|detailElements size:6
+ELEMENT: <a href="http://pages.ebay.com/pt/en-us/coverage/index.html"> (no text) | LOCATOR://a[@href=http://pages.ebay.com/pt/en-us/coverage/index.html]
+clickAndWait	//a[@href=http://pages.ebay.com/pt/en-us/coverage/index.html]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:63|HTML index:54
+
+Action #42 | Page URL is: http://pages.ebay.com/pt/en-us/ebay-money-back-guarantee/
+menu elements found:27
+non_empty: CALL=25|LOGIN=1||total: 26
+masterElements size:4|detailElements size:6
+ELEMENT: <a _sp="m570.l1545" class="gh-p" href="http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport"> (has text) | LOCATOR://a[@class=gh-p and @href=http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport and contains(text(),'Customer Support')]
+clickAndWait	//a[@class=gh-p and @href=http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport and contains(text(),'Customer Support')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:64|HTML index:55
+
+Action #43 | Page URL is: http://ocsnext.ebay.com/ocs/home?
+menu elements found:31
+non_empty: CALL=13|SEARCH=10||total: 23
+masterElements size:4|detailElements size:6
+ELEMENT: <a class="gh-eb-li-a" href="http://my.ebay.com/"> (has text) | LOCATOR://a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'Notifications')]
+clickAndWait	//a[@class=gh-eb-li-a and @href=http://my.ebay.com/ and contains(text(),'Notifications')]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:65|HTML index:56
+
+Action #44 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1&pageType=3984
+menu elements found:4
+non_empty: LOGIN=1||total: 1
+masterElements size:4|detailElements size:6
+ELEMENT: <a href="http://qu.ebay.com/survey?srvName=signin+(si-US)" id="fdbklnk" target="_blank" title="Send us your comments - link opens in a new tab or window" class="sd-cmTx" /> (no text) | LOCATOR://a[@id=fdbklnk and @class=sd-cmTx and @title=Send us your comments - link opens in a new tab or window and @href=http://qu.ebay.com/survey?srvName=signin+(si-US)]
+clickAndWait	//a[@id=fdbklnk and @class=sd-cmTx and @title=Send us your comments - link opens in a new tab or window and @href=http://qu.ebay.com/survey?srvName=signin+(si-US)]	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+INC_HTML|correlation:66|HTML index:57
+
+Action #45 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1&pageType=3984
+menu elements found:4
+non_empty: |total: 0
+masterElements size:4|detailElements size:6
+INC_HTML|correlation:67|HTML index:58
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+No suitable element found, going back to base URL. Redirects left:0
+
+Action #44 | Page URL is: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&UsingSSL=1&pUserId=&co_partnerId=2&siteid=0&ru=http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1&pageType=3984
+menu elements found:4
+non_empty: |total: 0
+masterElements size:4|detailElements size:6
+INC_HTML|correlation:68|HTML index:59
+open	http://www.ebay.com/	EMPTY
+folderpath C:\Users\gekka_000\workspace\re-tool_continued\results\
+history.csv
+Maximum redirects, stopping.
+-------TESTING-------
+start
+	1|2
+	2|3
+	3|4
+	4|5
+	5|6
+	6|7
+	7|8
+	8|9
+	9|10
+	10|11
+	11|12
+	12|13
+	13|14
+	14|15
+	15|16
+	16|17
+	17|18
+	18|19
+	19|20
+	20|21
+	21|22
+	22|23
+	23|24
+	24|25
+	25|26
+	26|27
+	27|28
+	28|29
+	29|30
+	30|31
+	31|32
+	32|33
+	33|34
+	34|35
+	35|36
+	36|37
+	37|38
+	38|39
+	39|40
+	40|41
+	41|42
+	42|43
+	43|44
+	44|45
+	45|46
+	46|47
+	47|48
+	48|49
+	49|50
+	50|51
+	51|52
+	52|53
+	53|54
+	54|55
+	55|56
+	56|57
+	57|58
+	final2
+	final3
+	final4
+	final5
+	final6
+	final7
+	final8
+	final9
+	final10
+	final11
+	final12
+	final13
+	final14
+	final15
+	final16
+	final17
+	final18
+	final19
+	final20
+	final21
+	final22
+	final23
+	final24
+	final25
+	final26
+	final27
+	final28
+	final29
+	final30
+	final31
+	final32
+	final33
+	final34
+	final35
+	final36
+	final37
+	final38
+	final39
+	final40
+	final41
+	final42
+	final43
+	final44
+	final45
+	final46
+	final47
+	final48
+	final49
+	final50
+	final51
+	final52
+	final53
+	final54
+	final55
+	final56
+	final57
+	final58
+processList
+10.txt
+11.txt
+12.txt
+13.txt
+14.txt
+15.txt
+16.txt
+17.txt
+18.txt
+19.txt
+2.txt
+20.txt
+21.txt
+22.txt
+23.txt
+24.txt
+25.txt
+26.txt
+27.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+32.txt
+33.txt
+34.txt
+35.txt
+36.txt
+37.txt
+38.txt
+39.txt
+4.txt
+40.txt
+41.txt
+42.txt
+43.txt
+44.txt
+45.txt
+46.txt
+47.txt
+48.txt
+49.txt
+5.txt
+50.txt
+51.txt
+52.txt
+53.txt
+54.txt
+55.txt
+56.txt
+57.txt
+58.txt
+6.txt
+7.txt
+8.txt
+9.txt
+	fileSizeAverage: 247378.61403508772
+	ratio:0.0
+	ratio:1.5781841187962395
+	ratio:1.3474406480130146
+	ratio:1.3050036732528965
+	ratio:0.012579907168364197
+	ratio:1.014877542989186
+	ratio:0.5617704688906081
+	ratio:0.5979053629066774
+	ratio:0.9951264419529947
+	ratio:0.6726652610981065
+	ratio:0.7475787699811802
+	ratio:0.6504806433153357
+	ratio:0.9907323676946361
+	ratio:1.5906023304997148
+	ratio:0.6682631020665035
+	ratio:0.0
+	ratio:0.0
+	ratio:0.0
+	ratio:0.0
+	ratio:0.0
+	ratio:0.6694515637334376
+	ratio:0.6599559975578311
+	ratio:0.9823888817063637
+	ratio:2.0697383320587996
+	ratio:3.028192242574969
+	ratio:1.5312237134058517
+	ratio:1.4965683328935169
+	ratio:1.542364530936704
+	ratio:1.1229345797878825
+	ratio:0.7792064029134685
+	ratio:0.6511678490411139
+	ratio:0.9910274619180586
+	ratio:1.631854885979521
+	ratio:0.7061281375568851
+	ratio:1.0092667103575377
+	ratio:1.705139313053838
+	ratio:1.1231286143457493
+	ratio:0.7569611493313644
+	ratio:1.3464906871567917
+	ratio:1.5903759568488702
+	ratio:0.7088082398874203
+	ratio:0.24460077212421247
+	ratio:0.7569490221714977
+	ratio:0.9671612113004422
+	ratio:0.67606895063402
+	keyword: Sort
+	ratio:0.6193461815509588
+Sort
+	keyword: Sort
+	ratio:1.5362362728174108
+Sort
+	ratio:1.865723121621726
+	keyword: Sort
+	ratio:1.8658848170866151
+Sort
+	ratio:1.8661192755107041
+	ratio:0.8034445531003297
+	keyword: sort
+	ratio:3.0159478534962494
+sort
+	ratio:2.940072256597086
+	ratio:0.2589674141796001
+	ratio:0.7478940761377137
+	ratio:0.0
+	ratio:0.0
+	ratio:0.0
+PatternNonSeleniumFinder.ProcessUrlsAndHTMLSize(pageInfo)
+	findURLSearchVariablesInHTML(http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1,4)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348,14)
+FOUND SEARCH WITH TYPE hidden, CATEGORY _trksid AND OPTION m570.l3348
+	passed inputs
+	passed selects
+Found input pattern
+Possible search here with banana keyword
+Possible search here with username keyword
+Found input pattern
+	findURLSearchVariablesInHTML(http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1,38)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1,48)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1,50)
+	passed inputs
+	passed selects
+Found input pattern
+processSeleniumActions
+-77.393
+21.152
+-32.066
+0.005
+0.005
+-40.057
+-71.667
+80.815
+24.215
+-110.61
+128.241
+-148.336
+228.819
+-80.557
+-147.824
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+148.13
+-150.491
+230.667
+40.596
+213.748
+-61.209
+-283.068
+89.908
+-194.983
+114.68
+-148.326
+228.712
+-55.469
+-115.616
+121.222
+49.823
+-195.022
+104.01
+90.962
+-80.398
+-137.446
+22.87
+104.011
+-40.996
+30.136
+-66.715
+247.014
+-169.051
+169.152
+-169.155
+-82.561
+621.852
+-644.367
+-12.965
+128.323
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+PatternNonSeleniumFinder.testForMasterDetail();
+-------TESTING-------
+********************************************
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+1: words:open |NONE
+1: CALL
+***RESET***
+2: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+4: words:type |NONE
+***RESET***
+5: words:clickSubmit pageChange |NONE
+6: words:selectSearch |SEARCH|lines: 5 
+6: SEARCH_SUBMIT|lines: 5 6 
+***RESET***
+7: CALL
+***RESET***
+8: CALL
+***RESET***
+9: CALL
+***RESET***
+10: CALL
+***RESET***
+11: CALL
+***RESET***
+12: CALL
+***RESET***
+13: CALL
+***RESET***
+15: words:typeInput |INPUT|lines: 14 
+16: INPUT|lines: 14 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+16: words:open |NONE
+16: CALL
+***RESET***
+17: CALL
+***RESET***
+18: CALL
+***RESET***
+19: CALL
+***RESET***
+20: CALL
+***RESET***
+21: CALL
+***RESET***
+22: CALL
+***RESET***
+23: CALL
+***RESET***
+24: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+26: words:open |NONE
+26: CALL
+***RESET***
+27: CALL
+***RESET***
+29: words:typeInput |INPUT|lines: 28 
+30: INPUT_SUBMIT|lines: 28 29 
+***RESET***
+30: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+32: words:open |NONE
+32: CALL
+***RESET***
+33: CALL
+***RESET***
+35: words:typeUsername |LOGIN_USER|lines: 34 
+36: words:typePassword |LOGIN_USER_PASS|lines: 34 35 
+37: LOGIN|lines: 34 35 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+37: words:clickOption |NONE
+***RESET***
+38: words:clickSubmit pageChange |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+39: words:open |NONE
+39: CALL
+***RESET***
+40: CALL
+***RESET***
+41: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+43: words:open |NONE
+43: CALL
+***RESET***
+45: words:typeUsername |LOGIN_USER|lines: 44 
+LOGIN: premature submit 
+***RESET***
+46: words:clickSubmit pageChange |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+47: words:open |NONE
+47: CALL
+***RESET***
+48: CALL
+***RESET***
+49: CALL
+***RESET***
+50: CALL
+***RESET***
+51: CALL
+***RESET***
+52: CALL
+***RESET***
+53: CALL
+***RESET***
+54: CALL
+***RESET***
+56: words:typeInput |INPUT|lines: 55 
+57: INPUT_SUBMIT|lines: 55 56 
+***RESET***
+57: CALL
+***RESET***
+59: words:typeNumberInput |INPUT|lines: 58 
+60: INPUT_SUBMIT|lines: 58 59 
+***RESET***
+60: CALL
+***RESET***
+61: CALL
+***RESET***
+62: CALL
+***RESET***
+63: CALL
+***RESET***
+64: CALL
+***RESET***
+65: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+67: words:open |NONE
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+68: words:open |NONE

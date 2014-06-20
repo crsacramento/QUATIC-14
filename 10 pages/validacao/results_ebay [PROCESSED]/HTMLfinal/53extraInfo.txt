@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/pt/en-us/ebay-money-back-guarantee/
+RATIOTOTAL:2.940072256597086
+RATIOPREVIOUS:-644.367
+SELENIUMSTEP:63

@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Coffeemaker - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coffeemaker"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Coffeemaker&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Coffeemaker&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Coffeemaker"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coffeemaker","wgTitle":"Coffeemaker","wgCurRevisionId":610562137,"wgRevisionId":610562137,"wgArticleId":30860428,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from November 2010","Coffee preparation","Cooking appliances","Boilers (cookware)","American culture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coffeemaker","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q211841"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Coffeemaker skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Coffeemaker
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="hatnote">
+            "Coffeepot" redirects here. For the populated place in Gila County, Arizona, United States, see 
+            <a href="/wiki/Coffeepot,_Arizona" title="Coffeepot, Arizona">
+              Coffeepot, Arizona
+            </a>
+            .
+          </div>
+          <table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+            <tbody>
+              <tr>
+                <td class="mbox-image">
+                  <div style="width:52px;">
+                    <a href="/wiki/File:Question_book-new.svg" class="image">
+                      <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204"/>
+                    </a>
+                  </div>
+                </td>
+                <td class="mbox-text">
+                  <span class="mbox-text-span">
+                    This article 
+                    <b>
+                      needs additional citations for 
+                      <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">
+                        verification
+                      </a>
+                    </b>
+                    . 
+                    <span class="hide-when-compact">
+                      Please help 
+                      <a class="external text" href="//en.wikipedia.org/w/index.php?title=Coffeemaker&amp;action=edit">
+                        improve this article
+                      </a>
+                       by 
+                      <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">
+                        adding citations to reliable sources
+                      </a>
+                      . Unsourced material may be challenged and removed.
+                    </span>
+                    <small>
+                      <i>
+                        (January 2011)
+                      </i>
+                    </small>
+                  </span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:In_coffe-shop.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/In_coffe-shop.jpg/220px-In_coffe-shop.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/In_coffe-shop.jpg/330px-In_coffe-shop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/In_coffe-shop.jpg/440px-In_coffe-shop.jpg 2x" data-file-width="800" data-file-height="600"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:In_coffe-shop.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Long-handled coffeemakers in an 
+                <a href="/wiki/Armenia" title="Armenia">
+                  Armenian
+                </a>
+                 cafe, 2008
+              </div>
+            </div>
+          </div>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:172px;">
+              <a href="/wiki/File:DublinSterlingSilverHotWaterJug.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/92/DublinSterlingSilverHotWaterJug.jpg/170px-DublinSterlingSilverHotWaterJug.jpg" width="170" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/92/DublinSterlingSilverHotWaterJug.jpg/255px-DublinSterlingSilverHotWaterJug.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/92/DublinSterlingSilverHotWaterJug.jpg/340px-DublinSterlingSilverHotWaterJug.jpg 2x" data-file-width="734" data-file-height="1140"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:DublinSterlingSilverHotWaterJug.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Silver hot water jug, Dublin c1770, using a coffee-pot shape with a higher base.
+              </div>
+            </div>
+          </div>
+          <p>
+            <b>
+              Coffeemakers
+            </b>
+             or 
+            <b>
+              coffee machines
+            </b>
+             are 
+            <a href="/wiki/Cooking" title="Cooking">
+              cooking
+            </a>
+            <a href="/wiki/Small_appliance" title="Small appliance">
+              appliances
+            </a>
+             used to brew 
+            <a href="/wiki/Coffee" title="Coffee">
+              coffee
+            </a>
+            . While there are many different types of coffeemakers using a number of different brewing principles, in the most common devices, coffee grounds are placed in a paper or metal filter inside a funnel, which is set over a glass or ceramic 
+            <b>
+              coffee pot
+            </b>
+            , a 
+            <a href="/wiki/Cookware_and_bakeware" title="Cookware and bakeware">
+              cooking pot
+            </a>
+             in the 
+            <a href="/wiki/Kettle" title="Kettle">
+              kettle
+            </a>
+             family. Cold water is poured into a separate chamber, which is then heated up to the boiling point, and directed into the funnel. This is also called 
+            <i>
+              <a href="/wiki/Drip_brew" title="Drip brew">
+                automatic drip-brew
+              </a>
+            </i>
+            .
+          </p>
+          <p>
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle">
+              <h2>
+                Contents
+              </h2>
+            </div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#History">
+                  <span class="tocnumber">
+                    1
+                  </span>
+                  <span class="toctext">
+                    History
+                  </span>
+                </a>
+                <ul>
+                  <li class="toclevel-2 tocsection-2">
+                    <a href="#Vacuum_brewers">
+                      <span class="tocnumber">
+                        1.1
+                      </span>
+                      <span class="toctext">
+                        Vacuum brewers
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-3">
+                    <a href="#Percolators">
+                      <span class="tocnumber">
+                        1.2
+                      </span>
+                      <span class="toctext">
+                        Percolators
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-4">
+                    <a href="#Moka_pot">
+                      <span class="tocnumber">
+                        1.3
+                      </span>
+                      <span class="toctext">
+                        Moka pot
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-5">
+                    <a href="#Electric_drip_coffeemakers">
+                      <span class="tocnumber">
+                        1.4
+                      </span>
+                      <span class="toctext">
+                        Electric drip coffeemakers
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-6">
+                    <a href="#Pourover.2C_water_displacement_drip_coffeemakers">
+                      <span class="tocnumber">
+                        1.5
+                      </span>
+                      <span class="toctext">
+                        Pourover, water displacement drip coffeemakers
+                      </span>
+                    </a>
+                  </li>
+                  <li class="toclevel-2 tocsection-7">
+                    <a href="#French_press">
+                      <span class="tocnumber">
+                        1.6
+                      </span>
+                      <span class="toctext">
+                        French press
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="toclevel-1 tocsection-8">
+                <a href="#Design_considerations_in_coffeemakers">
+                  <span class="tocnumber">
+                    2
+                  </span>
+                  <span class="toctext">
+                    Design considerations in coffeemakers
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-9">
+                <a href="#Unusual_designs">
+                  <span class="tocnumber">
+                    3
+                  </span>
+                  <span class="toctext">
+                    Unusual designs
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-10">
+                <a href="#See_also">
+                  <span class="tocnumber">
+                    4
+                  </span>
+                  <span class="toctext">
+                    See also
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-11">
+                <a href="#References">
+                  <span class="tocnumber">
+                    5
+                  </span>
+                  <span class="toctext">
+                    References
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-12">
+                <a href="#External_links">
+                  <span class="tocnumber">
+                    6
+                  </span>
+                  <span class="toctext">
+                    External links
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <p>
+          </p>
+          <h2>
+            <span class="mw-headline" id="History">
+              History
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=1" title="Edit section: History">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            For hundreds of years, making a cup of coffee was a simple process. Roasted and ground coffee beans were placed in a pot or pan, to which hot water was added, followed by attachment of a lid to commence the infusion process. Pots were designed specifically for brewing coffee, all with the purpose of trying to trap the coffee grounds before the coffee is poured. Typical designs feature a pot with a flat expanded bottom to catch sinking grounds and a sharp pour spout that traps the floating grinds. Other designs feature a wide bulge in the middle of the pot to catch grounds when coffee is poured.
+          </p>
+          <p>
+            In France, in about 1710, the Infusion brewing process was introduced. This involved submersing the ground coffee, usually enclosed in a linen bag, in hot water and letting it steep or "infuse" until the desired strength brew was achieved. Nevertheless, throughout the 19th and even the early 20th centuries, it was considered adequate to add ground coffee to hot water in a pot or pan, boil it until it smelled right, and pour the brew into a cup.
+          </p>
+          <p>
+            There were lots of innovations from France in the late 18th century. With help from Jean Baptiste de Belloy, the Archbishop of Paris, the idea that coffee should not be boiled gained acceptance. The first modern method for making coffee using a coffee filter—
+            <a href="/wiki/Drip_brew" title="Drip brew">
+              drip brewing
+            </a>
+            —is more than 125 years old, and its design had changed little. The 
+            <i>
+              biggin
+            </i>
+            , originating in France ca. 1780, was a two-level pot holding coffee in a cloth sock in an upper compartment into which water was poured, to drain through holes in the bottom of the compartment into the coffee pot below. Coffee was then dispensed from a spout on the side of the pot. The quality of the brewed coffee depended on the size of the grounds - too coarse and the coffee was weak; too fine and the water would not drip the filter. A major problem with this approach was that the taste of the cloth filter - whether cotton, burlap or an old sock - transferred to the taste of the coffee. Around the same time, a French inventor developed the "
+            <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+              pumping percolator
+            </a>
+            ", in which boiling water in a bottom chamber forces itself up a tube and then trickles (percolates) through the ground coffee back into the bottom chamber. Among other French innovations, Count Rumford, an eccentric American scientist residing in Paris, developed a French Drip Pot with an insulating water jacket to keep the coffee hot. Also, the first metal filter was developed and patented by French inventor.
+          </p>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:EkspresKrot.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EkspresKrot.jpg/220px-EkspresKrot.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EkspresKrot.jpg/330px-EkspresKrot.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/EkspresKrot.jpg/440px-EkspresKrot.jpg 2x" data-file-width="1599" data-file-height="1600"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:EkspresKrot.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Product of the Polish company Pol-Ekspres (1930s)
+              </div>
+            </div>
+          </div>
+          <h3>
+            <span class="mw-headline" id="Vacuum_brewers">
+              Vacuum brewers
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=2" title="Edit section: Vacuum brewers">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Vacuum_coffee_maker" title="Vacuum coffee maker">
+              Vacuum coffee maker
+            </a>
+          </div>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:Coffee_decant.jpeg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coffee_decant.jpeg/220px-Coffee_decant.jpeg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coffee_decant.jpeg/330px-Coffee_decant.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coffee_decant.jpeg/440px-Coffee_decant.jpeg 2x" data-file-width="2592" data-file-height="1936"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Coffee_decant.jpeg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Coffee decant poured in a bowl
+              </div>
+            </div>
+          </div>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:172px;">
+              <a href="/wiki/File:Vacpot3.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vacpot3.jpg/170px-Vacpot3.jpg" width="170" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vacpot3.jpg/255px-Vacpot3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vacpot3.jpg/340px-Vacpot3.jpg 2x" data-file-width="501" data-file-height="643"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Vacpot3.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Vacuum coffee brewer; a Bodum vacuum brewer in which the coffee is drawn back by pressure differential.
+              </div>
+            </div>
+          </div>
+          <p>
+            Other coffee brewing devices became popular throughout the nineteenth century, including various machines using the 
+            <a href="/wiki/Vacuum" title="Vacuum">
+              vacuum
+            </a>
+             principle. The Napier Vacuum Machine, invented in 1840, was an early example of this type. While generally too complex for everyday use, vacuum devices were prized for producing a clear brew, and were popular up until the middle of the twentieth century.
+          </p>
+          <p>
+            The principle of a vacuum brewer was to heat water in a lower vessel until expansion forced the contents through a narrow tube into an upper vessel containing ground coffee. When the lower vessel was empty and sufficient brewing time had elapsed, the heat was removed and the resulting vacuum would draw the brewed coffee back through a strainer into the lower chamber, from which it could be decanted. The 
+            <a href="/wiki/Bauhaus" title="Bauhaus">
+              Bauhaus
+            </a>
+             interpretation of this device can be seen in 
+            <a href="/wiki/Gerhard_Marcks" title="Gerhard Marcks">
+              Gerhard Marcks
+            </a>
+            ’ Sintrax coffee maker of 1925.
+          </p>
+          <p>
+            An early variant technique, called a balance siphon, was to have the two chambers arranged side-by-side on a sort of 
+            <a href="/wiki/Weighing_scale" title="Weighing scale">
+              scale
+            </a>
+            -like device, with a counterweight attached opposite the initial (or heating) chamber. Once the near-boiling water was forced from the heating chamber into the brewing one, the counterweight was activated, causing a spring-loaded 
+            <a href="/wiki/Snuffer" title="Snuffer">
+              snuffer
+            </a>
+             to come down over the flame, thus turning "off" the heat, and allowing the cooled water to return to the original chamber. In this way, a sort of primitive 'automatic' brewing method was achieved.
+          </p>
+          <p>
+            On August 27, 1930, Inez H. Pierce of Chicago, Illinois filed patent for the first vacuum coffee maker that truly automated the vacuum brewing process, while eliminating the need for a stove top burner or liquid fuels.
+            <sup id="cite_ref-1" class="reference">
+              <a href="#cite_note-1">
+                <span>
+                  [
+                </span>
+                1
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             An electrically heated stove was incorporated into the design of the vacuum brewer. Water was heated in a recessed well, which reduced wait times and forced the hottest water into the reaction chamber. Once the process was complete, a thermostat using bi-metallic expansion principles shut off heat to the unit at the appropriate time. Pierce’s invention was the first truly "automatic" vacuum coffee brewer, and was later incorporated in the Farberware 
+            <i>
+              Coffee Robot
+            </i>
+            .
+          </p>
+          <p>
+            Pierce’s design was later improved by U.S. appliance engineers 
+            <a href="/w/index.php?title=Ivar_Jepson&amp;action=edit&amp;redlink=1" class="new" title="Ivar Jepson (page does not exist)">
+              Ivar Jepson
+            </a>
+            , 
+            <a href="/w/index.php?title=Ludvik_Koci&amp;action=edit&amp;redlink=1" class="new" title="Ludvik Koci (page does not exist)">
+              Ludvik Koci
+            </a>
+            , and Eric Bylund of 
+            <a href="/wiki/Sunbeam_Products" title="Sunbeam Products">
+              Sunbeam
+            </a>
+             in the late 1930s. They altered the heating chamber and eliminated the recessed well which was hard to clean. they also made several improvements to the filtering mechanism. Their improved design of plated metals, styled by industrial designer 
+            <a href="/wiki/Alfonso_Iannelli" title="Alfonso Iannelli">
+              Alfonso Iannelli
+            </a>
+            , became the famous Sunbeam 
+            <i>
+              Coffeemaster
+            </i>
+             line of automated vacuum coffee makers (Models C-20, C-30, C40, and C-50). The Coffeemaster vacuum brewer was sold in large numbers in the United States during the years immediately following 
+            <a href="/wiki/World_War_I" title="World War I">
+              World War I
+            </a>
+            .
+          </p>
+          <h3>
+            <span class="mw-headline" id="Percolators">
+              Percolators
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=3" title="Edit section: Percolators">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+              Coffee percolator
+            </a>
+          </div>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:172px;">
+              <a href="/wiki/File:Perkulator.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Perkulator.jpg/170px-Perkulator.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Perkulator.jpg/255px-Perkulator.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Perkulator.jpg/340px-Perkulator.jpg 2x" data-file-width="1944" data-file-height="2592"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Perkulator.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+Electric percolator
+              </div>
+            </div>
+          </div>
+          <p>
+            Percolators began to be developed from the mid-nineteenth century. In the United States, James Nason of Massachusetts patented an early percolator design in 1865. An Illinois farmer named Hanson Goodrich is generally credited with patenting the modern percolator. Goodrich's patent was granted on August 16, 1889, and his patent description varies little from the stovetop percolators sold today. With the percolator design, water is heated in a boiling pot with a removable lid, until the heated water is forced through a metal tube into a brew basket containing coffee. The extracted liquid drains from the brew basket, where it drips back into the pot. This process is continually repeated during the brewing cycle until the liquid passing repeatedly through the grounds is sufficiently steeped. A clear sight chamber in the form of a transparent knob on the lid of the percolator enables the user to judge when the coffee has reached the proper color and strength.
+          </p>
+          <p>
+            Domestic 
+            <a href="/wiki/Electrification" title="Electrification">
+              electrification
+            </a>
+             simplified the operation of percolators by providing for a self-contained, electrically powered heating element that removed the need to use a stovetop burner. A critical element in the success of the electric coffee maker was the creation of safe and secure fuses and heating elements. In an article in House Furnishing Review, May 1915, Lewis Stephenson of Landers, Frary and Clark described a modular safety plug being used in his company’s Universal appliances, and the advent of numerous patents and innovations in temperature control and circuit breakers provided for the success of many new percolator and vacuum models. While early percolators had utilized all-glass construction (prized for maintaining purity of flavor), most percolators made from the 1930s were constructed of metal, especially aluminum and nickel-plated copper.
+          </p>
+          <p>
+            The method for making coffee in a percolator had barely changed since its introduction in the early part of the 20th century. However, in 1970 
+            <a href="/wiki/General_Foods" title="General Foods">
+              General Foods
+            </a>
+             Corporation introduced Max Pax, the first commercially available "ground coffee filter rings”. The Max Pax filters were named so as to compliment General Foods' Maxwell House coffee brand. The Max Pax coffee filter rings were designed for use in percolators, and each ring contained a pre-measured amount of coffee grounds that were sealed in a self-contained paper filter. The sealed rings resembled the shape of a doughnut, and the small hole in the middle of the ring enabled the coffee filter ring to be placed in the metal percolator basket around the protruding convection (percolator) tube.
+          </p>
+          <p>
+            Prior to the introduction of pre-measured self-contained ground coffee filter rings; fresh coffee grounds were measured out in scoopfuls and placed into the metal percolator basket. This process enabled small amounts of coffee grounds to leak into the fresh coffee. Additionally, the process left wet grounds in the percolator basket, which were very tedious to clean. The benefit of the Max Pax coffee filter rings was two-fold: First, because the amount of coffee contained in the rings was pre-measured, it negated the need to measure each scoop and then place it in the metal percolator basket. Second, the filter paper was strong enough to hold all the coffee grounds within the sealed paper. After use, the coffee filter ring could be easily removed from the basket and discarded. This saved the consumer from the tedious task of cleaning out the remaining wet coffee grounds from the percolator basket.
+          </p>
+          <p>
+            With the introduction of the electric drip coffee maker for the home in the early 1970s, the popularity of percolators plummeted, and so did the market for the self-contained ground coffee filters. In 1976, General Foods discontinued the manufacture of Max Pax, and by the end of the decade, even generic ground coffee filter rings were no longer available on U.S. supermarket shelves.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Moka_pot">
+              Moka pot
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=4" title="Edit section: Moka pot">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Moka_pot" title="Moka pot">
+              Moka pot
+            </a>
+          </div>
+          <p>
+            The moka pot is a stove-top coffee maker which produces coffee by passing hot water pressurized by steam through ground coffee. It was first patented by inventor Luigi De Ponti for Alfonso Bialetti in 1933. Bialetti Industrie continues to produce the same model under the name "Moka Express".
+          </p>
+          <p>
+            The moka pot is most commonly used in Europe and in Latin America. It has become an iconic design, displayed in modern industrial art and design museums such as the Wolfsonian- FIU, Museum of Modern Art, the Cooper–Hewitt, National Design Museum, the Design Museum, and the London Science Museum. Moka pots come in different sizes, from one to eighteen 50 ml cups.The original design and many current models are made from aluminium with bakelite handles.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Electric_drip_coffeemakers">
+              Electric drip coffeemakers
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=5" title="Edit section: Electric drip coffeemakers">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="hatnote relarticle mainarticle">
+            Main article: 
+            <a href="/wiki/Drip_brew" title="Drip brew">
+              Drip brew
+            </a>
+          </div>
+          <div class="thumb tright" style="width: 232px;">
+            <div class="thumbinner">
+              <div style="margin: 1px; width: 222px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Wigomat-100.jpg" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wigomat-100.jpg/220px-Wigomat-100.jpg" width="220" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wigomat-100.jpg/330px-Wigomat-100.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wigomat-100.jpg/440px-Wigomat-100.jpg 2x" data-file-width="1343" data-file-height="1140"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  <a href="/wiki/Wigomat" title="Wigomat">
+                    Wigomat
+                  </a>
+                  , the first electric drip coffeemaker
+                </div>
+              </div>
+              <div style="margin: 1px; width: 222px">
+                <div class="thumbimage">
+                  <a href="/wiki/File:Drip_Coffeemaker_Inside.jpg" class="image">
+                    <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Drip_Coffeemaker_Inside.jpg/220px-Drip_Coffeemaker_Inside.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Drip_Coffeemaker_Inside.jpg/330px-Drip_Coffeemaker_Inside.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Drip_Coffeemaker_Inside.jpg/440px-Drip_Coffeemaker_Inside.jpg 2x" data-file-width="1962" data-file-height="1962"/>
+                  </a>
+                </div>
+                <div class="thumbcaption" style="clear:left">
+                  Underside of a modern drip coffeemaker, showing the tubing and electric components
+                </div>
+              </div>
+            </div>
+          </div>
+          <p>
+            An electric drip coffee maker can also be referred to as a dripolator. It normally works by admitting water from a cold water reservoir into a flexible hose in the base of the reservoir leading directly to a thin metal tube or heating chamber (usually, of aluminum), where a heating element surrounding the metal tube heats the water. The heated water moves through the machine using the 
+            <i>
+              <a href="/wiki/Thermosiphon" title="Thermosiphon">
+                thermosiphon
+              </a>
+               principle
+            </i>
+            . Thermally-induced pressure and the siphoning effect move the heated water through an insulated rubber or vinyl riser hose, into a spray head, and onto the ground coffee, which is contained in a brew basket mounted below the spray head. The coffee passes through a filter and drips down into the carafe. A one-way valve in the tubing prevents water from siphoning back into the reservoir. A thermostat attached to the heating element turns off the heating element as needed to prevent overheating the water in the metal tube (overheating would produce only steam in the supply hose), then turns back on when the water cools below a certain threshold. For a standard 10-12 cup drip coffeemaker, using a more powerful thermostatically-controlled heating element (in terms of wattage produced), can heat increased amounts of water more quickly using larger heating chambers, generally producing higher average water temperatures at the spray head over the entire brewing cycle. This process can be further improved by changing the aluminum construction of most heating chambers to a metal with superior heat transfer qualities, such as copper.
+          </p>
+          <p>
+            Throughout the latter part of the 20th century, a number of inventors patented various coffeemaker designs using an automated form of the drip brew method. Subsequent designs have featured changes in heating elements, spray head, and brew-basket design, as well as the addition of timers and clocks for automatic-start, water filtration, filter and carafe design, and even built-in coffee grinding mechanisms.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Pourover.2C_water_displacement_drip_coffeemakers">
+              Pourover, water displacement drip coffeemakers
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=6" title="Edit section: Pourover, water displacement drip coffeemakers">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <p>
+            Bunn-O-Matic also came out with a different drip-brew machine. In this type of coffeemaker, the machine uses a holding tank or boiler pre-filled with water. When the machine is turned on, all of the water in the holding tank is brought to near boiling point (approximately 200-207 °F or 93-97 °C) using a thermostatically-controlled heating element. When water is poured into a top-mounted tray, it descends into a funnel and tube which delivers the cold water to the bottom of the boiler. The less-dense hot water in the boiler is displaced out of the tank and into a tube leading to the spray head, where it drips into a brew basket containing the ground coffee. The pourover, water displacement method of coffeemaking tends to produce brewed coffee at a much faster rate than standard drip designs. Its primary disadvantage is increased electricity consumption in order to preheat the water in the boiler. Additionally, the water displacement method is most efficient when used to brew coffee at the machine's maximum or near-maximum capacity, as typically found in restaurant or office usage. In 1963, Bunn introduced the first automatic coffee brewer, which connected to a waterline for an automatic water feed.
+          </p>
+          <h3>
+            <span class="mw-headline" id="French_press">
+              French press
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=7" title="Edit section: French press">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h3>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:172px;">
+              <a href="/wiki/File:French_press.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/French_press.jpg/170px-French_press.jpg" width="170" height="226" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/French_press.jpg/255px-French_press.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/French_press.jpg/340px-French_press.jpg 2x" data-file-width="350" data-file-height="466"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:French_press.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+A French press coffeemaker
+              </div>
+            </div>
+          </div>
+          <p>
+            A 
+            <a href="/wiki/French_press" title="French press">
+              French press
+            </a>
+             requires coffee of a coarser grind than does a drip brew 
+            <a href="/wiki/Coffee_filter" title="Coffee filter">
+              coffee filter
+            </a>
+            , as finer grounds will seep through the press filter and into the coffee.
+            <sup id="cite_ref-2" class="reference">
+              <a href="#cite_note-2">
+                <span>
+                  [
+                </span>
+                2
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Coffee is brewed by placing the coffee and water together, stirring it and leaving to brew for a few minutes, then pressing the plunger to trap the coffee grounds at the bottom of the beaker.
+          </p>
+          <p>
+            Because the coffee grounds remain in direct contact with the brewing water and the grounds are filtered from the water via a mesh instead of a paper filter, coffee brewed with the French press captures more of the coffee's flavour and 
+            <a href="/wiki/Essential_oil" title="Essential oil">
+              essential oils
+            </a>
+            , which would become trapped in a traditional 
+            <a href="/wiki/Drip_brew" title="Drip brew">
+              drip brew
+            </a>
+             machine's paper filters
+            <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">
+              [
+              <i>
+                <a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">
+                  <span title="This claim needs references to reliable sources. (November 2010)">
+                    citation needed
+                  </span>
+                </a>
+              </i>
+              ]
+            </sup>
+            . As with drip-brewed coffee, French pressed coffee can be brewed to any strength by adjusting the amount of ground coffee which is brewed. If the used grounds remain in the drink after brewing, French pressed coffee left to stand can become "bitter", though this is an effect that many users of French press consider beneficial. For a 
+            <span class="frac nowrap">
+              <sup>
+                1
+              </sup>
+              ?
+              <sub>
+                2
+              </sub>
+            </span>
+            -litre (0.11 imp gal; 0.13 US gal) French press, the contents are considered spoiled, by some reports, after around 20 minutes.
+            <sup id="cite_ref-3" class="reference">
+              <a href="#cite_note-3">
+                <span>
+                  [
+                </span>
+                3
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             Other approaches consider a brew period that may extend to hours as a method of superior production.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Design_considerations_in_coffeemakers">
+              Design considerations in coffeemakers
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=8" title="Edit section: Design considerations in coffeemakers">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tleft">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:Atomic_cofee_maker.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Atomic_cofee_maker.jpg/220px-Atomic_cofee_maker.jpg" width="220" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Atomic_cofee_maker.jpg/330px-Atomic_cofee_maker.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Atomic_cofee_maker.jpg/440px-Atomic_cofee_maker.jpg 2x" data-file-width="575" data-file-height="506"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Atomic_cofee_maker.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                <a href="/wiki/Atomic_Coffee_Machine" title="Atomic Coffee Machine" class="mw-redirect">
+                  Atomic brand coffee maker
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:Moka2.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/220px-Moka2.jpg" width="220" height="263" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/330px-Moka2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moka2.jpg/440px-Moka2.jpg 2x" data-file-width="1500" data-file-height="1796"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Moka2.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                <a href="/wiki/Moka_pot" title="Moka pot">
+                  Moka pot
+                </a>
+                 coffee pot for making 
+                <a href="/wiki/Espresso" title="Espresso">
+                  espresso
+                </a>
+                 coffee
+              </div>
+            </div>
+          </div>
+          <p>
+            At the beginning of the twentieth century, although some coffee makers tended to uniformity of design (particularly stovetop percolators), others displayed a wide variety of styling differences. In particular, the vacuum brewer, which required two fully separate chambers joined in an hourglass configuration, seemed to inspire industrial designers. Interest in new designs for the vacuum brewer revived during the 
+            <a href="/wiki/American_Craftsman" title="American Craftsman">
+              American Arts &amp; Crafts
+            </a>
+             movement with the introduction of "Silex" brand coffee makers, based on models developed by Massachusetts housewives Ann Bridges and Mrs. Sutton. Their use of 
+            <a href="/wiki/Pyrex" title="Pyrex">
+              Pyrex
+            </a>
+             solved the problem of fragility and breakability that had made this type of machine commercially unattractive. During the 1930s, simple, clean forms, increasingly of metal, attracted positive attention from industrial designers heavily influenced by the functionalist imperative of the 
+            <a href="/wiki/Bauhaus" title="Bauhaus">
+              Bauhaus
+            </a>
+             and 
+            <a href="/wiki/Streamline_Moderne" title="Streamline Moderne">
+              Streamline
+            </a>
+             movements. It was at this time that Sunbeam's sleek Coffeemaster vacuum brewer appeared, styled by the famous industrial designer 
+            <a href="/wiki/Alfonso_Iannelli" title="Alfonso Iannelli">
+              Alfonso Iannelli
+            </a>
+            . The popularity of glass and Pyrex globes temporarily revived during the 
+            <a href="/wiki/World_War_II" title="World War II">
+              Second World War
+            </a>
+            , since aluminum, chrome, and other metals used in traditional coffee makers became restricted in availability.
+          </p>
+          <p>
+            The impact of science and technological advances as a motif in post-war design was eventually felt in the manufacture and marketing of coffee and coffee-makers. Consumer guides emphasized the ability of the device to meet standards of temperature and brewing time, and the ratio of soluble elements between brew and grounds. The industrial chemist 
+            <a href="/wiki/Peter_Schlumbohm" title="Peter Schlumbohm">
+              Peter Schlumbohm
+            </a>
+             expressed the scientific motif most purely in his "Chemex" coffeemaker, which from its initial marketing in the early 1940s used the authority of science as a sales tool, describing the product as "the Chemist’s way of making coffee", and discussing at length the quality of its product in the language of the laboratory: “the funnel of the CHEMEX creates ideal hydrostatic conditions for the unique...Chemex extraction.” Schlumbohm’s unique brewer, a single Pyrex vessel shaped to hold a proprietary filter cone, resembled nothing more than a piece of 
+            <a href="/wiki/Laboratory_equipment" title="Laboratory equipment" class="mw-redirect">
+              laboratory equipment
+            </a>
+            , and surprisingly became popular for a time in the otherwise heavily automated, technology-obsessed 1950s household.
+          </p>
+          <p>
+            In later years, coffeemakers began to adopt more standardized forms commensurate with a large increase in the scale of production required to meet postwar consumer demand. Plastics and composite materials began to replace metal, particularly with the advent of newer electric drip coffeemakers in the 1970s. During the 1990s, consumer demand for more attractive appliances to complement expensive modern kitchens resulted in a new wave of redesigned coffeemakers in a wider range of available colors and styles.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Unusual_designs">
+              Unusual designs
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=9" title="Edit section: Unusual designs">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Several models of 
+            <a href="/wiki/Propane" title="Propane">
+              propane
+            </a>
+             gas powered coffee machines are also available.
+          </p>
+          <h2>
+            <span class="mw-headline" id="See_also">
+              See also
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=10" title="Edit section: See also">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:A_small_cup_of_coffee.JPG" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/220px-A_small_cup_of_coffee.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/330px-A_small_cup_of_coffee.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/440px-A_small_cup_of_coffee.JPG 2x" data-file-width="1600" data-file-height="1200"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:A_small_cup_of_coffee.JPG" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+A small cup of 
+                <a href="/wiki/Coffee" title="Coffee">
+                  coffee
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+            <ul>
+              <li>
+                <a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">
+                  Benjamin Thompson
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Coffee_pod" title="Coffee pod" class="mw-redirect">
+                  Coffee pod
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Coffee_preparation" title="Coffee preparation">
+                  Coffee preparation
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/K-Cup" title="K-Cup" class="mw-redirect">
+                  K-Cup
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Moka_pot" title="Moka pot">
+                  Moka pot
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Tea_set" title="Tea set">
+                  Tea set
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Teapot" title="Teapot">
+                  Teapot
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Trojan_Room_coffee_pot" title="Trojan Room coffee pot">
+                  Trojan Room coffee pot
+                </a>
+              </li>
+            </ul>
+          </div>
+          <ul>
+            <li>
+              <a href="/wiki/File:Emblem-relax.svg" class="image">
+                <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/28px-Emblem-relax.svg.png" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/42px-Emblem-relax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/56px-Emblem-relax.svg.png 2x" data-file-width="60" data-file-height="60"/>
+              </a>
+              <a href="/wiki/Portal:Coffee" title="Portal:Coffee">
+                Coffee portal
+              </a>
+            </li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="References">
+              References
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=11" title="Edit section: References">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="reflist" style="list-style-type: decimal;">
+            <ol class="references">
+              <li id="cite_note-1">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-1">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation web">
+                    <a rel="nofollow" class="external text" href="http://www.baharris.org/coffee/Patents/1994323.gif">
+                      "Patent drawing"
+                    </a>
+                    <span class="reference-accessdate">
+                      . Retrieved 2013-02-06
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoffeemaker&amp;rft.btitle=Patent+drawing&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.baharris.org%2Fcoffee%2FPatents%2F1994323.gif&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-2">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-2">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation news">
+                    Millman, China (2009-04-23). 
+                    <a rel="nofollow" class="external text" href="http://www.post-gazette.com/pg/09113/964681-51.stm">
+                      "Freshen Up; Manual Brewing Techniques Give Coffee Lovers a Better Way to Make a Quality Drink"
+                    </a>
+                    . 
+                    <i>
+                      Pittsburgh Post-Gazette (Pennsylvania)
+                    </i>
+                    <span class="reference-accessdate">
+                      . Retrieved 2009-06-16
+                    </span>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoffeemaker&amp;rft.atitle=Freshen+Up%3B+Manual+Brewing+Techniques+Give+Coffee+Lovers+a+Better+Way+to+Make+a+Quality+Drink&amp;rft.aufirst=China&amp;rft.aulast=Millman&amp;rft.au=Millman%2C+China&amp;rft.date=2009-04-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.post-gazette.com%2Fpg%2F09113%2F964681-51.stm&amp;rft.jtitle=Pittsburgh+Post-Gazette+%28Pennsylvania%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+              <li id="cite_note-3">
+                <span class="mw-cite-backlink">
+                  <b>
+                    <a href="#cite_ref-3">
+                      ^
+                    </a>
+                  </b>
+                </span>
+                <span class="reference-text">
+                  <span class="citation book">
+                    Rinsky, Laura Halpin (2008). 
+                    <i>
+                      The Pastry Chef's Companion
+                    </i>
+                    . John Wiley and Sons. p. 119. 
+                    <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">
+                      ISBN
+                    </a>
+                     
+                    <a href="/wiki/Special:BookSources/978-0-470-00955-0" title="Special:BookSources/978-0-470-00955-0">
+                      978-0-470-00955-0
+                    </a>
+                    .
+                  </span>
+                  <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoffeemaker&amp;rft.aufirst=Laura+Halpin&amp;rft.aulast=Rinsky&amp;rft.au=Rinsky%2C+Laura+Halpin&amp;rft.btitle=The+Pastry+Chef%27s+Companion&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-470-00955-0&amp;rft.pages=119&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                    <span style="display:none;">
+                       
+                    </span>
+                  </span>
+                </span>
+              </li>
+            </ol>
+          </div>
+          <h2>
+            <span class="mw-headline" id="External_links">
+              External links
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Coffeemaker&amp;action=edit&amp;section=12" title="Edit section: External links">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <ul>
+            <li>
+              <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"/>
+               Media related to 
+              <a href="//commons.wikimedia.org/wiki/Category:Coffeemaking_implements" class="extiw" title="commons:Category:Coffeemaking implements">
+                Coffeemaking implements
+              </a>
+               at Wikimedia Commons
+            </li>
+          </ul>
+          <table cellspacing="0" class="navbox" style="border-spacing:0;">
+            <tbody>
+              <tr>
+                <td style="padding:2px;">
+                  <table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+                    <tbody>
+                      <tr>
+                        <th scope="col" class="navbox-title" colspan="2">
+                          <div class="plainlinks hlist navbar mini">
+                            <ul>
+                              <li class="nv-view">
+                                <a href="/wiki/Template:Coffee" title="Template:Coffee">
+                                  <span title="View this template" style=";;background:none transparent;border:none;;">
+                                    v
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-talk">
+                                <a href="/wiki/Template_talk:Coffee" title="Template talk:Coffee">
+                                  <span title="Discuss this template" style=";;background:none transparent;border:none;;">
+                                    t
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="nv-edit">
+                                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Coffee&amp;action=edit">
+                                  <span title="Edit this template" style=";;background:none transparent;border:none;;">
+                                    e
+                                  </span>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div class="hrecipe fn ingredient" style="font-size:110%;">
+                            <a href="/wiki/Coffee" title="Coffee">
+                              Coffee
+                            </a>
+                          </div>
+                        </th>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Topics
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Economics_of_coffee" title="Economics of coffee">
+                                  Economics
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Fair_trade_coffee" title="Fair trade coffee">
+                                  Fair trade
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Health_effects_of_caffeine" title="Health effects of caffeine">
+                                  Health effects of caffeine
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/History_of_coffee" title="History of coffee">
+                                  History
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/List_of_countries_by_coffee_production" title="List of countries by coffee production">
+                            Production
+                          </a>
+                           by country
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Angola" title="Coffee production in Angola">
+                                  Angola
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Bolivia" title="Coffee production in Bolivia">
+                                  Bolivia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Brazil" title="Coffee production in Brazil">
+                                  Brazil
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Colombia" title="Coffee production in Colombia">
+                                  Colombia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Costa_Rica" title="Coffee production in Costa Rica">
+                                  Costa Rica
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Cuba" title="Coffee production in Cuba">
+                                  Cuba
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Ecuador" title="Coffee production in Ecuador">
+                                  Ecuador
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_El_Salvador" title="Coffee production in El Salvador">
+                                  El Salvador
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Ethiopia" title="Coffee production in Ethiopia">
+                                  Ethiopia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Guatemala" title="Coffee production in Guatemala">
+                                  Guatemala
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Haiti" title="Coffee production in Haiti">
+                                  Haiti
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Honduras" title="Coffee production in Honduras">
+                                  Honduras
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_India" title="Coffee production in India">
+                                  India
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Indonesia" title="Coffee production in Indonesia">
+                                  Indonesia
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Kenya" title="Coffee production in Kenya">
+                                  Kenya
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Laos" title="Coffee production in Laos">
+                                  Laos
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Mexico" title="Coffee production in Mexico">
+                                  Mexico
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Nicaragua" title="Coffee production in Nicaragua">
+                                  Nicaragua
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Papua_New_Guinea" title="Coffee production in Papua New Guinea">
+                                  Papua New Guinea
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_the_Philippines" title="Coffee production in the Philippines">
+                                  Philippines
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Tanzania" title="Coffee production in Tanzania">
+                                  Tanzania
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Uganda" title="Coffee production in Uganda">
+                                  Uganda
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Hawaii" title="Coffee production in Hawaii">
+                                  United States
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Venezuela" title="Coffee production in Venezuela">
+                                  Venezuela
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_production_in_Vietnam" title="Coffee production in Vietnam">
+                                  Vietnam
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_countries_by_coffee_consumption_per_capita" title="List of countries by coffee consumption per capita">
+                                  Countries by coffee consumption per capita
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffea" title="Coffea">
+                            Species
+                          </a>
+                           and 
+                          <a href="/wiki/List_of_coffee_varieties" title="List of coffee varieties">
+                            varieties
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_arabica" title="Coffea arabica">
+                                    Arabica
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_charrieriana" title="Coffea charrieriana">
+                                    Charrieriana
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Coffea_liberica" title="Coffea liberica">
+                                    Liberica
+                                  </a>
+                                </i>
+                              </li>
+                              <li>
+                                <i>
+                                  <a href="/wiki/Robusta_coffee" title="Robusta coffee" class="mw-redirect">
+                                    Robusta
+                                  </a>
+                                </i>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Components
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Cafestol" title="Cafestol">
+                                  Cafestol
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caffeic_acid" title="Caffeic acid">
+                                  Caffeic acid
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caffeine" title="Caffeine">
+                                  Caffeine
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_processing" title="Coffee processing" class="mw-redirect">
+                            Processing
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Coffee_roasting" title="Coffee roasting">
+                                  Coffee roasting
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_wastewater" title="Coffee wastewater">
+                                  Coffee wastewater
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Decaffeination" title="Decaffeination">
+                                  Decaffeination
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Home_roasting_coffee" title="Home roasting coffee">
+                                  Home roasting
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_preparation" title="Coffee preparation">
+                            Preparation
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/AeroPress" title="AeroPress">
+                                  AeroPress
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chorreador" title="Chorreador">
+                                  Chorreador
+                                </a>
+                              </li>
+                              <li>
+                                <strong class="selflink">
+                                  Coffeemaker
+                                </strong>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_syrup" title="Coffee syrup" class="mw-redirect">
+                                  Coffee syrup
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cold_brew" title="Cold brew">
+                                  Cold brew
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Drip_brew" title="Drip brew">
+                                  Drip brew
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso" title="Espresso">
+                                  Espresso
+                                </a>
+                                <ul>
+                                  <li>
+                                    <a href="/wiki/Lungo" title="Lungo">
+                                      lungo
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a href="/wiki/Ristretto" title="Ristretto">
+                                      ristretto
+                                    </a>
+                                  </li>
+                                </ul>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso_machine" title="Espresso machine">
+                                  Espresso machine
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/French_press" title="French press">
+                                  French press
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Instant_coffee" title="Instant coffee">
+                                  Instant coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Knockbox" title="Knockbox">
+                                  Knockbox
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffee_dishes" title="List of coffee dishes">
+                                  List of coffee dishes
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Moka_pot" title="Moka pot">
+                                  Moka pot
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_percolator" title="Coffee percolator">
+                                  Percolator
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Turkish_coffee" title="Turkish coffee">
+                                  Turkish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Vacuum_coffee_maker" title="Vacuum coffee maker">
+                                  Vacuum maker
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/List_of_coffee_beverages" title="List of coffee beverages">
+                            Popular beverages
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Affogato" title="Affogato">
+                                  Affogato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_Americano" title="Caffè Americano">
+                                  Americano
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bica_(coffee)" title="Bica (coffee)">
+                                  Bica
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Bicerin" title="Bicerin">
+                                  Bicerin
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Vietnamese_iced_coffee" title="Vietnamese iced coffee">
+                                  Cà phê s?a ?á
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_au_lait" title="Café au lait">
+                                  Café au lait
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_con_leche" title="Café con leche">
+                                  Café con leche
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cuban_espresso" title="Cuban espresso">
+                                  Café Cubano
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_mocha" title="Caffè mocha" class="mw-redirect">
+                                  Caffè mocha
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_Touba" title="Café Touba">
+                                  Café Touba
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_corretto" title="Caffè corretto">
+                                  Caffè corretto
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9_com_Cheirinho" title="Café com Cheirinho">
+                                  Café com Cheirinho
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_macchiato" title="Caffè macchiato">
+                                  Caffè macchiato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cappuccino" title="Cappuccino">
+                                  Cappuccino
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Carajillo" title="Carajillo">
+                                  Carajillo
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chinesa" title="Chinesa">
+                                  Chinesa
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_milk" title="Coffee milk">
+                                  Coffee milk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Cortado" title="Cortado">
+                                  Cortado
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Espresso" title="Espresso">
+                                  Espresso
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Flat_white" title="Flat white">
+                                  Flat white
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Frappuccino" title="Frappuccino">
+                                  Frappuccino
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Gal%C3%A3o" title="Galão">
+                                  Galão
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Garoto_(coffee)" title="Garoto (coffee)">
+                                  Garoto (coffee)
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Frapp%C3%A9_coffee" title="Frappé coffee">
+                                  Greek frappé coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Iced_coffee" title="Iced coffee">
+                                  Iced coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Indian_filter_coffee" title="Indian filter coffee">
+                                  Indian filter coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ipoh_white_coffee" title="Ipoh white coffee">
+                                  Ipoh white coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Irish_coffee" title="Irish coffee">
+                                  Irish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Karsk" title="Karsk">
+                                  Karsk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_Luwak" title="Kopi Luwak">
+                                  Kopi Luwak
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_tubruk" title="Kopi tubruk">
+                                  Kopi tubruk
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Latte" title="Latte">
+                                  Latte
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Latte_macchiato" title="Latte macchiato">
+                                  Latte macchiato
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Liqueur_coffee" title="Liqueur coffee">
+                                  Liqueur coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Long_black" title="Long black">
+                                  Long black
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Red_eye_(drink)" title="Red eye (drink)">
+                                  Red eye
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Ristretto" title="Ristretto">
+                                  Ristretto
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/R%C3%BCdesheimer_Kaffee" title="Rüdesheimer Kaffee">
+                                  Rüdesheimer Kaffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Turkish_coffee" title="Turkish coffee">
+                                  Turkish coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Yuanyang_(drink)" title="Yuanyang (drink)">
+                                  Yuanyang
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Brands
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/List_of_coffee_companies" title="List of coffee companies">
+                                  Coffee companies
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffeehouse_chains" title="List of coffeehouse chains">
+                                  Coffeehouses
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          <a href="/wiki/Coffee_substitute" title="Coffee substitute">
+                            Substitutes
+                          </a>
+                        </th>
+                        <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Roasted_barley_tea" title="Roasted barley tea">
+                                  Barley tea
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Barleycup" title="Barleycup">
+                                  Barleycup
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caro_(beverage)" title="Caro (beverage)">
+                                  Caro
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Chicory" title="Chicory">
+                                  Chicory
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Dandelion_coffee" title="Dandelion coffee">
+                                  Dandelion coffee
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Inka_(beverage)" title="Inka (beverage)">
+                                  Inka
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Postum" title="Postum">
+                                  Postum
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Qishr" title="Qishr">
+                                  Qishr
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Roasted_grain_beverage" title="Roasted grain beverage">
+                                  Roasted grain beverage
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <th scope="row" class="navbox-group">
+                          Lifestyle
+                        </th>
+                        <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+                          <div style="padding:0em 0.25em;">
+                            <ul>
+                              <li>
+                                <a href="/wiki/Barista" title="Barista">
+                                  Barista
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caf%C3%A9" title="Café" class="mw-redirect">
+                                  Café
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8" title="Caffè">
+                                  Caffè
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Caff%C3%A8_sospeso" title="Caffè sospeso">
+                                  Caffè sospeso
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Break_(work)#Coffee_break" title="Break (work)">
+                                  Coffee break
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_ceremony" title="Coffee ceremony">
+                                  Coffee ceremony
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_culture" title="Coffee culture">
+                                  Coffee culture
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_cupping" title="Coffee cupping">
+                                  Coffee cupping
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffee_Palace" title="Coffee Palace" class="mw-redirect">
+                                  Coffee Palace
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Coffeehouse" title="Coffeehouse">
+                                  Coffeehouse
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Fika_(coffee_break)" title="Fika (coffee break)">
+                                  Fika
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Kopi_tiam" title="Kopi tiam">
+                                  Kopi tiam
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/List_of_coffeehouse_chains" title="List of coffeehouse chains">
+                                  List of coffeehouse chains
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/Viennese_coffee_house" title="Viennese coffee house">
+                                  Viennese coffee house
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                      <tr style="height:2px;">
+                        <td colspan="2"/>
+                      </tr>
+                      <tr>
+                        <td class="navbox-abovebelow" colspan="2">
+                          <div>
+                            <ul>
+                              <li>
+                                <a href="/wiki/File:Emblem-relax.svg" class="image">
+                                  <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/16px-Emblem-relax.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/24px-Emblem-relax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emblem-relax.svg/32px-Emblem-relax.svg.png 2x" data-file-width="60" data-file-height="60"/>
+                                </a>
+                                <a href="/wiki/Portal:Coffee" title="Portal:Coffee">
+                                  Coffee portal
+                                </a>
+                              </li>
+                              <li>
+                                <a href="/wiki/File:Goblet_Glass_(Banquet).svg" class="image">
+                                  <img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/9px-Goblet_Glass_%28Banquet%29.svg.png" width="9" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/14px-Goblet_Glass_%28Banquet%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/19px-Goblet_Glass_%28Banquet%29.svg.png 2x" data-file-width="239" data-file-height="408"/>
+                                </a>
+                                <a href="/wiki/Portal:Drink" title="Portal:Drink">
+                                  Drink portal
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"/>
+                                 
+                                <a href="/wiki/Category:Coffee" title="Category:Coffee">
+                                  Category: Coffee
+                                </a>
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/24px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/32px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400"/>
+                                <a href="//en.wikibooks.org/wiki/Cookbook:Coffee" class="extiw" title="wikibooks:Cookbook:Coffee">
+                                  Coffee
+                                </a>
+                                 at Wikibook Cookbooks
+                              </li>
+                              <li>
+                                <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"/>
+                                 Media related to 
+                                <a href="//commons.wikimedia.org/wiki/Coffee" class="extiw" title="commons:Coffee">
+                                  Coffee
+                                </a>
+                                 at Wikimedia Commons
+                              </li>
+                              <li>
+                                <img alt="Project page" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/16px-Symbol_information_vote.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/23px-Symbol_information_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Symbol_information_vote.svg/31px-Symbol_information_vote.svg.png 2x" data-file-width="180" data-file-height="185"/>
+                                <a href="/wiki/Wikipedia:WikiProject_Food_and_drink/Beverages_Task_Force/Coffee_and_Tea_task_force" title="Wikipedia:WikiProject Food and drink/Beverages Task Force/Coffee and Tea task force">
+                                  Project
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- 
+NewPP limit report
+Parsed by mw1177
+CPU time usage: 0.764 seconds
+Real time usage: 0.890 seconds
+Preprocessor visited node count: 1178/1000000
+Preprocessor generated node count: 9770/1500000
+Post?expand include size: 40440/2048000 bytes
+Template argument size: 1640/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3.5 MB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:30860428-0!*!0!!en!4!* and timestamp 20140607220148 and revision id 610562137
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Coffeemaker&amp;oldid=610562137">
+            http://en.wikipedia.org/w/index.php?title=Coffeemaker&amp;oldid=610562137
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Coffee_preparation" title="Category:Coffee preparation">
+                  Coffee preparation
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Cooking_appliances" title="Category:Cooking appliances">
+                  Cooking appliances
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Boilers_(cookware)" title="Category:Boilers (cookware)">
+                  Boilers (cookware)
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:American_culture" title="Category:American culture">
+                  American culture
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+            Hidden categories: 
+            <ul>
+              <li>
+                <a href="/wiki/Category:Articles_needing_additional_references_from_January_2011" title="Category:Articles needing additional references from January 2011">
+                  Articles needing additional references from January 2011
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">
+                  All articles needing additional references
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">
+                  All articles with unsourced statements
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">
+                  Articles with unsourced statements from November 2010
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Coffeemaker&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Coffeemaker" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Coffeemaker" title="View the content page [c]" accesskey="c">
+                    Article
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Talk:Coffeemaker" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Coffeemaker">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit">
+                <span>
+                  <a href="/w/index.php?title=Coffeemaker&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">
+                    Edit
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Coffeemaker&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Coffeemaker" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Coffeemaker" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Coffeemaker&amp;oldid=610562137" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Coffeemaker&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q211841" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:Cite&amp;page=Coffeemaker&amp;id=610562137" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coffeemaker">
+                  Create a book
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Coffeemaker&amp;oldid=610562137&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Coffeemaker&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-af">
+                <a href="//af.wikipedia.org/wiki/Koffiemasjien" title="Koffiemasjien – Afrikaans" lang="af" hreflang="af">
+                  Afrikaans
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="//ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9_%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1_%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9" title="?????? ????? ?????? – Arabic" lang="ar" hreflang="ar">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-br">
+                <a href="//br.wikipedia.org/wiki/Pod-kafe" title="Pod-kafe – Breton" lang="br" hreflang="br">
+                  Brezhoneg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="//ca.wikipedia.org/wiki/Cafetera" title="Cafetera – Catalan" lang="ca" hreflang="ca">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="//cs.wikipedia.org/wiki/K%C3%A1vovar" title="Kávovar – Czech" lang="cs" hreflang="cs">
+                  ?eština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-da">
+                <a href="//da.wikipedia.org/wiki/Kaffemaskine" title="Kaffemaskine – Danish" lang="da" hreflang="da">
+                  Dansk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Kaffeemaschine" title="Kaffeemaschine – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Cafetera" title="Cafetera – Spanish" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eo">
+                <a href="//eo.wikipedia.org/wiki/Kafaparato" title="Kafaparato – Esperanto" lang="eo" hreflang="eo">
+                  Esperanto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="//fa.wikipedia.org/wiki/%D9%82%D9%87%D9%88%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2" title="???????? – Persian" lang="fa" hreflang="fa">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Cafeti%C3%A8re" title="Cafetière – French" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gl">
+                <a href="//gl.wikipedia.org/wiki/Cafeteira" title="Cafeteira – Galician" lang="gl" hreflang="gl">
+                  Galego
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="//ko.wikipedia.org/wiki/%EC%BB%A4%ED%94%BC%EB%A9%94%EC%9D%B4%EC%BB%A4" title="????? – Korean" lang="ko" hreflang="ko">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Macchina_da_caff%C3%A8" title="Macchina da caffè – Italian" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="//he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA_%D7%A7%D7%A4%D7%94" title="????? ??? – Hebrew" lang="he" hreflang="he">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kk">
+                <a href="//kk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%84%D0%B5%D2%9B%D0%B0%D0%B9%D0%BD%D0%B0%D1%82%D2%9B%D1%8B%D1%88" title="????????????? – Kazakh" lang="kk" hreflang="kk">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-la">
+                <a href="//la.wikipedia.org/wiki/Machina_cafearia" title="Machina cafearia – Latin" lang="la" hreflang="la">
+                  Latina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="//nl.wikipedia.org/wiki/Koffiezetapparaat" title="Koffiezetapparaat – Dutch" lang="nl" hreflang="nl">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nds-nl">
+                <a href="//nds-nl.wikipedia.org/wiki/Koffiemesine" title="Koffiemesine – Low Saxon (Netherlands)" lang="nds-NL" hreflang="nds-NL">
+                  Nedersaksies
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="//ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="???????? – Japanese" lang="ja" hreflang="ja">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="//no.wikipedia.org/wiki/Kaffetrakter" title="Kaffetrakter – Norwegian (bokmål)" lang="no" hreflang="no">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nn">
+                <a href="//nn.wikipedia.org/wiki/Kaffitraktar" title="Kaffitraktar – Norwegian Nynorsk" lang="nn" hreflang="nn">
+                  Norsk nynorsk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="//pl.wikipedia.org/wiki/Ekspres_do_kawy" title="Ekspres do kawy – Polish" lang="pl" hreflang="pl">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="//pt.wikipedia.org/wiki/Cafeteira" title="Cafeteira – Portuguese" lang="pt" hreflang="pt">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%84%D0%B5%D0%B2%D0%B0%D1%80%D0%BA%D0%B0" title="????????? – Russian" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-scn">
+                <a href="//scn.wikipedia.org/wiki/Cafittera" title="Cafittera – Sicilian" lang="scn" hreflang="scn">
+                  Sicilianu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Kahvinkeitin" title="Kahvinkeitin – Finnish" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Kaffebryggare" title="Kaffebryggare – Swedish" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-th">
+                <a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F" title="????????????? – Thai" lang="th" hreflang="th">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tr">
+                <a href="//tr.wikipedia.org/wiki/Kahve_makinesi" title="Kahve makinesi – Turkish" lang="tr" hreflang="tr">
+                  Türkçe
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%D1%80%D0%BA%D0%B0" title="????????? – Ukrainian" lang="uk" hreflang="uk">
+                  ??????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vec">
+                <a href="//vec.wikipedia.org/wiki/C%C3%B3goma" title="Cógoma – vèneto" lang="vec" hreflang="vec">
+                  Vèneto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="//zh.wikipedia.org/wiki/%E5%92%96%E5%95%A1%E6%A9%9F" title="??? – Chinese" lang="zh" hreflang="zh">
+                  ??
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q211841#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 28 May 2014 at 23:18.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Coffeemaker" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":323,"wgHostname":"mw1052"});
+}
+//]]>
+    </script>
+  </body>
+</html>

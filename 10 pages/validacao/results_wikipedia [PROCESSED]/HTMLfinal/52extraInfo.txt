@@ -1,0 +1,4 @@
+URL:http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+RATIOTOTAL:0.13180620268475965
+RATIOPREVIOUS:31.374
+SELENIUMSTEP:58

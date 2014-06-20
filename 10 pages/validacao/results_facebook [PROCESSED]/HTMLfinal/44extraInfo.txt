@@ -1,0 +1,4 @@
+URL:https://m.facebook.com/language.php?n=https%3A%2F%2Fm.facebook.com%2Flogin.php%3Frefsrc%3Dhttps%253A%252F%252Fm.facebook.com%252Fhelp%252Fcookies&refid=9
+RATIOTOTAL:0.6639728832647422
+RATIOPREVIOUS:32.493
+SELENIUMSTEP:59

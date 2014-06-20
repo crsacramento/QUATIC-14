@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="eo" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Historio de versioj de "Aleksandr Geljevi? Dugin" - Vikipedio
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="alternate" type="application/x-wiki" title="Redakti" href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=edit"/>
+    <link rel="edit" title="Redakti" href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipedio (eo)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//eo.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="&quot;Aleksandr Geljevi? Dugin&quot; Atom-fonto" href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;feed=atom&amp;action=history"/>
+    <link rel="alternate" type="application/atom+xml" title="Vikipedio Atom-fonto" href="/w/index.php?title=Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj&amp;feed=atom"/>
+    <link rel="canonical" href="http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=history"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.EksteraLigilo%2CRekta-ligilo-al-Komunejo%2CniceInfoboxes%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eowiki:resourceloader:filter:minify-css:7:1df466fa735460dde8a1e61910156041 */
+    </style>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aleksandr_Geljevi?_Dugin","wgTitle":"Aleksandr Geljevi? Dugin","wgCurRevisionId":5481968,"wgRevisionId":0,"wgArticleId":483898,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","a?gusto","septembro","oktobro","novembro","decembro"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","Maj","Jun","Jul","A?g","Sep","Okt","Nov","Dec"],"wgRelevantPageName":"Aleksandr_Geljevi?_Dugin","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"eo","pageLanguageDir":"ltr","svgMaxSize":2048},"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"Esperanto","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":0,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"mathJax":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,
+"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"","language":"eo","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-niceInfoboxes":1,"gadget-EksteraLigilo":1,"gadget-Rekta-ligilo-al-Komunejo":1,"gadget-PropraProvejo":1,"variant":"eo"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: eowiki:resourceloader:filter:minify-js:7:15e0f428c30ffb944b12fc38457a891c */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Aleksandr_Geljevi?_Dugin skin-vector action-history vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="eo">
+        <span dir="auto">
+          Historio de versioj de "Aleksandr Geljevi? Dugin"
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+          <a href="/w/index.php?title=Speciala%C4%B5o:Protokolo&amp;page=Aleksandr+Geljevi%C4%89+Dugin" title="Speciala?o:Protokolo">
+            Rigardi la protokolojn por tiu ?i pa?o
+          </a>
+          <br/>
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Saltu al:					
+          <a href="#mw-navigation">
+            navigado
+          </a>
+          , 					
+          <a href="#p-search">
+            ser?o
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <form action="/w/index.php" method="get" id="mw-history-searchform">
+            <fieldset id="mw-history-search">
+              <legend>
+                Traser?i historion
+              </legend>
+              <input type="hidden" value="Aleksandr_Geljevi?_Dugin" name="title"/>
+              <input type="hidden" value="history" name="action"/>
+              <label for="year">
+                De jaro (kaj pli frue):
+              </label>
+              <input id="year" maxlength="4" size="7" type="number" value="2014" name="year"/>
+              <label for="month">
+                De monato (kaj pli frue):
+              </label>
+              <select id="month" name="month" class="mw-month-selector">
+                <option value="-1" selected="selected">
+                  ?iuj
+                </option>
+                <option value="1">
+                  januaro
+                </option>
+                <option value="2">
+                  februaro
+                </option>
+                <option value="3">
+                  marto
+                </option>
+                <option value="4">
+                  aprilo
+                </option>
+                <option value="5">
+                  majo
+                </option>
+                <option value="6">
+                  junio
+                </option>
+                <option value="7">
+                  julio
+                </option>
+                <option value="8">
+                  a?gusto
+                </option>
+                <option value="9">
+                  septembro
+                </option>
+                <option value="10">
+                  oktobro
+                </option>
+                <option value="11">
+                  novembro
+                </option>
+                <option value="12">
+                  decembro
+                </option>
+              </select>
+               
+              <label for="tagfilter">
+                <a href="/wiki/Speciala%C4%B5o:Etikedoj" title="Speciala?o:Etikedoj">
+                  Etikeda
+                </a>
+                 filtrilo:
+              </label>
+               
+              <input name="tagfilter" size="20" value="" class="mw-tagfilter-input" id="tagfilter" type="text"/>
+               
+              <input type="submit" value="Ek!"/>
+            </fieldset>
+          </form>
+          <div class="mw-history-legend">
+            <div id="histlegend">
+              <span style="white-space:nowrap;">
+                Por montri iun de malnovaj versioj, klaku al ?ia datumo.
+              </span>
+              <span style="white-space:nowrap;">
+                Pliaj informoj estas en la pa?oj 
+                <a href="/wiki/Helpo:Historio_de_pa%C4%9Do" title="Helpo:Historio de pa?o">
+                  Helpo:Historio de pa?o
+                </a>
+                 kaj 
+                <a href="/wiki/Vikipedio:Resumo" title="Vikipedio:Resumo">
+                  Vikipedio:Resumo
+                </a>
+                .
+              </span>
+              <br/>
+              <span style="white-space:nowrap;">
+                Pliaj iloj: 
+                <a class="external text" href="//tools.wmflabs.org/xtools/articleinfo/index.php?article=Aleksandr_Geljevi%C4%89_Dugin&amp;lang=eo&amp;wiki=wikipedia">
+                  Statistikoj pri historio de revizioj
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="http://wikipedia.ramselehof.de/wikiblame.php?lang=eo&amp;article=Aleksandr_Geljevi%C4%89_Dugin">
+                  Ser?ado en malnovaj revizioj
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="//toolserver.org/~daniel/WikiSense/Contributors.php?wikilang=eo&amp;wikifam=.wikipedia.org&amp;grouped=on&amp;page=Aleksandr_Geljevi%C4%89_Dugin">
+                  Kontribuantoj
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a class="external text" href="//tools.wmflabs.org/usersearch/index.html?page=Aleksandr_Geljevi%C4%89_Dugin">
+                  Redaktoj fare de uzanto
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a class="external text" href="//eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=info#mw-pageinfo-watchers">
+                  Nombro de atentantoj
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="http://stats.grok.se/eo/latest/Aleksandr_Geljevi%C4%89_Dugin">
+                  Statistiko de vizitoj
+                </a>
+              </span>
+              <hr/>
+              <span style="white-space:nowrap;">
+                (nuna) = diferenco inter nuna versio,
+              </span>
+              <span style="white-space:nowrap;">
+                (anta?a) = diferenco inter anta?a versio,
+              </span>
+              <span style="white-space:nowrap;">
+                 
+                <b>
+                  e
+                </b>
+                 = eta redakto, ? = redakto de sekcio, ? = a?tomata resumo de redakto
+              </span>
+            </div>
+          </div>
+          <form action="/w/index.php" id="mw-history-compare">
+            <input type="hidden" value="Aleksandr_Geljevi?_Dugin" name="title"/>
+            <input type="hidden" value="historysubmit" name="action"/>
+            <div>
+            </div>
+            <ul id="pagehistory">
+              <li>
+                <span class="mw-history-histlinks">
+                  (nuna | anta?a)
+                </span>
+                <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;oldid=5481968" title="Aleksandr Geljevi? Dugin" class="mw-changeslist-date">
+                  16:55, 11 Jun. 2014
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/Uzanto:Ri%C5%9Do" title="Uzanto:Ri?o" class="mw-userlink">
+                    Ri?o
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/Uzanto-Diskuto:Ri%C5%9Do" title="Uzanto-Diskuto:Ri?o">
+                      Diskuto
+                    </a>
+                     | 
+                    <a href="/wiki/Speciala%C4%B5o:Kontribuoj/Ri%C5%9Do" title="Speciala?o:Kontribuoj/Ri?o">
+                      kontribuoj
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (1 142 bitokoj)
+                </span>
+                <strong dir="ltr" class="mw-plusminus-pos" title="1 142 bajtoj post ?an?o">
+                  (+1 142)
+                </strong>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Traduko el germanlingva Vikipedio)
+                </span>
+              </li>
+            </ul>
+          </form>
+          <noscript>
+            <img src="//eo.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						El?utita el  "
+          <a dir="ltr" href="http://eo.wikipedia.org/wiki/Aleksandr_Geljevi?_Dugin">
+            http://eo.wikipedia.org/wiki/Aleksandr_Geljevi?_Dugin
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigacia menuo
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personaj iloj
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Aleksandr+Geljevi%C4%89+Dugin&amp;returntoquery=action%3Dhistory&amp;type=signup">
+                Krei novan konton
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Aleksandr+Geljevi%C4%89+Dugin&amp;returntoquery=action%3Dhistory" title="Vi estas invitita ensaluti, tamen ne estas devige. [o]" accesskey="o">
+                Ensaluti
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Nomspacoj
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Aleksandr_Geljevi%C4%89_Dugin" title="Vidi la artikolon [c]" accesskey="c">
+                    Artikolo
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk" class="new">
+                <span>
+                  <a href="/w/index.php?title=Diskuto:Aleksandr_Geljevi%C4%89_Dugin&amp;action=edit&amp;redlink=1" title="Diskuto pri la artikolo [t]" accesskey="t">
+                    Diskuto
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variantoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Vidoj
+            </h3>
+            <ul>
+              <li id="ca-view">
+                <span>
+                  <a href="/wiki/Aleksandr_Geljevi%C4%89_Dugin">
+                    Legi
+                  </a>
+                </span>
+              </li>
+              <li id="ca-ve-edit">
+                <span>
+                  <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;veaction=edit" title="Redakti tiun ?i pa?on per VidRedaktilo [v]" accesskey="v">
+                    Redakti
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit" class=" collapsible">
+                <span>
+                  <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=edit" title="Vi povas redakti tiun ?i pa?on. Bv uzi la anta?vidbutonon anta? ol konservi. [e]" accesskey="e">
+                    Redakti fonton
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible selected">
+                <span>
+                  <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=history" title="Anta?aj versioj de tiu ?i pa?o. [h]" accesskey="h">
+                    Vidi historion
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Agoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Ser?i
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Ser?i" title="Traser?u ?i tiun vikion [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Speciala?o:Ser?i" name="title"/>
+                <input type="submit" name="fulltext" value="Ser?i" title="Ser?i la pa?ojn por ?i tiu teksto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Ek!" title="Iru al pa?o kun ?i preciza nomo se ?i ekzistas" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/eo/b/bc/Wiki.png);" href="/wiki/Vikipedio:%C4%88efpa%C4%9Do" title="?efpa?o">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigado
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-desciption">
+                <a href="/wiki/Vikipedio:%C4%88efpa%C4%9Do">
+                  ?efpa?o
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Portalo:Komunumo" title="Pri la projekto, kion vi povas fari, kie vi povas trovi ion">
+                  Komunuma portalo
+                </a>
+              </li>
+              <li id="n-villagepump">
+                <a href="/wiki/Vikipedio:Diskutejo">
+                  Diskutejo
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Vikipedio:Aktuala%C4%B5oj" title="Trovi fonajn informojn pri nunaj eventoj">
+                  Aktuala?oj
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj" title="Listo de la lastaj ?an?oj en la vikio. [r]" accesskey="r">
+                  Lastaj ?an?oj
+                </a>
+              </li>
+              <li id="n-newpages">
+                <a href="/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj">
+                  Novaj pa?oj
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Speciala%C4%B5o:Hazarda_pa%C4%9Do" title="Iri al hazarda pa?o [x]" accesskey="x">
+                  Hazarda pa?o
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="/wiki/Helpo:Enhavo" title="Ser?opa?o.">
+                  Helpo
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_eo.wikipedia.org&amp;uselang=eo" title="Subteni nin per mono">
+                  Donaci
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Iloj
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Speciala%C4%B5o:Kio_ligas_%C4%89i_tien%3F/Aleksandr_Geljevi%C4%89_Dugin" title="Listo de ?iuj vikiaj pa?oj kiuj ligas ?i tien [j]" accesskey="j">
+                  Ligiloj ?i tien
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Speciala%C4%B5o:Rilataj_%C5%9Dan%C4%9Doj/Aleksandr_Geljevi%C4%89_Dugin" title="Lastaj ?an?oj en pa?oj kiuj ligas al tiu ?i pa?o [k]" accesskey="k">
+                  Rilataj pa?oj
+                </a>
+              </li>
+              <li id="feedlinks">
+                <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom-fonto por ?i tiu pa?o">
+                  Atomo
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Speciala%C4%B5o:Specialaj_pa%C4%9Doj" title="Listo de ?iuj specialaj pa?oj [q]" accesskey="q">
+                  Specialaj pa?oj
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=info">
+                  Informoj pri la pa?o
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Aliaj lingvoj
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/Vikipedio:Respekto_de_la_privateco" title="Vikipedio:Respekto de la privateco">
+            Regularo pri respekto de la privateco
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Vikipedio:Enkonduko" title="Vikipedio:Enkonduko">
+            Pri Vikipedio
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Vikipedio:Malgarantio" title="Vikipedio:Malgarantio">
+            Malgarantio
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//eo.m.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&amp;action=history" class="noprint stopMobileRedirectToggle">
+            Vidigo por porteblaj aparatoj
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.action.history","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.niceInfoboxes","ext.gadget.EksteraLigilo","ext.gadget.Rekta-ligilo-al-Komunejo","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.flaggedRevs.advanced"],null,true);
+}
+//]]>
+    </script>
+    <script src="/w/index.php?title=MediaWiki:Gadget-PropraProvejo.js&amp;action=raw&amp;ctype=text/javascript&amp;3589761">
+    </script>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":336,"wgHostname":"mw1077"});
+}
+//]]>
+    </script>
+  </body>
+</html>

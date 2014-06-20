@@ -1,0 +1,12 @@
+URL:https://www.amazon.com/ap/signin
+RATIOTOTAL:0.0266228217330077
+RATIOPREVIOUS:4.563
+SELENIUMSTEP:27
+POSSIBLE-LOGIN-PASS-TEXT-BOX
+POSSIBLE-LOGIN-WITH-:3-OCURRENCES-OF:password
+INPUT-PATTERN-TEXTBOX://input[@id=ap_email_old and @name=email and @type=email]
+INPUT-PATTERN-TEXT:username
+INPUT-PATTERN-TEXTBOX://input[@id=ap_email_new and @name=emailNew and @type=email]
+INPUT-PATTERN-TEXT:username
+INPUT-PATTERN-TEXTBOX://input[@id=ap_email_new_check and @name=emailNewCheck and @type=email]
+INPUT-PATTERN-TEXT:username

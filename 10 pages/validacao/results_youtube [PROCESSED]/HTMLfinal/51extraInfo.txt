@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/yt/copyright/ca/index.html
+RATIOTOTAL:0.05027010086094986
+RATIOPREVIOUS:0.985
+SELENIUMSTEP:57

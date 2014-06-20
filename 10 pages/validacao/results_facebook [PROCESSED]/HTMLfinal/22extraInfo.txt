@@ -1,0 +1,6 @@
+URL:https://developers.facebook.com/roadmap/
+RATIOTOTAL:1.9114922782852755
+RATIOPREVIOUS:74.931
+SELENIUMSTEP:29
+INPUT-PATTERN-TEXTBOX://input[@id=u_0_9 and @class=inputtext _55r1 _5j-b _55r4 _55r2 DOMControl_placeholder and @name=query and @type=text]
+INPUT-PATTERN-TEXT:dress

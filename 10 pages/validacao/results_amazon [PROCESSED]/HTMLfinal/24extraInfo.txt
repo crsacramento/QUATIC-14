@@ -1,0 +1,4 @@
+URL:http://www.amazon.com/gp/school-lists/ref=sv_wl_5
+RATIOTOTAL:0.8386363682338658
+RATIOPREVIOUS:-29.686
+SELENIUMSTEP:30

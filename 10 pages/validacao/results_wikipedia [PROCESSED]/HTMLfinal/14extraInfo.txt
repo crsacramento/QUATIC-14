@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road
+RATIOTOTAL:0.47124017960152037
+RATIOPREVIOUS:-111.214
+SELENIUMSTEP:15

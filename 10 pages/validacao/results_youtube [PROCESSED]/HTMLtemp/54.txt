@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+
+for(var a=["article","footer","nav","figure","figcaption"],b=0;b<a.length;b++)document.createElement(a[b]);window._gaq=window._gaq||[];
+    
+//]]>
+    </script>
+    <title>
+      
+      Informazioni su YouTube - YouTube
+    
+    </title>
+    <meta content="YouTube" name="author"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700&amp;lang=it" rel="stylesheet" title="Foglio di stile Open Sans"/>
+    <link href="/yt/css/www-about.css" rel="stylesheet" title=""/>
+  </head>
+  <body class="ltr" dir="ltr">
+    <div id="page">
+      <div id="masthead-container">
+        <div id="masthead">
+          <div id="masthead-root">
+            <a href="//www.youtube.com/" id="masthead-logo" title="Home page di YouTube">
+              <img alt="Home page di YouTube" src="/yt/img/logo_hh.png"/>
+            </a>
+            <form action="//www.youtube.com/results" autocomplete="on" class="search-form" id="masthead-search" method="get" name="masthead-search">
+              <button aria-pressed="false" class="search-button yt-uix-button yt-uix-button-default" dir="ltr" id="search-btn" role="button" tabindex="2" type="submit">
+                <span class="yt-uix-button-content">
+                  Cerca
+                </span>
+              </button>
+              <label id="masthead-search-term">
+                <input class="search-term" name="search_query" tabindex="1" title="Cerca" type="text" value=""/>
+              </label>
+            </form>
+            <div id="masthead-utility">
+              <a class="yt-uix-button yt-uix-button-default" href="//www.youtube.com/my_videos_upload">
+                <span class="yt-uix-button-content">
+                  Carica
+              video
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="yt-microsite-with-sidebar" id="yt-microsite">
+        <div class="" id="yt-main-nav-container">
+          <nav id="yt-main-nav">
+            <nav id="yt-microsite-nav">
+              <a class="active" href="/yt/about/it/">
+                Informazioni
+              </a>
+              <a href="/yt/press/it/">
+                Stampa
+              </a>
+              <a href="/yt/copyright/it/">
+                Copyright
+              </a>
+              <a href="/yt/policyandsafety/it/">
+                Sicurezza
+              </a>
+              <a href="/yt/creators/it/">
+                Creativi
+              </a>
+              <a href="/yt/advertise/it/">
+                Pubblicità
+              </a>
+              <a href="/yt/dev/">
+                Sviluppatori
+              </a>
+              <a href="//support.google.com/youtube">
+                Guida
+              </a>
+            </nav>
+          </nav>
+        </div>
+        <div id="yt-microsite-features">
+          <div class="yt-microsite-features" id="yt-sidebar">
+            <h2>
+              
+              Informazioni su YouTube
+            
+            </h2>
+            <ul>
+              <li class="selected">
+                <a href="index.html">
+                  Informazioni
+                </a>
+              </li>
+              <li>
+                <a href="getting-started.html">
+                  Guida introduttiva
+                </a>
+              </li>
+              <li>
+                <a href="//www.youtube.com/t/community_guidelines">
+                  Norme della community
+                </a>
+              </li>
+              <li>
+                <a href="/yt/brand/it/">
+                  Linee guida per il brand
+                </a>
+              </li>
+              <li>
+                <a href="//www.youtube.com/t/contact_us">
+                  Contattaci
+                </a>
+              </li>
+              <li>
+                <a href="//www.google.com/jobs/youtube/">
+                  Opportunità di lavoro
+                </a>
+              </li>
+              <li>
+                <a href="//www.googlestore.com/Google+Redesign/Brands/YouTube/">
+                  Merchandising
+                </a>
+              </li>
+            </ul>
+            <hr class="yt-sidebar-border"/>
+          </div>
+          <div class="yt-about-main-content yt-microsite-features">
+            <div class="yt-microsite-features">
+              <h1>
+                
+                Informazioni su YouTube
+              
+              </h1>
+              <p>
+                
+                Fondata nel febbraio del 2005, YouTube consente a miliardi di persone di scoprire,
+                guardare e condividere video originali creati dagli utenti. YouTube fornisce
+                un'area in cui le persone entrano in contatto, si informano e ispirano altri utenti
+                in tutto il mondo. YouTube costituisce una piattaforma di distribuzione dei
+                contenuti originali di autori e inserzionisti grandi e piccoli.
+              
+              </p>
+              <div class="yt-horizontal-rule">
+                <span class="first">
+                </span>
+                <span class="second">
+                </span>
+                <span class="third">
+                </span>
+              </div>
+            </div>
+            <div>
+              <div class="yt-about-index-body">
+                <ul>
+                  <li class="yt-tile-static yt-about-index-feature-item">
+                    <a href="getting-started.html">
+                      <img alt="Guida introduttiva" src="/yt/about/media/images/yt-about-index-getting-started.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="getting-started.html">
+                          Guida introduttiva
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Abbiamo creato una guida dettagliata per aiutarti a muovere i primi passi
+                        su YouTube.
+                      
+                      </p>
+                    </div>
+                  </li>
+                  <li class="yt-tile-static yt-about-index-feature-item alternate">
+                    <a href="//www.youtube.com/t/community_guidelines">
+                      <img alt="Norme della community" src="/yt/about/media/images/yt-about-index-community-guidelines.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="//www.youtube.com/t/community_guidelines">
+                          Norme della
+                        community
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Documentati sulle nostre linee guida per partecipare alla community di
+                        YouTube.
+                      
+                      </p>
+                    </div>
+                  </li>
+                  <li class="yt-tile-static yt-about-index-feature-item">
+                    <a href="/yt/brand/it/">
+                      <img alt="Linee guida per il brand" src="/yt/about/media/images/yt-about-index-brand-guidelines.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="/yt/brand/it/">
+                          Linee guida per il brand
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Linee guida per l'utilizzo del nome e del logo di YouTube.
+                      
+                      </p>
+                    </div>
+                  </li>
+                  <li class="yt-tile-static yt-about-index-feature-item alternate">
+                    <a href="//www.youtube.com/t/contact_us">
+                      <img alt="Contatti" src="/yt/about/media/images/yt-about-index-contact.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="//www.youtube.com/t/contact_us">
+                          Contattaci
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Trova le informazioni di contatto dei nostri vari reparti.
+                      
+                      </p>
+                    </div>
+                  </li>
+                  <li class="yt-tile-static yt-about-index-feature-item">
+                    <a href="//www.google.com/jobs/youtube/">
+                      <img alt="Opportunità di lavoro" src="/yt/about/media/images/yt-about-index-careers.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="/yt/jobs/">
+                          Opportunità di lavoro
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Vuoi lavorare per YouTube? Consulta la pagina delle nostre opportunità di
+                        lavoro per informazioni fornite dai dipendenti attuali e per conoscere i
+                        posti disponibili.
+                      
+                      </p>
+                    </div>
+                  </li>
+                  <li class="yt-tile-static yt-about-index-feature-item alternate">
+                    <a href="//www.googlestore.com/Google+Redesign/Brands/YouTube/">
+                      <img alt="Merchandising" src="/yt/about/media/images/yt-about-index-merchandise.png"/>
+                    </a>
+                    <div class="yt-about-index-feature-description">
+                      <h3>
+                        <a href="//www.googlestore.com/Google+Redesign/Brands/YouTube/">
+                          Merchandising
+                        </a>
+                      </h3>
+                      <p>
+                        
+                        Occhiali da sole, T-shirt, zainetti: abbiamo un intero store online ricco
+                        di gadget firmati YouTube per gli amanti dello shopping.
+                      
+                      </p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="yt-js-sidebarscroll-footer" id="yt-microsite-footer">
+        </div>
+      </div>
+    </div>
+    <div class="footer-container footer-container-non-responsive">
+      <div>
+        <div class="footer-main">
+          <span class="footer-logo">
+            <a href="/">
+              <img alt="Home page di YouTube" src="/yt/img/logo_hh.png"/>
+            </a>
+          </span>
+          <button class="yt-uix-button yt-uix-button-default footer-language-selector-button" id="yt-js-footer-language-selector-button">
+            <span class="yt-uix-button-content">
+              Lingua:
+          Italiano
+            </span>
+          </button>
+          <div class="footer-language-selector yt-hide yt-tile-static" id="yt-js-footer-language-selector">
+            <ul>
+              <li>
+                <a href="/yt/about/ar/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/bg/index.html">
+                  ?????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/bn/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ca/index.html">
+                  Català
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/cs/index.html">
+                  ?eština
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/da/index.html">
+                  Dansk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/de/index.html">
+                  Deutsch
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/el/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/index.html">
+                  English
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/en-GB/index.html">
+                  English (United Kingdom)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/es/index.html">
+                  Español
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/es-419/index.html">
+                  Español (Latinoamérica)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/et/index.html">
+                  Eesti
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/eu/index.html">
+                  Euskara
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/fa/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/about/fi/index.html">
+                  Suomi
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/fil/index.html">
+                  Filipino
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/fr/index.html">
+                  Français
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/fr-CA/index.html">
+                  Français (Canada)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/gl/index.html">
+                  Galego
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/gu/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/hi/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/hr/index.html">
+                  Hrvatski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/hu/index.html">
+                  Magyar
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/id/index.html">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/is/index.html">
+                  Íslenska
+                </a>
+              </li>
+              <li>
+                <strong>
+                  Italiano
+                </strong>
+              </li>
+              <li>
+                <a href="/yt/about/iw/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ja/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/kn/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/about/ko/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/lt/index.html">
+                  Lietuvi?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/lv/index.html">
+                  Latviešu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ml/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/mr/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ms/index.html">
+                  Bahasa Melayu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/nl/index.html">
+                  Nederlands
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/no/index.html">
+                  Norsk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/pl/index.html">
+                  Polski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/pt-BR/index.html">
+                  Português (Brasil)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/pt-PT/index.html">
+                  Português (Portugal)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ro/index.html">
+                  Român?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ru/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/sk/index.html">
+                  Sloven?ina
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/sl/index.html">
+                  Slovenš?ina
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/about/sr/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/sv/index.html">
+                  Svenska
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ta/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/te/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/th/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/tr/index.html">
+                  Türkçe
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/uk/index.html">
+                  ??????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/ur/index.html">
+                  ????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/vi/index.html">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/zh-CN/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/zh-HK/index.html">
+                  ?? (??)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/about/zh-TW/index.html">
+                  ????????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-secondary">
+          <ul class="footer-primary-info">
+            <li>
+              <a href="/yt/about/it/">
+                Informazioni
+              </a>
+            </li>
+            <li>
+              <a href="/yt/press/it/">
+                Stampa
+              </a>
+            </li>
+            <li>
+              <a href="/yt/copyright/it/">
+                Copyright
+              </a>
+            </li>
+            <li>
+              <a href="/yt/creators/it/">
+                Creativi
+              </a>
+            </li>
+            <li>
+              <a href="/yt/advertise/it/">
+                Pubblicità
+              </a>
+            </li>
+            <li>
+              <a href="/yt/dev/">
+                Sviluppatori
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube">
+                Guida
+              </a>
+            </li>
+            <li>
+              <a href="//plus.google.com/+youtube">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul class="footer-secondary-info">
+            <li>
+              <a href="/t/terms">
+                Termini
+              </a>
+            </li>
+            <li>
+              <a href="/yt/policyandsafety/it/">
+                Norme e sicurezza
+              </a>
+            </li>
+            <li>
+              <a href="//www.google.com/policies/privacy/">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Prova qualcosa di nuovo!
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="/yt/js/www-goro.min.js">
+    </script>
+    <script>
+//<![CDATA[
+
+yt.goro.core.analytics.push(
+          ['_setAccount', 'UA-38810586-1'],
+          ['_trackPageview']
+        );
+    
+//]]>
+    </script>
+    <script src="/yt/js/www-about.min.js">
+    </script>
+    <script>
+//<![CDATA[
+
+var ytAboutTabs = new yt.goro.core.tabs;
+    
+//]]>
+    </script>
+  </body>
+</html>

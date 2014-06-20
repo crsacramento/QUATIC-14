@@ -1,0 +1,6 @@
+URL:http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+RATIOTOTAL:1.3050036732528965
+RATIOPREVIOUS:-32.066
+SELENIUMSTEP:5
+INPUT-PATTERN-TEXTBOX://textarea[@id=Textarea1 and @name=feedback]
+INPUT-PATTERN-TEXT:dress

@@ -1,0 +1,4 @@
+URL:https://m.facebook.com/login.php?refsrc=https%3A%2F%2Fm.facebook.com%2Flanguage.php&_rdr
+RATIOTOTAL:0.6719574508333205
+RATIOPREVIOUS:-32.484
+SELENIUMSTEP:60

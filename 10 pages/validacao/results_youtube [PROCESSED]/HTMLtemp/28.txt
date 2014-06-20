@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" data-cast-api-enabled="true">
+  <head>
+    <script>
+//<![CDATA[
+var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function b(k,g){var a,d;g?a=!0:document.getElementById("c4-custom-tab-iframe")?(document.body.className+=" exp-wider-browse",a=!0):a=!1;a?(a=1056,d=1262):(a=951,d=1136);var c=(window.innerWidth||document.documentElement.clientWidth)-21-50;1251<=(window.innerWidth||document.documentElement.clientWidth)&&k&&(c-=230);return c>=d?"content-snap-width-3":c>=a?"content-snap-width-2":"content-snap-width-1"};function e(k,g,a,d){var c=document.getElementsByTagName("html")[0],h=[c.className];k&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),g&&h.push("show-guide"));a&&h.push(" ",b(g,d));c.className=h.join(" ")}var f=["yt","www","masthead","sizing","runBeforeBodyIsReady"],l=this;f[0]in l||!l.execScript||l.execScript("var "+f[0]);for(var m;f.length&&(m=f.shift());)f.length||void 0===e?l[m]?l=l[m]:l=l[m]={}:l[m]=e;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,true,false,false);
+  
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflKNUgKf.js" name="www-scheduler">
+    </script>
+    <script>
+//<![CDATA[
+var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};
+//]]>
+    </script>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-core-vfldcTd0v.css" name="www-core"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    ytimg.preload("http:\/\/r3---sn-4jjo-apne.googlevideo.com\/crossdomain.xml");
+    ytimg.preload("http:\/\/r3---sn-4jjo-apne.googlevideo.com\/generate_204");
+  
+//]]>
+    </script>
+    <title>
+      Chinte by Takako Kikuchi (tsuruhimeja) - YouTube
+    </title>
+    <link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"/>
+    <link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon"/>
+    <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"/>
+    <link rel="canonical" href="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=f67mC1169Ko"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=f67mC1169Ko"/>
+    <link rel="shortlink" href="http://youtu.be/f67mC1169Ko?list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta name="title" content="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+    <meta name="description" content="Chinte by Takako Kikuchi (tsuruhimeja) All Japan Sports Masters 2002 Female kata final"/>
+    <meta name="keywords" content="jka, kata, tinte, chinte, tsuruhimeja"/>
+    <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df67mC1169Ko%26list%3DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" title="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+    <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df67mC1169Ko%26list%3DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" title="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+    <meta name="robots" content="noindex"/>
+    <meta property="og:site_name" content="YouTube"/>
+    <meta property="og:url" content="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta property="og:title" content="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+    <meta property="og:image" content="http://i1.ytimg.com/vi/f67mC1169Ko/hqdefault.jpg"/>
+    <meta property="og:description" content="Chinte by Takako Kikuchi (tsuruhimeja) All Japan Sports Masters 2002 Female kata final"/>
+    <meta property="al:ios:app_store_id" content="544007664"/>
+    <meta property="al:ios:app_name" content="YouTube"/>
+    <meta property="al:ios:url" content="vnd.youtube://watch/f67mC1169Ko"/>
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="al:android:app_name" content="YouTube"/>
+    <meta property="al:android:package" content="com.google.android.youtube"/>
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="og:type" content="video"/>
+    <meta property="og:video" content="http://www.youtube.com/v/f67mC1169Ko?version=3&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta property="og:video:type" content="application/x-shockwave-flash"/>
+    <meta property="og:video:width" content="480"/>
+    <meta property="og:video:height" content="360"/>
+    <meta property="fb:app_id" content="87741124305"/>
+    <meta name="twitter:card" content="player"/>
+    <meta name="twitter:site" content="@youtube"/>
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta name="twitter:title" content="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+    <meta name="twitter:description" content="Chinte by Takako Kikuchi (tsuruhimeja) All Japan Sports Masters 2002 Female kata final"/>
+    <meta name="twitter:image" content="http://i1.ytimg.com/vi/f67mC1169Ko/hqdefault.jpg"/>
+    <meta name="twitter:app:name:iphone" content="YouTube"/>
+    <meta name="twitter:app:id:iphone" content="544007664"/>
+    <meta name="twitter:app:name:ipad" content="YouTube"/>
+    <meta name="twitter:app:id:ipad" content="544007664"/>
+    <meta name="twitter:app:url:iphone" content="vnd.youtube://watch/f67mC1169Ko"/>
+    <meta name="twitter:app:url:ipad" content="vnd.youtube://watch/f67mC1169Ko"/>
+    <meta name="twitter:app:name:googleplay" content="YouTube"/>
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube"/>
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta name="twitter:player" content="https://www.youtube.com/embed/f67mC1169Ko?list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+    <meta name="twitter:player:width" content="480"/>
+    <meta name="twitter:player:height" content="360"/>
+    <meta name="attribution" content="tsuruhimeja%2Buser/"/>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-pageframe-vflPXdM4J.css" name="www-pageframe"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}
+//]]>
+    </script>
+  </head>
+  <body dir="ltr" class="  ltr  ie ie8     site-center-aligned site-as-giant-card sitewide-ticker-visible appbar-hidden     not-nirvana-dogfood  not-watch8    delayed-frame-styles-not-in  " id="body">
+    <div id="body-container">
+      <form name="logoutForm" method="POST" action="/logout">
+        <input type="hidden" name="action_logout" value="1"/>
+      </form>
+      <div id="masthead-positioner">
+        <div id="ticker" class="cookie-alert">
+          <div id="ticker-inner" class="yt-base-gutter">
+            <img class="ticker-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt=""/>
+            <div class="ticker-content">
+              
+
+            Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+            
+              <span>
+                <a href="/redirect?q=https%3A%2F%2Fwww.google.com%2Fintl%2Fen%2Fpolicies%2Ftechnologies%2Fcookies&amp;event=gcookie&amp;usg=Y47905-KCVaXRQN63Q_3VjwtMnU=" target="_blank">
+                  Learn more
+                </a>
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary yt-uix-close" type="button" onclick="yt.www.masthead.dismissCookieAlert();;return false;" data-close-parent-id="ticker">
+                  <span class="yt-uix-button-content">
+                    Got it
+ 
+                  </span>
+                </button>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter">
+          <div id="yt-masthead" class="">
+            <div class="yt-masthead-logo-container ">
+              <a id="logo-container" href="/" title="YouTube home" class="    
+">
+                <img id="logo" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+                <span class="content-region">
+                  PT
+                </span>
+              </a>
+              <div id="appbar-guide-button-container">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Guide">
+                  <span class="yt-uix-button-icon-wrapper">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide"/>
+                  </span>
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                </button>
+                <div id="appbar-guide-button-notification-check" class="yt-valign">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="appbar-guide-notification-icon yt-valign-content"/>
+                </div>
+              </div>
+              <div id="appbar-main-guide-notification-container">
+              </div>
+            </div>
+            <div id="yt-masthead-signin">
+              <span id="appbar-onebar-upload-group" class="yt-uix-button-group">
+                <a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;feature=mhsb" id="upload-btn">
+                  <span class="yt-uix-button-content">
+                    Upload 
+                  </span>
+                </a>
+              </span>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX">
+                <span class="yt-uix-button-content">
+                  Sign in 
+                </span>
+              </button>
+            </div>
+            <div id="yt-masthead-content">
+              <form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel('masthead-search-term').value == '') return false;">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" tabindex="2" id="search-btn" dir="ltr">
+                  <span class="yt-uix-button-content">
+                    Search 
+                  </span>
+                </button>
+                <div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr">
+                  <label>
+                    <input id="masthead-search-term" autocomplete="off" class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"/>
+                  </label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div id="masthead-appbar-container" class="clearfix">
+          <div id="masthead-appbar">
+            <div id="appbar-content" class="">
+            </div>
+          </div>
+        </div>
+        <iframe id="masthead-ie-mask">
+        </iframe>
+      </div>
+      <div id="masthead-positioner-height-offset">
+      </div>
+      <div id="page-container">
+        <div id="page" class="  watch      watch-non-stage-mode   clearfix">
+          <div id="guide" class="yt-scrollbar">
+            <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+              <div id="guide-container">
+                <div class="guide-module-content guide-module-loading">
+                  <p class="yt-spinner">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                    <span class="yt-spinner-message">
+                      
+Loading...
+    
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="alerts" class="content-alignment">
+            <div class="yt-alert yt-alert-default yt-alert-info hid " id="old-browser-alert">
+              <div class="yt-alert-icon">
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon"/>
+              </div>
+              <div class="yt-alert-buttons">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick="yt.net.cookies.set('hideOldBrowserBox', 'true', 604800);;return false;" data-close-parent-class="yt-alert">
+                  <span class="yt-uix-button-content">
+                    Close 
+                  </span>
+                </button>
+              </div>
+              <div class="yt-alert-content" role="alert">
+              </div>
+            </div>
+            <script>
+//<![CDATA[
+
+    if (!navigator.userAgent.match(/Trident\/\d\.\d/)) {
+      document.getElementById('old-browser-alert').style.display = 'block';
+    }
+  
+//]]>
+            </script>
+          </div>
+          <div id="header">
+          </div>
+          <div id="player" class="      watch-small        watch-playlist ">
+            <div id="theater-background">
+            </div>
+            <div id="player-mole-container">
+              <div id="playlist" class="playlist">
+              </div>
+              <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+                <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt=""/>
+                <div class="content">
+                  <h1 id="unavailable-message" class="message">
+                    
+            This video is unavailable.
+    
+                  </h1>
+                  <div id="unavailable-submessage" class="submessage">
+                  </div>
+                </div>
+              </div>
+              <div id="player-api" class="player-width player-height off-screen-target player-api">
+              </div>
+              <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+//]]>
+              </script>
+              <script>
+//<![CDATA[
+var ytplayer = ytplayer || {};ytplayer.config = {"assets": {"css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js", "html": "\/html5_player_template"}, "params": {"allowfullscreen": "true", "allowscriptaccess": "always", "bgcolor": "#000000"}, "url_v8": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "sts": 16225, "url_v9as2": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "html5": false, "url": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf", "args": {"storyboard_spec": "http:\/\/i1.ytimg.com\/sb\/f67mC1169Ko\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#_bkN4qQIJ2Q8ny7i3M0eaNkpvaI|60#45#65#10#10#1000#M$M#ujUkzqLquNUREZgpUFsd_B9HI74|120#90#65#5#5#1000#M$M#bKbWu3iT0wSNCiNwOVQ3mGY88-w", "cosver": "6.0", "t": "1", "yt_pt": "APb3F29NORGUa4K7zK3mj1dgkN915Ub9ypmdcLv0yHvph1hfPrwWlc970BfhqcwH76GKMmfKWVy9kBEHOozrYAzHb9i00cm_HE_jhRVFqUAut5NVU4PQskCSpO4_PJowfWrUbKpDbPggdyOU4DpV", "ucid": "UC8q4JKfDyFaqhvkj9XdfWbg", "ad_channel_code_instream": "afv_instream,Vertical_20,Vertical_514,Vertical_516,afv_user_tsuruhimeja,afv_user_id_8q4JKfDyFaqhvkj9XdfWbg,yt_mpvid_AAT7kjOdPectjsh_,yt_cid_102512,yt_no_ap,ivpypp,ytdevice_1,ytps_default,ytel_detailpage", "csi_page_type": "watch,watch7ad", "ad_preroll": "1", "ad_tag": "http:\/\/ad.doubleclick.net\/N4061\/pfadx\/com.ytpwatch.sports\/main_102512;sz=WIDTHxHEIGHT;kvid=f67mC1169Ko;kpu=tsuruhimeja;kpeid=8q4JKfDyFaqhvkj9XdfWbg;kpid=102512;mpvid=AAT7kjOdPectjsh_;afv=1;dc_yt=1;k5=20_514_516;kclg=1;kclt=1;kga=-1;kgg=-1;klg=en;ko=y;kr=H;kvz=203;nlfb=1;yt_ec=9;yt_vrallowed=1;ytcat=17;ytdevice=1;ytexp=900356,936118;!c=102512;k2=20;k2=514;k2=516;kvlg=it;kvlg=en;", "ptk": "tsuruhimeja%2Buser", "shortform": true, "ad_channel_code_overlay": "invideo_overlay_480x70_cat17,afv_overlay,Vertical_20,Vertical_514,Vertical_516,afv_user_tsuruhimeja,afv_user_id_8q4JKfDyFaqhvkj9XdfWbg,yt_mpvid_AAT7kjOdPectjsh_,yt_cid_102512,yt_no_ap,ivpypp,ytdevice_1,ytps_default,ytel_detailpage", "atc": "a=3\u0026b=WP_w2To3FweGpLG8Ag-tRzHeHqY\u0026c=1402505256\u0026d=1\u0026e=f67mC1169Ko\u0026c3a=23\u0026c1a=1\u0026hh=dkw2tKxlJUzYrwdPVKqKnLk4giI", "max_dynamic_allocation_ad_tag_length": 2040, "dynamic_allocation_ad_tag": "http:\/\/ad.doubleclick.net\/N4061\/pfadx\/com.ytpwatch.sports\/main_102512;sz=WIDTHxHEIGHT;kvid=f67mC1169Ko;kpu=tsuruhimeja;kpeid=8q4JKfDyFaqhvkj9XdfWbg;kpid=102512;mpvid=AAT7kjOdPectjsh_;afv=1;afvbase=eJxVkU2T4iAQhn-N3JyCfMqBQ9RxrMmOurMT3T1RBIgh5gMTEo2_flH3MEtR9fJ0v13V3YxGyEFxSRDIm84QzqZ3neo-nYYII9dH2HGsYhcCqQQBZXMXDKHrBxNngd0AoRngTdvKkpmmJciDjg99xw_8mQsqdqVMUNG3zKimJijwIQSDErKhXFfEWu8HWI8ZtSTdSWnN0lI-LKDuK1ve2fYM1eNA5JWXvZCA56yuZUk-VL3QlTeD1xB-yc6giTNn2UBV3ZlWssriXrZGcVZSB34nH3n_Y_CvtO9kS03Xt32uKlmw72El6OzsvcfZclyxcz6cCvxbZIf0aE2joZW2XdMo-gpPxVbsJDdFl9NnjtsMsptBzpPrhjJtn2rQo9aP2PMrKHqA7qiQGetL80BZWjRMlZodJejbkuTG6IkbTZyVvZfL5WVsetOn8oU3duzVY39WsyCsFggFOG5AXhJZg9zYOYjnzTD0XGBb0YZEu9RdOXiz_XxLmBeHt9itCiSOpw1GfpLiUVeC_xjguB50jvJs114OJcchnGf5mV_WYfAWf1RZfNiP-DR_XW-bW_snuq1TrCDkFV2_0iL_3K_OSdQbf7NPvN3P7rT4pbce3b03l-zQJmmsl-nueBTjNvGWev8Xrr7g4g;dc_backfill=1;dc_yt=1;k5=20_514_516;kclg=1;kclt=1;kga=-1;kgg=-1;klg=en;ko=y;kr=H;kvz=203;nlfb=1;yt_ec=9;yt_vrallowed=1;ytcat=17;ytdevice=1;ytexp=900356,936118;!c=102512;k2=20;k2=514;k2=516;kvlg=it;kvlg=en;", "index": null, "cos": "Windows", "sdetail": "p:\/channel\/UC8q4JKfDyFaqhvkj9Xdf", "show_content_thumbnail": true, "afv_ad_tag_restricted_to_instream": "http:\/\/googleads.g.doubleclick.net\/pagead\/ads?description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Ff67mC1169Ko\u0026ytdevice=1\u0026host=ca-host-pub-7191351922913930\u0026loeid=900356%2C936118\u0026max_ad_duration=15000\u0026video_cpm=2500000\u0026client=ca-pub-6219811747049371\u0026ad_type=skippablevideo\u0026channel=afv_instream%2BVertical_20%2BVertical_514%2BVertical_516%2Bafv_user_tsuruhimeja%2Bafv_user_id_8q4JKfDyFaqhvkj9XdfWbg%2Byt_mpvid_AAT7kjOdPectjsh_%2Byt_cid_102512%2Byt_no_ap%2Bivpypp%2Bytdevice_1%2Bytps_default%2Bytel_detailpage\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Ff67mC1169Ko\u0026hl=en\u0026ht_id=4489043", "referrer": "http:\/\/www.youtube.com\/channel\/UC8q4JKfDyFaqhvkj9XdfWbg", "plid": "AAT7kjOc77GNVm5N", "adaptive_fmts": "bitrate=769643\u0026size=642x480\u0026lmt=1402118007297062\u0026index=710-897\u0026clen=4617018\u0026init=0-709\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.798%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402118007297062%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D2DF01D65566308EEC282B11BD4A67C19CDB0D77A.EE574E3B733CE9D12349680E0FE3DA2F4AF2B14F%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D4617018%26mv%3Dm%26itag%3D135%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=135,bitrate=587067\u0026size=642x480\u0026lmt=1402167996731135\u0026index=235-446\u0026clen=4182921\u0026init=0-234\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.797%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402167996731135%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D23A6113231E6A9FF7FD01B339C9D40C655E002B6.C8725697862C213C8FE25BD7426018C865519093%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D4182921%26mv%3Dm%26itag%3D244%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=244,bitrate=323100\u0026size=482x360\u0026lmt=1402118000496214\u0026index=710-897\u0026clen=1944294\u0026init=0-709\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.798%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402118000496214%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DA3AE68EAB72B746F78AA9EF17BAC5866B8B47D8A.B65E2D0A3C6987302A745E644EEE09B5A9ABC323%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D1944294%26mv%3Dm%26itag%3D134%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=134,bitrate=257446\u0026size=482x360\u0026lmt=1402167949768883\u0026index=235-446\u0026clen=1941075\u0026init=0-234\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.797%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402167949768883%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DA6F9E0A700CD50B60AB517F18849E3DB0BBE725D.F0F3595137C35D5F67950BACDBD1072DCC9765B7%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D1941075%26mv%3Dm%26itag%3D243%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=243,bitrate=247034\u0026size=322x240\u0026lmt=1402117993292235\u0026index=673-860\u0026clen=1949310\u0026init=0-672\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400d%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.798%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402117993292235%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D7F71A63A7EF78703D40CC95E6631BF4B1EF6161B.D2D9E230FB9E87EB55225B1AFAB4E24AE6093697%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D1949310%26mv%3Dm%26itag%3D133%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=133,bitrate=143039\u0026size=322x240\u0026lmt=1402167946966944\u0026index=234-445\u0026clen=1036352\u0026init=0-233\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.797%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402167946966944%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3D3A8AED55A883E9D6311C537B7A50EE54CAE7DDCD.C4534ABF2CDEF0A120E4EB5A06FC1871C43F8840%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D1036352%26mv%3Dm%26itag%3D242%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=242,bitrate=111644\u0026size=192x144\u0026lmt=1402117992393165\u0026index=672-859\u0026clen=857828\u0026init=0-671\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.798%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402117992393165%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DED624AFD612C40A66DB86B012649F2C81EE59A5C.AB4E3E77804609658EDB3748BB469A113C040B0D%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D857828%26mv%3Dm%26itag%3D160%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=160,bitrate=128984\u0026lmt=1402117991593890\u0026index=592-707\u0026clen=1026553\u0026init=0-591\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.901%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402117991593890%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DB71A8FA8AE3F2E4456BE8BCD009C8D9C999910BF.055D23EDEA1D4E8E0728D86174D2C88128BB9D39%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D1026553%26mv%3Dm%26itag%3D140%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=140,bitrate=107112\u0026lmt=1402167916300656\u0026index=4452-4566\u0026clen=676659\u0026init=0-4451\u0026type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D63.832%26sver%3D3%26expire%3D1402528013%26source%3Dyoutube%26lmt%3D1402167916300656%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3Dn_DOZ9JRj7o%26ms%3Dau%26mt%3D1402505167%26gir%3Dyes%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26signature%3DBC5A7CA5578D89B68039AB5EFAEE0B10B28F6185.873FBB3A6DCCAB3F81546B5064AB3214293AB4C0%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26clen%3D676659%26mv%3Dm%26itag%3D171%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=171", "invideo": true, "list": "TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX", "vq": "auto", "ldpj": "-11", "ad_host_tier": "4489043", "cr": "PT", "fmt_list": "43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/1\/0,17\/176x144\/99\/1\/0", "length_seconds": 64, "ad_logging_flag": 1, "show_pyv_in_related": true, "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/sver\/3\/expire\/1402528013\/source\/youtube\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear\/cmbypass\/yes\/id\/o-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt\/ms\/au\/playback_host\/r3---sn-4jjo-apne.googlevideo.com\/upn\/aaJRRjnxBbE\/mt\/1402505167\/itag\/0\/ipbits\/0\/sparams\/as%2Ccmbypass%2Cid%2Cip%2Cipbits%2Citag%2Cplayback_host%2Csource%2Cexpire\/signature\/B71B584D24DB81B0A1FB339B8342A78110A639E9.759425489E24058CC808E949ADF916C8264B94F1\/mws\/yes\/fexp\/900356%2C913434%2C923341%2C924203%2C930008%2C932617%2C934026%2C936118\/mv\/m\/key\/yt5\/ip\/193.136.33.197", "fexp": "900356,913434,923341,924203,930008,932617,934026,936118", "mpu": true, "adsense_video_doc_id": "yt_f67mC1169Ko", "account_playback_token": "QUFFLUhqbDc2WS1WRUdVRjI2dUlxMGNyTGZBdlpjZER1d3xBQ3Jtc0ttMHRBRXR6LUxzZXRDRjhvOGJfMy15aFRCYm0zSzB4MG9oSXVHcVZoOUdHbHVEOVVyLWpPTElHNVRRblp4dUw3V1labzU2aVZmNWhuUFhQNGV1RjJZdUlVMXFvWS00LTMtVk0xMnNVWlQ3QnJFQS1yWQ==", "enablejsapi": 1, "afv_video_min_cpm": 2500000, "oid": "BIHfSzfvLotL_UGyZrH6Vw", "as_launched_in_country": "1", "cafe_experiment_id": "", "tag_for_child_directed": false, "allowed_ads": [8, 1, 2, 10, 0], "sw": "0.1", "cbrver": "8.0", "pltype": "content", "no_get_video_log": "1", "aftv": true, "sourceid": "y", "ad_device": 1, "afv": true, "cbr": "IE", "midroll_freqcap": 270.0, "c": "WEB", "pyv_in_related_cafe_experiment_id": "", "loaderUrl": "http:\/\/www.youtube.com\/watch?v=f67mC1169Ko\u0026list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX", "gut_tag": "\/4061\/ytpwatch\/main_102512", "ptchn": "8q4JKfDyFaqhvkj9XdfWbg", "sffb": true, "cut_ad_for_ypc": false, "idpj": "-9", "feature": "c4-overview", "ad3_module": "1", "cid": 102512, "rvs": "id=IvSTpMm62oM\u0026author=tsuruhimeja\u0026length_seconds=140\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%92%E5%B9%B4%E7%94%9F%E5%A5%B3%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E4%B8%87%E5%84%AA%E3%80%80%E8%A6%B3%E7%A9%BA%E5%A4%A7%E3%80%80Kankudai+by+Mahiro%287-year-old+girl%29\u0026session_data=feature%3Dendscreen,id=9_cuyhUxNpM\u0026author=tsuruhimeja\u0026length_seconds=110\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%92%E5%B9%B4%E7%94%9F%E7%94%B7%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E9%9F%BF%E3%80%80%E6%85%88%E6%81%A9%E3%80%80Jion+by+Hibiki%287-year-old+boy%29\u0026session_data=feature%3Dendscreen,id=G1AZ7pJYqRk\u0026author=tsuruhimeja\u0026length_seconds=117\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%94%E5%B9%B4%E7%94%9F%E7%94%B7%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E5%A4%A7%E7%94%9F%E3%80%80%E6%85%88%E6%81%A9%E3%80%80Jion+by+Masaki%2810-year-old+boy%29\u0026session_data=feature%3Dendscreen,id=K3uJCd3-OwE\u0026author=tsuruhimeja\u0026length_seconds=250\u0026title=Mahiro%287-year-old-girl%29+practicing+Enpi+%26+Kankudai+7%E6%AD%B3%E3%81%BE%E3%81%B2%E3%82%8D%E7%87%95%E9%A3%9B%E3%81%A8%E8%A6%B3%E7%A9%BA%E5%A4%A7\u0026session_data=feature%3Dendscreen,id=SvcCmCSu21M\u0026author=tsuruhimeja\u0026length_seconds=66\u0026title=JKA+Mahiro+%26+Miyu+kihonipponn+%E5%8D%94%E4%BC%9A%E7%9C%8C%E5%A4%A7%E4%BC%9A+%E4%B8%87%E5%84%AA%EF%BC%86%E7%BE%8E%E5%84%AA%E7%B5%84%E6%89%8B%E6%B1%BA%E5%8B%9D%E6%88%A6\u0026session_data=feature%3Dendscreen,id=Wmv1NjSVto0\u0026author=LALAWZ-AKB48\u0026length_seconds=398\u0026title=%E3%80%90%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85%E3%80%91+%E5%B7%9D%E6%A0%84%E6%9D%8E%E5%A5%88%E3%81%8C%E6%9A%B4%E8%A8%80+%E3%80%8C%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AF%E8%A6%96%E8%81%B4%E7%8E%87%E4%BD%8E%E3%81%99%E3%81%8E%E3%80%8D+%E3%81%8A%E3%81%8E%E3%82%84%E3%81%AF%E3%81%8E%E3%83%96%E3%83%81%E5%88%87%E3%82%8C++AKB48+SKE48+NMB48+HKT48+%E4%B9%83%E6%9C%A8%E5%9D%8246\u0026session_data=feature%3Dendscreen,id=jBP8-6DtBBs\u0026author=tsuruhimeja\u0026length_seconds=180\u0026title=Enpi+and+Kankudai+by+Mahiro+%286-year-old+girl%29+6%E6%AD%B3%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E7%87%95%E9%A3%9B%E3%81%A8%E8%A6%B3%E7%A9%BA%E5%A4%A7\u0026session_data=feature%3Dendscreen,id=P5jLwakQYok\u0026author=tsuruhimeja\u0026length_seconds=133\u0026title=Chinte++%28All+Japan+Sports+Masters+2002%29\u0026session_data=feature%3Dendscreen,id=xAVjIIj2VG4\u0026author=Bestshotokankarate\u0026length_seconds=239\u0026title=Master+Ochi+8th+Dan+JKA+teaches+Kata+Chinte\u0026session_data=feature%3Dendscreen,id=EmVMr0POsE0\u0026author=tsuruhimeja\u0026length_seconds=117\u0026title=Mahiro%285-year-old+girl%29+practicing+kihon+for+kyu+exam+5%E6%AD%B3%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90%E3%80%81%E5%9F%BA%E6%9C%AC%E7%B7%B4%E7%BF%92%E4%B8%AD\u0026session_data=feature%3Dendscreen,id=UBG6_ovuGm0\u0026author=tsuruhimeja\u0026length_seconds=104\u0026title=2013%E3%80%80Mahiro+in+the+commendation+ceremony+%E9%95%B7%E5%B2%A1%E5%B8%82%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%E8%A1%A8%E5%BD%B0%E3%81%A7%E3%81%AE%E4%B8%87%E5%84%AA%E6%BC%94%E6%AD%A6%EF%BC%88%E5%B9%B3%E5%AE%89%E4%BA%94%E6%AE%B5%EF%BC%89\u0026session_data=feature%3Dendscreen,id=iiiznDpoapQ\u0026author=World+Karate+Federation\u0026length_seconds=293\u0026title=Final+Female+Kata.+Rika+Usami+of+Japan.+21st+WKF+World+Karate+Championships+Paris+2012\u0026session_data=feature%3Dendscreen", "ad_flags": 0, "dash": "1", "timestamp": 1402505256, "keywords": "jka,kata,tinte,chinte,tsuruhimeja", "trueview": true, "dclk": true, "tk": "1", "url_encoded_fmt_stream_map": "fallback_host=tc.v14.cache8.googlevideo.com\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026quality=medium\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fsver%3D3%26expire%3D1402528013%26source%3Dyoutube%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3DuWPKQkWHkAU%26mt%3D1402505167%26itag%3D43%26ratebypass%3Dyes%26ipbits%3D0%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26signature%3DA770FEBE96C01128FD2F5A3E23E4C2922DA68F6B.57295D47346F163DA829AEE1EA88A49FB3C8C148%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26mv%3Dm%26ms%3Dau%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=43,fallback_host=tc.v23.cache4.googlevideo.com\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026quality=medium\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fsver%3D3%26expire%3D1402528013%26source%3Dyoutube%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3DuWPKQkWHkAU%26mt%3D1402505167%26itag%3D18%26ratebypass%3Dyes%26ipbits%3D0%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26signature%3D7AD2C34FDFDCDE107BD9D808E5CC1A1B7A12333B.33B970DD3DCAF80F8F718963CCF7C6C2EC4C2816%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26mv%3Dm%26ms%3Dau%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=18,fallback_host=tc.v7.cache6.googlevideo.com\u0026type=video%2Fx-flv\u0026quality=small\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fsver%3D3%26expire%3D1402528013%26source%3Dyoutube%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3DuWPKQkWHkAU%26mt%3D1402505167%26itag%3D5%26ipbits%3D0%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3D01C1651B4DBEEBBB8B209C4AAF6C3983BE39F07B.7799E909053101A88E1BB80C742861F408238215%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26mv%3Dm%26ms%3Dau%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=5,fallback_host=tc.v21.cache1.googlevideo.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026quality=small\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fsver%3D3%26expire%3D1402528013%26source%3Dyoutube%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3DuWPKQkWHkAU%26mt%3D1402505167%26itag%3D36%26ipbits%3D0%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3D194825B8C06F01FFEE2062E7B1EB2CA2149DBC60.D84C85FC79B3C321BD5241558A1C21103CEE143E%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26mv%3Dm%26ms%3Dau%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=36,fallback_host=tc.v17.cache3.googlevideo.com\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026quality=small\u0026url=http%3A%2F%2Fr3---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fsver%3D3%26expire%3D1402528013%26source%3Dyoutube%26id%3Do-AEba57se6piCt4NVIYzgRB3yJc78EF83-r85HJZl2BPt%26upn%3DuWPKQkWHkAU%26mt%3D1402505167%26itag%3D17%26ipbits%3D0%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26signature%3DB8A88BF249152337452FBB2EF410695C6F135535.D0CE91550278069C194FB25B799F5E2614B10A34%26mws%3Dyes%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26mv%3Dm%26ms%3Dau%26key%3Dyt5%26ip%3D193.136.33.197\u0026itag=17", "tmi": "1", "instream_long": false, "host_language": "en", "watermark": ",http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "afv_ad_tag": "http:\/\/googleads.g.doubleclick.net\/pagead\/ads?description_url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Ff67mC1169Ko\u0026ytdevice=1\u0026host=ca-host-pub-7191351922913930\u0026loeid=900356%2C936118\u0026max_ad_duration=15000\u0026video_cpm=2500000\u0026client=ca-pub-6219811747049371\u0026ad_type=skippablevideo\u0026channel=afv_instream%2BVertical_20%2BVertical_514%2BVertical_516%2Bafv_user_tsuruhimeja%2Bafv_user_id_8q4JKfDyFaqhvkj9XdfWbg%2Byt_mpvid_AAT7kjOdPectjsh_%2Byt_cid_102512%2Byt_no_ap%2Bivpypp%2Bytdevice_1%2Bytps_default%2Bytel_detailpage\u0026url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2Ff67mC1169Ko\u0026hl=en\u0026ht_id=4489043\u0026yt_pt=APb3F29NORGUa4K7zK3mj1dgkN915Ub9ypmdcLv0yHvph1hfPrwWlc970BfhqcwH76GKMmfKWVy9kBEHOozrYAzHb9i00cm_HE_jhRVFqUAut5NVU4PQskCSpO4_PJowfWrUbKpDbPggdyOU4DpV", "ad_eurl": "http:\/\/www.youtube.com\/video\/f67mC1169Ko", "ad_host": "ca-host-pub-7191351922913930", "video_id": "f67mC1169Ko", "title": "Chinte by Takako Kikuchi (tsuruhimeja)", "afv_instream_max": 15000, "ad_video_pub_id": "ca-pub-6219811747049371", "eventid": "KIiYU5b7IIqbiwa1yIHwAg", "pyv_ad_channel": "afv_user_tsuruhimeja+afv_user_id_8q4JKfDyFaqhvkj9XdfWbg+yt_mpvid_AAT7kjOdPectjsh_+yt_cid_102512+yt_no_ap+ivpypp+ytdevice_1", "loeid": "900356,936118", "mpvid": "AAT7kjOdPectjsh_", "no_afv_instream": "1", "enablecsi": "1", "ad_slots": "0", "hl": "en"}, "attrs": {"id": "movie_player"}, "min_version": "8.0.0"};(function() {var encoded = [];for (var key in ytplayer.config.args) {encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));}var swf = "    \u003cobject classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\"\u003e\u003cparam name=\"movie\" value=\"http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf\"\u003e\u003cparam name=\"flashvars\" value=\"__flashvars__\"\u003e\u003cparam name=\"allowfullscreen\" value=\"true\"\u003e\u003cparam name=\"allowscriptaccess\" value=\"always\"\u003e\u003cparam name=\"bgcolor\" value=\"#000000\"\u003e\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e\u003c\/object\u003e\n";swf = swf.replace('__flashvars__', encoded.join('&'));document.getElementById("player-api").innerHTML = swf;ytplayer.config.loaded = true}());
+//]]>
+              </script>
+              <div id="watch-timeline-mole-container" class="video-mole">
+              </div>
+            </div>
+            <div class="clear">
+            </div>
+          </div>
+          <div id="content" class="  content-alignment    yt-card ">
+            <div id="watch7-container" class="">
+              <div id="watch7-main-container">
+                <div id="watch7-main" class="clearfix">
+                  <div id="watch7-content" class="watch-content " itemscope="" itemid="" itemtype="http://schema.org/VideoObject">
+                    <link itemprop="url" href="http://www.youtube.com/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+                    <meta itemprop="name" content="Chinte by Takako Kikuchi (tsuruhimeja)"/>
+                    <meta itemprop="description" content="Chinte by Takako Kikuchi (tsuruhimeja) All Japan Sports Masters 2002 Female kata final"/>
+                    <meta itemprop="paid" content="False"/>
+                    <meta itemprop="channelId" content="UC8q4JKfDyFaqhvkj9XdfWbg"/>
+                    <meta itemprop="videoId" content="f67mC1169Ko"/>
+                    <meta itemprop="duration" content="PT1M4S"/>
+                    <meta itemprop="unlisted" content="False"/>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="http://www.youtube.com/user/tsuruhimeja"/>
+                    </span>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="https://plus.google.com/117369521458545630090"/>
+                    </span>
+                    <link itemprop="thumbnailUrl" href="http://i1.ytimg.com/vi/f67mC1169Ko/hqdefault.jpg"/>
+                    <span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject">
+                      <link itemprop="url" href="http://i1.ytimg.com/vi/f67mC1169Ko/hqdefault.jpg"/>
+                      <meta itemprop="width" content="480"/>
+                      <meta itemprop="height" content="360"/>
+                    </span>
+                    <link itemprop="embedURL" href="https://www.youtube.com/embed/f67mC1169Ko?list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX"/>
+                    <meta itemprop="playerType" content="HTML5 Flash"/>
+                    <meta itemprop="width" content="480"/>
+                    <meta itemprop="height" content="360"/>
+                    <meta itemprop="isFamilyFriendly" content="True"/>
+                    <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW"/>
+                    <div class="yt-uix-button-panel">
+                      <div id="watch7-headline" class="clearfix  yt-uix-expander yt-uix-expander-collapsed">
+                        <h1 id="watch-headline-title" class="yt">
+                          <span id="eow-title" class="watch-title  yt-uix-expander-head" dir="ltr" title="Chinte by Takako Kikuchi (tsuruhimeja)">
+                            
+    Chinte by Takako Kikuchi (tsuruhimeja)
+  
+                          </span>
+                        </h1>
+                      </div>
+                      <div id="watch7-user-header" class=" spf-nolink ">
+                        <a href="/channel/UC8q4JKfDyFaqhvkj9XdfWbg" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;feature=watch">
+                          <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                            <span class="yt-thumb-square">
+                              <span class="yt-thumb-clip">
+                                <img alt="tsuruhimeja" src="https://yt3.ggpht.com/-H5CgUPrzkoI/AAAAAAAAAAI/AAAAAAAAAAA/gynodGNs-NI/s88-c-k-no/photo.jpg" width="48" height="48"/>
+                                <span class="vertical-align">
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                        </a>
+                        <a href="/channel/UC8q4JKfDyFaqhvkj9XdfWbg" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;feature=watch" dir="ltr" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="watch">
+                          tsuruhimeja
+                        </a>
+                        <span class="yt-user-separator">
+                          ·
+                        </span>
+                        <a class="yt-uix-sessionlink yt-user-videos" href="/channel/UC8q4JKfDyFaqhvkj9XdfWbg/videos" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;feature=watch">
+                          352 videos
+                        </a>
+                        <br/>
+                        <span id="watch7-subscription-container">
+                          <span class=" yt-uix-button-subscription-container with-preferences">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-busy="false" aria-role="button" aria-live="polite" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CB8Qmys&amp;feature=watch" data-channel-external-id="UC8q4JKfDyFaqhvkj9XdfWbg" data-style-type="branded" data-href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbVVHdjNYUklXZkdTM0M4elBwZUtsYWRydmtjd3xBQ3Jtc0ttcFdQYUo3ZHM5d2hIamFld0k3X1pkVkVYaTZTeVJTUDBSbUM4V3AyUnViYnB6UGp0YkFKRml1b2FvYTAtQmI2Yk1jUU5YX1N0bHdnM3gxZFBZaklUWXlscjV6SWhZTFFmX2gxbjI1VkN5SjJGZjY1TV9oTTkyTHRkX2d6a0xtVnRoOWlQRjd1ZmtYaVdlejJyTFlJbk9HVHNVWkJmUVNOazV1MGxrbzJvN18xUmhCVkNsOXFmZlVtSzJaRjNnQno0Y0t2ODc%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUC8q4JKfDyFaqhvkj9XdfWbg">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscribe"/>
+                              </span>
+                              <span class="yt-uix-button-content">
+                                <span class="subscribe-label" aria-label="Subscribe">
+                                  Subscribe
+                                </span>
+                                <span class="subscribed-label" aria-label="Unsubscribe">
+                                  Subscribed
+                                </span>
+                                <span class="unsubscribe-label" aria-label="Unsubscribe">
+                                  Unsubscribe
+                                </span>
+                              </span>
+                            </button>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" data-channel-external-id="UC8q4JKfDyFaqhvkj9XdfWbg">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences"/>
+                              </span>
+                            </button>
+                            <span class="yt-subscription-button-subscriber-count-branded-horizontal" title="6,355">
+                              6,355
+                            </span>
+                            <span class="yt-subscription-button-disabled-mask" title="">
+                            </span>
+                            <div class="yt-uix-overlay " data-overlay-style="primary" data-overlay-shape="tiny">
+                              <div class="yt-dialog hid ">
+                                <div class="yt-dialog-base">
+                                  <span class="yt-dialog-align">
+                                  </span>
+                                  <div class="yt-dialog-fg">
+                                    <div class="yt-dialog-fg-content">
+                                      <div class="yt-dialog-header">
+                                        <h2 class="yt-dialog-title">
+                                          
+                        Subscription preferences
+
+
+                
+                                        </h2>
+                                      </div>
+                                      <div class="yt-dialog-loading">
+                                        <div class="yt-dialog-waiting-content">
+                                          <div class="yt-spinner-img">
+                                          </div>
+                                          <div class="yt-dialog-waiting-text">
+                                            Loading...
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-content">
+                                        <div class="subscription-preferences-overlay-content-container">
+                                          <div class="subscription-preferences-overlay-loading ">
+                                            <p class="yt-spinner">
+                                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                                              <span class="yt-spinner-message">
+                                                
+Loading...
+    
+                                              </span>
+                                            </p>
+                                          </div>
+                                          <div class="subscription-preferences-overlay-content">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-working">
+                                        <div class="yt-dialog-working-overlay">
+                                        </div>
+                                        <div class="yt-dialog-working-bubble">
+                                          <div class="yt-dialog-waiting-content">
+                                            <div class="yt-spinner-img">
+                                            </div>
+                                            <div class="yt-dialog-waiting-text">
+                                              Working...
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </span>
+                        </span>
+                        <div id="watch7-views-info">
+                          <span class="watch-view-count">
+                            1,763
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-buttons" class="clearfix">
+                        <div id="watch7-sentiment-actions">
+                          <span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional">
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-has-icon  yt-uix-tooltip" type="button" onclick=";return false;" id="watch-like" title="Ratings have been disabled for this video." data-unlike-tooltip="" data-position="bottomright" data-like-tooltip="Ratings have been disabled for this video." data-force-position="true" data-orientation="vertical" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Ratings have been disabled for this video." class="yt-uix-button-icon yt-uix-button-icon-watch-like"/>
+                                </span>
+                                <span class="yt-uix-button-content">
+                                  Like 
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to like 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                    tsuruhimeja
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon  yt-uix-tooltip" type="button" onclick=";return false;" id="watch-dislike" title="Ratings have been disabled for this video." data-position="bottomright" data-force-position="true" data-orientation="vertical" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Ratings have been disabled for this video." class="yt-uix-button-icon yt-uix-button-icon-watch-dislike"/>
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to dislike 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                    tsuruhimeja
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                          </span>
+                        </div>
+                        <div id="watch7-secondary-actions" class="yt-uix-button-group" data-button-toggle-group="required">
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger  yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-details" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                About 
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-share" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Share 
+                              </span>
+                            </button>
+                          </span>
+                          <span class="yt-uix-clickcard">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" data-position="bottomleft" data-orientation="vertical" data-force-position="true" data-upsell="playlist" data-trigger-for="action-panel-none" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Add to 
+                              </span>
+                            </button>
+                            <div class="watch7-hovercard yt-uix-clickcard-content">
+                              <h3 class="watch7-hovercard-header">
+                                Sign in to YouTube
+                              </h3>
+                              <div class="watch7-hovercard-message">
+                                
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to add 
+                                <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                  tsuruhimeja
+                                </span>
+                                's video to your playlist.
+
+    
+                              </div>
+                              <ul class="watch7-hovercard-icon-strip clearfix">
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-youtube-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gplus-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gmail-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-picasa-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-chrome-icon">
+                                  </div>
+                                </li>
+                              </ul>
+                              <div class="watch7-hovercard-account-line">
+                                <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg">
+                                  <span class="yt-uix-button-content">
+                                    Sign in 
+                                  </span>
+                                </a>
+                              </div>
+                            </div>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" disabled="True" title="Stats have been disabled for this video" data-trigger-for="action-panel-stats" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Stats have been disabled for this video" class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats"/>
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Report" data-trigger-for="action-panel-report" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Report" class="yt-uix-button-icon yt-uix-button-icon-action-panel-report"/>
+                              </span>
+                            </button>
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-panels" class="yt-uix-button-panel">
+                        <div id="action-panel-details" class="action-panel-content ">
+                          <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel">
+                            <div id="watch-description-content">
+                              <div id="watch-description-clip">
+                                <p id="watch-uploader-info">
+                                  <strong>
+                                    Published on Jun 5, 2014
+                                  </strong>
+                                </p>
+                                <div id="watch-description-text">
+                                  <p id="eow-description">
+                                    Chinte by Takako Kikuchi (tsuruhimeja) 
+                                    <br/>
+                                    All Japan Sports Masters 2002 Female kata final
+                                  </p>
+                                </div>
+                                <div id="watch-description-extras">
+                                  <ul class="watch-extras-section">
+                                    <li>
+                                      <h4 class="title">
+                                        
+Category
+        
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-category">
+                                          <a href="/sports" class=" yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg">
+                                            Sports
+                                          </a>
+                                        </p>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <h4 class="title">
+                                        License
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-reuse">
+                                          
+Standard YouTube License
+  
+                                        </p>
+                                      </div>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <ul id="watch-description-extra-info">
+                              </ul>
+                            </div>
+                            <div id="watch-description-toggle" class="yt-uix-expander-head yt-uix-button-panel">
+                              <div id="watch-description-expand" class="expand">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show more 
+                                  </span>
+                                </button>
+                              </div>
+                              <div id="watch-description-collapse" class="collapse">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show less 
+                                  </span>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div id="action-panel-share" class="action-panel-content hid">
+                          <div id="watch-actions-share-loading">
+                            <div class="action-panel-loading">
+                              <p class="yt-spinner">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                                <span class="yt-spinner-message">
+                                  
+Loading...
+    
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                          <div id="watch-actions-share-panel">
+                          </div>
+                        </div>
+                        <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-stats" class="action-panel-content hid">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-login" class="action-panel-content hid">
+                          <div class="action-panel-login">
+                            <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg">
+                              <span class="yt-uix-button-content">
+                                Sign in 
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+                          <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+                            <em>
+                              Ratings have been disabled for this video.
+                            </em>
+                          </div>
+                        </div>
+                        <div id="action-panel-rental-required" class="action-panel-content hid">
+                          <div id="watch-actions-rental-required" class="watch-actions-panel">
+                            <strong>
+                              Rating is available when the video has been rented.
+                            </strong>
+                          </div>
+                        </div>
+                        <div id="action-panel-error" class="action-panel-content hid">
+                          <div class="action-panel-error">
+                            
+      This feature is not available right now. Please try again later.
+    
+                          </div>
+                        </div>
+                        <div id="watch7-action-panel-footer">
+                          <hr class="yt-horizontal-rule "/>
+                        </div>
+                      </div>
+                    </div>
+                    <div id="watch-discussion">
+                      <div id="comments-view" class="comments-disabled">
+                        <h4>
+                          <strong>
+                            All Comments
+                          </strong>
+                        </h4>
+                        <div class="comments-disabled-message">
+                          <img src="//s.ytimg.com/yts/img/icon_comments_disabled-vflxokpZC.png"/>
+                          <span>
+                            Comments are disabled for this video.
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="watch7-sidebar" class="watch-sidebar">
+                    <div id="watch7-sidebar-playlist">
+                      <div id="watch-appbar-playlist" class="">
+                        <div class="main-content">
+                          <div class="playlist-header">
+                            <div class="playlist-header-content" data-shareable="True" data-list-title="" data-full-list-id="TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" data-initial-autoplay-state="true" data-list-description="" data-list-author="">
+                              <div class="appbar-playlist-controls clearfix">
+                              </div>
+                              <div class="playlist-info">
+                                <h3 class="playlist-title">
+                                  
+                Kata by tsuruhimeja
+            
+                                </h3>
+                                <ul class="playlist-details">
+                                  <li class="author-attribution"/>
+                                  <li class="playlist-progress">
+                                    <span id="playlist-current-index">
+                                      2
+                                    </span>
+                                    <span id="playlist-length">
+                                      4
+                                    </span>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                            <div class="control-bar clearfix">
+                              <div class="playlist-nav-controls">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-player-controls yt-uix-button-empty yt-uix-button-has-icon yt-uix-tooltip toggle-autoplay yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="Autoplay" data-button-toggle="true">
+                                  <span class="yt-uix-button-icon-wrapper">
+                                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Autoplay" class="yt-uix-button-icon yt-uix-button-icon-watch-appbar-autoplay"/>
+                                  </span>
+                                </button>
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-player-controls yt-uix-button-empty yt-uix-button-has-icon shuffle-playlist yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Shuffle" data-button-toggle="true">
+                                  <span class="yt-uix-button-icon-wrapper">
+                                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Shuffle" class="yt-uix-button-icon yt-uix-button-icon-watch-appbar-shuffle-video-list"/>
+                                  </span>
+                                </button>
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-player-controls yt-uix-button-empty yt-uix-button-has-icon toggle-menu-visibility yt-uix-tooltip" type="button" onclick=";return false;" title="" data-button-toggle="true">
+                                  <span class="yt-uix-button-icon-wrapper">
+                                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-appbar-toggle-menu"/>
+                                  </span>
+                                </button>
+                              </div>
+                              <div class="playlist-behavior-controls">
+                                <a href="/watch?v=P5jLwakQYok&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=1" class="yt-uix-button  prev-playlist-list-item yt-uix-tooltip yt-uix-tooltip-masked yt-uix-button-player-controls yt-uix-button-size-default yt-uix-button-empty" data-clicktracking="CBgQsjA" title="Previous video">
+                                  <span class="yt-uix-button-icon-wrapper">
+                                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-appbar-play-prev"/>
+                                  </span>
+                                </a>
+                                <a href="/watch?v=58q2ROF_2ew&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=3" class="yt-uix-button  next-playlist-list-item yt-uix-tooltip yt-uix-button-player-controls yt-uix-button-size-default yt-uix-button-empty" data-clicktracking="CBoQsTA" title="Next video">
+                                  <span class="yt-uix-button-icon-wrapper">
+                                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-appbar-play-next"/>
+                                  </span>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="playlist-videos-container yt-scrollbar-dark yt-scrollbar">
+                            <ol class="playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watch.lists.loadThumbnails" style="counter-reset: playlist-video-section 0">
+                              <li class="yt-uix-scroller-scroll-unit " data-index="0" data-clicktracking="CBsQyCA" data-video-clip-start="" data-video-id="P5jLwakQYok" data-video-clip-end="" data-video-username="" data-video-title="Chinte  (All Japan Sports Masters 2002)">
+                                <a href="/watch?v=P5jLwakQYok&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=1" class="playlist-video clearfix  spf-nolink ">
+                                  <span class="video-thumb  yt-thumb yt-thumb-64">
+                                    <span class="yt-thumb-default">
+                                      <span class="yt-thumb-clip">
+                                        <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/P5jLwakQYok/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="64"/>
+                                        <span class="vertical-align">
+                                        </span>
+                                      </span>
+                                    </span>
+                                  </span>
+                                  <div class="playlist-video-description">
+                                    <h4 class="yt-ui-ellipsis yt-ui-ellipsis-2">
+                                      Chinte  (All Japan Sports Masters 2002)
+                                    </h4>
+                                    <span class="video-uploader-byline">
+                                      
+          by 
+                                      <b>
+                                        <span class="">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="yt-uix-scroller-scroll-unit  currently-playing" data-index="1" data-clicktracking="CBwQyCA" data-video-clip-start="" data-video-id="f67mC1169Ko" data-video-clip-end="" data-video-username="" data-video-title="Chinte by Takako Kikuchi (tsuruhimeja)">
+                                <a href="/watch?v=f67mC1169Ko&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=2" class="playlist-video clearfix  spf-nolink ">
+                                  <span class="video-thumb  yt-thumb yt-thumb-64">
+                                    <span class="yt-thumb-default">
+                                      <span class="yt-thumb-clip">
+                                        <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/f67mC1169Ko/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="64"/>
+                                        <span class="vertical-align">
+                                        </span>
+                                      </span>
+                                    </span>
+                                  </span>
+                                  <div class="playlist-video-description">
+                                    <h4 class="yt-ui-ellipsis yt-ui-ellipsis-2">
+                                      Chinte by Takako Kikuchi (tsuruhimeja)
+                                    </h4>
+                                    <span class="video-uploader-byline">
+                                      
+          by 
+                                      <b>
+                                        <span class="">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="yt-uix-scroller-scroll-unit " data-index="2" data-clicktracking="CB0QyCA" data-video-clip-start="" data-video-id="58q2ROF_2ew" data-video-clip-end="" data-video-username="" data-video-title="JKA Chinte team kata ??????">
+                                <a href="/watch?v=58q2ROF_2ew&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=3" class="playlist-video clearfix  spf-nolink ">
+                                  <span class="video-thumb  yt-thumb yt-thumb-64">
+                                    <span class="yt-thumb-default">
+                                      <span class="yt-thumb-clip">
+                                        <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/58q2ROF_2ew/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="64"/>
+                                        <span class="vertical-align">
+                                        </span>
+                                      </span>
+                                    </span>
+                                  </span>
+                                  <div class="playlist-video-description">
+                                    <h4 class="yt-ui-ellipsis yt-ui-ellipsis-2">
+                                      JKA Chinte team kata ??????
+                                    </h4>
+                                    <span class="video-uploader-byline">
+                                      
+          by 
+                                      <b>
+                                        <span class="">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="yt-uix-scroller-scroll-unit " data-index="3" data-clicktracking="CB4QyCA" data-video-clip-start="" data-video-id="LGEwWMbly1E" data-video-clip-end="" data-video-username="" data-video-title="Nijushiho (1986JKA)???????29????????????????">
+                                <a href="/watch?v=LGEwWMbly1E&amp;list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX&amp;index=4" class="playlist-video clearfix  spf-nolink ">
+                                  <span class="video-thumb  yt-thumb yt-thumb-64">
+                                    <span class="yt-thumb-default">
+                                      <span class="yt-thumb-clip">
+                                        <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/LGEwWMbly1E/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="64"/>
+                                        <span class="vertical-align">
+                                        </span>
+                                      </span>
+                                    </span>
+                                  </span>
+                                  <div class="playlist-video-description">
+                                    <h4 class="yt-ui-ellipsis yt-ui-ellipsis-2">
+                                      Nijushiho (1986JKA)???????29????????????????
+                                    </h4>
+                                    <span class="video-uploader-byline">
+                                      
+          by 
+                                      <b>
+                                        <span class="">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </div>
+                                </a>
+                              </li>
+                            </ol>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div id="watch7-sidebar-contents" class="watch-sidebar-gutter ">
+                      <div id="watch7-sidebar-offer">
+                      </div>
+                      <div id="watch7-sidebar-discussion">
+                      </div>
+                      <div id="watch7-sidebar-ads">
+                        <div id="watch-channel-brand-div" class="">
+                          <div id="watch-channel-brand-div-text">
+                            
+Advertisement
+      
+                          </div>
+                          <div id="google_companion_ad_div">
+                          </div>
+                        </div>
+                      </div>
+                      <div id="watch7-sidebar-modules">
+                        <div class="watch-sidebar-section">
+                          <div class="watch-sidebar-body">
+                            <ul id="watch-related" class="video-list">
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=IvSTpMm62oM" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAMQzRooAA&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="IvSTpMm62oM">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/IvSTpMm62oM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:20
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="IvSTpMm62oM">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2014 ???? ????????????????Kankudai by Mahiro(7-year-old girl)">
+                                    
+    2014 ???? ????????????????Kankudai by Mahiro(7-year-old girl)
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,303 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=9_cuyhUxNpM" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAQQzRooAQ&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="9_cuyhUxNpM">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/9_cuyhUxNpM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:50
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="9_cuyhUxNpM">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2014 ???? ??????????????Jion by Hibiki(7-year-old boy)">
+                                    
+    2014 ???? ??????????????Jion by Hibiki(7-year-old boy)
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    633 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=G1AZ7pJYqRk" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAUQzRooAg&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="G1AZ7pJYqRk">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/G1AZ7pJYqRk/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:57
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="G1AZ7pJYqRk">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2014 ???? ???????????????Jion by Masaki(10-year-old boy)">
+                                     2014 ???? ???????????????Jion by Masaki(10-year-old boy)
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    634 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=K3uJCd3-OwE" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAYQzRooAw&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="K3uJCd3-OwE">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/K3uJCd3-OwE/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:10
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="K3uJCd3-OwE">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Mahiro(7-year-old-girl) practicing Enpi &amp; Kankudai 7??????????">
+                                    
+    Mahiro(7-year-old-girl) practicing Enpi &amp; Kankudai 7??????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    22,330 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=SvcCmCSu21M" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAcQzRooBA&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="SvcCmCSu21M">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/SvcCmCSu21M/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:06
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="SvcCmCSu21M">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="JKA Mahiro &amp; Miyu kihonipponn ????? ??????????">
+                                    
+    JKA Mahiro &amp; Miyu kihonipponn ????? ??????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    76,430 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=Wmv1NjSVto0" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAgQzRooBQ&amp;feature=related">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Wmv1NjSVto0">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/Wmv1NjSVto0/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      6:38
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Wmv1NjSVto0">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="?????? ??????? ?????????????? ?????????  AKB48 SKE48 NMB48 HKT48 ???46">
+                                    
+    ?????? ??????? ?????????????? ?????????  AKB48 SKE48 NMB48 HKT48 ???46
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCP0kSM8QdOss41HJPpr4ufg" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCP0kSM8QdOss41HJPpr4ufg">
+                                          LALAWZ-AKB48
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    289,501 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=jBP8-6DtBBs" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAkQzRooBg&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="jBP8-6DtBBs">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/jBP8-6DtBBs/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:00
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="jBP8-6DtBBs">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Enpi and Kankudai by Mahiro (6-year-old girl) 6????????????">
+                                    
+    Enpi and Kankudai by Mahiro (6-year-old girl) 6????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    645,595 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=P5jLwakQYok" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAoQzRooBw&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="P5jLwakQYok">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/P5jLwakQYok/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:13
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="P5jLwakQYok">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Chinte  (All Japan Sports Masters 2002)">
+                                    
+    Chinte  (All Japan Sports Masters 2002)
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    2,250 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=xAVjIIj2VG4" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAsQzRooCA&amp;feature=related">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="xAVjIIj2VG4">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/xAVjIIj2VG4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:59
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="xAVjIIj2VG4">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Master Ochi 8th Dan JKA teaches Kata Chinte">
+                                    
+    Master Ochi 8th Dan JKA teaches Kata Chinte
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCUMoy_uhnvS0aLV3VztIGbw" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCUMoy_uhnvS0aLV3VztIGbw">
+                                          Bestshotokankarate
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    172,731 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=EmVMr0POsE0" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CAwQzRooCQ&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="EmVMr0POsE0">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/EmVMr0POsE0/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:57
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="EmVMr0POsE0">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Mahiro(5-year-old girl) practicing kihon for kyu exam 5???????????">
+                                    
+    Mahiro(5-year-old girl) practicing kihon for kyu exam 5???????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    715,250 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=UBG6_ovuGm0" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CA0QzRooCg&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="UBG6_ovuGm0">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/UBG6_ovuGm0/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:44
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="UBG6_ovuGm0">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2013?Mahiro in the commendation ceremony ??????????????????????">
+                                    
+    2013?Mahiro in the commendation ceremony ??????????????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    15,318 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=iiiznDpoapQ" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CA4QzRooCw&amp;feature=related">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="iiiznDpoapQ">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/iiiznDpoapQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:53
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="iiiznDpoapQ">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Final Female Kata. Rika Usami of Japan. 21st WKF World Karate Championships Paris 2012">
+                                    
+    Final Female Kata. Rika Usami of Japan. 21st WKF World Karate Championships Paris 2012
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g">
+                                          World Karate Federation
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,007,600 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=7HAvpHAZsGQ" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CA8QzRooDA&amp;feature=related">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="7HAvpHAZsGQ">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/7HAvpHAZsGQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      7:29
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="7HAvpHAZsGQ">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="(1/2) Karate Japan vs Italy. Final Female Team Kata. WKF World Karate Championships 2012">
+                                    
+    (1/2) Karate Japan vs Italy. Final Female Team Kata. WKF World Karate Championships 2012
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g">
+                                          World Karate Federation
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    732,777 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=a4lX0fKDTD8" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBAQzRooDQ&amp;feature=related">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="a4lX0fKDTD8">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/a4lX0fKDTD8/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      6:41
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="a4lX0fKDTD8">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Final Male Kumite -75kg. Luigi Busa vs Rafael Aghayev. World Karate Championships 2012">
+                                    
+    Final Male Kumite -75kg. Luigi Busa vs Rafael Aghayev. World Karate Championships 2012
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCbcNH3k6L3wG9VWD5t05M1g">
+                                          World Karate Federation
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    447,815 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=BQPElwzTBHU" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBEQzRooDg&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="BQPElwzTBHU">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/BQPElwzTBHU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:27
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="BQPElwzTBHU">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2013  ??? &amp; ????????Kankudai &amp; Jion by Mahiro &amp; Masaki">
+                                    
+    2013  ??? &amp; ????????Kankudai &amp; Jion by Mahiro &amp; Masaki
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,575 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=mzBvEWZJal4" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBIQzRooDw&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="mzBvEWZJal4">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/mzBvEWZJal4/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:25
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="mzBvEWZJal4">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Chitose(4 years and 3 months old girl) can do it alone!  4?????????">
+                                    
+    Chitose(4 years and 3 months old girl) can do it alone!  4?????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    3,740 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=hIIp2VwrUnY" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBMQzRooEA&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hIIp2VwrUnY">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/hIIp2VwrUnY/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:04
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hIIp2VwrUnY">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2013 Tsuguo Sakumoto Kata ????????20?????????????????">
+                                    
+    2013 Tsuguo Sakumoto Kata ????????20?????????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    4,568 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=6hf_MXBX8TA" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBQQzRooEQ&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="6hf_MXBX8TA">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/6hf_MXBX8TA/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      1:44
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="6hf_MXBX8TA">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="4-year-old Chitose challenged for the first time in life! ????????????">
+                                    
+    4-year-old Chitose challenged for the first time in life! ????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,806 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=sybXiMf5blM" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBUQzRooEg&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="sybXiMf5blM">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/sybXiMf5blM/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:31
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="sybXiMf5blM">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2013 Tsuguo Sakumoto ????????20????????????????">
+                                    
+    2013 Tsuguo Sakumoto ????????20????????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    3,510 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=BqPxLVw0-Dk" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&amp;ved=CBYQzRooEw&amp;feature=relmfu">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="BqPxLVw0-Dk">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/BqPxLVw0-Dk/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      5:02
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="BqPxLVw0-Dk">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Rika Usami CHATAN YARA KUSANKU ????????????????">
+                                    
+    Rika Usami CHATAN YARA KUSANKU ????????????????
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC8q4JKfDyFaqhvkj9XdfWbg">
+                                          tsuruhimeja
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    3,306 views
+                                  </span>
+                                </a>
+                              </li>
+                              <div id="watch-more-related" class="hid">
+                                <li id="watch-more-related-loading">
+                                  
+Loading more suggestions...
+    
+                                </li>
+                              </div>
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore">
+                                <span class="yt-uix-button-content">
+                                  Load more suggestions 
+                                </span>
+                              </button>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="watch7-hidden-extras">
+                <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+                  <img src="//www.youtube-nocookie.com/gen_204?attributionpartner=tsuruhimeja%2Buser" border="0" width="1" height="1"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer-container" class="yt-base-gutter">
+      <div id="footer">
+        <div id="footer-main">
+          <div id="footer-logo">
+            <a href="/" title="YouTube home">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+            </a>
+          </div>
+          <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-picker-key="language" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-icon-wrapper">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-footer-language"/>
+                </span>
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Language:
+  
+                  </span>
+                  
+  English
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-picker-key="country" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Country:
+  
+                  </span>
+                  
+  Portugal
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Safety:
+    
+                  </span>
+                  
+Off
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+          </ul>
+          <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-tracking-param="" data-ghelp-anchor="google-help">
+            <span class="yt-uix-button-content">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="questionmark"/>
+              
+Help
+ 
+            </span>
+          </button>
+          <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="footer-links">
+          <ul id="footer-links-primary">
+            <li>
+              <a href="//www.youtube.com/yt/about/">
+                About
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/press/">
+                Press &amp; Blogs
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/copyright/">
+                Copyright
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/creators/">
+                Creators &amp; Partners
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/advertise/">
+                Advertising
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/dev/">
+                Developers
+              </a>
+            </li>
+            <li>
+              <a href="https://plus.google.com/+youtube" dir="ltr">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul id="footer-links-secondary">
+            <li>
+              <a href="/t/terms">
+                Terms
+              </a>
+            </li>
+            <li>
+              <a href="https://www.google.com/intl/en/policies/privacy/">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/policyandsafety/">
+                
+Policy &amp; Safety
+  
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">
+                Send feedback
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Try something new!
+              </a>
+            </li>
+            <li/>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="yt-dialog hid " id="feed-privacy-lb">
+      <div class="yt-dialog-base">
+        <span class="yt-dialog-align">
+        </span>
+        <div class="yt-dialog-fg">
+          <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+                <div class="yt-spinner-img">
+                </div>
+                <div class="yt-dialog-waiting-text">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+              </div>
+            </div>
+            <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay">
+              </div>
+              <div class="yt-dialog-working-bubble">
+                <div class="yt-dialog-waiting-content">
+                  <div class="yt-spinner-img">
+                  </div>
+                  <div class="yt-dialog-waiting-text">
+                    Working...
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="hid">
+      <div id="shared-addto-watch-later-login" class="hid">
+        <a href="https://accounts.google.com/ServiceLogin?passive=true&amp;service=youtube&amp;hl=en&amp;uilel=3&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fwatch%253Fv%253Df67mC1169Ko%2526list%253DTLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX" class="sign-in-link">
+          Sign in
+        </a>
+         to add this to Watch Later
+
+    
+      </div>
+      <div id="yt-uix-videoactionmenu-menu">
+        <div class="hide-on-create-pl-panel">
+          <h3>
+            
+Add to
+      
+          </h3>
+        </div>
+        <div class="add-to-widget">
+        </div>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+var ytspf = ytspf || {};ytspf.enabled = false;
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/spf-vfl-JJ8Rx.js" name="spf">
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/base.js" name="www/base">
+    </script>
+    <script>
+//<![CDATA[
+spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/results_fibonacci": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_twobillion": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("je", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    yt.setConfig({
+      'VIDEO_ID': "f67mC1169Ko",
+        'LIST_ID': "TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX",
+      'THUMB_NON_DELAY_LOAD_COUNT': 0,
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          'www/watch_missilecommand',
+        ''       ],
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflYwgnUA.js",
+      'REPORTVIDEO_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vfl4OZza8.css",
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflXSX6i0.js",
+      'WATCH_MISSILECOMMAND_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vfl9eaIzr.css",
+
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",'EMBED_HTML_URL': "\/\/www.youtube.com\/embed\/__videoid__",'FLASH_UPGRADE': "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need to upgrade your Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e",'PLAYER_FALLBACK': "The Adobe Flash Player or an HTML5 supported browser is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e",'QUICKTIME_FALLBACK': "The Adobe Flash Player or QuickTime is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"http:\/\/www.apple.com\/quicktime\/download\/\"\u003eGet the latest version of QuickTime\u003c\/a\u003e"});
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "id=IvSTpMm62oM\u0026author=tsuruhimeja\u0026length_seconds=140\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%92%E5%B9%B4%E7%94%9F%E5%A5%B3%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E4%B8%87%E5%84%AA%E3%80%80%E8%A6%B3%E7%A9%BA%E5%A4%A7%E3%80%80Kankudai+by+Mahiro%287-year-old+girl%29\u0026session_data=feature%3Dendscreen,id=9_cuyhUxNpM\u0026author=tsuruhimeja\u0026length_seconds=110\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%92%E5%B9%B4%E7%94%9F%E7%94%B7%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E9%9F%BF%E3%80%80%E6%85%88%E6%81%A9%E3%80%80Jion+by+Hibiki%287-year-old+boy%29\u0026session_data=feature%3Dendscreen,id=G1AZ7pJYqRk\u0026author=tsuruhimeja\u0026length_seconds=117\u0026title=2014+%E5%85%A8%E5%B0%91%E4%BA%88%E9%81%B8+%EF%BC%94%E5%B9%B4%E7%94%9F%E7%94%B7%E5%AD%90%E5%BD%A2%E5%84%AA%E5%8B%9D%E3%80%80%E5%A4%A7%E7%94%9F%E3%80%80%E6%85%88%E6%81%A9%E3%80%80Jion+by+Masaki%2810-year-old+boy%29\u0026session_data=feature%3Dendscreen,id=K3uJCd3-OwE\u0026author=tsuruhimeja\u0026length_seconds=250\u0026title=Mahiro%287-year-old-girl%29+practicing+Enpi+%26+Kankudai+7%E6%AD%B3%E3%81%BE%E3%81%B2%E3%82%8D%E7%87%95%E9%A3%9B%E3%81%A8%E8%A6%B3%E7%A9%BA%E5%A4%A7\u0026session_data=feature%3Dendscreen,id=SvcCmCSu21M\u0026author=tsuruhimeja\u0026length_seconds=66\u0026title=JKA+Mahiro+%26+Miyu+kihonipponn+%E5%8D%94%E4%BC%9A%E7%9C%8C%E5%A4%A7%E4%BC%9A+%E4%B8%87%E5%84%AA%EF%BC%86%E7%BE%8E%E5%84%AA%E7%B5%84%E6%89%8B%E6%B1%BA%E5%8B%9D%E6%88%A6\u0026session_data=feature%3Dendscreen,id=Wmv1NjSVto0\u0026author=LALAWZ-AKB48\u0026length_seconds=398\u0026title=%E3%80%90%E6%94%BE%E9%80%81%E4%BA%8B%E6%95%85%E3%80%91+%E5%B7%9D%E6%A0%84%E6%9D%8E%E5%A5%88%E3%81%8C%E6%9A%B4%E8%A8%80+%E3%80%8C%E3%83%90%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AF%E8%A6%96%E8%81%B4%E7%8E%87%E4%BD%8E%E3%81%99%E3%81%8E%E3%80%8D+%E3%81%8A%E3%81%8E%E3%82%84%E3%81%AF%E3%81%8E%E3%83%96%E3%83%81%E5%88%87%E3%82%8C++AKB48+SKE48+NMB48+HKT48+%E4%B9%83%E6%9C%A8%E5%9D%8246\u0026session_data=feature%3Dendscreen,id=jBP8-6DtBBs\u0026author=tsuruhimeja\u0026length_seconds=180\u0026title=Enpi+and+Kankudai+by+Mahiro+%286-year-old+girl%29+6%E6%AD%B3%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90%E3%81%AE%E7%87%95%E9%A3%9B%E3%81%A8%E8%A6%B3%E7%A9%BA%E5%A4%A7\u0026session_data=feature%3Dendscreen,id=P5jLwakQYok\u0026author=tsuruhimeja\u0026length_seconds=133\u0026title=Chinte++%28All+Japan+Sports+Masters+2002%29\u0026session_data=feature%3Dendscreen,id=xAVjIIj2VG4\u0026author=Bestshotokankarate\u0026length_seconds=239\u0026title=Master+Ochi+8th+Dan+JKA+teaches+Kata+Chinte\u0026session_data=feature%3Dendscreen,id=EmVMr0POsE0\u0026author=tsuruhimeja\u0026length_seconds=117\u0026title=Mahiro%285-year-old+girl%29+practicing+kihon+for+kyu+exam+5%E6%AD%B3%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90%E3%80%81%E5%9F%BA%E6%9C%AC%E7%B7%B4%E7%BF%92%E4%B8%AD\u0026session_data=feature%3Dendscreen,id=UBG6_ovuGm0\u0026author=tsuruhimeja\u0026length_seconds=104\u0026title=2013%E3%80%80Mahiro+in+the+commendation+ceremony+%E9%95%B7%E5%B2%A1%E5%B8%82%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%E8%A1%A8%E5%BD%B0%E3%81%A7%E3%81%AE%E4%B8%87%E5%84%AA%E6%BC%94%E6%AD%A6%EF%BC%88%E5%B9%B3%E5%AE%89%E4%BA%94%E6%AE%B5%EF%BC%89\u0026session_data=feature%3Dendscreen,id=iiiznDpoapQ\u0026author=World+Karate+Federation\u0026length_seconds=293\u0026title=Final+Female+Kata.+Rika+Usami+of+Japan.+21st+WKF+World+Karate+Championships+Paris+2012\u0026session_data=feature%3Dendscreen"},
+
+
+          'BG_P': "j\/WZ+7fImJXmKgNvp874kTzwkqwjubH5tVGHoTiRmFseo9dme+STp6z7OFE5KmOXKQItcPZXp2f7gjILjX5tXWeFc4j3lFCehsaVfkuxuXarMst\/0OB1N\/35aheAbPzQMoPLLndnsky18QNOwp\/liLCiWkRcIyxTBeBhQQnF\/Dh\/bBpMEoIAONRjLLg7auSFOgOikUuITE\/PawYNUFnBbs\/YcE4WOZYcM6WAhojORxgmrfN5aF+RqExRsxbJBBgvBs6rrRhcHeLIC42HX8IB7sc0fCgDpm3kyuJoiKclo77ICyFRb4zi9PoUBL+ewuCKVfrl5z9e+\/K3+LFmDFaBUYo8CpXfkzcQ2TaL28Z7RlT8IpuvLbjEtB+dcKYo1IdTChiD8tNk9dQMahNkwpEPT9cVAXSwQE\/gvl65awYMcXcJdp3rOfrEiUxyRjQLcuLGPT\/sIU2MwIYMNsx3WFMgRSrjOorzYAiTg40OdP8nqaUeEVVKQy\/F6HFyr\/NwomLGhLnPBkdtxln\/9LUgFp387UfO\/8YwAK+BNz4AUTjr1a9zkv4hrNYrMa11tWNF7XQFGb+FdSXyzd360GTOqa5KL\/3ZjZefDlNBwRkgea5YyQf3QWF7Wl2j69aKBHpl2at1Ik2Z+z6pnnvuAx3RFwAMfSZoq962z9F12ZwSSL74JSSgnHe\/+xCq8oAtOnISM8OaiaS+C8sJHWapka+U4S71oqz9V3LGHjSproG7u\/Ix1RjBMQHAI9K33q11sRdx7EIxTc9fOE5Qs5pmHcda1mRhjvgP4QobzHLh9bK7bM0DoNCvtsBEWhevW3kjPtaQfsuATKPhz16pxQEIJ02r1Qr54BSE\/7RBEoNvLU0UoqU45v8NrM0YnIW68K9EMsgdo5vNCEVgz3sJmQg4uJSoIuH3B1s54t8gAmXbNPC3TS7KokDCcRg8r2E5\/IkKlOkIPwJvnjcxopTsUUstkVT6vg6TM8phMBvSe99fS7d3IKxMOqYWwX4fn+\/ikN0aWzvmhafX2uE3UsdcyTUvArvNecjDfl6x52YNv7jJYYut8WUlmd4kBPjk4tq9aFLkn9MAoHYRA4RX0+ws2AWK\/3OFrulmbAghVAFLPOoJyhLp224oAuWQeXTtxxSyMiEpI7ELe+5UWbOFSP6e9wmlsgPbQmZMqrqQI7PBuQNPnUzNcW3R+b7Xz2AiMpGb5pwWR\/+W+V272c0ZZfINld4x7UGskf9BKbLSBWy1OatsB5gfYSIWwdwmWLZcZbDt+BK\/WKKuvzV5rgRIRZ8Ou4wRgBh4umIklsvOwaw8l0OoJWn25D75FUGmFGHe2ITjuQEQUG4nnOLi7OAXE2bxZd9LmO4mLMcqmSJk79pXIo+J6RRdyVvoKF53rldnlmcugJiN4zlN\/K56xD\/7OOnX85oHueOFnyZhWoiLIebVNlczmxB7a\/KrsxE\/EfCytfjfz7dzahPlKx6fpNl8Vr6WFyHr0P20pdtnCtcXipqWC\/SlmCJej3lc7IuM2\/2WV61Y\/lNMB\/G\/kttSSK4GSwILAOZ9AxnxkHyn1APHo3EzE9zGkKgWge7y44TNLEXhLKBA+OrXkxuO5Wv87L5Yy5MSBhwHSl9CuVcLE6knKtRJEqHtm0iIJiQQs7zr8oUVkS6huq9TTlBXOcxHhb4WYNe6KEB6rthO2EPOR\/UyocXipdeoudFbwuVM72GZqTECk+XIDt1KlDRjFN99Ak2Enfy5RnkzO8Ro5e1xHnfhN7Nr\/l4aUzPd4fFT84m8Zz4a2RaCcyAkvI52rRxOR1O9G+ln+D\/DCv2JiLvQ3OeMfDEh\/0mP5qHygOBBHRIpasGukghUXl87Gn\/fYL0DOlMjtV3VRFvE6wB\/gVTkTbr252R3hN9\/cW0+e7qS5NhbGrbsdyh1+B3Rl8SJgd2Zb22WqRFAtDQmt0tV8SeWuuV9kAIO+io2QQOTTKRYGeEOoDlgJu4JHSkddpnTlfG8CMhxVYv\/jh3Yv9V98IVGjoITzFUApcn3i4sWuWF6QOX575wLCez9s+gKMSrN\/jzr4OXB60yc7he9ynGOfpilnhoyNFrDhR6ha+IzrRkDwgaRQgSSB8HADqudqrwjyPUs7c5UO\/dM+0oHutBuSnAVr7FUFeo1ruLFZa7zd7mFYqvbWGgq0sDa2pdeey5DRGAwOkiqKA8VqVhRCZL6UO4LWsbn0al\/Sz0B0tCjJViH9Fy2zk4oHa1ZUoByuzoBJTZ522giRj0b9FLpF0maLR3jjy3bCECiZw01qM7QJNGM70XOZQOMOCnuYwik7ySegk2eOz7Z75Ee3ytf5I+quRMr7HoS6XwsiYkWDLtnPCtcwLULnfLmgF40fHLLhQmhXG\/n6MvwHJTS4Fn8IasbHuxoRQQ2M\/5cGoDJ+9LIursrDPIeZ6kK9g4t7lQvdSjGlNSOWFlvXIAS8d1w5eKaXTpHP+9EFwahI02T5kzdyLvqUUwilLNHqGTfPccxrO9\/NmcDXrbTvSLwei2A2cdXjfs4qZ99VHYgOKa9Z3a7LTfP1eUUiKouEfOf7rrXjHWlm+aoIwBslGQCEI6x8LWiw0xNk++pii\/g10K2lLo1MefuoMROFjYnzGpBpURBXL0c81LVaC7pXm97Jj7F7i4SowF\/keuC\/ZyQoAhscrcooSW\/NNroAjuiBj943iGLNfGmli5FcF06rAA1FBIBReR7UXn\/f9HI7c4168ORe9zpvstJvglPvvUpmhtwDGwTXrOXPqaAa+9DaKw7rCDwzbIszxELobvNu2Xwlxtu85y3EgQp\/fCrAbpTVtBOf1jZVhJh2M8HGtF\/ZkVYiCILiXAYYRQvZWhoREhSYARRqpTCQtt9DV5cLF3IQjkHd\/KVO6KVF2tWq5dA7AS6LBD77v7RKLzHidauKRP+L7XWtJbOZmICquAaR72Pgh1H7RHKJlKWKvPRxBrP3RVDDo7WA6McMtdRJvDkumf85DOzEq+IXB1ROFTSx6Eazqw2gRv1D6cuFeglPtJWGQ\/l9R\/aa0IA9OErK\/P\/bI+iIntZhbIfyoT1+4K9f0ZAEJhkVv9Gx3zaGkRsHVPSDfCUAHG1cwQ+mqdZb3a2e\/qZ2MjxCHxBZeB3r7zlU+2nDxrQoMolxcFoWp76j01VWBxzEUx8lHzaGGYvyT3Mif1w5mCAuzYl94Fiqh+Z5BwyrvIaAaoB8dEYGp5yxHC3K7vrq3d+AWQx7lExv5qdG1S+4dcok7loQcouNPgnsJTypQKML0WMtHOVwgTheXTfLTxcCRF7vV4JaClWA5VqZo+xMXaXeh9i2mVn9t\/Ea55ZEwFqS\/TB41NY9ADZqiCnSVy04FCGWUKYvoobROafH2j1NQtu6PEzCTEQXV\/3l2EnVSd6ix6SWlCFlCMdYMKiyG+IFRhtag+YMdfUDtO3r1dgQ\/sgDrDlki8KTRbEtV3El8St6sNHmdjLFoIdEbKDHnShB1+Apsy4RkLnHL9\/iLOgBxkGMuUaIArKju4qIqc8BxRvdJlG910yT5IxL1lfnBAXg8TdSyezsmPk1Wo19oN2sRbixFpyij5FpehvnTGyfozRD5GQPDEOP12rXLRIa5oBEOcMMoEvhiWk9q0PixR4XUmF29iN2p5W0rTvsUd6UM8irfXLta2x5L4f3PJPlxe94YkIr6s0aM8ZXDR91HPU8X9+7ZlmL37bZzPRK2LSKNeGEiCNdBPKVGQojwJH++quFUzIs3OT\/kLy\/n42zb82acfwn3r4a4wQY\/24xn+T55L7cHlcXE52tXgwpQOu3fVG++EhGHyIutOdpFvPV+4rOQSwI2PhSa\/5xirp217k6c5HHzmarkyPF3aq63YiV5EHPBVS0f00sr4NS8qk5OaVX3V35tfh6Sg2ARfTZt2bFashtYEJNQuzHLgwwqqK6U7xSpz29ZS7rnj9LHTPBeDA1d+qWnwxksosxtx9O3Ow+pr\/6QoloAxo3uJUFYzD86Qrw3v4WkITSy2EzXu\/p\/B1piEycwbCDfGbPHlsON6YV7+CRyfsW3zO62TIDtFw6qirgFSRrhfvCbxnXaPAC2LXfnHBDHBneeC45go8Lh2LsyP70ALCso5c9WdqaSkmXqV9AOKHSxQwv3vTIUoZj2o9nlTiDjSCPcnQGsXb8olaAd5GdKgdC1fp7PC3Wk\/UdYl\/r0EwC2\/dLhfpY6RjTjMam6kGSSPtUSehXSahmCJr4lRlnq\/BHGKxmQFsPEgwikUe4xtAdB7DZ9p2U8tfzKPWDe0P1BOF4yDv9H4dVNnyXF0mhebq\/KNe8PXp7ufISrNWzLQVkuCTOzu0w9oCr4YcuiMuMqMytf\/\/r3P5Kb1fYsHINOuKa+btkJGG4OQXeVmbo5CUnCnYduf513rlfx7Y9Pt5cWI1UJHEhxmvnu56PAbtBe7+FgZ2IuKZ1SHSroWErlybaoUcFM50YN203CZKXz+CIUzJd0RLXJZ\/ujRWmXrB1Sf3aUyVTGyRljxuw0pjIxEb38DgXSnDDdFjvksrtLuskvkz2egfAz+f3ZqXsBYt1jaLcVm4pCUHweYZfi6ypphh6WIt+M38Tf2nkpdLX\/SSL+xh+XvY149BNSeX+aFY4\/9arAtk4\/xvvJMPRVpS48NIKQHt4ZprK4IB9MdKWWCCSmxV3OTW3wWwF3YdSRsNWTY2zgq+2SO+WErMRZnlJ6t2VdDcuT6pjh3eFuD5MhjXNi48Bh\/N361ExghAE+N9BJ1Nf1XdlsyA6DduF65+bZTMu05X8445ltm+eG4ps6wn6hJ9kj3IM8tZsEv4P\/QMn6Lgdoc+SRqiga9xbpEulmBUBAq4yrxFaoJkRdcVj324Si+pd8dZvQCMLDmkdmSv4uveYDG0\/\/\/78l4JsiJWXiWHo5U18MO5uJyXMcs6ARDDCuC99tOCipyHUizCJlOzdb+sIjfCGVeKVKot\/JJ\/BUXPR8vbhrgM5m+UZyUaHZVndh6E+qbykQfOFk50u0qhX5XQEK59yYEzuUSzKolvr3m1UTb9Dsp8szPM5AUqRcDFceCJjvG+TzymEXgVdyDpzFvptg\/3sgWElERVxbtBU0YzoDM93+9E\/QLDvzHlOjkFfv4FB8pxBDON8oV9kjQDhkDNCrt76Qg2A4CSpPj2cjwYO40bCxFxh23L\/BHdGICvg8J59GqniA+pdq2KxbmKuWuJ1FEXLHL6VBAD7mEmNitNwomTAVt2mAEAxYjoa1T6+C29HauYtEGJ3Cwz9NkhHayLZxSe3St3NHWQ7Pu4T54uFZNsgbbNNmefFNl5ese0PrdF+JUMVcONUwYRo1YJ1\/q2g63tzcutKDAP9fzUJt3nEtMstwlMxPWnx7mUfA0vrOevliwAKtJGpw4BCBDtDcXxr\/5F\/cCS\/5z391NBjXf0ljRv1H8IyaM2Eh+PoH3dtzvHzFx0HEQ0FbknRgucj+ZvWEsGt+Hs\/x0xjDd4i7Z4MkqpfLxxSbhfQndJPJ+uhwT\/iSkHrYONynn+z5mB8G9QQGSmFOQphvCj\/+wiQG7W6yEJQwZig\/T2dVbpoNRieKziK9lHU38oZ82iUu+Ga5foy3Vb1RRJB1IABUa3ipzLKaxqUU37IgBTLzZWgsHYhUxp8ggOH9Zfpq5tsr8ZFhCR+sX+GMXanUuqZY9G3nBp3NyfjVfbc1+G6Hs4C67rpr8oXx9aKLJ+nDNd\/laRURNGbSq3w2WqRwrkhcwAq1VQv2vcpiIHVhzWcunjOEHiEsuh8x2hVXjxquTMhrEYJLWO69Uzi\/8z4d8CPMpLCqzSRtkv2BhoRrxyYyEfSwi6hLRfzNJav\/P\/oCleUU5Ieyh9qFrymoREpwXYwYCf3lhVaxiGeXcMZEyG8vUzoRDRz5LA7RGI0nLDuXeyV\/qmMw67fBP+TyowLvEvIYhi4vi24HLs8y4cZ8Sm5kt3VFwtj1mgpAuEzBjWHl6P2jj8G4J04Kj+djWQmUKabanAbhHQgA3eazIscVPveoilkNiI6TNyGjFN1GWDfjXoA9TuOfIEcsXBoCAKwPqYigpl6\/sW6sSWMpnVYaC0ebgGFhTuGHPDCeKDbNXBQeEdpPKExURb3ZTE1E+70DfrBriQRWrw2olUs\/gJngIU7DDrOrBra8YneDEuFKpozqw\/JO4tEeFSHuGhqzGbVZcnLKKWDVHiP6DFmKs86T+c3EoAumFh0j\/7kdtrFIoUwB6OF\/KRRxwe3J3uL0phtmPBDKe1uekU0rPz5N0sBtY3p8eNjGXOKgwOMhGgYqHZ3PfjonA+eHZbRRflo0JgnyPjFxXGoEuvRz+\/F6IxS7x9Dmb2958v+6Et2ZcOXnSNzXwyrvjxvQr+u52Q35A8oGzCCoEpTYV1x43swuix8RCdbT2iiPNc7n4xPkOyvGULz2Qpd4O+b7pMS8cjxl4dmAGiWA6iB0g9zaWQVWls4l\/+U2E7AL8AgZ3UkUBv2wbiF9ex4vOyakePaFk8rcLcKa2CJxQD4sCn6n6PJPfBslAxszCN9QM3wRjMV4JAeFQM\/\/3LzF3NnzjrDOZn9JanXrGogSRz3FyYVoQmN9Qza2jnUYKZAeZsR8AIMpKBA+KU5I7YXaB2V1DYw0fZ8GbGkYegoF0yDpeTZVdgbXaTdrdz7L\/jjaYfk8f8+CYbwoIwH1ZAbsleil7q8ciX1s2LkYThFsRFAEVIuSiu5uOYBPoXzJOu+BrgUDynj0wHHrunxtorEHgNfGKFQFXFkIDQ6U4CP8KlnWFUneNc7txYEyjL0my1DUAENV4zu\/NhtSIAMOBu7j\/2mpm7HLjebXflzh17ZnyJ4IqeG8qJArXSiABNAlSJ+PgDhkSjtEH6wR2b603UT\/0UfCdirx9DfxPQTc7RclYCHf9g584ZT86wX+mXXHkLSwSJJKg7nNobtrQe4ZnqZe7ZQ2rz6\/Np1VbQ0nl+2nLWq9VCuO5ixha9tNjgXFfP8prmaWNk7NGTtQk0Ir6jBHVLsxG28Gnrm8ES\/nNBUd0Fd3E+kGqWY\/g4x4dhcvKYJEzAvBeCUFbQ2LuUOuAR9YAjGQxk+63an29Upu78IGusHQoWZk4ad8UNOTGsN+SExnCRqDAnIX6j2nXkZz6AFpW7y5wYhp+zzOIG+peYaCTm08YMBTW75t1jd4Z0a3m86BNi6eTJs3JE0TXacDIPc2zWDo4HB9VLn0iunowhSSqgkOItd0NZ6SM42urv4x4LB+XrdnYeFdxBYshlt2Q\/CuEDzCPvhQFzKUMIw3ieh\/mghrjxVnBNDSCGEmYac9LQ\/Su95Tlr+eqc9lLruahHSu8TN6H3IKila6e1hxN47avDq1bGh0IfHEsm+Z\/6Qgcw8CTj+Y2zBTPSZuy6HeDFwm1DCdknrpYSuAYwvMPIby45liMo+4gS5qsJPbrjiSM5M4l9enpGBPfihOD3gWCml7T+sfTHO13ee6Bzlm0ZlOU+08TFmJjQcKEohshdNPLt7cLuYsByX+xLQ00Yv2CVSycfoqescbBksFDiIuh8ROl2ogkubHWC75ah2QlDMqCWaG0CNG5xwB5hkRTNlTWXXj1TxhB7OMUvykN2g6TtEQbF9w3K3c7yrSCgMR3hm8NboGY4S0jjx6EPeKhWjVUys1gmP2TkcGhp\/dMKApzSJQGF+0Mef3qCDs54ZVaEPVLnjjtUFGl6S4yLtjCxIaP3MSMhLvIAMb1Q6ehp1YbQcOxZ0dyai9cHDk7qDH7NpI2ZN0g1loHo5slVdGwc3Yug6RG+uveDcbZK\/N+QgTOw2ukCXjp4jwI46Kpwz\/lVIYJVxtTZjldpyYaXYqu7awrbUDubiaRTTSablCAbahqNyLB1\/wR4MPZ\/Sxw2zhNguh4OW3bHbhzvQ\/7rGovEHfDuA4lk7sdqbem93w\/qUSecu0e3kTpixTefu5VW4djAa\/TBEe1bUF30eeR6e9QeO5kz6+cnhxeBjbkgLHKxDCDvnJuvOafPeEwEkzaYDILznJpwmp2WRQLR\/5HWwXHthBLP7\/F+Dh833rpXAaI0ZsRlSf9iZHFlTQB5G4\/QTPbipBzDFHjRaJh8q0atf3QIsrWoivbcjHLQpk1Wq\/OHKJcFzTnZ2B5xOOiBYh\/hs1mUyNZ7IZwl2eQAbkKYx9EmWg+fIFyNOdvmFHJ+D8o0NPsiP797bXTmbHntSLtqgA0EY9c+TcIwd43Z8JJLuDAOFWKXbGapxtprvLGmBHnMWYzwqV7Q69ZiEXLFDtr7Rg3wsYrtjEEGqSho6yEcjw+wvzhfhY45gChMH8PkDEBZNFcD2EUxebZLQgL8l7VO\/5glBKLFSkun7okUSDdx4zPx\/eI7VPajBI3UbJCKpQy7zBNIOlF4sgLQ\/E8+Zg7BpO20mBfhbGdol9t0GJzBb5sc9duZVhv3ZYbEtdQZ69Img6yYVistJX1I\/\/pfe8CREwUEPOZbXSWLzlgrxYU40RC6q1tdNhvy27Ze1gPiQ3bbVVdTOLC9asIdxyoZ\/kGCLD9zcQbVS1FRkl\/5aXyAp9K0aak+rT7CVX8r2sq+JeBWLQNgqJpFC38WlsfCOcl17QsObtIPhXsyE64Fs9b62VJO2bBZpmu41Ok4DLltMcDYtfHkUfsxox3HNal0PMxAMHgrpcZi76uL\/tXlJLsDGy9sTHw1IuuMthN1Z\/IV0XwXrBzgq8HRB1Bec8wJfscbSJlCfbfnQWGub9Qf9Qm1aesI4R8FPQ0Jy+mLw2HiTb3kqcwY6cmy7pCEkvief1HvLxtwUkL4X01Py1UvSFao37pHlOV7HKKpH289DePnBB5\/01pOagBKFKASEDzoErBtaWOtpJO0Ewh\/Ms83Zr2ViRcDbbfYCl3aR8WWfkOUGsrVFc5Xe0U\/V0dLl9c6KR5\/vzZllalbTcqilcIS7Pv24\/SawA5MuS3mWgChnhoEAqd\/8QRbJPeSihCZiNzTjJzDGScS0shERp22kysaSLp6A5samioEWZXZhMIVQNb2kH9jiyF+YzYe7Op1qvvNWqnKKwQmMLJtpggqxF88mVImSnFceBWjfX1XONsrI8s+7VlEOVVXZMXDNBRqycQcZXAXw4+9n\/O1819KSU2NUt4BQdW1w9fZC1xrTsOluC1LeBcWkN5P2xpobXJPVdEVNBvce71QKMLw8PnZdRp9z84+9zRZtxHj2aa+lcLNrbdCKFcjIWDNAe7RjcvqZQlUBwkZI\/RYdjdMcc3\/rySq+xgAx\/LXxPxJ1VrEAyZoIapOohLY3XBc6iyXRVPmF4Gl2aijrMyNelgSW1sJfmQ2I79nV53xiIt6jnqiWgQJrJF1qoHYUpCw2WmGWRPyyCWCvJKga9my9stmbltBzAmsaRIutLNzNbyESJ7iAwlv6t\/hYz6nXS0Vo8PPgbY1Gr+JCDHy3sA0ZCFybL9McwNrJK5Z\/G18X13DVlKjCe6hzsM\/xRpr8CMUdgTKeqNO1JyCf8eAuTTlfBzinjE+gZPBLviPkGb2f50ou+S4R1VxDa5+eIy5mxCvkFNvODAa3+tyvje9XcFYOrwwTXoUGyld4dPWvuetBUipZ+nFtxwB5Zh0Wi3DIm+doxr7ys1XwA5vI4D5coWQ+zlniOYkkLOrU6Sg3fn+1IDUSmhxJxMOrHlD5Us6Lbug0n1+h5\/eAnklaAHWGuUI0drrzxhJQz1n0+iSExPEINkZWkUo5Qob88LSEbaOMXx5uoyEkF0AiliOu471i9YAmnLs7J\/i\/OI1D\/wBDh6TWsoVk7x906yoZIv3GLQvZgvtkz23AOrkN8\/qQ6saTwZtjKIYUKjSiVVKlz0AfU7cDvk+UZ4hoMClsvNs81pYSd+S2WkxRcsKHqY2zZALg8iuCnSMxy\/0Njuq0\/760ofigqydFozm1FhzWJLBWTuUmmgq5scx5reRZ243FJtY+xkVJXxC9hNaxh9kNwtORdznflqBkYCq9PxP5lORFpAmGrz5AqQ7j6G6+I\/1S9erDVYJrwWgi7d6wkkbdxf0On3Ssx4dks5SCM0QAbxEadEawrrSTzWTn27VbtAZTcmO3FQjFpuwhPzHGE5\/7\/nV2v31Rcgb2dSFniNAVL4mQJ7bILZuYRQvZXEx",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/mh9BvXvsxoRt2VwDBqXIVelkjjJrqSBaZhfLksfh10Q.js",
+
+      'HL_LOCALE': "en_US",
+
+      'TTS_URL': null,
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': 0,
+      'ALLOW_RATINGS': false,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': true,
+      'MEMORY_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': true,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"afv_vars": {"google_ad_channel": "0854550288+afv_user_tsuruhimeja+afv_user_id_8q4JKfDyFaqhvkj9XdfWbg+yt_mpvid_AAT7kjOdPectjsh_+yt_cid_102512+yt_no_ap+ivpypp+ytdevice_1+Vertical_20+Vertical_514+Vertical_516+ytps_default+ytel_detailpage", "google_language": "en", "google_ad_type": "image", "google_ad_client": "ca-pub-6219811747049371", "google_alternate_ad_url": "http:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div", "google_page_url": "http:\/\/www.youtube.com\/video\/f67mC1169Ko", "google_loeid": "900356,936118", "google_ad_format": "300x250_as", "google_ad_host_tier_id": "4489043", "google_ad_block": "2", "google_yt_pt": "APb3F29NORGUa4K7zK3mj1dgkN915Ub9ypmdcLv0yHvph1hfPrwWlc970BfhqcwH76GKMmfKWVy9kBEHOozrYAzHb9i00cm_HE_jhRVFqUAut5NVU4PQskCSpO4_PJowfWrUbKpDbPggdyOU4DpV", "google_video_doc_id": "yt_f67mC1169Ko", "google_ad_height": "250", "google_lact": -1, "google_ad_host": "ca-host-pub-7191351922913930"}, "show_instream": true, "afc_vars": {"ad_host": "ca-host-pub-7191351922913930", "ad_block": "2", "ad_type": "image", "ad_host_tier_id": "4489043", "ad_client": "ca-pub-6219811747049371", "format": "300x250_as", "lact": -1, "video_doc_id": "yt_f67mC1169Ko", "alternate_ad_url": "http:\/\/www.youtube.com\/ad_frame?id=watch-channel-brand-div", "ad_channel": "0854550287+afv_user_tsuruhimeja+afv_user_id_8q4JKfDyFaqhvkj9XdfWbg+yt_mpvid_AAT7kjOdPectjsh_+yt_cid_102512+yt_no_ap+ivpypp+ytdevice_1+Vertical_20+Vertical_514+Vertical_516+ytps_default+ytel_detailpage+afc_on_page", "language": "en"}, "show_companion": true, "show_afv": true, "gut_vars": {"tag": "\/4061\/ytpwatch\/main_102512"}, "use_gut": true, "show_afc": false, "pyv_vars": {"iframe_json": "{\"google_ad_channel\": \"PyvWatchInRelated+PyvYTWatch+PyvWatchNoAdX+pw+non_lpw+afv_user_tsuruhimeja+afv_user_id_8q4JKfDyFaqhvkj9XdfWbg+yt_mpvid_AAT7kjOdPectjsh_+yt_cid_102512+yt_no_ap+ivpypp+ytdevice_1\", \"google_ad_output\": \"js\", \"google_language\": \"en\", \"google_max_num_ads\": 1, \"google_ad_host_tier_id\": \"4489043\", \"google_video_doc_id\": \"yt_f67mC1169Ko\", \"google_lact\": -1, \"google_loeid\": \"900356,936118\", \"google_ad_type\": \"text\", \"google_only_pyv_ads\": true, \"google_page_url\": \"http:\\\/\\\/www.youtube.com\\\/video\\\/f67mC1169Ko\", \"google_ad_block\": \"3\", \"google_ad_client\": \"ca-pub-6219811747049371\", \"google_yt_pt\": \"APb3F29NORGUa4K7zK3mj1dgkN915Ub9ypmdcLv0yHvph1hfPrwWlc970BfhqcwH76GKMmfKWVy9kBEHOozrYAzHb9i00cm_HE_jhRVFqUAut5NVU4PQskCSpO4_PJowfWrUbKpDbPggdyOU4DpV\", \"google_ad_host\": \"ca-host-pub-7191351922913930\"}"}, "show_pyv": true, "check_status": false, "log_pyv": false},
+      'PLAYBACK_ID': "AAT7kjOc77GNVm5N",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'IS_DISTILLER': false,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': ""
+    });
+
+    yt.setMsg({
+      'LOADING': "Loading..."    });
+
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqa1BHNjlRaGVLWU5pLS10cmp3YU9Ua0pvV0hwQXxBQ3Jtc0trZGQ2d0F3bTdpaDRfRWwwU19hUFZSa2lmT2ZqUGtfenljZ2k2SHZGcEpyNHhYaVk0a3dkWkwwRzNxbmNTb1p4X2dFelI0TEs4QWV6TVRPRjNzbm9JR3RkU1BvT0dra1VDMVZNVlBVWGo3ck9CLXpKT1FsUjVzVDhMb0NURnlXQm52RXRlZnNmRTl1U1hMU01ST1FIU2h5S0Qxd2c=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+
+  
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+yt.setConfig({'EVENT_ID': "KIiYU5b7IIqbiwa1yIHwAg",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.TY07tiUU0tE.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNfGmB_-do3YO3g20AHt3L6itPzpQ",'GAPI_LOCALE': "en_US",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "Cgs5Smk3eXd6MmdKcw%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "PT",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20140603",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflJ-fDqc.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflOO0AKr\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vfloTNTLX.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vfl672lIU.css",'PREFETCH_CSS_RESOURCES' : ["http:\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js",''         ],'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "formatWeekdayShortTime": "EE h:mm a", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatShortDate": "MMM d, yyyy", "formatLongDateOnly": "MMMM d, yyyy", "amPms": ["AM", "PM"], "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "formatLongDate": "MMMM d, yyyy h:mm a"},'PAGE_CL': 68561176,'PAGE_BUILD_TIMESTAMP': "Wed Jun  4 13:21:47 2014 (1401913307)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"is_partner": "", "is_branded": "", "guide_subs": "NA", "accept_language": "en-us", "experiments": "900356,901812,902022,906001,906957,911507,912714,912909,913434,918119,918121,919389,920605,921410,921905,922316,922804,923341,924203,927006,927616,927881,927906,929237,930008,930819,931020,931339,931341,931943,931950,931967,931970,931978,932617,933218,934026,934113,935707,936118,937003,937803,937817,938006,938626,938632,938639,938664,938667,938675,939201,941414,943301,943407,944702,945114,946801", "logged_in": false}});yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqa1BHNjlRaGVLWU5pLS10cmp3YU9Ua0pvV0hwQXxBQ3Jtc0trZGQ2d0F3bTdpaDRfRWwwU19hUFZSa2lmT2ZqUGtfenljZ2k2SHZGcEpyNHhYaVk0a3dkWkwwRzNxbmNTb1p4X2dFelI0TEs4QWV6TVRPRjNzbm9JR3RkU1BvT0dra1VDMVZNVlBVWGo3ck9CLXpKT1FsUjVzVDhMb0NURnlXQm52RXRlZnNmRTl1U1hMU01ST1FIU2h5S0Qxd2c=",
+    'XSRF_REDIRECT_TOKEN': "pXWN2ghJnd-CsVstfudJLDPdU2N8MTQwMjU5MTY1NkAxNDAyNTA1MjU2",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "http:\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vflc4nA10.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl1kVl-L.js",'SBOX_SETTINGS': {"PSUGGEST_TOKEN": null, "REQUEST_LANGUAGE": "en", "REQUEST_DOMAIN": "pt", "EXPERIMENT_ID": -1, "HAS_ON_SCREEN_KEYBOARD": false, "SESSION_INDEX": null},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed", "SUGGESTION_DISMISS_LABEL": "Dismiss"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vfl_e-1q2.js",
+    'YPC_LOADER_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflZOrvGI.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 203);yt.setConfig({'TIMING_ACTION': "watch,watch7ad",'TIMING_INFO': {"yt_li": 0, "yt_spf": 0, "yt_ref": "channel", "yt_ad": 1, "ei": "KIiYU5b7IIqbiwa1yIHwAg", "yt_ad_pr": 1, "yt_pl": 1, "e": "900356,913434,923341,924203,930008,932617,934026,936118", "yt_ad_an": "aftv,afv,dclk", "yt_lt": "cold"}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqa1BHNjlRaGVLWU5pLS10cmp3YU9Ua0pvV0hwQXxBQ3Jtc0trZGQ2d0F3bTdpaDRfRWwwU19hUFZSa2lmT2ZqUGtfenljZ2k2SHZGcEpyNHhYaVk0a3dkWkwwRzNxbmNTb1p4X2dFelI0TEs4QWV6TVRPRjNzbm9JR3RkU1BvT0dra1VDMVZNVlBVWGo3ck9CLXpKT1FsUjVzVDhMb0NURnlXQm52RXRlZnNmRTl1U1hMU01ST1FIU2h5S0Qxd2c=",
+    'XSRF_REDIRECT_TOKEN': "pXWN2ghJnd-CsVstfudJLDPdU2N8MTQwMjU5MTY1NkAxNDAyNTA1MjU2",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
+//]]>
+    </script>
+  </body>
+</html>

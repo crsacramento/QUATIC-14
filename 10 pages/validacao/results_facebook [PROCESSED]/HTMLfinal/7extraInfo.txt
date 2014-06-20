@@ -1,0 +1,6 @@
+URL:https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcreate%2F%3Fref_type%3Dsitefooter
+RATIOTOTAL:0.1588335052691547
+RATIOPREVIOUS:0.0
+SELENIUMSTEP:8
+POSSIBLE-MASTER-DETAIL
+POSSIBLE-MASTER-DETAIL

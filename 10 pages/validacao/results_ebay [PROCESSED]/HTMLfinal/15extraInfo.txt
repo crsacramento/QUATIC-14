@@ -1,0 +1,4 @@
+URL:http://pages.ebay.com/help/new/contextual/signin.html
+RATIOTOTAL:0.6682631020665035
+RATIOPREVIOUS:-147.824
+SELENIUMSTEP:18

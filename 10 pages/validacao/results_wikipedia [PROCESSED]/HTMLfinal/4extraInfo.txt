@@ -1,0 +1,8 @@
+URL:http://en.wikipedia.org/w/index.php?search=coffee&title=Special%3ASearch&fulltext=Search
+RATIOTOTAL:3.645262641570154
+RATIOPREVIOUS:-941.949
+SELENIUMSTEP:5
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=searchInput and @name=search and @type=search]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:coffee
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:160

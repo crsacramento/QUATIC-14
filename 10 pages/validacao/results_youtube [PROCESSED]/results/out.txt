@@ -1,0 +1,861 @@
+INIT|correlation:1|HTML index:2
+
+open	http://www.youtube.com/	EMPTY
+
+Action #0 | Page URL is: http://www.youtube.com/
+menu elements found:179
+non_empty: CALL=133|SEARCH=1|LOGIN=55||total: 189
+masterElements size:0|detailElements size:0
+ELEMENT: <input id="masthead-search-term" autocomplete="off" autofocus="" class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search" /> (no text) | LOCATOR://input[@id=masthead-search-term and @class=search-term yt-uix-form-input-bidi and @name=search_query and @type=text]
+type	//input[@id=masthead-search-term and @class=search-term yt-uix-form-input-bidi and @name=search_query and @type=text]	banana
+INC_CORR|correlation:2|HTML index:2
+elems.size()=92
+SUBMIT=len:3
+clickAndWait	//button[@id=search-btn and @class=yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button and @type=submit and @onclick=if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;]	EMPTY
+INC_HTML|correlation:3|HTML index:3
+
+Action #1 | Page URL is: http://www.youtube.com/results?search_query=banana
+menu elements found:45
+non_empty: CALL=90|LOGIN=23||total: 113
+masterElements size:0|detailElements size:1
+ELEMENT: <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   " href="/" title="What to Watch" data-sessionlink="feature=g-system&ei=ioeYU5TZO8qGiAbK7YD4BA&ved=CAMQtSwoAA" data-visibility-tracking="" data-external-id="what_to_watch" data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D"> (no text) | LOCATOR://a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/]
+clickAndWait	//a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/]	EMPTY
+INC_HTML|correlation:4|HTML index:4
+
+Action #2 | Page URL is: http://www.youtube.com/
+menu elements found:181
+non_empty: CALL=134|LOGIN=55||total: 189
+masterElements size:0|detailElements size:1
+ELEMENT: <a class="yt-uix-sessionlink yt-uix-tile-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="HEROBRINE É MEU PAI? Minecraft - Animação!" data-sessionlink="feature=g-high-cpv&ved=CNoBEL8b&ei=j4eYU4D2MYSaiAbFjoCgCA" href="/watch?v=OCIa6kRuflI"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch?v=OCIa6kRuflI and contains(text(),'HEROBRINE É MEU PAI? Minecraft - Animação!')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch?v=OCIa6kRuflI and contains(text(),'HEROBRINE É MEU PAI? Minecraft - Animação!')]	EMPTY
+INC_HTML|correlation:5|HTML index:5
+
+Action #3 | Page URL is: http://www.youtube.com/watch?v=OCIa6kRuflI
+menu elements found:19
+non_empty: CALL=34|LOGIN=4||total: 38
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/channel/UCbTVTephX30ZhQF5zwFppBg" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=mYeYU-PgIqmKigb3tYGgDg&feature=watch"> (no text) | LOCATOR://a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCbTVTephX30ZhQF5zwFppBg]
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCbTVTephX30ZhQF5zwFppBg]	EMPTY
+INC_HTML|correlation:6|HTML index:6
+
+Action #4 | Page URL is: http://www.youtube.com/channel/UCbTVTephX30ZhQF5zwFppBg
+menu elements found:318
+non_empty: CALL=233|SEARCH=1|LOGIN=136||total: 370
+masterElements size:1|detailElements size:1
+ELEMENT: <input class="yt-uix-form-input-text search-field" name="query" id="channels-search-field" type="text" placeholder="Search Channel" maxlength="100" autocomplete="off" /> (no text) | LOCATOR://input[@id=channels-search-field and @class=yt-uix-form-input-text search-field and @name=query and @type=text]
+type	//input[@id=channels-search-field and @class=yt-uix-form-input-text search-field and @name=query and @type=text]	dress
+INC_CORR|correlation:7|HTML index:6
+elems.size()=142
+THERE ARE NO DYNAMIC, BUTTON OR STATIC SUBMITS
+INC_HTML|correlation:8|HTML index:7
+open	http://www.youtube.com/	EMPTY
+No suitable element found, going back to base URL. Redirects left:4
+
+Action #3 | Page URL is: http://www.youtube.com/
+menu elements found:182
+non_empty: CALL=133|LOGIN=55||total: 188
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/channel/UCp4nV-t5yhUQi0udCUxJR5Q" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="feature=g-high-cpv&ei=s4eYU-OqMZORigac8YGgBg&ved=CJkBEMEb" dir="ltr" data-ytid="UCp4nV-t5yhUQi0udCUxJR5Q" data-name="g-high-cpv"> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q and contains(text(),'bancodechile')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q and contains(text(),'bancodechile')]	EMPTY
+INC_HTML|correlation:9|HTML index:8
+
+Action #4 | Page URL is: http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q
+menu elements found:72
+non_empty: CALL=35|LOGIN=22||total: 57
+masterElements size:1|detailElements size:1
+ELEMENT: <a dir="ltr" href="/user/bancodechile" class="spf-link branded-page-header-title-link yt-uix-sessionlink" title="bancodechile" data-sessionlink="ei=voeYU8LUDcn9igbbuIBA"> (has text) | LOCATOR://a[@class=spf-link branded-page-header-title-link yt-uix-sessionlink and @href=http://www.youtube.com/user/bancodechile and contains(text(),'bancodechile')]
+clickAndWait	//a[@class=spf-link branded-page-header-title-link yt-uix-sessionlink and @href=http://www.youtube.com/user/bancodechile and contains(text(),'bancodechile')]	EMPTY
+INC_HTML|correlation:10|HTML index:9
+
+Action #5 | Page URL is: http://www.youtube.com/user/bancodechile
+menu elements found:72
+non_empty: CALL=35|LOGIN=21||total: 56
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/user/bancodechile/videos" class="yt-uix-button   spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=wYeYU7j3PIjNiAbSi4HIAQ&ved=CEgQwy0oAQ"> (has text) | LOCATOR://a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/videos and contains(text(),'Videos')]
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/videos and contains(text(),'Videos')]	EMPTY
+INC_HTML|correlation:11|HTML index:10
+
+Action #6 | Page URL is: http://www.youtube.com/user/bancodechile/videos
+menu elements found:101
+non_empty: CALL=79|LOGIN=11||total: 90
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/user/bancodechile/about" class="yt-uix-button   spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=xYeYU5W9HIXXiAbJ3oD4Cg&ved=CBYQwy0oBA"> (has text) | LOCATOR://a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/about and contains(text(),'About')]
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/about and contains(text(),'About')]	EMPTY
+INC_HTML|correlation:12|HTML index:11
+
+Action #7 | Page URL is: http://www.youtube.com/user/bancodechile/about
+menu elements found:59
+non_empty: CALL=21|LOGIN=20||total: 41
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/user/mutualtv" class="ux-thumb-wrap yt-uix-sessionlink " data-sessionlink="ei=yoeYU9uME4nRiAbRroCoCw&feature=rc-rel&ved=CCwQwBs"> (no text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink and @href=http://www.youtube.com/user/mutualtv]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink and @href=http://www.youtube.com/user/mutualtv]	EMPTY
+INC_HTML|correlation:13|HTML index:12
+
+Action #8 | Page URL is: http://www.youtube.com/user/mutualtv
+menu elements found:157
+non_empty: CALL=116|LOGIN=43||total: 159
+masterElements size:1|detailElements size:1
+ELEMENT: <a href="/watch_videos?type=0&video_ids=iswxUo2M_dQ%2CVuDWNROZkak%2CEswSH_Nnr4Y%2CglaELHPVotU%2CobTUbMJg9E4%2C3tctVS6d_3U%2CDsDPODaSdyc%2C0NG-u-1AqjE%2CXkzw4h42UmM%2Cuz8-JH2HkyY%2Cu4upIInbr1I%2Cpn4kFhz6UJI&more_url=&feature=c4-overview&index=4&title=N%C3%BAcleo+Emprendedor" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="ved=CKgBEMAb&ei=zYeYU_iCHKW_iAbW0IHwAg&feature=c4-overview"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?type=0&video_ids=iswxUo2M_dQ%2CVuDWNROZkak%2CEswSH_Nnr4Y%2CglaELHPVotU%2CobTUbMJg9E4%2C3tctVS6d_3U%2CDsDPODaSdyc%2C0NG-u-1AqjE%2CXkzw4h42UmM%2Cuz8-JH2HkyY%2Cu4upIInbr1I%2Cpn4kFhz6UJI&more_url=&feature=c4-overview&index=4&title=N%C3%BAcleo+Emprendedor and contains(text(),'1:33')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?type=0&video_ids=iswxUo2M_dQ%2CVuDWNROZkak%2CEswSH_Nnr4Y%2CglaELHPVotU%2CobTUbMJg9E4%2C3tctVS6d_3U%2CDsDPODaSdyc%2C0NG-u-1AqjE%2CXkzw4h42UmM%2Cuz8-JH2HkyY%2Cu4upIInbr1I%2Cpn4kFhz6UJI&more_url=&feature=c4-overview&index=4&title=N%C3%BAcleo+Emprendedor and contains(text(),'1:33')]	EMPTY
+INC_HTML|correlation:14|HTML index:13
+
+Action #9 | Page URL is: http://www.youtube.com/watch?v=obTUbMJg9E4&list=TLX8ujwwWQIVWfu_5E71xxr_iMsTlkuOMC
+menu elements found:21
+non_empty: CALL=48|LOGIN=3||total: 51
+masterElements size:2|detailElements size:1
+ELEMENT: <a href="/channel/UCeILz3rkFOSHjciZ9-B5qFQ" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="feature=watch&ei=14eYU8-zF4eYjAbQtYDQBQ"> (no text) | LOCATOR://a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ]
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ]	EMPTY
+INC_HTML|correlation:15|HTML index:14
+
+Action #10 | Page URL is: http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ
+menu elements found:157
+non_empty: CALL=116|LOGIN=43||total: 159
+masterElements size:2|detailElements size:1
+ELEMENT: <a class="yt-uix-sessionlink yt-uix-tile-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Conoce nuestras Reuniones Online" data-sessionlink="feature=c4-overview&ei=2oeYU8HiAarFigaZ3IDACw&ved=CGgQvxs" href="/watch_videos?feature=c4-overview&type=0&title=Sitio+Web+Mutual&more_url=&video_ids=_t0lVRrbdlc%2CT13r6hVzxcY%2CJ1yWCHPTr_k%2C5497Xnnm_7E%2CJC7yhI5pc84"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&title=Sitio+Web+Mutual&more_url=&video_ids=_t0lVRrbdlc%2CT13r6hVzxcY%2CJ1yWCHPTr_k%2C5497Xnnm_7E%2CJC7yhI5pc84 and contains(text(),'Conoce nuestras Reuniones Online')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&title=Sitio+Web+Mutual&more_url=&video_ids=_t0lVRrbdlc%2CT13r6hVzxcY%2CJ1yWCHPTr_k%2C5497Xnnm_7E%2CJC7yhI5pc84 and contains(text(),'Conoce nuestras Reuniones Online')]	EMPTY
+INC_HTML|correlation:16|HTML index:15
+
+Action #11 | Page URL is: http://www.youtube.com/watch?v=_t0lVRrbdlc&list=TL-evlDEVaaJPkSw5Mtay-rtFgnZhw0luy
+menu elements found:21
+non_empty: CALL=41|LOGIN=2||total: 43
+masterElements size:3|detailElements size:1
+ELEMENT: <a href="/channel/UCeILz3rkFOSHjciZ9-B5qFQ" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=44eYU7eFNcmtiQa0qYDICA&feature=watch" dir="ltr" data-ytid="UCeILz3rkFOSHjciZ9-B5qFQ" data-name="watch"> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ and contains(text(),'mutualtv')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ and contains(text(),'mutualtv')]	EMPTY
+INC_HTML|correlation:17|HTML index:16
+
+Action #12 | Page URL is: http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ
+menu elements found:226
+non_empty: CALL=116|LOGIN=43||total: 159
+masterElements size:3|detailElements size:1
+ELEMENT: <a class="yt-uix-sessionlink yt-uix-tile-link " dir="ltr" title="OhlalaLingua" data-sessionlink="ei=5oeYU_K1HMe3iAbE64HICQ&ved=CAwQvxs&feature=rc-rel" href="/user/OhlalaLingua"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-uix-tile-link and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]	EMPTY
+INC_HTML|correlation:18|HTML index:17
+
+Action #13 | Page URL is: http://www.youtube.com/user/OhlalaLingua
+menu elements found:129
+non_empty: CALL=89|LOGIN=39||total: 128
+masterElements size:3|detailElements size:1
+ELEMENT: <a href="/watch_videos?title=Popular+uploads&type=0&more_url=&feature=c4-overview-u&video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=3" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="ei=8IeYU5n7GqeziQbMiQE&ved=CEYQwBs&feature=c4-overview-u"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?title=Popular+uploads&type=0&more_url=&feature=c4-overview-u&video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=3 and contains(text(),'1:31')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?title=Popular+uploads&type=0&more_url=&feature=c4-overview-u&video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=3 and contains(text(),'1:31')]	EMPTY
+INC_HTML|correlation:19|HTML index:18
+
+Action #14 | Page URL is: http://www.youtube.com/watch?v=uDABDXRp_EA&list=TLtQ6hchmlPpEMn_9dwAal6uW_5VWQrQ1-
+menu elements found:21
+non_empty: CALL=48|LOGIN=3||total: 51
+masterElements size:4|detailElements size:1
+ELEMENT: <a href="/channel/UCqDuUyaumPuUCTkQZ2QvPZg" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=-IeYU6-_Auu0iQbW1IC4Aw&feature=watch" dir="ltr" data-ytid="UCqDuUyaumPuUCTkQZ2QvPZg" data-name="watch"> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg and contains(text(),'OhlalaLingua')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg and contains(text(),'OhlalaLingua')]	EMPTY
+INC_HTML|correlation:20|HTML index:19
+
+Action #15 | Page URL is: http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg
+menu elements found:129
+non_empty: CALL=89|LOGIN=39||total: 128
+masterElements size:4|detailElements size:1
+ELEMENT: <a href="/user/OhlalaLingua" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=-oeYU43YL8KtiQaU3YGwBw&feature=c4-overview&ved=CHYQwRs" dir="ltr" data-ytid="UCqDuUyaumPuUCTkQZ2QvPZg" data-name="c4-overview"> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]	EMPTY
+INC_HTML|correlation:21|HTML index:20
+
+Action #16 | Page URL is: http://www.youtube.com/user/OhlalaLingua
+menu elements found:161
+non_empty: CALL=89|LOGIN=30||total: 119
+masterElements size:4|detailElements size:1
+ELEMENT: <a class="yt-uix-sessionlink yt-uix-tile-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Dialogos en frances : En el restaurante" data-sessionlink="ei=AoiYU_WeE4fligb_44CgCQ&ved=CE8Qvxs&feature=c4-overview-u" href="/watch_videos?video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=10&feature=c4-overview-u&type=0&more_url=&title=Popular+uploads"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=10&feature=c4-overview-u&type=0&more_url=&title=Popular+uploads and contains(text(),'Dialogos en frances : En el restaurante')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=10&feature=c4-overview-u&type=0&more_url=&title=Popular+uploads and contains(text(),'Dialogos en frances : En el restaurante')]	EMPTY
+INC_HTML|correlation:22|HTML index:21
+
+Action #17 | Page URL is: http://www.youtube.com/watch?v=GO3Q9ArHuX4&list=TLf3fhvvc0JkycTZLU1sJqQr0_UZQ0WmRv
+menu elements found:21
+non_empty: CALL=48|LOGIN=2||total: 50
+masterElements size:5|detailElements size:1
+ELEMENT: <a class="yt-uix-sessionlink yt-user-videos" href="/channel/UCqDuUyaumPuUCTkQZ2QvPZg/videos" data-sessionlink="ei=CoiYU-rbLaz6igbqqYDwBA&feature=watch"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-user-videos and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg/videos and contains(text(),'52 videos')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-user-videos and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg/videos and contains(text(),'52 videos')]	EMPTY
+INC_HTML|correlation:23|HTML index:22
+
+Action #18 | Page URL is: http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg/videos
+menu elements found:101
+non_empty: CALL=79|LOGIN=13||total: 92
+masterElements size:5|detailElements size:1
+ELEMENT: <a href="/t/terms"> (has text) | LOCATOR://a[@href=http://www.youtube.com/t/terms and contains(text(),'Terms')]
+clickAndWait	//a[@href=http://www.youtube.com/t/terms and contains(text(),'Terms')]	EMPTY
+INC_HTML|correlation:24|HTML index:23
+
+Action #19 | Page URL is: http://www.youtube.com/t/terms
+menu elements found:29
+non_empty: CALL=26||total: 26
+masterElements size:5|detailElements size:1
+ELEMENT: <a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=mhsb&ei=EoiYU9S4OIWFqgORzoHoCQ" id="upload-btn"> (has text) | LOCATOR://a[@id=upload-btn and @class=yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default and @href=http://www.youtube.com/upload and contains(text(),'Upload')]
+clickAndWait	//a[@id=upload-btn and @class=yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default and @href=http://www.youtube.com/upload and contains(text(),'Upload')]	EMPTY
+INC_HTML|correlation:25|HTML index:24
+
+Action #20 | Page URL is: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dredirect_login%26hl%3Den%26next%3D%252Fupload&hl=en&passive=true&service=youtube&uilel=3
+menu elements found:2
+non_empty: SELECT=1|LOGIN=3||total: 4
+masterElements size:5|detailElements size:1
+ELEMENT: <input id="Email" name="Email" type="email" placeholder="Email" value="" spellcheck="false" class="" /> (no text) | LOCATOR://input[@id=Email and @name=Email and @type=email]
+null|null
+type	//input[@id=Email and @name=Email and @type=email]	banana
+INC_CORR|correlation:26|HTML index:24
+type	//input[@id=Passwd and @name=Passwd and @type=password]	apple
+INC_CORR|correlation:27|HTML index:24
+click	//input[@id=PersistentCookie and @name=PersistentCookie and @type=checkbox]	EMPTY
+INC_CORR|correlation:28|HTML index:24
+elems.size()=16
+SUBMIT=len:2
+clickAndWait	//input[@id=signIn and @class=rc-button rc-button-submit and @name=signIn and @type=submit]	EMPTY
+INC_HTML|correlation:29|HTML index:25
+INC_HTML|correlation:30|HTML index:26
+open	http://www.youtube.com/	EMPTY
+
+Action #21 | Page URL is: http://www.youtube.com/
+menu elements found:183
+non_empty: CALL=131|LOGIN=54||total: 185
+masterElements size:5|detailElements size:1
+ELEMENT: <a href="/watch?v=DZlUgkTGeAQ" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="ei=FoiYU7HUFu-biQaes4GoAQ&ved=CKYBEMAb&feature=g-high-cpv"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=DZlUgkTGeAQ and contains(text(),'1:55')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=DZlUgkTGeAQ and contains(text(),'1:55')]	EMPTY
+INC_HTML|correlation:31|HTML index:27
+
+Action #22 | Page URL is: http://www.youtube.com/watch?v=DZlUgkTGeAQ
+menu elements found:19
+non_empty: CALL=32|LOGIN=3||total: 35
+masterElements size:6|detailElements size:1
+ELEMENT: <a href="/channel/UC8q4JKfDyFaqhvkj9XdfWbg" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=IIiYU_-yBqz6igbmiIDYAQ&feature=watch"> (no text) | LOCATOR://a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UC8q4JKfDyFaqhvkj9XdfWbg]
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UC8q4JKfDyFaqhvkj9XdfWbg]	EMPTY
+INC_HTML|correlation:32|HTML index:28
+
+Action #23 | Page URL is: http://www.youtube.com/channel/UC8q4JKfDyFaqhvkj9XdfWbg
+menu elements found:102
+non_empty: CALL=62|LOGIN=29||total: 91
+masterElements size:6|detailElements size:1
+ELEMENT: <a href="/watch_videos?feature=c4-overview&type=0&index=1&video_ids=P5jLwakQYok%2Cf67mC1169Ko%2C58q2ROF_2ew%2CLGEwWMbly1E&title=Kata+by+tsuruhimeja&more_url=" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="feature=c4-overview&ei=IoiYU7HwJ4bgiAaGv4DgCQ&ved=CHQQwBs"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&index=1&video_ids=P5jLwakQYok%2Cf67mC1169Ko%2C58q2ROF_2ew%2CLGEwWMbly1E&title=Kata+by+tsuruhimeja&more_url= and contains(text(),'1:04')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&index=1&video_ids=P5jLwakQYok%2Cf67mC1169Ko%2C58q2ROF_2ew%2CLGEwWMbly1E&title=Kata+by+tsuruhimeja&more_url= and contains(text(),'1:04')]	EMPTY
+INC_HTML|correlation:33|HTML index:29
+
+Action #24 | Page URL is: http://www.youtube.com/watch?v=f67mC1169Ko&list=TLFofI9GQ3zCnUMS-m9Rn08nR2FPICgXNX
+menu elements found:21
+non_empty: CALL=38|LOGIN=2||total: 40
+masterElements size:7|detailElements size:1
+ELEMENT: <a href="/watch?v=xAVjIIj2VG4" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=KIiYU5b7IIqbiwa1yIHwAg&ved=CAsQzRooCA&feature=related"> (has text) | LOCATOR://a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=xAVjIIj2VG4 and contains(text(),'3:59 Master Ochi 8th Dan JKA teaches Kata Chinte by Bestshotokankarate 172,731 views')]
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=xAVjIIj2VG4 and contains(text(),'3:59 Master Ochi 8th Dan JKA teaches Kata Chinte by Bestshotokankarate 172,731 views')]	EMPTY
+INC_HTML|correlation:34|HTML index:30
+
+Action #25 | Page URL is: http://www.youtube.com/watch?v=xAVjIIj2VG4
+menu elements found:19
+non_empty: CALL=32|LOGIN=3||total: 35
+masterElements size:8|detailElements size:1
+ELEMENT: <a href="//www.youtube.com/yt/about/"> (has text) | LOCATOR://a[@href=http://www.youtube.com/yt/about/ and contains(text(),'About')]
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/ and contains(text(),'About')]	EMPTY
+INC_HTML|correlation:35|HTML index:31
+
+Action #26 | Page URL is: http://www.youtube.com/yt/about/
+menu elements found:73
+non_empty: CALL=82|SEARCH=1||total: 83
+masterElements size:8|detailElements size:1
+ELEMENT: <a href="/yt/about/zh-TW/index.html"> (no text) | LOCATOR://a[@href=http://www.youtube.com/yt/about/zh-TW/index.html]
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/zh-TW/index.html]	EMPTY
+INC_HTML|correlation:36|HTML index:32
+
+Action #27 | Page URL is: http://www.youtube.com/yt/about/zh-TW/index.html
+menu elements found:73
+non_empty: CALL=84|SEARCH=1||total: 85
+masterElements size:8|detailElements size:1
+ELEMENT: <input class="search-term" name="search_query" tabindex="1" title="??" type="text" value="" /> (no text) | LOCATOR://input[@class=search-term and @name=search_query and @type=text]
+type	//input[@class=search-term and @name=search_query and @type=text]	shirt
+INC_CORR|correlation:37|HTML index:32
+elems.size()=4
+SUBMIT=len:2
+clickAndWait	//button[@id=search-btn and @class=search-button yt-uix-button yt-uix-button-default and @type=submit]	EMPTY
+INC_HTML|correlation:38|HTML index:33
+
+Action #28 | Page URL is: http://www.youtube.com/results?search_query=shirt
+menu elements found:45
+non_empty: CALL=88|LOGIN=20||total: 108
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=MIiYU7XDHcjbiAaWwYDACA&ved=CDgQwRs" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name=""> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ and contains(text(),'Patagonia')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ and contains(text(),'Patagonia')]	EMPTY
+INC_HTML|correlation:39|HTML index:34
+
+Action #29 | Page URL is: http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ
+menu elements found:181
+non_empty: CALL=129|LOGIN=40||total: 169
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/user/patagoniavideo/about" class="yt-uix-button   spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=NIiYU6zlMKz9iAaB7YDgAQ&ved=CBMQwy0oBQ"> (has text) | LOCATOR://a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/about and contains(text(),'About')]
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/about and contains(text(),'About')]	EMPTY
+INC_HTML|correlation:40|HTML index:35
+
+Action #30 | Page URL is: http://www.youtube.com/user/patagoniavideo/about
+menu elements found:60
+non_empty: CALL=16|LOGIN=25||total: 41
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/user/patagoniavideo"> (no text) | LOCATOR://a[@href=http://www.youtube.com/user/patagoniavideo]
+clickAndWait	//a[@href=http://www.youtube.com/user/patagoniavideo]	EMPTY
+INC_HTML|correlation:41|HTML index:36
+
+Action #31 | Page URL is: http://www.youtube.com/user/patagoniavideo
+menu elements found:181
+non_empty: CALL=129|LOGIN=38||total: 167
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/user/patagoniavideo" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=Q4iYU_KtNKaniAay8YHABQ&feature=c4-overview&ved=CBwQwRs" dir="ltr" data-ytid="UCl3xZ-f3cQhOHvH6f-7-ssQ" data-name="c4-overview"> (has text) | LOCATOR://a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/patagoniavideo and contains(text(),'Patagonia')]
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/patagoniavideo and contains(text(),'Patagonia')]	EMPTY
+INC_HTML|correlation:42|HTML index:37
+
+Action #32 | Page URL is: http://www.youtube.com/user/patagoniavideo
+menu elements found:267
+non_empty: CALL=129|LOGIN=32||total: 161
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/user/patagoniavideo/playlists" class="yt-uix-button   spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=T4iYU4uwNOuAiAaflYGgCQ&ved=COMBEMMtKAI"> (has text) | LOCATOR://a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/playlists and contains(text(),'Playlists')]
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/playlists and contains(text(),'Playlists')]	EMPTY
+INC_HTML|correlation:43|HTML index:38
+
+Action #33 | Page URL is: http://www.youtube.com/user/patagoniavideo/playlists
+menu elements found:75
+non_empty: CALL=50|LOGIN=14||total: 64
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/user/patagoniavideo/videos" class="yt-uix-button   spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default" data-sessionlink="ei=W4iYU-bVH8n9igbay4BI&ved=CGEQwy0oAQ"> (has text) | LOCATOR://a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/videos and contains(text(),'Videos')]
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/videos and contains(text(),'Videos')]	EMPTY
+INC_HTML|correlation:44|HTML index:39
+
+Action #34 | Page URL is: http://www.youtube.com/user/patagoniavideo/videos
+menu elements found:103
+non_empty: CALL=76|LOGIN=10||total: 86
+masterElements size:8|detailElements size:2
+ELEMENT: <a href="/watch?v=7tnzj_PE6lQ" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="ei=YIiYU6TgHcb6iAaKiYGAAg&feature=c4-videos-u"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=7tnzj_PE6lQ and contains(text(),'1:04')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=7tnzj_PE6lQ and contains(text(),'1:04')]	EMPTY
+INC_HTML|correlation:45|HTML index:40
+
+Action #35 | Page URL is: http://www.youtube.com/watch?v=7tnzj_PE6lQ
+menu elements found:19
+non_empty: CALL=31|LOGIN=2||total: 33
+masterElements size:9|detailElements size:2
+ELEMENT: <a href="/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=ZYiYU6u5JvH-iAaitYCICg&feature=watch"> (no text) | LOCATOR://a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ]
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ]	EMPTY
+INC_HTML|correlation:46|HTML index:41
+
+Action #36 | Page URL is: http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ
+menu elements found:267
+non_empty: CALL=129|LOGIN=30||total: 159
+masterElements size:9|detailElements size:2
+ELEMENT: <a class="yt-uix-sessionlink yt-uix-tile-link  yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr" title="Snow Kiting in Wyoming" data-sessionlink="ved=CKQBEL8b&ei=aIiYU4zvBaTOiQaFxYCwBg&feature=c4-overview" href="/watch_videos?more_url=&feature=c4-overview&index=5&title=Surf&type=0&video_ids=05DbSNfzDG4%2CIiJsNqqYmvQ%2C-Qovbf0Zeq4%2C-ay31YOnJwA%2Ci2K08bdpe1U%2CtpMRxmtcjy0%2CydshhcofDjY%2CbvTswuSDz2A%2CgYEMwySLE7I%2Cjr1u-2BjbqM%2CapNmUbiRiIU%2CX4tp9VV4VEY"> (has text) | LOCATOR://a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?more_url=&feature=c4-overview&index=5&title=Surf&type=0&video_ids=05DbSNfzDG4%2CIiJsNqqYmvQ%2C-Qovbf0Zeq4%2C-ay31YOnJwA%2Ci2K08bdpe1U%2CtpMRxmtcjy0%2CydshhcofDjY%2CbvTswuSDz2A%2CgYEMwySLE7I%2Cjr1u-2BjbqM%2CapNmUbiRiIU%2CX4tp9VV4VEY and contains(text(),'Snow Kiting in Wyoming')]
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?more_url=&feature=c4-overview&index=5&title=Surf&type=0&video_ids=05DbSNfzDG4%2CIiJsNqqYmvQ%2C-Qovbf0Zeq4%2C-ay31YOnJwA%2Ci2K08bdpe1U%2CtpMRxmtcjy0%2CydshhcofDjY%2CbvTswuSDz2A%2CgYEMwySLE7I%2Cjr1u-2BjbqM%2CapNmUbiRiIU%2CX4tp9VV4VEY and contains(text(),'Snow Kiting in Wyoming')]	EMPTY
+INC_HTML|correlation:47|HTML index:42
+
+Action #37 | Page URL is: http://www.youtube.com/watch?v=tpMRxmtcjy0&list=TLXvlcaaNngZeoLsM-junfYgDdF8vnBxAL
+menu elements found:21
+non_empty: CALL=45|LOGIN=1||total: 46
+masterElements size:10|detailElements size:2
+ELEMENT: <a href="/watch?v=jFwlI-zlhEg" class=" related-video yt-uix-sessionlink" data-sessionlink="feature=related&ei=dIiYU-LhEqPUiwbcwYDYCg&ved=CBYQzRooEQ"> (has text) | LOCATOR://a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=jFwlI-zlhEg and contains(text(),'4:37 Ozone Frenzy 2011 by flyozone 42,324 views')]
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=jFwlI-zlhEg and contains(text(),'4:37 Ozone Frenzy 2011 by flyozone 42,324 views')]	EMPTY
+INC_HTML|correlation:48|HTML index:43
+
+Action #38 | Page URL is: http://www.youtube.com/watch?v=jFwlI-zlhEg
+menu elements found:19
+non_empty: CALL=31|LOGIN=3||total: 34
+masterElements size:11|detailElements size:2
+ELEMENT: <a href="/watch?v=RaFgBeHa3iY" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=d4iYU435JY2eigaw0oDYBQ&ved=CBcQzRooEg&feature=relmfu"> (has text) | LOCATOR://a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=RaFgBeHa3iY and contains(text(),'3:52 Ozone Edge 2014 - Designer Tech Talk by flyozone 6,931 views')]
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=RaFgBeHa3iY and contains(text(),'3:52 Ozone Edge 2014 - Designer Tech Talk by flyozone 6,931 views')]	EMPTY
+INC_HTML|correlation:49|HTML index:44
+
+Action #39 | Page URL is: http://www.youtube.com/watch?v=RaFgBeHa3iY
+menu elements found:19
+non_empty: CALL=31|LOGIN=3||total: 34
+masterElements size:12|detailElements size:2
+ELEMENT: <a href="/watch?v=QVVSEThrNT8" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&feature=related&ved=CAkQzRooBg"> (has text) | LOCATOR://a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=QVVSEThrNT8 and contains(text(),'7:50 Kitesurfing Dakhla - Marocko - 2013 by Filip Wirefors 75,628 views')]
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=QVVSEThrNT8 and contains(text(),'7:50 Kitesurfing Dakhla - Marocko - 2013 by Filip Wirefors 75,628 views')]	EMPTY
+INC_HTML|correlation:50|HTML index:45
+
+Action #40 | Page URL is: http://www.youtube.com/watch?v=QVVSEThrNT8
+menu elements found:19
+non_empty: CALL=32|LOGIN=3||total: 35
+masterElements size:13|detailElements size:2
+ELEMENT: <a href="/channel/UCG-ivU_XCCyDU6zAwadxR-g" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="feature=watch&ei=fIiYU9rdO-OZjAay2IHoDA"> (no text) | LOCATOR://a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCG-ivU_XCCyDU6zAwadxR-g]
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCG-ivU_XCCyDU6zAwadxR-g]	EMPTY
+INC_HTML|correlation:51|HTML index:46
+
+Action #41 | Page URL is: http://www.youtube.com/channel/UCG-ivU_XCCyDU6zAwadxR-g
+menu elements found:69
+non_empty: CALL=33|LOGIN=26||total: 59
+masterElements size:13|detailElements size:2
+ELEMENT: <a id="logo-container" href="/" title="YouTube home" class="    
+"> (has text) | LOCATOR://a[@id=logo-container and @href=http://www.youtube.com/ and contains(text(),'PT')]
+clickAndWait	//a[@id=logo-container and @href=http://www.youtube.com/ and contains(text(),'PT')]	EMPTY
+INC_HTML|correlation:52|HTML index:47
+
+Action #42 | Page URL is: http://www.youtube.com/
+menu elements found:185
+non_empty: CALL=128|LOGIN=54||total: 182
+masterElements size:13|detailElements size:2
+ELEMENT: <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   " href="/channel/UCOpNcN46UbXVtpKMrmU4Abg" title="Gaming" data-sessionlink="feature=g-channel&ei=g4iYU_n3Osbzigbvr4H4Aw&ved=CAgQtSwoAw" data-visibility-tracking="" data-external-id="UCOpNcN46UbXVtpKMrmU4Abg" data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D"> (no text) | LOCATOR://a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg]
+clickAndWait	//a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg]	EMPTY
+INC_HTML|correlation:53|HTML index:48
+
+Action #43 | Page URL is: http://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg
+menu elements found:818
+non_empty: CALL=635|LOGIN=249||total: 884
+masterElements size:13|detailElements size:2
+ELEMENT: <a href="/watch?v=N01LOl-Q8EE&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606" class="ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto " data-sessionlink="feature=c4-overview&ved=CIQFEMAb&ei=j4iYU9n6G-jwiAb_toBg"> (has text) | LOCATOR://a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=N01LOl-Q8EE&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'17:35')]
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=N01LOl-Q8EE&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'17:35')]	EMPTY
+INC_HTML|correlation:54|HTML index:49
+
+Action #44 | Page URL is: http://www.youtube.com/watch?v=N01LOl-Q8EE&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606
+menu elements found:24
+non_empty: CALL=233|LOGIN=5||total: 238
+masterElements size:14|detailElements size:2
+ELEMENT: <a href="/watch?v=m8bLsOj2RXo&index=28&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606" class="playlist-video clearfix  spf-nolink "> (has text) | LOCATOR://a[@class=playlist-video clearfix spf-nolink and @href=http://www.youtube.com/watch?v=m8bLsOj2RXo&index=28&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'CUBE WORLD [HD+] #012 - Drei Helden jagen eine Mücke ? Let's Play Cube World by Gronkh')]
+clickAndWait	//a[@class=playlist-video clearfix spf-nolink and @href=http://www.youtube.com/watch?v=m8bLsOj2RXo&index=28&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'CUBE WORLD [HD+] #012 - Drei Helden jagen eine Mücke ? Let's Play Cube World by Gronkh')]	EMPTY
+INC_HTML|correlation:55|HTML index:50
+
+Action #45 | Page URL is: http://www.youtube.com/watch?v=m8bLsOj2RXo&index=28&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606
+menu elements found:24
+non_empty: CALL=241|LOGIN=3||total: 244
+masterElements size:15|detailElements size:2
+ELEMENT: <a href="//www.youtube.com/yt/copyright/"> (has text) | LOCATOR://a[@href=http://www.youtube.com/yt/copyright/ and contains(text(),'Copyright')]
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/ and contains(text(),'Copyright')]	EMPTY
+INC_HTML|correlation:56|HTML index:51
+
+Action #46 | Page URL is: http://www.youtube.com/yt/copyright/
+menu elements found:76
+non_empty: CALL=71||total: 71
+masterElements size:15|detailElements size:2
+ELEMENT: <a href="/yt/copyright/ca/index.html"> (no text) | LOCATOR://a[@href=http://www.youtube.com/yt/copyright/ca/index.html]
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/ca/index.html]	EMPTY
+INC_HTML|correlation:57|HTML index:52
+
+Action #47 | Page URL is: http://www.youtube.com/yt/copyright/ca/index.html
+menu elements found:76
+non_empty: CALL=75||total: 75
+masterElements size:15|detailElements size:2
+ELEMENT: <a href="/yt/copyright/bn/index.html"> (no text) | LOCATOR://a[@href=http://www.youtube.com/yt/copyright/bn/index.html]
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/bn/index.html]	EMPTY
+INC_HTML|correlation:58|HTML index:53
+
+Action #48 | Page URL is: http://www.youtube.com/yt/copyright/bn/index.html
+menu elements found:76
+non_empty: CALL=74||total: 74
+masterElements size:15|detailElements size:2
+ELEMENT: <a href="/yt/copyright/it/index.html"> (no text) | LOCATOR://a[@href=http://www.youtube.com/yt/copyright/it/index.html]
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/it/index.html]	EMPTY
+INC_HTML|correlation:59|HTML index:54
+
+Action #49 | Page URL is: http://www.youtube.com/yt/copyright/it/index.html
+menu elements found:76
+non_empty: CALL=73||total: 73
+masterElements size:15|detailElements size:2
+ELEMENT: <a href="/yt/about/it/"> (has text) | LOCATOR://a[@href=http://www.youtube.com/yt/about/it/ and contains(text(),'Informazioni')]
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/it/ and contains(text(),'Informazioni')]	EMPTY
+INC_HTML|correlation:60|HTML index:55
+-------TESTING-------
+start
+	1|2
+	2|3
+	3|4
+	4|5
+	5|6
+	6|7
+	7|8
+	8|9
+	9|10
+	10|11
+	11|12
+	12|13
+	13|14
+	14|15
+	15|16
+	16|17
+	17|18
+	18|19
+	19|20
+	20|21
+	21|22
+	22|23
+	23|24
+	24|25
+	25|26
+	26|27
+	27|28
+	28|29
+	29|30
+	30|31
+	31|32
+	32|33
+	33|34
+	34|35
+	35|36
+	36|37
+	37|38
+	38|39
+	39|40
+	40|41
+	41|42
+	42|43
+	43|44
+	44|45
+	45|46
+	46|47
+	47|48
+	48|49
+	49|50
+	50|51
+	51|52
+	52|53
+	53|54
+	final2
+	final3
+	final4
+	final5
+	final6
+	final7
+	final8
+	final9
+	final10
+	final11
+	final12
+	final13
+	final14
+	final15
+	final16
+	final17
+	final18
+	final19
+	final20
+	final21
+	final22
+	final23
+	final24
+	final25
+	final26
+	final27
+	final28
+	final29
+	final30
+	final31
+	final32
+	final33
+	final34
+	final35
+	final36
+	final37
+	final38
+	final39
+	final40
+	final41
+	final42
+	final43
+	final44
+	final45
+	final46
+	final47
+	final48
+	final49
+	final50
+	final51
+	final52
+	final53
+	final54
+processList
+10.txt
+11.txt
+12.txt
+13.txt
+14.txt
+15.txt
+16.txt
+17.txt
+18.txt
+19.txt
+2.txt
+20.txt
+21.txt
+22.txt
+23.txt
+24.txt
+25.txt
+26.txt
+27.txt
+28.txt
+29.txt
+3.txt
+30.txt
+31.txt
+32.txt
+33.txt
+34.txt
+35.txt
+36.txt
+37.txt
+38.txt
+39.txt
+4.txt
+40.txt
+41.txt
+42.txt
+43.txt
+44.txt
+45.txt
+46.txt
+47.txt
+48.txt
+49.txt
+5.txt
+50.txt
+51.txt
+52.txt
+53.txt
+54.txt
+6.txt
+7.txt
+8.txt
+9.txt
+	fileSizeAverage: 385537.320754717
+	ratio:0.0
+	ratio:1.3263073961270813
+	ratio:1.3191744939358832
+	ratio:1.3964043712969472
+	ratio:1.9369771998677856
+	ratio:2.4610250393985793
+	ratio:1.2548460913017352
+	ratio:0.24324752741554814
+	ratio:0.5687490891173789
+	ratio:0.4698066574863075
+	ratio:0.8174643102853073
+	ratio:1.2198715265213294
+	ratio:1.2234794781387681
+	ratio:1.1945121138946586
+	ratio:1.1977958426852247
+	ratio:0.7954456896667322
+	ratio:1.1279867773856218
+	ratio:1.1290839474317589
+	ratio:0.37090572637707586
+	ratio:1.1186854729282993
+	ratio:0.8511964531931372
+	ratio:0.590199671343273
+	ratio:0.34130029160968095
+	ratio:0.059005960708206406
+	ratio:1.2286644495861154
+	ratio:1.3868177507519768
+	ratio:0.8807033242211629
+	ratio:0.9026155997525238
+	ratio:0.5242657172704519
+	ratio:0.47555707354372073
+	ratio:0.02533606858313597
+	ratio:0.5016583079982762
+	ratio:1.2293699584573903
+	ratio:0.8688186122793192
+	ratio:0.8701985046304892
+	ratio:0.6732733409358896
+	ratio:1.0193617552528258
+	ratio:0.5833391163266478
+	ratio:0.7323908342965402
+	ratio:1.268388230334552
+	ratio:1.3443964360839598
+	ratio:0.5154157309881362
+	ratio:0.42411977050602934
+	ratio:0.47296847849396956
+	ratio:0.6621849202568452
+	ratio:1.20531262470344
+	ratio:4.272470942049122
+	ratio:4.782260758545363
+	ratio:1.2936257351783187
+	ratio:1.6065344822844159
+	ratio:0.05027010086094986
+	ratio:0.05121164395018802
+	ratio:0.05149436625522096
+	ratio:0.08350423750670345
+PatternNonSeleniumFinder.ProcessUrlsAndHTMLSize(pageInfo)
+Possible search text box here
+Possible search here with banana keyword
+Possible search here with "search" in the url
+Possible search text box here
+	findURLSearchVariablesInHTML(http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q,7)
+	passed inputs
+	passed selects
+Found input pattern
+	findURLSearchVariablesInHTML(https://accounts.google.com/ServiceLoginAuth,24)
+	passed inputs
+	passed selects
+Possible Login here with "login" in the url
+Found input pattern
+Possible search text box here
+Possible search here with shirt keyword
+Possible search here with "search" in the url
+processSeleniumActions
+-225.889
+225.562
+-224.154
+442.747
+-218.614
+-250.085
+0.078
+33.951
+-72.708
+214.35
+-136.096
+136.251
+-146.376
+146.379
+-54.148
+-64.781
+65.33
+-0.123
+-67.665
+-19.731
+-128.412
+17.232
+328.962
+-226.704
+35.6
+-25.513
+-20.29
+-141.627
+-0.796
+152.819
+198.099
+-257.01
+256.944
+-0.007
+-207.671
+20.967
+-23.761
+210.545
+-180.838
+-30.386
+5.761
+-2.453
+-27.516
+263.858
+915.812
+-734.187
+10.538
+-564.217
+0.985
+-0.776
+0.809
+-6.984
+PatternNonSeleniumFinder.testForMasterDetail();
+-------TESTING-------
+********************************************
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+1: words:open |NONE
+2: words:typeSearch |SEARCH|lines: 1 
+3: SEARCH|lines: 1 
+***RESET***
+2: CALL
+***RESET***
+3: CALL
+***RESET***
+4: CALL
+***RESET***
+5: CALL
+***RESET***
+7: words:typeSearch |SEARCH|lines: 6 
+8: SEARCH|lines: 6 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+8: words:open |NONE
+8: CALL
+***RESET***
+9: CALL
+***RESET***
+10: CALL
+***RESET***
+11: CALL
+***RESET***
+12: CALL
+***RESET***
+13: CALL
+***RESET***
+14: CALL
+***RESET***
+15: CALL
+***RESET***
+16: CALL
+***RESET***
+17: CALL
+***RESET***
+18: CALL
+***RESET***
+19: CALL
+***RESET***
+20: CALL
+***RESET***
+21: CALL
+***RESET***
+22: CALL
+***RESET***
+23: CALL
+***RESET***
+24: CALL
+***RESET***
+26: words:typeEmail |LOGIN_USER|lines: 25 
+27: words:typePassword |LOGIN_USER_PASS|lines: 25 26 
+28: LOGIN|lines: 25 26 
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+28: words:clickCheckbox |NONE
+28: CALL
+***RESET***
+doesnt match call, login, sort, search or input - ignored
+***RESET***
+30: words:open |NONE
+30: CALL
+***RESET***
+31: CALL
+***RESET***
+32: CALL
+***RESET***
+33: CALL
+***RESET***
+34: CALL
+***RESET***
+35: CALL
+***RESET***
+37: words:typeSearch |SEARCH|lines: 36 
+38: SEARCH|lines: 36 
+***RESET***
+37: CALL
+***RESET***
+38: CALL
+***RESET***
+39: CALL
+***RESET***
+40: CALL
+***RESET***
+41: CALL
+***RESET***
+42: CALL
+***RESET***
+43: CALL
+***RESET***
+44: CALL
+***RESET***
+45: CALL
+***RESET***
+46: CALL
+***RESET***
+47: CALL
+***RESET***
+48: CALL
+***RESET***
+49: CALL
+***RESET***
+50: CALL
+***RESET***
+51: CALL
+***RESET***
+52: CALL
+***RESET***
+53: CALL
+***RESET***
+54: CALL
+***RESET***
+55: CALL
+***RESET***
+56: CALL
+***RESET***
+57: CALL
+***RESET***
+58: CALL
+***RESET***
+59: CALL
+***RESET***

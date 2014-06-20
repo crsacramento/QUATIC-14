@@ -1,0 +1,7 @@
+URL:https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l3348
+RATIOTOTAL:1.5906023304997148
+RATIOPREVIOUS:-80.557
+SELENIUMSTEP:17
+FOUND SEARCH WITH TYPE hidden, CATEGORY _trksid AND OPTION m570.l3348
+INPUT-PATTERN-TEXTBOX://input[@id=input and @name=input and @type=text]
+INPUT-PATTERN-TEXT:computer

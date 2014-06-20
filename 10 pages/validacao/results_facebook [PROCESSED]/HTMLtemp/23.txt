@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" id="facebook" class="no_js">
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+function envFlush(a){function b(c){for(var d in a)c[d]=a[d];}if(window.requireLazy){window.requireLazy(['Env'],b);}else{Env=window.Env||{};b(Env);}}envFlush({"ajaxpipe_token":"AXivryZi-fRxy-0d","lhsh":"JAQENqvxs"});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+CavalryLogger=false;
+//]]>
+    </script>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+    <title id="pageTitle">
+      Facebook
+    </title>
+    <meta property="og:site_name" content="Facebook"/>
+    <meta property="og:url" content="https://www.facebook.com/login/?next=%2Froadmap%2F"/>
+    <meta property="og:locale" content="en_US"/>
+    <link rel="canonical" href="https://www.facebook.com/login"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.facebook.com/login"/>
+    <link rel="alternate" media="handheld" href="https://www.facebook.com/login"/>
+    <link rel="alternate" hreflang="x-default" href="https://www.facebook.com/login"/>
+    <link rel="alternate" hreflang="en" href="https://www.facebook.com/login"/>
+    <link rel="alternate" hreflang="es" href="https://es-la.facebook.com/login"/>
+    <link rel="alternate" hreflang="es-es" href="https://es-es.facebook.com/login"/>
+    <link rel="alternate" hreflang="fr" href="https://fr-fr.facebook.com/login"/>
+    <link rel="alternate" hreflang="fr-ca" href="https://fr-ca.facebook.com/login"/>
+    <link rel="alternate" hreflang="id" href="https://id-id.facebook.com/login"/>
+    <link rel="alternate" hreflang="it" href="https://it-it.facebook.com/login"/>
+    <link rel="alternate" hreflang="ko" href="https://ko-kr.facebook.com/login"/>
+    <link rel="alternate" hreflang="th" href="https://th-th.facebook.com/login"/>
+    <link rel="alternate" hreflang="vi" href="https://vi-vn.facebook.com/login"/>
+    <meta name="description" content="Facebook is a social utility that connects people with friends and others who work, study and live around them. People use Facebook to keep up with..."/>
+    <meta name="robots" content="noodp,noydir"/>
+  </head>
+  <body class="login_page fbx UIPage_LoggedOut hasSmurfbar hasSmurfbarLoggedOut hasPrivacyLite hasBanner win Locale_en_US" dir="ltr">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <link rel="shortcut icon" href="https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/z81ZKys6Pt-.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yN/r/crZZyMsdvmS.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/R1MFdu7VFim.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yK/r/J5X6I1YgV_B.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/XhzX6PnTx5J.css"/>
+    <script src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/Y2FrUqV_MzK.js" crossorigin="anonymous">
+    </script>
+    <script>
+//<![CDATA[
+(require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig",[],{"incorporateQuicklingFragment":true,"hashtagRedirect":true},137],["BootloaderConfig",[],{},329],["CurrentUserInitialData",[],{"id":"0","account_id":"0","is_employee":false,"is_gray":false},270],["SiteData",[],{"revision":1284666,"tier":"","push_phase":"V3","pkg_cohort":"EXP1:DEFAULT","vip":"31.13.91.97"},317],["DTSGInitialData",[],{},258],["ISB",[],{},330],["LSD",[],{"token":"AVrDiL6Q"},323],["BanzaiConfig",[],{"EXPIRY":86400000,"MAX_SIZE":10000,"MAX_WAIT":150000,"RESTORE_WAIT":150000,"blacklist":["time_spent"],"gks":{"adapterhooks":true,"boosted_pagelikes":true,"boosted_website":true,"boosted_posts":true,"jslogger":true,"miny_compression":true,"pages_client_logging":true,"time_spent_bit_array":true,"time_spent_debug":true,"useraction":true,"videos":true,"visibility_tracking":true,"vitals":true}},7],["AsyncRequestConfig",[],{"retryOnNetworkError":"1"},328],["TrackingConfig",[],{"domain":"https:\/\/pixel.facebook.com"},325],["ErrorSignalConfig",[],{"uri":"https:\/\/error.facebook.com\/common\/scribe_endpoint.php"},319],["InitialServerTime",[],{"serverTime":1402502736000},204],["FbtLogger",[],{"logger":null},288],["UFIConstants",[],{"UFIActionType":{"COMMENT_LIKE":"fa-type:comment-like","COMMENT_SET_SPAM":"fa-type:mark-spam","DELETE_COMMENT":"fa-type:delete-comment","DISABLE_COMMENTS":"fa-type:disable-comments","LIVE_DELETE_COMMENT":"fa-type:live-delete-comment","LIKE_ACTION":"fa-type:like","SUBSCRIBE_ACTION":"fa-type:subscribe","REMOVE_PREVIEW":"fa-type:remove-preview","MARK_COMMENT_SPAM":"fa-type:mark-spam","CONFIRM_COMMENT_REMOVAL":"fa-type:confirm-remove","TRANSLATE_COMMENT":"fa-type:translate-comment","COMMENT_LIKECOUNT_UPDATE":"fa-type:comment-likecount-update","GIFT_SUGGESTION":"fa-type:gift-suggestion"},"UFICommentOrderingMode":{"CHRONOLOGICAL":"chronological","RANKED_THREADED":"ranked_threaded","TOPLEVEL":"toplevel","RECENT_ACTIVITY":"recent_activity","FEATURED":"featured","UNSUPPORTED":"unsupported"},"UFIFeedbackSourceType":{"PROFILE":0,"NEWS_FEED":1,"OBJECT":2,"MOBILE":3,"EMAIL":4,"PROFILE_APPROVAL":10,"TICKER":12,"NONE":13,"INTERN":14,"ADS":15,"EVENT_GOING_FLYOUT":16,"PHOTOS_SNOWLIFT":17,"NOTIFICATION_FLYOUT":18,"LOCAL_FEED":19},"UFIPayloadSourceType":{"UNKNOWN":0,"INITIAL_SERVER":1,"LIVE_SEND":2,"USER_ACTION":3,"ENDPOINT_LIKE":10,"ENDPOINT_COMMENT_LIKE":11,"ENDPOINT_ADD_COMMENT":12,"ENDPOINT_EDIT_COMMENT":13,"ENDPOINT_DELETE_COMMENT":14,"ENDPOINT_COMMENT_SPAM":16,"ENDPOINT_REMOVE_PREVIEW":17,"ENDPOINT_ID_COMMENT_FETCH":18,"ENDPOINT_COMMENT_FETCH":19,"ENDPOINT_TRANSLATE_COMMENT":20,"ENDPOINT_BAN":21,"ENDPOINT_SUBSCRIBE":22,"ENDPOINT_COMMENT_LIKECOUNT_UPDATE":23,"ENDPOINT_DISABLE_COMMENTS":24,"ENDPOINT_ACTOR_CHANGE":25},"UFIStatus":{"DELETED":"status:deleted","SPAM":"status:spam","SPAM_DISPLAY":"status:spam-display","LIVE_DELETED":"status:live-deleted","FAILED_ADD":"status:failed-add","FAILED_EDIT":"status:failed-edit","PENDING_EDIT":"status:pending-edit"},"attachmentTruncationLength":80,"commentTruncationLength":420,"commentTruncationMaxLines":3,"commentTruncationPercent":0.6,"commentURLTruncationLength":60,"defaultPageSize":50,"infiniteScrollRangeForQANDAPermalinks":1000,"minCommentsForOrderingModeSelector":2,"unavailableCommentKey":"unavailable_comment_key"},240],["ProfilePicCropViewerGating",[],{"viewer":false,"zoomcrop":false},404]]);new (require("ServerJS"))().handle({"require":[["markJSEnabled"],["lowerDomain"],["URLFragmentPrelude"],["Primer"],["Bootloader"]]});
+//]]>
+    </script>
+    <div class="_li">
+      <div class="pam fbPageBanner _3ky uiBoxYellow noborder">
+        <div class="fbPageBannerInner">
+          <i class="mrm _3kz img sp_9AAyCQ8Lq5n sx_ee0814"/>
+          <span class="pts fsl fwb">
+            For a better experience on Facebook, enable JavaScript in your browser, or 
+            <a href="https://m.facebook.com/">
+              switch to our mobile site
+            </a>
+            .
+          </span>
+        </div>
+      </div>
+      <div id="pagelet_bluebar" data-referrer="pagelet_bluebar">
+        <div id="blueBarHolder">
+          <div id="blueBar" class="aboveSidebar">
+            <div>
+              <div class="loggedout_menubar_container">
+                <div class="clearfix loggedout_menubar">
+                  <a class="lfloat _ohe" href="/" title="Go to Facebook Home">
+                    <i class="fb_logo img sp_6y74ue sx_1668ad">
+                      <u>
+                        Facebook logo
+                      </u>
+                    </i>
+                  </a>
+                </div>
+              </div>
+              <div class="signupBanner">
+                <div class="signup_bar_container">
+                  <div class="signup_box clearfix">
+                    <span class="signup_box_content">
+                      <a class="_42ft _42fu signup_btn selected _42gz _42gy" role="button" href="/r.php?locale=en_US">
+                        Sign Up
+                      </a>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="globalContainer" class="uiContextualLayerParent">
+        <div id="content" class="fb_content clearfix">
+          <div class="UIFullPage_Container">
+            <div class="mvl ptm uiInterstitial login_page_interstitial uiInterstitialLarge uiBoxWhite">
+              <div class="uiHeader uiHeaderBottomBorder mhl mts uiHeaderPage interstitialHeader">
+                <div class="clearfix uiHeaderTop">
+                  <div class="rfloat _ohf">
+                    <h2 class="accessible_elem">
+                      Facebook Login
+                    </h2>
+                    <div class="uiHeaderActions">
+                    </div>
+                  </div>
+                  <div>
+                    <h2 class="uiHeaderTitle" aria-hidden="true">
+                      Facebook Login
+                    </h2>
+                  </div>
+                </div>
+              </div>
+              <div class="phl ptm uiInterstitialContent">
+                <div class="login_form_container">
+                  <form id="login_form" action="/login.php?login_attempt=1&amp;next=%2Froadmap%2F" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)">
+                    <input type="hidden" name="lsd" value="AVrDiL6Q" autocomplete="off"/>
+                    <div class="hidden_elem">
+                    </div>
+                    <div id="loginform">
+                      <input type="hidden" autocomplete="off" id="display" name="display" value=""/>
+                      <input type="hidden" autocomplete="off" id="enable_profile_selector" name="enable_profile_selector" value=""/>
+                      <input type="hidden" autocomplete="off" id="legacy_return" name="legacy_return" value="1"/>
+                      <input type="hidden" autocomplete="off" id="profile_selector_ids" name="profile_selector_ids" value=""/>
+                      <input type="hidden" autocomplete="off" id="trynum" name="trynum" value="1"/>
+                      <input type="hidden" autocomplete="off" name="timezone" value="" id="u_0_0"/>
+                      <input type="hidden" name="lgnrnd" value="090536_-n7a"/>
+                      <input type="hidden" id="lgnjs" name="lgnjs" value="n"/>
+                      <div class="form_row clearfix">
+                        <label for="email" class="login_form_label">
+                          Email or Phone:
+                        </label>
+                        <input type="text" class="inputtext" id="email" name="email" value="" tabindex="1"/>
+                      </div>
+                      <div class="form_row clearfix">
+                        <label for="pass" class="login_form_label">
+                          Password:
+                        </label>
+                        <input type="password" name="pass" id="pass" class="inputpassword" tabindex="1"/>
+                      </div>
+                      <div class="persistent">
+                        <div class="uiInputLabel clearfix uiInputLabelLegacy">
+                          <input id="persist_box" type="checkbox" value="1" checked="1" name="persistent" class="uiInputLabelInput uiInputLabelCheckbox"/>
+                          <label for="persist_box" class="uiInputLabelLabel">
+                            Keep me logged in
+                          </label>
+                        </div>
+                      </div>
+                      <input type="hidden" autocomplete="off" id="default_persistent" name="default_persistent" value="1"/>
+                      <div id="buttons" class="form_row clearfix">
+                        <label class="login_form_label"/>
+                        <div id="login_button_inline">
+                          <label class="uiButton uiButtonConfirm uiButtonLarge" id="loginbutton" for="u_0_1">
+                            <input value="Log In" name="login" tabindex="1" type="submit" id="u_0_1"/>
+                          </label>
+                        </div>
+                        <div id="register_link">
+                          or 
+                          <strong>
+                            <a href="/r.php?next=%2Froadmap%2F&amp;locale=en_US&amp;display=page" rel="nofollow">
+                              Sign up for Facebook
+                            </a>
+                          </strong>
+                        </div>
+                      </div>
+                      <p class="reset_password form_row">
+                        <a href="https://www.facebook.com/recover/initiate" target="">
+                          Forgot your password?
+                        </a>
+                      </p>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <ul class="uiList ptm localeSelectorList _509- _4ki _6-h _6-j _6-i">
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;pt_PT&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Portuguese (Portugal)">
+                  Português (Portugal)
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;en_US&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="English (US)">
+                  English (US)
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;es_LA&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Spanish">
+                  Español
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;pt_BR&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Portuguese (Brazil)">
+                  Português (Brasil)
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;fr_FR&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="French (France)">
+                  Français (France)
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;de_DE&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="German">
+                  Deutsch
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;it_IT&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Italian">
+                  Italiano
+                </a>
+              </li>
+              <li>
+                <a dir="rtl" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;ar_AR&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Arabic">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;hi_IN&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Hindi">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a dir="ltr" href="https://www.facebook.com/login/?next=%2Froadmap%2F" onclick="intl_set_cookie_locale(&quot;zh_CN&quot;, &quot;https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F&quot;);" title="Simplified Chinese (China)">
+                  ??(??)
+                </a>
+              </li>
+              <li>
+                <a class="showMore" rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3D%252Froadmap%252F&amp;source=TOP_LOCALES_DIALOG" title="Show more languages" href="#" role="button">
+                  …
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div id="pageFooter" data-referrer="page_footer">
+          <div id="contentCurve">
+          </div>
+          <div role="contentinfo" aria-label="Facebook site links">
+            <table class="uiGrid _51mz navigationGrid" cellspacing="0" cellpadding="0">
+              <tbody>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/mobile/?ref=pf" title="Check out Facebook Mobile.">
+                      Mobile
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/find-friends?ref=pf" title="Find anyone on the web.">
+                      Find Friends
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/badges/?ref=pf" title="Embed a Facebook badge on your website.">
+                      Badges
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/people/" title="Browse our people directory.">
+                      People
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/pages/" title="Browse our pages directory.">
+                      Pages
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/?ref=pf" title="Check out Facebook App Center.">
+                      Apps
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/category/games/?ref=pf" title="Check out Facebook games.">
+                      Games
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/category/music/?ref=pf" title="Check out Facebook music apps.">
+                      Music
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm _51mw">
+                    <a href="https://www.facebook.com/directory/places/" title="Browse our places directory.">
+                      Locations
+                    </a>
+                  </td>
+                </tr>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/topics/" title="Browse our topics directory.">
+                      Topics
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/facebook" accesskey="8" title="Read our blog, discover the resource center, and find job opportunities.">
+                      About
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto" title="Advertise on Facebook.">
+                      Create Ad
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/pages/create/?ref_type=sitefooter" title="Create a Page">
+                      Create Page
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://developers.facebook.com/?ref=pf" title="Develop on our platform.">
+                      Developers
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/careers/?ref=pf" title="Make your next career move to our awesome company.">
+                      Careers
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/privacy/explanation" title="Learn about your privacy and Facebook.">
+                      Privacy
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/help/cookies/?ref=sitefooter" title="Learn about cookies and Facebook.">
+                      Cookies
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm _51mw">
+                    <a href="https://www.facebook.com/policies/?ref=pf" accesskey="9" title="Review our terms and policies.">
+                      Terms
+                    </a>
+                  </td>
+                </tr>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/help/?ref=pf" accesskey="0" title="Visit our Help Center.">
+                      Help
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="mvl copyright">
+            <div class="fsm fwn fcg">
+              <span>
+                 Facebook © 2014
+              </span>
+               · 
+              <a rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fwww.facebook.com%2Flogin%2F%3Fnext%3D%252Froadmap%252F&amp;source=TOP_LOCALES_DIALOG" title="Use Facebook in another language." href="#" role="button">
+                English (US)
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+new (require("ServerJS"))().handle({"elements":[["m_0_1","login_form",2],["m_0_0","u_0_0",2],["m_0_2","loginbutton",2],["m_0_3","login_form",2]],"define":[["EagleEyeConfig",[],{"seed":"0f4n","sessionStorage":1},294],["TimeSpentConfig",[],{"0_delay":0,"0_timeout":8,"delay":200000,"timeout":64},142],["ImmediateActiveSecondsConfig",[],{"sampling_rate":0},423]],"require":[["TimezoneAutoset","setInputValue",["m_0_0"],[{"__m":"m_0_0"},1402502736]],["LoginFormController","init",["m_0_1","m_0_2"],[{"__m":"m_0_1"},{"__m":"m_0_2"}]],["PixelRatio","startDetecting",[],[1]],["Intl","setPhonologicalRules",[],[{"meta":{"\/_B\/":"([.,!?\\s]|^)","\/_E\/":"([.,!?\\s]|$)"},"patterns":{"\/\u0001(.*)('|&#039;)s\u0001(?:'|&#039;)s(.*)\/":"\u0001$1$2s\u0001$3","\/_\u0001([^\u0001]*)\u0001\/e":"mb_strtolower(\"\u0001$1\u0001\")","\/\\^\\x01([^\\x01])(?=[^\\x01]*\\x01)\/e":"mb_strtoupper(\"\u0001$1\")","\/_\u0001([^\u0001]*)\u0001\/":"javascript"}}]],["PostLoadJS","loadAndRequire",[],["DimensionTracking"]],["PostLoadJS","loadAndCall",[],["HighContrastMode","init",[{"isHCM":false,"spacerImage":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/-PAXP-deijE.gif"}]]],["PostLoadJS","loadAndCall",[],["DetectBrokenProxyCache","run",[0,"c_user"]]],["ScriptPath","set",[],["WebLoginPageController","01afab33","a9cfae82"]],["NoscriptOverride","redirectToJSPage",[],["https:\/\/www.facebook.com\/login\/?next=\u00252Froadmap\u00252F"]],["ClickRefLogger"],["userAction","setUATypeConfig",[],[{"ua:e":false}]],["ScriptPathState","setUserURISampleRate",[],[0.0002]],["userAction","setCustomSampleConfig",[],[{"ua:n":{"test":{"ua_id":{"test":true}}},"ua:i":{"snowlift":{"action":{"open":true,"close":true}},"snowflake":{"action":{"open":true,"close":true}},"canvas":{"action":{"mouseover":true,"mouseout":true}}}}]],["UserActionHistory"],["ScriptPathLogger","startLogging",[],[]],["TimeSpentBitArrayLogger","init",[],[]],["TinyViewport"],["WebStorageMonster","schedule",[],[false]],["AsyncRequestNectarLogging"],["ModuleErrorLogger","init",[],[]]]});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.setResourceMap({"sHbuT":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yU\/r\/VxoEQY95NVQ.js"},"uMuQj":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/7Smy_9II-h4.js"},"GyTe8":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/d3oHfFTjMrF.js"},"7ri7K":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/Dk5l_0AM6pU.js"},"10YBP":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/666vFvS5bsg.js"},"4vv8\/":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/JvK_C44obT2.js"},"UExPv":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/aVF4BM6mZgd.js"},"2WAx+":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/z81ZKys6Pt-.css"},"2dO1q":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yN\/r\/crZZyMsdvmS.css"},"kOqgl":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yS\/r\/R1MFdu7VFim.css"},"LyLJu":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/J5X6I1YgV_B.css"},"eR2ev":{"type":"css","permanent":1,"nonblocking":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yd\/r\/XhzX6PnTx5J.css"},"u83\/z":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yZ\/r\/_IR47lpowJx.js"},"IIpqr":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/QpS3zNUyIcr.js"},"20549":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/LddpQe84y-k.js"},"cAkXN":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yR\/r\/IQc0ALCNDHy.js"},"oE4Do":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/obqKRvJtthA.js"},"cNca2":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/yuKCSDDP1tN.js"},"eSsTp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/cA7YZkcazFe.js"},"FpRg9":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/efgtCrFQb-F.css"},"ek\/pL":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/wDl9iKxsXOx.js"},"SJ9r4":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/HWGtGWP2veC.js"},"YQVa9":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y5\/r\/IB1VnQIQ_22.js"},"bWGwo":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/Fh6r2WRl-P7.js"},"7eBNu":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ye\/r\/t0Rw1g13Lp3.js"},"u1oj6":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/uLODvZG9ZZl.js"},"VDymv":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yg\/r\/dtxPl8Fd0D2.css"},"wxq+C":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/tOS_Qf118Dl.js"},"Rs18G":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/iqqxHqHkZcL.js"},"6AU0l":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/uAtB4Wsl2Sl.js"},"AtxWD":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/7CgwFzKxrCs.js"},"zyFOp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yT\/r\/Ri9nQJbah9T.js"}});if (true) {Bootloader.enableBootload({"React":{"resources":["u83\/z","sHbuT"],"module":true},"ExceptionDialog":{"resources":["sHbuT","u83\/z","2WAx+","UExPv","IIpqr","20549"],"module":true},"AsyncDOM":{"resources":["sHbuT","cAkXN"],"module":true},"ConfirmationDialog":{"resources":["sHbuT","2WAx+","u83\/z","oE4Do"],"module":true},"Dialog":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"ErrorSignal":{"resources":["sHbuT","cNca2"],"module":true},"Event":{"resources":["sHbuT"],"module":true},"AsyncDialog":{"resources":["sHbuT","u83\/z","2WAx+","GyTe8"],"module":true},"AsyncRequest":{"resources":["sHbuT"],"module":true},"PhotoSnowlift":{"resources":["eSsTp","sHbuT","u83\/z","2WAx+","FpRg9","GyTe8","ek\/pL","SJ9r4","YQVa9","UExPv"],"module":true},"PhotoTagger":{"resources":["sHbuT","u83\/z","2WAx+","bWGwo","7eBNu","UExPv","eSsTp","ek\/pL"],"module":true},"Live":{"resources":["sHbuT","cAkXN"],"module":true},"PhotoTagApproval":{"resources":["sHbuT","ek\/pL","7eBNu"],"module":true},"PhotoTags":{"resources":["sHbuT","ek\/pL","2WAx+","7eBNu"],"module":true},"TagTokenizer":{"resources":["sHbuT","SJ9r4","2WAx+","u1oj6","7eBNu","u83\/z","UExPv"],"module":true},"css:fb-photos-snowlift-fullscreen-css":{"resources":["VDymv"]},"SnowliftPicCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","7eBNu","UExPv","wxq+C"],"module":true},"PhotosButtonTooltips":{"resources":["sHbuT","2WAx+","u83\/z","Rs18G"],"module":true},"VideoRotate":{"resources":["sHbuT","u83\/z","2WAx+","6AU0l"],"module":true},"AsyncResponse":{"resources":["sHbuT"],"module":true},"PhotoPermalinkCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","GyTe8","bWGwo","7eBNu","UExPv"],"module":true},"PhotoInlineEditor":{"resources":["sHbuT","u83\/z","eSsTp","2WAx+","ek\/pL","GyTe8","bWGwo","7eBNu","UExPv","u1oj6","SJ9r4","AtxWD"],"module":true},"Form":{"resources":["sHbuT","2WAx+"],"module":true},"SpotlightShareViewer":{"resources":["sHbuT","GyTe8","zyFOp"],"module":true},"Toggler":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"Tooltip":{"resources":["sHbuT","2WAx+","u83\/z"],"module":true},"DOM":{"resources":["sHbuT"],"module":true},"Input":{"resources":["sHbuT","2WAx+"],"module":true},"trackReferrer":{"resources":[],"module":true},"DimensionTracking":{"resources":["sHbuT","GyTe8"],"module":true},"HighContrastMode":{"resources":["sHbuT","GyTe8"],"module":true},"DetectBrokenProxyCache":{"resources":["sHbuT","GyTe8"],"module":true}});}});
+requireLazy(["ix"], function(ix) {ix.add({"\/images\/ads\/cropper\/drag.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y8\/r\/Xm0cn_J9DFi.png","width":12,"height":12},"\/images\/mobile\/glyph\/error-solid_white_s.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yC\/r\/35yKOCwEEZ2.png","width":12,"height":12}});});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["sHbuT","uMuQj","GyTe8","7ri7K","10YBP","4vv8\/","UExPv"]);});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.configurePage(["2WAx+","2dO1q","kOqgl","LyLJu","eR2ev"]);});
+
+
+
+
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+URL:https://fyp.ebay.com/EnterUserInfo?&clientapptype=19
+RATIOTOTAL:0.6504806433153357
+RATIOPREVIOUS:-148.336
+SELENIUMSTEP:14

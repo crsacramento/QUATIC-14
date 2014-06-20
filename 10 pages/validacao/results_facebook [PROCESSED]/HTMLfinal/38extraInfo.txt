@@ -1,0 +1,4 @@
+URL:https://m.facebook.com/about/privacy/?page=cookies
+RATIOTOTAL:0.23438995044289054
+RATIOPREVIOUS:3.013
+SELENIUMSTEP:53

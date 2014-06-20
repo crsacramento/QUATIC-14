@@ -1,0 +1,43 @@
+open 
+clickLogin pageChange
+clickLogin pageChange
+clickHomeLink pageChange
+clickLogin pageChange
+clickLogin pageChange
+typeUsername 
+typeCaptcha 
+clickSubmit pageChange
+open 
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+open 
+clickLink pageChange
+clickLogin pageChange
+clickLink pageChange
+clickLink pageChange
+open 
+clickLink pageChange
+clickLogin pageChange
+clickLogin pageChange
+typeUsername 
+typePassword 
+typeUsername 
+typeUsername 
+clickLogin pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+typeSearch 
+typeInput 
+clickSubmit pageChange
+clickLogin pageChange
+clickLink pageChange
+clickLink pageChange
+open 
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+open 
+clickLink pageChange
+clickLink pageChange

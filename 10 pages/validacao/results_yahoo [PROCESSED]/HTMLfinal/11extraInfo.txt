@@ -1,0 +1,4 @@
+URL:https://login.yahoo.com/config/login;_ylt=AwrBJSD4wphTf3wAREhNbK5_?.src=&.intl=us&.lang=en-US&.done=http://sports.search.yahoo.com/search%3fp=dress
+RATIOTOTAL:1.3653294866675822
+RATIOPREVIOUS:-3.712
+SELENIUMSTEP:17

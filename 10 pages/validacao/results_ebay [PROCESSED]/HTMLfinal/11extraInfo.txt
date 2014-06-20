@@ -1,0 +1,4 @@
+URL:https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=http%3A%2F%2Focsnext.ebay.com%2Focs%2Fhome
+RATIOTOTAL:0.7475787699811802
+RATIOPREVIOUS:128.241
+SELENIUMSTEP:13

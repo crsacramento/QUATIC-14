@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="ar" dir="rtl" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      ????? «Alguerese» - ?????????? ???????? ?????
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="alternate" type="application/x-wiki" title="???" href="/w/index.php?title=Alguerese&amp;action=edit"/>
+    <link rel="edit" title="???" href="/w/index.php?title=Alguerese&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="????????? (ar)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//ar.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="?????? ???? ?????????" href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA&amp;feed=atom"/>
+    <link rel="canonical" href="http://ar.wikipedia.org/w/index.php?title=Alguerese&amp;action=edit&amp;redlink=1"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ar.wikipedia.org/load.php?debug=false&amp;lang=ar&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.MenuTabsToggle%2COrphanCheck%2CTemplateParamWizard%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ar.wikipedia.org/load.php?debug=false&amp;lang=ar&amp;modules=ext.wikiEditor.toolbar.styles&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ar.wikipedia.org/load.php?debug=false&amp;lang=ar&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: arwiki:resourceloader:filter:minify-css:7:bf6479a356db7d47a16fb4d12f0d2fb3 */
+    </style>
+    <script src="//bits.wikimedia.org/ar.wikipedia.org/load.php?debug=false&amp;lang=ar&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alguerese","wgTitle":"Alguerese","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"ar","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t.\t,","?\t?\t?\t?\t?\t?\t?\t?\t?\t?\t?\t?"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","?????","??????","????","?????","????","?????","?????","?????","??????","??????","??????","??????"],"wgMonthNamesShort":["","????? ??????","????","????","?????","????","??????","????","??","?????","????? ?????","????? ??????","????? ?????"],"wgRelevantPageName":"Alguerese","wgIsProbablyEditable":true,"wgRestrictionCreate":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip-rtl.png","pageLanguageCode":"ar","pageLanguageDir":"rtl","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"??????:????? ???????/????","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"???????","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":0,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,
+"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"","language":"ar","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs104":false,"searchNs105":false,"searchNs446":false,"searchNs447":false,"searchNs828":false,"searchNs829":false,"gadget-MenuTabsToggle":1,"gadget-mySandbox":1,
+"gadget-myGadgets":1,"gadget-editIntro":1,"gadget-OrphanCheck":1,"gadget-TemplateParamWizard":1,"variant":"ar"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: arwiki:resourceloader:filter:minify-js:7:a23b8de149941510ddc474c07a6fdaca */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki rtl sitedir-rtl ns-0 ns-subject page-Alguerese skin-vector action-edit vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->        <script>
+//<![CDATA[
+document.write("\u003Cdiv id=\"localNotice\" lang=\"ar\" dir=\"rtl\"\u003E\u003C/div\u003E");
+//]]>
+        </script>
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="ar">
+        <span dir="auto">
+          ????? «Alguerese»
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					???? ???:					
+          <a href="#mw-navigation">
+            ????
+          </a>
+          ? ?					
+          <a href="#p-search">
+            ????
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <div class="mw-newarticletextanon plainlinks">
+            <h2 class="expand_heading" id="newarticletext" style="font-size: 100%; font-weight: bold; border-bottom: none; margin-bottom: 1px; margin-right: -2px;">
+              <span class="mw-headline" id=".D9.84.D9.8A.D8.B3_.D9.81.D9.8A_.D9.88.D9.8A.D9.83.D9.8A.D8.A8.D9.8A.D8.AF.D9.8A.D8.A7.0A.D9.85.D9.82.D8.A7.D9.84.D8.A9_.D8.A8.D9.87.D8.B0.D8.A7_.D8.A7.D9.84.D8.A7.D8.B3.D9.85.">
+                ??? ?? ?????????
+????? ???? ?????.
+              </span>
+            </h2>
+            <div class="toggle_container">
+              <ul>
+                <li>
+                  <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A8%D8%AD%D8%AB/Alguerese" title="???:???/Alguerese">
+                    ???? ?? 
+                    <b>
+                      Alguerese
+                    </b>
+                     ?? ?????????
+                  </a>
+                   ??? ????? ??????? ?????? ?? ??? ???? ??????? ???? ?????.
+
+                </li>
+                <li>
+                   ?????? ????? ???????? ???? ?? ??????? ?????. ??? ????????? ???? 
+                  <b>
+                    ???? ??????
+                  </b>
+                   ??????? ??????? ?? 
+                  <b>
+                    ???? ??????
+                  </b>
+                  .
+
+                </li>
+                <li>
+                   ?? ???? ?? ????? ?? ????????? ??? ?? ???? ?????? ????? ??? 
+                  <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:CC-BY-SA" title="?????????:CC-BY-SA" class="mw-redirect">
+                    ?????? ????????
+                  </a>
+                   ?? 
+                  <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%86%D8%B5_%D8%B1%D8%AE%D8%B5%D8%A9_%D8%AC%D9%86%D9%88_%D9%84%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D8%AD%D8%B1%D8%A9" title="?????????:?? ???? ??? ??????? ?????">
+                    ???? ??? ??????? ?????
+                  </a>
+                   ??? ???? ???.
+
+                </li>
+                <li>
+                   ?????? ?????? ?? ????? ????? ??? ??????? ???? 
+                  <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="??????:???????">
+                    ????? ????????
+                  </a>
+                   ???????? ????. ?????? ???????? ?????? 
+                  <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%84%D8%B9%D8%A8" title="?????????:????">
+                    ??????
+                  </a>
+                  .
+
+                </li>
+                <li>
+                   ??? ??? ?? ????? ???? ??? ?????? ??? ?????? ??? ???? ????? ???? ???? ???? ?? ????? ????? ????????. ????? ??? ????? ?? ???? 
+                  <a class="external text" href="//ar.wikipedia.org/w/index.php?title=Alguerese&amp;action=purge">
+                    ?????
+                  </a>
+                   ??????.
+
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div id="editnotice-area" class="editnotice-area" style="clear: both; width: 100%;">
+            <div class="editnotice-namespace" style="width: 100%;">
+            </div>
+            <div class="editnotice-link editnotice-redlink sysop-show accountcreator-show" style="clear: both; float: left; position: relative; top: 12px; right: 6px; padding: 0; line-height: 1em; display: none;">
+              <a href="/wiki/%D9%82%D8%A7%D9%84%D8%A8:%D8%AA%D8%A8%D8%B5%D8%B1%D8%A7%D8%AA_%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1/%D8%B5%D9%81%D8%AD%D8%A9/Alguerese" title="????? ????">
+                <img alt="????? ????" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yellowpin.svg/15px-Yellowpin.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yellowpin.svg/23px-Yellowpin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yellowpin.svg/30px-Yellowpin.svg.png 2x" data-file-width="100" data-file-height="100"/>
+              </a>
+            </div>
+            <div style="clear: both;">
+            </div>
+          </div>
+          <div id="mw-anon-edit-warning">
+            <table id="anoneditwarning" class="plainlinks fmbox fmbox-editnotice" style="">
+              <tbody>
+                <tr>
+                  <td class="mbox-text" style="">
+                     ??? ?? 
+                    <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85" title="???:???? ????????">
+                      ???? ?????
+                    </a>
+                    ? ???? ???? 
+                    <a href="/wiki/%D8%B9%D9%86%D9%88%D8%A7%D9%86_%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84_%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA" title="????? ???????? ??????">
+                      ????? ???????? ??????
+                    </a>
+                     ???? ??????? ??  
+                    <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9" title="??????:????? ??????">
+                      ????? ???????
+                    </a>
+                     ???? ??????. (
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D9%84%D8%B9%D8%A8" title="?????????:????">
+                      ????? ???????
+                    </a>
+                    <b>
+                      ·
+                    </b>
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9_%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D8%AF%D8%AF" title="?????????:?????? ?????????? ?????">
+                      ?????? ?????
+                    </a>
+                    ) 
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div id="mw-edit-longpage-hint">
+          </div>
+          <div id="wikiPreview" class="ontop" style="display: none;">
+          </div>
+          <form id="editform" name="editform" method="post" action="/w/index.php?title=Alguerese&amp;action=submit" enctype="multipart/form-data">
+            <div id="antispam-container" style="display: none;">
+              <label for="wpAntiSpam">
+                ?????? ?? ??????.
+
+                <b>
+                  ??
+                </b>
+                 ???? ???!
+              </label>
+              <input type="text" name="wpAntispam" id="wpAntispam" value=""/>
+            </div>
+            <input type="hidden" value="0" name="baseRevId"/>
+            <input type="hidden" value="0" name="altBaseRevId"/>
+            <input type="hidden" value="0" name="undidRev"/>
+            <input type="hidden" value="" name="wpSection"/>
+            <input type="hidden" value="20140611183636" name="wpStarttime"/>
+            <input type="hidden" value="20140611183636" name="wpEdittime"/>
+            <input type="hidden" value="" name="wpScrolltop" id="wpScrolltop"/>
+            <input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/>
+            <input type="hidden" value="0" name="oldid"/>
+            <input type="hidden" value="text/x-wiki" name="format"/>
+            <input type="hidden" value="wikitext" name="model"/>
+            <div class="wikiEditor-oldToolbar">
+              <div id="toolbar">
+              </div>
+            </div>
+            <textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="ar" dir="rtl" name="wpTextbox1"></textarea>            <div class="editOptions">
+              <span class="mw-summary" id="wpSummaryLabel">
+                <label for="wpSummary">
+                  <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D9%84%D8%AE%D8%B5_%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D9%84" title="??????:???? ???????">
+                    ???? ???????
+                  </a>
+                  :
+                </label>
+              </span>
+              <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="???? ????? ????? [b]" accesskey="b" name="wpSummary" type="text"/>
+              <div class="editCheckboxes">
+              </div>
+              <div id="editpage-copywarn">
+              </div>
+              <div class="editButtons">
+                <input id="wpSave" name="wpSave" type="submit" tabindex="3" value="???? ??????" accesskey="s" title="???? ???????? [s]"/>
+                <input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="???? ??????" accesskey="p" title="???? ???????? ??? ????? [p]"/>
+                <input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="???? ?????????" accesskey="v" title="???? ????????? ???? ??? ??? ????. [v]"/>
+                <span class="cancelLink">
+                  <a href="/wiki/Alguerese" title="Alguerese" id="mw-editform-cancel">
+                    ???
+                  </a>
+                  <span class="mw-editButtons-pipe-separator">
+                     | 
+                  </span>
+                </span>
+                <span class="editHelp">
+                  <a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">
+                    ?????? ???????
+                  </a>
+                   (???? ?? ????? ?????)
+                </span>
+              </div>
+              <!-- editButtons -->              <span id="templatesandbox-editform">
+                <input id="wpTemplateSandboxTemplate" type="hidden" value="Alguerese" name="wpTemplateSandboxTemplate"/>
+                <input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/>
+              </span>
+            </div>
+            <!-- editOptions -->            <input type="hidden" value="+\" name="wpEditToken"/>
+            <div class="mw-tos-summary">
+              <h2 class="expand_heading" id="mw-wikimedia-copyrightwarning" style="font-size: 100%; font-weight: bold; border-bottom: none; margin-right: -2px;">
+                <span class="mw-headline" id=".D9.82.D8.A8.D9.84_.D8.A7.D9.84.D8.AD.D9.81.D8.B8.D8.8C_.D8.A7.D9.82.D8.B1.D8.A3_.D8.A7.D9.84.D8.B4.D8.B1.D9.88.D8.B7_.D9.88.D8.A7.D9.84.D8.AA.D8.B9.D9.84.D9.8A.D9.85.D8.A7.D8.AA">
+                  ??? ?????? ???? ?????? ??????????
+                </span>
+              </h2>
+              <div class="toggle_container">
+                <p>
+                  <b>
+                    ????
+                  </b>
+                </p>
+                <ul>
+                  <li>
+                     ?? ????? ????? 
+                    <a href="/wiki/%D8%AD%D9%82%D9%88%D9%82_%D8%A7%D9%84%D9%86%D8%B4%D8%B1" title="???? ?????" class="mw-redirect">
+                      ???? ?????
+                    </a>
+                     ??? ????. ????? ?? ???? ??????? ???????? 
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%88%D8%AB%D9%88%D9%82%D9%8A%D8%A9" title="?????????:??????">
+                      ??????
+                    </a>
+                    .
+
+                  </li>
+                  <li>
+                     ??? ???? ?????? ???? ???? ?? ????? ????? ?? ???? ??? ???? ??????? 
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%86%D8%B5_%D8%B1%D8%AE%D8%B5%D8%A9_%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B9_%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%D9%8A:_%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5_%D8%A8%D8%A7%D9%84%D9%85%D8%AB%D9%84_3.0" title="?????????:?? ???? ?????? ????????: ??????-??????? ?????? 3.0">
+                      ????? ?????? ????????
+                    </a>
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%86%D8%B5_%D8%B1%D8%AE%D8%B5%D8%A9_%D8%AC%D9%86%D9%88_%D9%84%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D8%AD%D8%B1%D8%A9" title="?????????:?? ???? ??? ??????? ?????">
+                      ????? ??? ??????? ?????
+                    </a>
+                     ??? ?????? ????? ?????? ???? ???? ?? ???? ???? ?? ???? ??????? ??? ???? 
+                    <a href="/wiki/%D8%B1%D8%A7%D8%A8%D8%B7_%D8%AA%D8%B4%D8%B9%D8%A8%D9%8A" title="???? ?????">
+                      ????? ??
+                    </a>
+                     - ??? ????? - ?? 
+                    <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B1_%D9%85%D9%88%D8%B1%D8%AF_%D9%85%D9%86%D9%85%D8%B7" title="???? ???? ????">
+                      ?????
+                    </a>
+                     ?????? ???? ????? ????. ???? 
+                    <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="foundation:Terms of Use">
+                      ???? ?????????
+                    </a>
+                     ????????.
+
+                  </li>
+                  <li>
+                     ??? ??? ?? ???? ??? ????? ??? ?? ???? ????? ?????? ??? ??? ???. ??? ?? ???? ?? ????? ??? ????? ??? 
+                    <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="foundation:Terms of Use">
+                       ???? ?????????
+                    </a>
+                    .
+
+                  </li>
+                </ul>
+                <p>
+                  <b>
+                    ???????
+                  </b>
+                </p>
+                <ul>
+                  <li>
+                     ?? ???? ?? ?? ?? ???? ????? ??? ????? ???? ???? ??????? ???? ?????? ???? ??? ???? ??????? ?????? ?? ??????? ?????.
+
+                  </li>
+                  <li>
+                     ????? ?? ????? ????? ????????? ???? ???????? ?? ????? ??????. ??? ?? ???? ?? ??? ?? ????? ?? ??? ??? ?????? ?????????? ???? ???? ?????? ?????????? 
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D9%84%D9%8A%D8%B3%D8%AA" title="?????????:????????? ????">
+                      ????? ???? ??????? ?? ??????
+                    </a>
+                    . ??? ???? ???? ?? ?????? ?? ????? ????? ?????? ???????? 
+                    <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF_%D8%A8%D9%85%D8%B5%D8%A7%D8%AF%D8%B1" title="?????????:????????? ??????">
+                      ????????
+                    </a>
+                    .
+
+                  </li>
+                  <li>
+                     ?? ??? ?? ???? ?? ????? ?????? ?????? ??? ???? ??????? 
+                    <img alt="Insert-signature.png" src="//upload.wikimedia.org/wikipedia/commons/7/79/Insert-signature.png" width="22" height="22" data-file-width="22" data-file-height="22"/>
+                     ?? ?????? 
+                    <code>
+                      ~~~~
+                    </code>
+                     ??? ?? ????? ??????? ?? ?? ???????? ??? ??????? ???? ???? ????.
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="mw-editTools">
+              <div id="specialchars">
+                <p>
+                  <a onclick="insertTags('|','','');return false" href="javascript:void()">
+                    |
+                  </a>
+                  <a onclick="insertTags('[',']','');return false" href="javascript:void()">
+                    []
+                  </a>
+                  <a onclick="insertTags('[[',']]','');return false" href="javascript:void()">
+                    [[]]
+                  </a>
+                  <a onclick="insertTags('[[|',']]','');return false" href="javascript:void()">
+                    [[|]]
+                  </a>
+                  <a onclick="insertTags('{{','}}','');return false" href="javascript:void()">
+                    {{}}
+                  </a>
+                  <a onclick="insertTags('{{|','}}','');return false" href="javascript:void()">
+                    {{|}}
+                  </a>
+                  <a onclick="insertTags('{{{','}}}','');return false" href="javascript:void()">
+                    {{{}}}
+                  </a>
+                  <a onclick="insertTags('{{{','|}}}','');return false" href="javascript:void()">
+                    {{{|}}}
+                  </a>
+                  <a onclick="insertTags('?','','');return false" href="javascript:void()">
+                    ?
+                  </a>
+                  <a onclick="insertTags('?','','');return false" href="javascript:void()">
+                    ?
+                  </a>
+                  <a onclick="insertTags('–','','');return false" href="javascript:void()">
+                    –
+                  </a>
+                  <a onclick="insertTags('—','','');return false" href="javascript:void()">
+                    —
+                  </a>
+                  <a onclick="insertTags('«','»','');return false" href="javascript:void()">
+                    «»
+                  </a>
+                  <a onclick="insertTags('‹','›','');return false" href="javascript:void()">
+                    ‹›
+                  </a>
+                  <a onclick="insertTags('·','','');return false" href="javascript:void()">
+                    ·
+                  </a>
+                  <a onclick="insertTags('•','','');return false" href="javascript:void()">
+                    •
+                  </a>
+                  <a onclick="insertTags('×','','');return false" href="javascript:void()">
+                    ×
+                  </a>
+                  <a onclick="insertTags('°','','');return false" href="javascript:void()">
+                    °
+                  </a>
+                  <a onclick="insertTags('#','','');return false" href="javascript:void()">
+                    #
+                  </a>
+                  <a onclick="insertTags('!','','');return false" href="javascript:void()">
+                    !
+                  </a>
+                  <a onclick="insertTags('--~~~~','','');return false" href="javascript:void()">
+                    --~~~~
+                  </a>
+                  <a onclick="insertTags('{{?????}}','','');return false" href="javascript:void()">
+                    {{?????}}
+                  </a>
+                  <a onclick="insertTags('[[?????:',']]','');return false" href="javascript:void()">
+                    [[?????:]]
+                  </a>
+                  <a onclick="insertTags('[[???:',']]','');return false" href="javascript:void()">
+                    [[???:]]
+                  </a>
+                  <a onclick="insertTags('[[?????:',']]','');return false" href="javascript:void()">
+                    [[?????:]]
+                  </a>
+                  <a onclick="insertTags('#????? [[',']]','');return false" href="javascript:void()">
+                    #????? [[]]
+                  </a>
+                </p>
+                <p dir="ltr">
+                  <a onclick="insertTags('&lt;ref>','&lt;/ref>','');return false" href="javascript:void()">
+                    &lt;ref&gt;&lt;/ref&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;ref name=\&quot;\&quot;>','&lt;/ref>','');return false" href="javascript:void()">
+                    &lt;ref name=""&gt;&lt;/ref&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;ref name=\&quot;','\&quot; />','');return false" href="javascript:void()">
+                    &lt;ref name="" /&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;references/>','','');return false" href="javascript:void()">
+                    &lt;references/&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;s>','&lt;/s>','');return false" href="javascript:void()">
+                    &lt;s&gt;&lt;/s&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;small>','&lt;/small>','');return false" href="javascript:void()">
+                    &lt;small&gt;&lt;/small&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;sup>','&lt;/sup>','');return false" href="javascript:void()">
+                    &lt;sup&gt;&lt;/sup&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;sub>','&lt;/sub>','');return false" href="javascript:void()">
+                    &lt;sub&gt;&lt;/sub&gt;
+                  </a>
+                  <br/>
+                  <a onclick="insertTags('&lt;div class=\&quot;ltr\&quot;>','&lt;/div>','');return false" href="javascript:void()">
+                    &lt;div class="ltr"&gt;&lt;/div&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;nowiki>','&lt;/nowiki>','');return false" href="javascript:void()">
+                    &lt;nowiki&gt;&lt;/nowiki&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;includeonly>','&lt;/includeonly>','');return false" href="javascript:void()">
+                    &lt;includeonly&gt;&lt;/includeonly&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;noinclude>','&lt;/noinclude>','');return false" href="javascript:void()">
+                    &lt;noinclude&gt;&lt;/noinclude&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;!-- ',' -->','');return false" href="javascript:void()">
+                    &lt;!--  --&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;code>','&lt;/code>','');return false" href="javascript:void()">
+                    &lt;code&gt;&lt;/code&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;pre>','&lt;/pre>','');return false" href="javascript:void()">
+                    &lt;pre&gt;&lt;/pre&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;syntaxhighlight lang=\&quot;text\&quot; class=\&quot;pre\&quot;>','&lt;/syntaxhighlight>','');return false" href="javascript:void()">
+                    &lt;syntaxhighlight lang="text" class="pre"&gt;&lt;/syntaxhighlight&gt;
+                  </a>
+                  <a onclick="insertTags('&lt;br/>','','');return false" href="javascript:void()">
+                    &lt;br/&gt;
+                  </a>
+                  <a onclick="insertTags(' ','','');return false" href="javascript:void()">
+                     
+                  </a>
+                </p>
+                <p>
+                  <a onclick="insertTags('{{?????}}','','');return false" href="javascript:void()">
+                    {{?????}}
+                  </a>
+                  <a onclick="insertTags('{{??? ??}}','','');return false" href="javascript:void()">
+                    {{??? ??}}
+                  </a>
+                  <a onclick="insertTags('{{????? ????}}','','');return false" href="javascript:void()">
+                    {{????? ????}}
+                  </a>
+                  <a onclick="insertTags('{{????? ???}}','','');return false" href="javascript:void()">
+                    {{????? ???}}
+                  </a>
+                  <a onclick="insertTags('{{???}}','','');return false" href="javascript:void()">
+                    {{???}}
+                  </a>
+                  <a onclick="insertTags('{{???}}','','');return false" href="javascript:void()">
+                    {{???}}
+                  </a>
+                  <a onclick="insertTags('{{??? ?????}}','','');return false" href="javascript:void()">
+                    {{??? ?????}}
+                  </a>
+                  <a onclick="insertTags('{{???????}}','','');return false" href="javascript:void()">
+                    {{???????}}
+                  </a>
+                  <a onclick="insertTags('{{????}}','','');return false" href="javascript:void()">
+                    {{????}}
+                  </a>
+                  <a onclick="insertTags('{{???:??}}','','');return false" href="javascript:void()">
+                    {{???:??}}
+                  </a>
+                  <a onclick="insertTags('{{???:???|','}}','');return false" href="javascript:void()">
+                    {{???:???|}}
+                  </a>
+                  <a onclick="insertTags('&lt;noinclude>{{???|','}}&lt;/noinclude>','');return false" href="javascript:void()">
+                    &lt;noinclude&gt;{{???|}}&lt;/noinclude&gt;
+                  </a>
+                  <a onclick="insertTags('{{???|1=','|?????={{???:??? ???}} {{???:???}}}}','');return false" href="javascript:void()">
+                    {{???|1=|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{????|?????={{???:??? ???}} {{???:???}}}}','','');return false" href="javascript:void()">
+                    {{????|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{????|?????={{???:??? ???}} {{???:???}}}}','','');return false" href="javascript:void()">
+                    {{????|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{?????|?????={{???:??? ???}} {{???:???}}}}','','');return false" href="javascript:void()">
+                    {{?????|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{????? ????|?????={{???:??? ???}} {{???:???}}}}','','');return false" href="javascript:void()">
+                    {{????? ????|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{?????|?????={{???:??? ???}} {{???:???}}}}','','');return false" href="javascript:void()">
+                    {{?????|?????={{???:??? ???}} {{???:???}}}}
+                  </a>
+                  <a onclick="insertTags('{{?????}}','','');return false" href="javascript:void()">
+                    {{?????}}
+                  </a>
+                </p>
+              </div>
+            </div>
+            <div class="templatesUsed">
+            </div>
+            <div class="hiddencats">
+            </div>
+            <div class="limitreport">
+            </div>
+          </form>
+          <noscript>
+            <img src="//ar.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						?????? ?? "
+          <a dir="ltr" href="http://ar.wikipedia.org/wiki/Alguerese">
+            http://ar.wikipedia.org/wiki/Alguerese
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        ????? ??????
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            ????? ?????
+          </h3>
+          <ul>
+            <li id="pt-login">
+              <a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85&amp;returnto=Alguerese&amp;returntoquery=action%3Dedit%26redlink%3D1" title="???? ?? ???? ??????? ???? ??? ???????. [o]" accesskey="o">
+                ????
+              </a>
+            </li>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=%D8%AE%D8%A7%D8%B5:%D8%AF%D8%AE%D9%88%D9%84_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85&amp;returnto=Alguerese&amp;returntoquery=action%3Dedit%26redlink%3D1&amp;type=signup">
+                ????? ????
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                ?????????
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              ?????? ???????
+            </h3>
+            <ul>
+              <li id="ca-talk" class="new">
+                <span>
+                  <a href="/w/index.php?title=%D9%86%D9%82%D8%A7%D8%B4:Alguerese&amp;action=edit&amp;redlink=1" title="???? ???? ??????? [t]" accesskey="t">
+                    ????
+                  </a>
+                </span>
+              </li>
+              <li id="ca-nstab-main" class="selected new">
+                <span>
+                  <a href="/w/index.php?title=Alguerese&amp;action=edit&amp;redlink=1" title="???? ???? ??????? [c]" accesskey="c">
+                    ?????
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                ????
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="???" title="???? ?? ????????? [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="???:???" name="title"/>
+                <input type="submit" name="fulltext" value="????" title="???? ?? ??????? ?? ??? ????" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="????" title="???? ??? ???? ?????? ???? ?? ????" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                ?????
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              ??????
+            </h3>
+            <ul>
+              <li id="ca-edit" class="selected">
+                <span>
+                  <a href="/w/index.php?title=Alguerese&amp;action=edit" title="????? ????? ??? ??????.
+?? ???? ?????? ?? ????? ?????? ??? ?????.">
+                    ????
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/1/1e/Wikipedia-logo-v2-ar.png);" href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="?????? ????????">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-encyclopedia" aria-labelledby="p-encyclopedia-label">
+          <h3 id="p-encyclopedia-label">
+            ????????
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="?? ?????? ???????? [z]" accesskey="z">
+                  ?????? ????????
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9" title="?????? ????? ???? ??????? ???????">
+                  ??????? ???????
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA" title="????? ???? ????????? ?? ??????. [r]" accesskey="r">
+                  ???? ?????????
+                </a>
+              </li>
+              <li id="n-wrecentchanges">
+                <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%A3%D8%AD%D8%AF%D8%AB_%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%88%D9%84%D8%A9/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D9%81%D8%AD%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9">
+                  ???? ????????? ????????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            ????
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-subjects">
+                <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B5%D9%81%D8%AD">
+                  ????????
+                </a>
+              </li>
+              <li id="n-index">
+                <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D9%81%D9%87%D8%B1%D8%B3_%D8%B3%D8%B1%D9%8A%D8%B9">
+                  ?????
+                </a>
+              </li>
+              <li id="n-portals">
+                <a href="/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D8%B5%D9%81%D8%AD">
+                  ??????
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A" title="??? ???? ??????? [x]" accesskey="x">
+                  ????? ???????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-contributing" aria-labelledby="p-contributing-label">
+          <h3 id="p-contributing-label">
+            ??????
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-contact">
+                <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D8%AA%D8%B5%D9%84_%D8%A8%D9%86%D8%A7">
+                  ???? ???
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A8%D9%88%D8%A7%D8%A8%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9" title="??? ???????? ???? ???? ?? ????? ??? ???? ?? ??? ?? ??????">
+                  ????? ???????
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="?????? ????????">
+                  ??????
+                </a>
+              </li>
+              <li id="n-villagepump">
+                <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86">
+                  ???????
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ar.wikipedia.org&amp;uselang=ar" title="??????">
+                  ????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            ?????
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D9%85%D8%A7%D8%B0%D8%A7_%D9%8A%D8%B5%D9%84_%D9%87%D9%86%D8%A7/Alguerese" title="????? ??? ????? ?????? ???? ??? ??? [j]" accesskey="j">
+                  ???? ??? ???
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/%D8%AE%D8%A7%D8%B5:%D8%B5%D9%81%D8%AD%D8%A7%D8%AA_%D8%AE%D8%A7%D8%B5%D8%A9" title="????? ??? ??????? ?????? [q]" accesskey="q">
+                  ??????? ??????
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Alguerese&amp;action=info">
+                  ??????? ??????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            ????
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9_%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9" title="?????????:????? ????????">
+            ????? ????????
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B9%D9%86" title="?????????:??">
+            ?? ?????????
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A5%D8%AE%D9%84%D8%A7%D8%A1_%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9_%D8%B9%D8%A7%D9%85" title="?????????:????? ??????? ???">
+            ????? ???????
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            ????????
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//ar.m.wikipedia.org/w/index.php?title=Alguerese&amp;action=edit&amp;redlink=1" class="noprint stopMobileRedirectToggle">
+            ???? ??????
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.action.edit.editWarning","ext.math.editbutton.enabler","mediawiki.action.edit.collapsibleFooter","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.MenuTabsToggle","ext.gadget.OrphanCheck","ext.gadget.TemplateParamWizard","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.flaggedRevs.advanced"],null,true);
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/ar/button_bold.png","?? ????","'''","'''","?? ????","mw-editbutton-bold");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/ar/button_italic.png","?? ????","''","''","?? ????","mw-editbutton-italic");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/ar/button_link.png","???? ??????","[[","]]","????? ????","mw-editbutton-link");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_extlink.png","???? ?????? (???? ????? http://)","[","]","http://www.example.com ????? ??????","mw-editbutton-extlink");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/ar/button_headline.png","????? ?? ??????? ??????","\n== "," ==\n","?? ????? ?????","mw-editbutton-headline");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_image.png","??? ????","[[???:","]]","??? ??????|?????|?????","mw-editbutton-image");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_media.png","???? ???","[[?????:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/ar/button_nowiki.png","???? ????? ??????","\u003Cnowiki\u003E","\u003C/nowiki\u003E","???? ???? ??? ?????? ???","mw-editbutton-nowiki");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_sig.png","?????? ?? ?????? ????????","--~~~~","","","mw-editbutton-signature");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_hr.png","?? ???? (???? ????????? ?????)","\n----\n","","","mw-editbutton-hr");
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}
+//]]>
+    </script>
+    <script src="/w/index.php?title=%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%D9%88%D9%8A%D9%83%D9%8A:Gadget-editIntro.js&amp;action=raw&amp;ctype=text/javascript&amp;12527455">
+    </script>
+    <script src="//bits.wikimedia.org/ar.wikipedia.org/load.php?debug=false&amp;lang=ar&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":403,"wgHostname":"mw1179"});
+}
+//]]>
+    </script>
+  </body>
+</html>

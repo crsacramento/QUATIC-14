@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Portal:Featured_content
+RATIOTOTAL:0.5032881228502828
+RATIOPREVIOUS:133.503
+SELENIUMSTEP:21

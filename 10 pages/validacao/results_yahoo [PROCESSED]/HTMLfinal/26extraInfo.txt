@@ -1,0 +1,4 @@
+URL:https://edit.europe.yahoo.com/forgotroot?done=http%3A%2F%2Fmail.yahoo.com&src=ym&partner=&intl=us&lang=en-US
+RATIOTOTAL:0.7695896133284426
+RATIOPREVIOUS:-119.661
+SELENIUMSTEP:36

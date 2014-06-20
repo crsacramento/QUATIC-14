@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>
+      Your order guaranteed or your money refunded | Buyer Protection | eBay
+    </title>
+    <meta name="description" content="eBay Buyer Protection covers the full purchase price and original shipping costs on items not received or items different from what was described in the listing."/>
+    <meta name="keywords" content="eBay Buyer Protection, Buyer Protection, Protection, Item not received, Didn't arrive, Item didn't arrive, Not as described, Didn't get item, Wrong item, Got wrong item, Broken, Item broken, Arrive, Received Wrong, Described, Incorrect description, Inaccurate description, No response, Fake, Fraud, Counterfeit, Ruined, Can't contact seller, Stolen, Refund, Money back, Sending back, Return, Ripped off"/>
+    <!-- CSS -->    <style>
+      
+		#wrapper { width: 980px; margin: 0 auto; font-family: Univers, "Helvetica Neue", Helvetica, Arial, sans-serif; }
+		
+		body {
+		  background: #f7f7f7;
+		}
+		p,
+		li {
+		  -webkit-font-smoothing: antialiased;
+		}
+		#breadcrumbs ul {
+		  padding: 18px 0 21px 7px;
+		  margin: 0;
+		}
+		#breadcrumbs li {
+		  list-style-type: none;
+		  display: inline;
+		  font-size: 12px;
+		  line-height: 18px;
+		  font-family: Arial, sans-serif;
+		  color: #333333;
+		}
+		#breadcrumbs li a {
+		  color: #777777;
+		}
+		#breadcrumbs li .arrow-right {
+		  display: inline-block;
+		  zoom: 1;
+		  width: 4px;
+		  height: 8px;
+		  margin: 0 5px;
+		  text-indent: 100%;
+		  overflow: hidden;
+		  white-space: nowrap;
+		  background: transparent url("http://pics.ebaystatic.com/aw/pics/buy/mbg/arrow-right.png") top left no-repeat;
+		}
+		.arrow-link {
+		  position: relative;
+		  display: inline;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/arrow.png) no-repeat 0 0;
+		  padding-right: 10px;
+		  font-size: 14px;
+		  background-position: right center;
+		  font-weight: bold;
+		  font-family: Arial, sans-serif;
+		}
+		#content {
+		  padding-bottom: 52px;
+		  padding-top: 0px;
+		}
+		#hero {
+		  *zoom: 1;
+		  width: 980px;
+		  height: 320px;
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  border: 1px solid #dddddd;
+		}
+		#hero:before,
+		#hero:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#hero:after {
+		  clear: both;
+		}
+		#hero .left-content {
+		  width: 573px;
+		  height: 318px;
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  padding-left: 57px;
+		  padding-top: 55px;
+		  float: left;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/left-hero-bg_2.jpg) no-repeat 0 0;
+		}
+		#hero h1 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 462px;
+		  height: 92px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/hero-h1.png) no-repeat 0 0;
+		  background-size: 462px 92px;
+		}
+		#hero h2 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 327px;
+		  height: 62px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/hero-h2.png) no-repeat 0 0;
+		  background-size: 327px 62px;
+		  margin-top: 42px;
+		}
+		#hero img {
+		  float: right;
+		}
+		#sub-hero {
+		  *zoom: 1;
+		  width: 978px;
+		  padding-top: 28px;
+		}
+		#sub-hero:before,
+		#sub-hero:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#sub-hero:after {
+		  clear: both;
+		}
+		#sub-hero &gt; img {
+		  float: left;
+		  padding-top: 2px;
+		  padding-left: 10px;
+		}
+		#sub-hero div {
+		  float: right;
+		  width: 538px;
+		  padding-top: 42px;
+		}
+		#sub-hero div h1 {
+		  width: 194px;
+		  height: 23px;
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/sub-hero-h1_2.png) no-repeat 0 0;
+		  margin-left: 1px;
+		}
+		#sub-hero div img {
+		  padding-bottom: 30px;
+		}
+		#sub-hero div p {
+		  font-family: Arial, sans-serif;
+		  font-size: 14px;
+		  line-height: 20px;
+		  margin-top: 10px;
+		}
+		#how-it-works {
+		  *zoom: 1;
+		  width: 978px;
+		  padding-top: 50px;
+		  padding-left: 39px;
+		}
+		#how-it-works:before,
+		#how-it-works:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#how-it-works:after {
+		  clear: both;
+		}
+		#how-it-works p {
+		  font-family: Arial, sans-serif;
+		}
+		#how-it-works div {
+		  *zoom: 1;
+		  width: 320px;
+		  float: left;
+		  padding-top: 29px;
+		}
+		#how-it-works div:before,
+		#how-it-works div:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#how-it-works div:after {
+		  clear: both;
+		}
+		#how-it-works div div {
+		  float: left;
+		  width: 230px;
+		  padding-top: 0px;
+		}
+		#how-it-works div div p {
+		  font-size: 14px;
+		  line-height: 20px;
+		}
+		#how-it-works h1 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 318px;
+		  height: 24px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/how-it-works-h1.png) no-repeat 0 0;
+		}
+		#how-it-works .one {
+		  margin-left: 1px;
+		}
+		#how-it-works .one img {
+		  float: left;
+		}
+		#how-it-works .one h2 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 138px;
+		  height: 51px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/one-h2.png) no-repeat 0 0;
+		  margin-left: 29px;
+		}
+		#how-it-works .one p {
+		  margin-left: 30px;
+		  margin-top: 10px;
+		  margin-right: 0px;
+		}
+		#how-it-works .two img {
+		  float: left;
+		  margin-left: 8px;
+		}
+		#how-it-works .two h2 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 141px;
+		  height: 46px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/two-h2.png) no-repeat 0 0;
+		  margin-left: 29px;
+		}
+		#how-it-works .two p {
+		  margin-left: 29px;
+		  margin-top: 15px;
+		  margin-right: 10px;
+		}
+		#how-it-works .three div {
+		  width: 240px;
+		}
+		#how-it-works .three img {
+		  float: left;
+		  margin-left: 14px;
+		}
+		#how-it-works .three h2 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 176px;
+		  height: 51px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/three-h2.png) no-repeat 0 0;
+		  margin-left: 30px;
+		}
+		#how-it-works .three p {
+		  margin-left: 31px;
+		  margin-top: 10px;
+		}
+		#how-it-works .button {
+		  width: 159px;
+		  height: 33px;
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  display: block;
+		  float: left;
+		  cursor: pointer;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/cta-blue.png) no-repeat 0 0;
+		  background-size: 159px 33px;
+		  color: #ffffff;
+		  font-weight: bold;
+		  clear: both;
+		  padding-top: 11px;
+		  padding-left: 21px;
+		  margin-top: -21px;
+		  margin-left: -1px;
+		}
+		#confidence {
+		  *zoom: 1;
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  width: 980px;
+		  height: 268px;
+		  border: 1px solid #dddddd;
+		  background-color: #ffffff;
+		  margin-top: 48px;
+		  padding-left: 38px;
+		}
+		#confidence:before,
+		#confidence:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#confidence:after {
+		  clear: both;
+		}
+		#confidence .left-content {
+		  width: 390px;
+		  float: left;
+		}
+		#confidence img {
+		  float: right;
+		  padding-top: 8px;
+		  padding-right: 9px;
+		}
+		#confidence h1 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 344px;
+		  height: 24px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/confidence-h1.png) no-repeat 0 0;
+		  margin-bottom: 29px;
+		  margin-top: 39px;
+		}
+		#confidence p {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 351px;
+		  height: 79px;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/confidence-p.png) no-repeat 0 0;
+		  margin-left: -1px;
+		  margin-bottom: 23px;
+		}
+		#confidence a {
+		  margin-left: 1px;
+		}
+		#more-details {
+		  *zoom: 1;
+		  margin-top: 60px;
+		  margin-left: 39px;
+		}
+		#more-details:before,
+		#more-details:after {
+		  display: table;
+		  content: "";
+		  line-height: 0;
+		}
+		#more-details:after {
+		  clear: both;
+		}
+		#more-details &gt; a {
+		  float: left;
+		  clear: both;
+		}
+		#more-details .arrow-link {
+		  margin-top: -3px;
+		}
+		#more-details h1 {
+		  text-indent: 100%;
+		  white-space: nowrap;
+		  overflow: hidden;
+		  margin: 0px;
+		  padding: 0px;
+		  width: 266px;
+		  height: 24px;
+		  clear: both;
+		  background: url(http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/more-details-h1.png) no-repeat 0 0;
+		}
+		.carousel-container {
+		  -webkit-border-radius: 2px;
+		  -moz-border-radius: 2px;
+		  -ms-border-radius: 2px;
+		  -o-border-radius: 2px;
+		  border-radius: 2px;
+		  margin-top: 20px;
+		  margin-left: 0px;
+		  width: 430px;
+		  float: left;
+		}
+		.carousel-container .inner-content {
+		  padding-bottom: 32px;
+		}
+		.carousel-container .inner-content h1 {
+		  color: #666666;
+		  font-family: Arial, 'Helvetica Neue', 'Helvetica', sans-serif;
+		  font-size: 14px;
+		  line-height: 20px;
+		  text-indent: 28px;
+		  font-weight: normal;
+		  margin-bottom: 7px;
+		}
+		.right-carousel {
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  margin-left: 80px;
+		}
+		#faq-accordion,
+		#faq-accordion2 {
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  color: #666666;
+		  margin-bottom: 0;
+		  padding-left: 0px;
+		  margin-top: 9px;
+		  border-top: 1px solid #dddddd;
+		}
+		#faq-accordion &gt; li,
+		#faq-accordion2 &gt; li {
+		  -webkit-box-sizing: border-box;
+		  -moz-box-sizing: border-box;
+		  -ms-box-sizing: border-box;
+		  -o-box-sizing: border-box;
+		  box-sizing: border-box;
+		  cursor: pointer;
+		  height: 32px;
+		  overflow: hidden;
+		  border-bottom: 1px solid #dddddd;
+		  background: #f7f7f7 url('http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/plus-minus.png') no-repeat 412px 11px;
+		}
+		#faq-accordion &gt; li.twolines,
+		#faq-accordion2 &gt; li.twolines {
+		  height: 58px;
+		}
+		#faq-accordion li.open,
+		#faq-accordion2 li.open {
+		  background-position: 412px -11px;
+		  background-color: #f7f7f7;
+		  cursor: default;
+		  border-top: none;
+		}
+		#faq-accordion li.open .question,
+		#faq-accordion2 li.open .question {
+		  border-bottom: 1px solid #dddddd;
+		}
+		#faq-accordion p.question,
+		#faq-accordion2 p.question {
+		  color: #333333;
+		  font-size: 14px;
+		  line-height: 20px;
+		  font-weight: bold;
+		  letter-spacing: -0.08em;
+		  font-family: Arial, 'Helvetica Neue', 'Helvetica', sans-serif;
+		  margin: 0;
+		  padding-bottom: 6px;
+		  padding-top: 5px;
+		  padding-left: 1px;
+		}
+		#faq-accordion .faq-content p,
+		#faq-accordion2 .faq-content p {
+		  padding-top: 0px;
+		  padding-bottom: 10px;
+		  margin-top: 0;
+		  margin-bottom: 0;
+		  color: #333;
+		}
+		#faq-accordion .faq-content,
+		#faq-accordion2 .faq-content {
+		  padding-top: 10px;
+		  color: #333;
+		}
+		#faq-accordion .faq-content ul,
+		#faq-accordion2 .faq-content ul {
+		  padding-left: 20px;
+		  padding-top: 5px;
+		  padding-bottom: 15px;
+		}
+		#faq-accordion .faq-content li,
+		#faq-accordion2 .faq-content li {
+		  list-style-type: disc;
+		  font-size: 14px;
+		  line-height: 20px;
+		  color: #333;
+		}
+		#faq-accordion p,
+		#faq-accordion2 p {
+		  padding-right: 15px;
+		  padding-left: 0px;
+		  font-size: 14px;
+		  line-height: 20px;
+		  margin: 0px;
+		  padding-bottom: 3px;
+		}
+		#faq-accordion .inner-list,
+		#faq-accordion2 .inner-list {
+		  list-style-type: disc;
+		  font-size: 14px;
+		  line-height: 20px;
+		}
+		#faq-accordion .inner-list li,
+		#faq-accordion2 .inner-list li {
+		  padding-bottom: 8px;
+		}
+		#faq-accordion ol,
+		#faq-accordion2 ol {
+		  padding-top: 20px;
+		  font-size: 14px;
+		  line-height: 20px;
+		}
+		#faq-accordion ol li,
+		#faq-accordion2 ol li {
+		  padding-bottom: 7px;
+		}
+	
+    </style>
+    <!-- jQuery -->    <script src="http://pages.ebay.com/pt/en-us/jslibrary/jquery-1.10.2.min.js">
+    </script>
+    <!-- Accordion JS -->    <script>
+//<![CDATA[
+
+		//accordion
+		$(function() {
+		
+			var accordion = $('#faq-accordion');
+			var accordion2 = $('#faq-accordion2');
+		
+			// store heights with everything expanded first //
+			var contentHeights = [];
+			var contentHeights2 = [];
+			$("#faq-accordion .faq-content").each(function() {
+				// add 32 to account for the margins
+				contentHeights.push($(this).outerHeight() + 32);
+			})
+			$("#faq-accordion2 .faq-content").each(function() {
+				// add 32 to account for the margins
+				contentHeights2.push($(this).outerHeight() + 32);
+			})
+			
+			contentHeights[1] = contentHeights[1] +20;
+			contentHeights2[1] = contentHeights2[1] +20;
+		
+			$("ul,ol").each(function() {
+				$("li:last").each(function() {
+					$(this).css('border-bottom', 'none');
+				})
+			})
+		
+			$("#faq-accordion li.open").height(contentHeights[0]);
+			
+			$("#faq-accordion2 li.open").height(contentHeights2[0]);
+		
+		
+			$("#faq-accordion a").click(function(e) {
+				e.stopPropagation();
+			})
+			
+			$("#faq-accordion2 a").click(function(e) {
+				e.stopPropagation();
+			})
+		
+			$('#faq-accordion > li').click(function() {
+				if ($(this).hasClass('open')) {
+					if ($(this).hasClass('twolines')) {
+						$(this).animate({
+							height : 52
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					} else {
+						$(this).animate({
+							height : 32
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					}
+					
+				} else {
+					if ($("#faq-accordion li.open").hasClass('twolines')) {
+						$("#faq-accordion li.open").animate({
+							height : 52
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					} else {
+						$("#faq-accordion li.open").animate({
+						height : 32
+					}, 500, function() {
+						$(this).removeClass("open")
+					});
+					}
+					
+		
+					$(this).addClass("open").animate({
+						height : contentHeights[$(this).index()]
+					})
+				}
+			})
+			
+			$('#faq-accordion2 > li').click(function() {
+				if ($(this).hasClass('open')) {
+					if ($(this).hasClass('twolines')) {
+						$(this).animate({
+							height : 52
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					} else {
+						$(this).animate({
+							height : 32
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					}
+					
+				} else {
+					if ($("#faq-accordion2 li.open").hasClass('twolines')) {
+						$("#faq-accordion2 li.open").animate({
+							height : 52
+						}, 500, function() {
+							$(this).removeClass("open")
+						});
+					} else {
+						$("#faq-accordion2 li.open").animate({
+						height : 32
+					}, 500, function() {
+						$(this).removeClass("open")
+					});
+					}
+					
+		
+					$(this).addClass("open").animate({
+						height : contentHeights2[$(this).index()]
+					})
+				}
+			})
+		});
+
+	
+//]]>
+    </script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div>
+        <script type="text/javascript">
+//<![CDATA[
+var _GlobalNavHeaderUtf8Encoding=true,includeHost='http://include.ebaystatic.com/';
+//]]>
+        </script>
+        <script src="http://ir.ebaystatic.com/v4js/z/i5/r32gctn0fu3vjkpge2mjhij3q.js">
+        </script>
+        <script src="http://include.ebaystatic.com/js/e873/us/ebaybase_v4_e8734us.js">
+        </script>
+        <script src="http://include.ebaystatic.com/js/e873/us/ebaysup_e8734us.js">
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+if(document.documentMode != 8 && document.compatMode != "CSS1Compat") ebay.oDocument._getControl("headerCommon")._exec("writeStyleSheet");
+//]]>
+        </script>
+        <link rel="stylesheet" type="text/css" href="http://ir.ebaystatic.com/header/css/all.min?combo=90&amp;factor=3p0Off&amp;siteid=0&amp;rvr=s45m&amp;h=9045"/>
+        <div class="gh-acc-exp-div">
+          <a id="gh-hdn-stm" class="gh-acc-a" href="#mainContent">
+            Skip to main content
+          </a>
+        </div>
+        <div id="gh" class="gh-flex gh-w gh-site-0">
+          <table class="gh-tbl">
+            <tbody>
+              <tr>
+                <td class="gh-td">
+                  <a id="gh-la" _sp="m570.l2586" class="iclg" href="http://www.ebay.com">
+                    eBay
+                    <img width="117" height="120" id="gh-logo" src="http://ir.ebaystatic.com/pictures/aw/pics/globalheader/spr14.png" alt="" style="clip:rect(47px, 118px, 95px, 0px); position:absolute; top:-47px;left:0"/>
+                  </a>
+                </td>
+                <td class="gh-td">
+                  <div id="gh-shop">
+                    <a id="gh-shop-a" href="http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694">
+                      Shop by
+                      <br/>
+                      category
+                      <i id="gh-shop-ei"/>
+                    </a>
+                  </div>
+                </td>
+                <td class="gh-td-s">
+                  <form action="http://www.ebay.com/sch/i.html" method="get" id="gh-f">
+                    <input type="hidden" value="m570.l3201" name="_trksid"/>
+                    <table class="gh-tbl2">
+                      <tbody>
+                        <tr>
+                          <td class="gh-td-s">
+                            <div id="gh-ac-box">
+                              <div id="gh-ac-box2">
+                                <label class="gh-hdn g-hdn" for="gh-ac">
+                                  Enter your search keyword
+                                </label>
+                                <input autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off" name="_nkw" id="gh-ac" placeholder="Search... " maxlength="300" size="50" class="gh-tb" type="text"/>
+                              </div>
+                            </div>
+                          </td>
+                          <td class="gh-td" id="gh-cat-td">
+                            <div id="gh-cat-box">
+                              <select name="_sacat" id="gh-cat" size="1" class="gh-sb" title="Select a category for search">
+                                <option selected="selected" value="0">
+                                  All Categories 
+                                </option>
+                              </select>
+                            </div>
+                          </td>
+                          <td class="gh-td">
+                            <input value="Search" id="gh-btn" class="btn btn-prim" type="submit"/>
+                          </td>
+                          <td class="gh-td" id="gh-as-td">
+                            <div id="gh-as">
+                              <a id="gh-as-a" _sp="m570.l2614" title="Advanced Search" class="thrd" href="http://www.ebay.com/sch/ebayadvsearch/?rt=nc">
+                                Advanced
+                              </a>
+                            </div>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </form>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div id="gh-top">
+            <ul id="gh-topl">
+              <li id="gh-eb-u" class="gh-t">
+                <script>
+//<![CDATA[
+(function(){
+	   try{var d=document.cookie,a=((a=d.match(/u1f.([^^]*)[0-9a-z]{8}/i))?a[1].replace(/\+/g," "):"").replace(/(.{12}).*/,"$1...");
+	   	if(/[%&'\/]/.test(a)){throw (1)}
+	   	document.write("<span id=gh-ug"+(!a||/u1p.QEBfX/.test(d)?' class=gh-eb-guest>Hi! <a href=https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&_trksid=m570.l1524 rel=nofollow>Sign in</a> <span id=gh-ug-flex>or <a href=https://reg.ebay.com/reg/PartialReg??_trksid=m570.l2621 rel=nofollow>register</a></span>':'>Hi, <b>#USER#</b>!'.replace(/#USER#/,a))+"</span>")}
+	   catch(b){
+		document.write("<style>#gh-topl{display:none;}</style>")
+	   }})();
+//]]>
+                </script>
+                <noscript class="gh-t">
+                  Hi, (
+                  <a class="gh-a" href="https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&amp;_trksid=m570.l3348">
+                    Sign in
+                  </a>
+                   to bid or buy)
+                </noscript>
+              </li>
+              <li class="gh-t" id="gh-p-1">
+                <a _sp="m570.l3188" class="gh-p" href="http://deals.ebay.com/">
+                  Daily Deals
+                </a>
+              </li>
+              <li class="gh-t" id="gh-p-2">
+                <a _sp="m570.l1528" class="gh-p" href="http://csr.ebay.com/cse/sell.jsf">
+                  Sell
+                </a>
+              </li>
+              <li class="gh-t" id="gh-p-3">
+                <a _sp="m570.l1545" class="gh-p" href="http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport">
+                  Customer Support
+                </a>
+              </li>
+              <li id="gh-ti">
+                <a href="http://www.ebay.com/reset" _sp="m570.l2611" id="gh-doodleS" rel="nofollow">
+                  <img src="http://ir.ebaystatic.com/pictures/aw/mops/2014_doodles/Password/0602/info-doodle_EN.png" id="gh-hsi" height="30" width="150" alt="Password information" title="Password information"/>
+                </a>
+              </li>
+            </ul>
+            <ul id="gh-eb" class="gh-clearfix">
+              <li class="gh-eb-li" id="gh-eb-My">
+                <a _sp="m570.l2919" class="gh-eb-li-a" href="http://my.ebay.com/ws/eBayISAPI.dll?MyEbay&amp;gbh=1">
+                  My eBay
+                </a>
+                <div class="gh-acc-exp-div">
+                  <a href="#gh-eb-My" class="gh-acc-exp-a gh-acc-a">
+                    Expand My eBay
+                  </a>
+                </div>
+              </li>
+              <li class="gh-eb-li" id="gh-eb-Alerts">
+                <a class="gh-eb-li-a" href="http://my.ebay.com/">
+                  <i class="ghn-b">
+                    Notifications
+                  </i>
+                </a>
+              </li>
+              <li class="gh-eb-li" id="gh-cart">
+                <a _sp="m570.l2633" title="Your shopping cart contains ## items" class="gh-eb-li-a" href="http://cart.payments.ebay.com/sc/view">
+                  <i id="gh-cart-i"/>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!--ts:2014.06.02.17:31-->        <!--rq:-->        <script type="text/javascript" src="http://ir.ebaystatic.com/header/js/all.min?combo=90&amp;factor=3p0Off&amp;siteid=0&amp;rvr=s45m&amp;h=9045">
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+
+   if(typeof GHJSLoaded === "undefined"){
+	   
+	   !function(){
+		   var imgObj,roverURL = 	"http://rover.ebay.com";
+			if(document.location.protocol=="https:"){ roverURL = roverURL.replace(/^http/, "https"); }
+	
+			
+			if(document.body != null){ 
+				imgObj = document.createElement("img");
+				imgObj.src = roverURL 
+		    		+ "/roverimp/0/0/9?imp=2046301&trknvp=ghi%3D91"
+		    		+ "%26gh1g%3D"  + encodeURIComponent(document.location.href)
+		    		+ "%26gh2g%3D " + encodeURIComponent(navigator.userAgent)
+		    		+ "&" + (new Date()).getTime();
+		    	document.body.appendChild(imgObj); 
+		    }
+	   }();   
+   }
+   
+   
+   if (typeof GH != "undefined" && GH) {
+	GH_config = {
+			siteId:"0",
+			algo:"1366815661",
+			catId:"0", static:1,sin:0,skiptomaintarget:1,ct:-1,notifCfg:null,catURL:'http://include.ebaystatic.com/categoryjs/108/en_US_MAIN/category_108en_US_MAIN0.js'};GH.init();}
+//]]>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+var svrGMT = 1401978802458;
+//]]>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+var RoverDomainBaseUrl = 'http://rover.ebay.com';var svrGMT = 1401978802458;var scbps=0;
+//]]>
+        </script>
+      </div>
+      <div id="breadcrumbs">
+        <span class="g-hdn">
+          Bread Crumb Link
+        </span>
+        <ul>
+          <li>
+            <a class="bread-crumb" target="_blank" href="http://www.ebay.com">
+              Home
+            </a>
+            <span class="arrow-right">
+              ?
+            </span>
+          </li>
+          <li>
+            <span class="bread-crumb">
+              eBay Money Back Guarantee
+            </span>
+          </li>
+        </ul>
+      </div>
+      <div id="content">
+        <div id="hero">
+          <div class="left-content">
+            <h1>
+              eBay Money Back Guarantee
+            </h1>
+            <h2>
+              Get the item you ordered or get your money back
+            </h2>
+          </div>
+          <img alt="Johnna H. Senior Manager eBay" id="ebay-employee" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/hero-employee_2.png"/>
+        </div>
+        <div id="sub-hero">
+          <img alt="Shopping items" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/MBG-lockup.png"/>
+          <div>
+            <img alt="eBay Money Back Guarantee" id="MBG-logo" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/MBG-logo.png"/>
+            <h1>
+              It’s simple
+            </h1>
+            <p>
+              If the item isn’t exactly what you ordered, eBay will make it right 
+              <br/>
+              by covering your purchase price plus original shipping on virtually 
+              <br/>
+              all items. 
+              <a href="http://pages.ebay.com/pt/en-us/ebay-money-back-guarantee/how-to-help.html">
+                Learn more
+              </a>
+               about how eBay is here for you.
+            </p>
+          </div>
+        </div>
+        <div id="how-it-works">
+          <h1>
+            Here’s how it works
+          </h1>
+          <div class="one">
+            <img alt="One" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/one.png"/>
+            <div>
+              <h2>
+                Reach out to your seller.
+              </h2>
+              <p>
+                If your item hasn’t arrived or 
+                <br/>
+                isn’t as described, 
+                <a target="_blank" href="http://res.ebay.com/ws/eBayISAPI.dll?ResolutionCenter">
+                  get in touch with your seller
+                </a>
+                .
+              </p>
+            </div>
+          </div>
+          <div class="two">
+            <img alt="Two" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/two.png"/>
+            <div>
+              <h2>
+                Not resolved? Let us know.
+              </h2>
+              <p>
+                If your issue’s not resolved in 3 business days, 
+                <a target="_blank" href="http://res.ebay.com/ws/eBayISAPI.dll?ResolutionCenter">
+                  contact us
+                </a>
+                .
+              </p>
+            </div>
+          </div>
+          <div class="three">
+            <img alt="Three" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/three.png"/>
+            <div>
+              <h2>
+                We’ll get your money back fast.
+              </h2>
+              <p>
+                You’ll hear from us in 48 hours. If you still haven’t received your item, or it isn’t as described, we’ll refund your purchase price, plus the original shipping. 
+              </p>
+            </div>
+          </div>
+          <a target="_blank" href="http://res.ebay.com/ws/eBayISAPI.dll?ResolutionCenter" class="button">
+            Get started now
+          </a>
+        </div>
+        <div id="confidence">
+          <div class="left-content">
+            <h1>
+              Shop with confidence
+            </h1>
+            <p>
+              The eBay Money Back Guarantee makes sure you get the item you ordered or your money back.
+            </p>
+            <a class="arrow-link" target="_blank" href="http://www.ebay.com/">
+              Shop now
+            </a>
+          </div>
+          <img alt="More shopping items" src="http://pics.ebaystatic.com/aw/pics/buy/mbg/landing/confidence-image.png"/>
+        </div>
+        <div id="more-details">
+          <h1>
+            Get more details
+          </h1>
+          <div class="carousel-container">
+            <div class="inner-content">
+              <ul id="faq-accordion">
+                <li class="border-top">
+                  <p class="question">
+                    Do I need to pay extra for the eBay Money Back Guarantee?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      No, the eBay Money Back Guarantee is automatically included with the purchase of virtually every item on 
+                      <a target="_blank" href="http://www.ebay.com">
+                        www.ebay.com
+                      </a>
+                      .
+                    </p>
+                  </div>
+                </li>
+                <li>
+                  <p class="question">
+                    What does eBay Money Back Guarantee cover?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      The eBay Money Back Guarantee protects you in cases where an item is either not received or isn’t as described in the listing. It covers purchases paid with PayPal and 
+                      <a target="_blank" href="http://pages.ebay.com/pt/en-us/help/policies/money-back-guarantee.html#conditions1">
+                        most other electronic payment methods
+                      </a>
+                      . The eBay Money Back Guarantee is not a product warranty.
+                    </p>
+                    <p>
+                      The eBay Money Back Guarantee applies to virtually every item on 
+                      <a target="_blank" href="http://www.ebay.com">
+                        www.ebay.com
+                      </a>
+                      . The only categories excluded are:
+                    </p>
+                    <ul>
+                      <li>
+                        Motors vehicles (which are already covered under the 
+                        <a target="_blank" href="http://pages.motors.ebay.com/pt/en-us/buy/purchase-protection/index.html">
+                          eBay Vehicle Protection program
+                        </a>
+                        )
+                      </li>
+                      <li>
+                        Real estate
+                      </li>
+                      <li>
+                        Websites and businesses for sale
+                      </li>
+                      <li>
+                        Classified ads and services
+                      </li>
+                      <li>
+                        Some business equipment categories that may be covered by 
+                        <a target="_blank" href="http://pages.ebay.com/pt/en-us/help/buy/business-protection.html">
+                          eBay Business Equipment Purchase Protection
+                        </a>
+                      </li>
+                    </ul>
+                    <p>
+                      The eBay Money Back Guarantee does not apply to websites other than 
+                      <a target="_blank" href="http://www.ebay.com">
+                        www.ebay.com
+                      </a>
+                      , like 
+                      <a target="_blank" href="http://wholesale.ebay.com">
+                        eBay Wholesale Deals
+                      </a>
+                      .
+                    </p>
+                    <p>
+                      Please note that, if return shipping is not payable by the seller in accordance with their return policy, the costs of returning the item are your responsibility.
+                    </p>
+                    <p>
+                      Read the 
+                      <a target="_blank" href="http://pages.ebay.com/pt/en-us/help/policies/money-back-guarantee.html#conditions1">
+                        complete details
+                      </a>
+                       about the eBay Money Back Guarantee.
+                    </p>
+                  </div>
+                </li>
+                <li>
+                  <p class="question">
+                    Is there a time limit?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      You’re eligible for the eBay Money Back Guarantee as long as you contact your seller within 30 days of the estimated delivery date.
+                    </p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="carousel-container right-carousel">
+            <div class="inner-content">
+              <ul id="faq-accordion2">
+                <li class="border-top">
+                  <p class="question">
+                    How long should I wait for the seller to fix the problem?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      Give the seller at least 3 days to resolve the issue before contacting eBay.
+                    </p>
+                  </div>
+                </li>
+                <li>
+                  <p class="question">
+                    What happens when I ask eBay to step in?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      If you haven’t received an item, we usually refund your money immediately via PayPal.
+                    </p>
+                    <p>
+                      If you received an item that wasn’t as described, we’ll typically help you return it to the seller first and then refund you.
+                    </p>
+                  </div>
+                </li>
+                <li>
+                  <p class="question">
+                    What if the seller doesn’t offer returns?
+                  </p>
+                  <div class="faq-content">
+                    <p>
+                      If you receive an item that is not as described, or didn’t receive an item at all, you’re always covered by the eBay Money Back Guarantee—even if the seller doesn’t offer returns.
+                    </p>
+                    <p>
+                      However, if you received an item that was as described, but you changed your mind and just don’t want it anymore, the eBay Money Back Guarantee doesn’t apply.
+                    </p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <a class="arrow-link" href="http://pages.ebay.com/pt/en-us/help/policies/money-back-guarantee.html">
+            Learn more
+          </a>
+        </div>
+      </div>
+      <div id="glbfooter" class="gh-w">
+        <div>
+          <div id="rtm_html_1650" style="height:0px;display:none;">
+          </div>
+          <div id="rtm_html_1651" style="height:0px;display:none;">
+          </div>
+        </div>
+        <h2 class="gh-ar-hdn">
+          Additional site navigation
+        </h2>
+        <div id="gf-t-box">
+          <table class="gf-t">
+            <tbody>
+              <tr>
+                <td class="g-pipe" colspan="2">
+                  <ul id="gf-l">
+                    <li class="gf-li">
+                      <a _exsp="m571.l3329" class="thrd gf-bar-a" href="http://community.ebay.com/index.jspa">
+                        Community
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _exsp="m571.l2602" class="thrd gf-bar-a" href="http://www.ebayinc.com">
+                        About eBay
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l3330" class="thrd gf-bar-a" href="http://announcements.ebay.com">
+                        Announcements
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l2896" class="thrd gf-bar-a" href="http://pages.ebay.com/coverage/index.html">
+                        eBay Money Back Guarantee
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l2616" class="thrd gf-bar-a" href="http://pages.ebay.com/securitycenter/index.html">
+                        Security Center
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l1619" class="thrd gf-bar-a" href="http://resolutioncenter.ebay.com/">
+                        Resolution Center
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m570.l1613" class="thrd gf-bar-a" href="http://pages.ebay.com/sellerinformation/index.html">
+                        Seller Information Center
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l2604" class="thrd gf-bar-a" href="http://pages.ebay.com/help/policies/overview.html">
+                        Policies
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l1625" class="thrd gf-bar-a" href="http://pages.ebay.com/sitemap.html">
+                        Site Map
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l2606" class="thrd gf-bar-a" href="http://viv.ebay.com/ws/eBayISAPI.dll?EbayTime">
+                        eBay official time
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l1617" class="thrd gf-bar-a" href="http://garden.ebay.com">
+                        Preview new features
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l2911" class="thrd gf-bar-a" href="http://ocs.ebay.com/ws/eBayISAPI.dll?CustomerSupport">
+                        Contact us
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a _sp="m571.l1616" class="thrd gf-bar-a" href="http://www.ebay.com/talk">
+                        eBay Talk
+                      </a>
+                    </li>
+                    <li class="gf-li">
+                      <a id="gh-surveyLink" _sp="m571.l2628" target="eBaySurvey" class="thrd gh-survey gf-bar-a" rel="nofollow" href="http://qu.ebay.com/survey?srvName=globalheader+%28footer-US%29">
+                        Tell us what you think
+                      </a>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td class="gf-legal">
+                  Copyright © 1995-2014 eBay Inc. All Rights Reserved. 
+                  <a _sp="m571.l2612" class="thrd" href="http://pages.ebay.com/help/policies/user-agreement.html?rt=nc">
+                    User Agreement
+                  </a>
+                  , 
+                  <a _sp="m571.l2613" class="thrd" href="http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc">
+                    Privacy
+                  </a>
+                   and 
+                  <a _sp="m571.l5257" class="thrd" href="http://pages.ebay.com/help/account/cookies-web-beacons.html">
+                    Cookies
+                  </a>
+                  .
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div id="cobrandFooter">
+        </div>
+      </div>
+      <!--ts:2014.06.02.17:31-->      <!--rq:-->    </div>
+    <img style="display:none" width="1" height="1" alt="" title="" src="http://rover.ebay.com/roverimp/0/0/9?imp=2061291"/>
+  </body>
+</html>

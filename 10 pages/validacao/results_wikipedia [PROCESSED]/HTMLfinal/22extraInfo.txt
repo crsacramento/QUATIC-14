@@ -1,0 +1,7 @@
+URL:http://en.wikipedia.org/wiki/Special:Search?search=sandals&prefix=Wikipedia+talk%3AFeatured+picture+candidates%2FArchive&fulltext=Search&fulltext=Search
+RATIOTOTAL:0.26478327695914367
+RATIOPREVIOUS:-55.707
+SELENIUMSTEP:24
+POSSIBLE-SEARCH-TEXT-BOX://input[@class=searchboxInput and @name=search and @type=text]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:sandals
+SEARCH-WORD-IN-URL

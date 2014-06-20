@@ -1,0 +1,4 @@
+URL:http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history
+RATIOTOTAL:0.43229936621209963
+RATIOPREVIOUS:-96.489
+SELENIUMSTEP:37

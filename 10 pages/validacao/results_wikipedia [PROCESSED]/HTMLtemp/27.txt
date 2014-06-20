@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Detachable collar - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Detachable_collar"/>
+    <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Detachable_collar&amp;action=edit"/>
+    <link rel="edit" title="Edit this page" href="/w/index.php?title=Detachable_collar&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/wiki/Detachable_collar"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Detachable_collar","wgTitle":"Detachable collar","wgCurRevisionId":571053181,"wgRevisionId":571053181,"wgArticleId":1615456,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["History of clothing (Western fashion)","Neckwear"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Detachable_collar","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Collar_stud","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q358689"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Detachable_collar skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->        <div class="collection-creatorbox">
+          <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/Open_book.png?9" alt="" width="80" height="45" class="collection-creatorbox-book"/>
+          <div class="collection-creatorbox-row">
+            <div>
+              <a href="/wiki/Help:Books" title="Show help about creating books" rel="nofollow">
+                <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-help.png" alt="" width="16" height="16"/>
+                 Help
+              </a>
+            </div>
+            <span class="collection-creatorbox-title">
+              Book creator
+            </span>
+             (
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Detachable+collar" title="Stop using the book creator" rel="nofollow">
+              disable
+            </a>
+            )
+          </div>
+          <div id="coll-book_creator_box" class="collection-creatorbox-row">
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=add_article&amp;arttitle=Detachable+collar&amp;oldid=0" title="Add the current wiki page to your book" id="coll-add_article" rel="nofollow" onclick="collectionCall('AddArticle', ['removearticle', wgNamespaceNumber, wgTitle, &quot;0&quot;]); return false;">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-add.png" alt="" width="16" height="16"/>
+               Add this page to your book
+            </a>
+            <a href="/wiki/Special:Book" title="Click to edit/download/order your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-book_open.png" alt="" width="16" height="16"/>
+               Show book (0 pages)
+            </a>
+            <a href="/w/index.php?title=Special:Book&amp;bookcmd=suggest" title="Show suggestions based on the pages in your book" rel="nofollow" class="collection-creatorbox-iconlink">
+              <img src="//bits.wikimedia.org/static-1.24wmf7/extensions/Collection/images/silk-wand.png" alt="" width="16" height="16" style="vertical-align: text-bottom"/>
+               Suggest pages
+            </a>
+          </div>
+        </div>
+      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Detachable collar
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          From Wikipedia, the free encyclopedia
+        </div>
+        <div id="contentSub">
+            (Redirected from 
+          <a href="/w/index.php?title=Collar_stud&amp;redirect=no" title="Collar stud">
+            Collar stud
+          </a>
+          )
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:252px;">
+              <a href="/wiki/File:Grafton_starched-stiff_detachable_wing_collar.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Grafton_starched-stiff_detachable_wing_collar.jpg/250px-Grafton_starched-stiff_detachable_wing_collar.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f8/Grafton_starched-stiff_detachable_wing_collar.jpg/375px-Grafton_starched-stiff_detachable_wing_collar.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f8/Grafton_starched-stiff_detachable_wing_collar.jpg/500px-Grafton_starched-stiff_detachable_wing_collar.jpg 2x" data-file-width="1280" data-file-height="960"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:Grafton_starched-stiff_detachable_wing_collar.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+A starched-stiff detachable wing collar from Luke Eyres.
+              </div>
+            </div>
+          </div>
+          <p>
+            A 
+            <b>
+              detachable collar
+            </b>
+             is a 
+            <a href="/wiki/Dress_shirt" title="Dress shirt">
+              shirt
+            </a>
+            <a href="/wiki/Collar_(clothing)" title="Collar (clothing)">
+              collar
+            </a>
+             separate from the shirt, fastened to it by studs. The collar is usually made of a different fabric from the shirt, in which case it is almost always white, and, being unattached to the shirt, can be specially starched to a hard cardboard-like consistency.
+          </p>
+          <h2>
+            <span class="mw-headline" id="History">
+              History
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Detachable_collar&amp;action=edit&amp;section=1" title="Edit section: History">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Some
+            <sup id="cite_ref-1" class="reference">
+              <a href="#cite_note-1">
+                <span>
+                  [
+                </span>
+                1
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             believe that Hannah Montague invented this collar in 
+            <a href="/wiki/Troy,_New_York" title="Troy, New York">
+              Troy
+            </a>
+            , 
+            <a href="/wiki/New_York" title="New York">
+              New York
+            </a>
+            , in 1827, after she snipped off the collar from one of her husband's shirts to wash it, and then sewed it back on.
+            <sup id="cite_ref-2" class="reference">
+              <a href="#cite_note-2">
+                <span>
+                  [
+                </span>
+                2
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+             The Rev. Ebenezar Brown, a businessman in town, proceeded to commercialize it. The manufacture of detachable collars and the associated shirts became a significant industry in Troy.
+          </p>
+          <p>
+            It was later that the benefit of being able to 
+            <a href="/wiki/Starch" title="Starch">
+              starch
+            </a>
+             the collars became apparent, and for a short time, various other parts of the shirt, such as the front and cuffs, were also made detachable and treated to rigid stiffness. As more emphasis started to be placed on comfort in clothing this practice declined, and the stiff collar is the last surviving use of such heavily starched cotton in daywear; while a 
+            <a href="/wiki/Dress_shirt#Formal_shirts" title="Dress shirt">
+              full dress shirt
+            </a>
+             (worn with 
+            <a href="/wiki/White_tie" title="White tie">
+              white tie
+            </a>
+             and occasionally 
+            <a href="/wiki/Black_tie" title="Black tie">
+              black tie
+            </a>
+            ) still has a stiff, but attached, front and cuffs to accompany the stiff detachable collar.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Using_a_detachable_collar">
+              Using a detachable collar
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Detachable_collar&amp;action=edit&amp;section=2" title="Edit section: Using a detachable collar">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="thumb tleft">
+            <div class="thumbinner" style="width:222px;">
+              <a href="/wiki/File:CollarStuds.jpg" class="image">
+                <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CollarStuds.jpg/220px-CollarStuds.jpg" width="220" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CollarStuds.jpg/330px-CollarStuds.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CollarStuds.jpg/440px-CollarStuds.jpg 2x" data-file-width="1254" data-file-height="867"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/File:CollarStuds.jpg" class="internal" title="Enlarge">
+                    <img src="//bits.wikimedia.org/static-1.24wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+                
+A pair of collar studs; the longer left one is the front stud
+              </div>
+            </div>
+          </div>
+          <p>
+            The collar is attached to the shirt by a pair of studs like those shown. The shirt has a tunic collar, a short upright band of fabric with a hole at the back and one on each side at the front. The stiff collar is attached at the back before the shirt is donned (and the tie placed under the collar for a 
+            <a href="/w/index.php?title=Turndown_collar&amp;action=edit&amp;redlink=1" class="new" title="Turndown collar (page does not exist)">
+              turndown collar
+            </a>
+            ), then the shirt is put on, after which the front stud is pushed through the collar to fasten it.
+          </p>
+          <p>
+            Detachable collars are often used by 
+            <a href="/wiki/Barrister" title="Barrister">
+              barristers
+            </a>
+             in the UK, Ireland and Canada, many of whom wear a winged collar when in court, specifically Criminal Court, to allow the use of 
+            <a href="/wiki/Bands_(neckwear)" title="Bands (neckwear)">
+              bands
+            </a>
+            . On the way to and from court, a turndown collar and tie is worn. Another common use of detachable collars now is a 
+            <a href="/wiki/Clerical_collar" title="Clerical collar">
+              clerical collar
+            </a>
+             (or "Roman Collar"), though these are now often made from flexible plastic for ease of washing, and are not always now attached in the traditional way with studs. Also, at 
+            <a href="/wiki/Eton_College" title="Eton College">
+              Eton College
+            </a>
+            , all pupils wear stiff collars, mostly turndown collars, while students in positions of authority wear 'stick-ups', which includes a wing collar.
+            <sup id="cite_ref-3" class="reference">
+              <a href="#cite_note-3">
+                <span>
+                  [
+                </span>
+                3
+                <span>
+                  ]
+                </span>
+              </a>
+            </sup>
+          </p>
+          <p>
+            Outside these situations, detachable collars are less common. Stiff collars in particular with daywear in the 21st century are generally rare, but if one is worn, it is usually a turndown collar, though 
+            <a href="/wiki/Morning_dress" title="Morning dress">
+              morning dress
+            </a>
+             is seen still with a 
+            <a href="/wiki/Collar_(clothing)" title="Collar (clothing)">
+              wing collar
+            </a>
+            . Older styles, such as the 
+            <a href="/w/index.php?title=Imperial_collar&amp;action=edit&amp;redlink=1" class="new" title="Imperial collar (page does not exist)">
+              imperial collar
+            </a>
+             (a high collar with no wings last worn by the 
+            <a href="/wiki/Edwardian_era" title="Edwardian era">
+              Edwardians
+            </a>
+            ), are not now seen. A more common use of detachable collars is with eveningwear, in which case a high wing collar is worn in America although turn-down collars are preferred for black-tie in Britain as per Edward VII.
+          </p>
+          <p>
+            To starch a collar, it must be rinsed in boiling water to remove any starch, then laundered as normal. After soaking in a concentrated warm starch solution, it is left until nearly dry, then ironed until hard. While ironing, the shape is added by curling, or using a collar press.
+          </p>
+          <h2>
+            <span class="mw-headline" id="References">
+              References
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Detachable_collar&amp;action=edit&amp;section=3" title="Edit section: References">
+                edit
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <ol class="references">
+            <li id="cite_note-1">
+              <span class="mw-cite-backlink">
+                <b>
+                  <a href="#cite_ref-1">
+                    ^
+                  </a>
+                </b>
+              </span>
+              <span class="reference-text">
+                <a rel="nofollow" class="external text" href="http://suityourself.com/History_Of_Dress_Shirts.asp">
+                  History Of Dress Shirts
+                </a>
+              </span>
+            </li>
+            <li id="cite_note-2">
+              <span class="mw-cite-backlink">
+                <b>
+                  <a href="#cite_ref-2">
+                    ^
+                  </a>
+                </b>
+              </span>
+              <span class="reference-text">
+                <span class="citation web">
+                  <a rel="nofollow" class="external text" href="http://www.ravistailor.com/Ravis_custom_tailor/A_General_History_Of_Detachable_Collars_On_Custom_Made_Business_And_Formal_Shirts.htm">
+                    "A General History Of Detachable Collars On Custom Made Business And Formal Shirts"
+                  </a>
+                  . 
+                  <i>
+                    RavisTailor
+                  </i>
+                  <span class="reference-accessdate">
+                    . Retrieved 2008-11-09
+                  </span>
+                  .
+                </span>
+                <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADetachable+collar&amp;rft.atitle=A+General+History+Of+Detachable+Collars+On+Custom+Made+Business+And+Formal+Shirts&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ravistailor.com%2FRavis_custom_tailor%2FA_General_History_Of_Detachable_Collars_On_Custom_Made_Business_And_Formal_Shirts.htm&amp;rft.jtitle=RavisTailor&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988">
+                  <span style="display:none;">
+                     
+                  </span>
+                </span>
+              </span>
+            </li>
+            <li id="cite_note-3">
+              <span class="mw-cite-backlink">
+                <b>
+                  <a href="#cite_ref-3">
+                    ^
+                  </a>
+                </b>
+              </span>
+              <span class="reference-text">
+                <span class="citation web">
+                  <a rel="nofollow" class="external text" href="http://web.archive.org/web/20081011175000/http://www.archivist.f2s.com/bsu/Miscellany/eton/eton-notes.htm">
+                    "Some notes on dress at Eton College"
+                  </a>
+                  . Archived from 
+                  <a rel="nofollow" class="external text" href="http://www.archivist.f2s.com/bsu/Miscellany/eton/eton-notes.htm">
+                    the original
+                  </a>
+                   on 2008-10-11
+                  <span class="reference-accessdate">
+                    . Retrieved 2008-11-09
+                  </span>
+                  .
+                </span>
+                <span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADetachable+collar&amp;rft.btitle=Some+notes+on+dress+at+Eton+College&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.archivist.f2s.com%2Fbsu%2FMiscellany%2Feton%2Feton-notes.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988">
+                  <span style="display:none;">
+                     
+                  </span>
+                </span>
+              </span>
+            </li>
+          </ol>
+          <!-- 
+NewPP limit report
+Parsed by mw1112
+CPU time usage: 0.276 seconds
+Real time usage: 0.303 seconds
+Preprocessor visited node count: 114/1000000
+Preprocessor generated node count: 421/1500000
+Post?expand include size: 3044/2048000 bytes
+Template argument size: 0/2048000 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 1,007 KB/50 MB
+-->          <!-- Saved in parser cache with key enwiki:pcache:idhash:1615456-0!*!0!!*!4!* and timestamp 20140530062610 and revision id 571053181
+ -->          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Detachable_collar&amp;oldid=571053181">
+            http://en.wikipedia.org/w/index.php?title=Detachable_collar&amp;oldid=571053181
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Help:Category" title="Help:Category">
+              Categories
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Category:History_of_clothing_(Western_fashion)" title="Category:History of clothing (Western fashion)">
+                  History of clothing (Western fashion)
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Category:Neckwear" title="Category:Neckwear">
+                  Neckwear
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Detachable+collar&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Detachable+collar" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Detachable_collar" title="View the content page [c]" accesskey="c">
+                    Article
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Talk:Detachable_collar" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Detachable_collar">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit">
+                <span>
+                  <a href="/w/index.php?title=Detachable_collar&amp;action=edit" title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">
+                    Edit
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Detachable_collar&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Detachable_collar" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Detachable_collar" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Detachable_collar&amp;oldid=571053181" title="Permanent link to this revision of the page">
+                  Permanent link
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Detachable_collar&amp;action=info">
+                  Page information
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q358689" title="Link to connected data repository item [g]" accesskey="g">
+                  Data item
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Special:Cite&amp;page=Detachable_collar&amp;id=571053181" title="Information on how to cite this page">
+                  Cite this page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Print/export
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-book_creator_disable">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=stop_book_creator&amp;referer=Detachable+collar">
+                  Disable book creator
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Detachable+collar&amp;oldid=571053181&amp;writer=rl">
+                  Download as PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Detachable_collar&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Vaterm%C3%B6rder" title="Vatermörder – German" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="//no.wikipedia.org/wiki/Fadermorder" title="Fadermorder – Norwegian (bokmål)" lang="no" hreflang="no">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Faderm%C3%B6rdare" title="Fadermördare – Swedish" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q358689#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">
+                  Edit links
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           This page was last modified on 1 September 2013 at 09:18.
+          <br/>
+        </li>
+        <li id="footer-info-copyright">
+          Text is available under the 
+          <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            Creative Commons Attribution-ShareAlike License
+          </a>
+          <a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;">
+          </a>
+          ;
+additional terms may apply.  By using this site, you agree to the 
+          <a href="//wikimediafoundation.org/wiki/Terms_of_Use">
+            Terms of Use
+          </a>
+           and 
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy">
+            Privacy Policy
+          </a>
+          . Wikipedia® is a registered trademark of the 
+          <a href="//www.wikimediafoundation.org/">
+            Wikimedia Foundation, Inc.
+          </a>
+          , a non-profit organization.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/wiki/Detachable_collar" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.cite","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.collection.bookcreator"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":185,"wgHostname":"mw1177"});
+}
+//]]>
+    </script>
+  </body>
+</html>

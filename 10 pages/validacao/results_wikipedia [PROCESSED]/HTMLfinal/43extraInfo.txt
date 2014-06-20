@@ -1,0 +1,7 @@
+URL:http://ar.wikipedia.org/w/index.php?title=Alguerese&action=submit
+RATIOTOTAL:0.13311282750216658
+RATIOPREVIOUS:-28.203
+SELENIUMSTEP:47
+FOUND SEARCH WITH TYPE hidden, CATEGORY title AND OPTION Alguerese
+INPUT-PATTERN-TEXTBOX://input[@id=wpAntispam and @name=wpAntispam and @type=text]
+INPUT-PATTERN-TEXT:shirt

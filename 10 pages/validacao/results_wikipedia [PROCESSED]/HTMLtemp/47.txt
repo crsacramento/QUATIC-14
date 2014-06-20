@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="ff" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Ta?tagol Wikipedia:Accueil (ta?re) — Wikipedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="alternate" type="application/x-wiki" title="Wallifaade" href="/w/index.php?title=Wikipedia:Accueil&amp;action=edit"/>
+    <link rel="edit" title="Wallifaade" href="/w/index.php?title=Wikipedia:Accueil&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ff)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//ff.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Balol Atom Wikipedia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+    <link rel="canonical" href="http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&amp;action=submit"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.action.edit.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=ext.wikiEditor.toolbar.styles&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: ffwiki:resourceloader:filter:minify-css:7:014df849c0fa231657399265c5bea175 */
+    </style>
+    <script src="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Accueil","wgTitle":"Accueil","wgCurRevisionId":19455,"wgRevisionId":0,"wgArticleId":2039,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"submit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"ff","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Siilo","Colte","MBooy","See?to","Duujal","Korse","Morso","Juko","Siilto","Yarkomaa","Jolal","Bowte"],"wgMonthNamesShort":["","Sii","Col","Mbo","See","Duu","Kor","Mor","Juk","Sto","Yar","Jol","Bow"],"wgRelevantPageName":"Wikipedia:Accueil","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"ff","pageLanguageDir":"ltr","svgMaxSize":2048},"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"Fulfulde","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16503"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"mathJax":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"",
+"language":"ff","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs828":false,"searchNs829":false,"variant":"ff"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: ffwiki:resourceloader:filter:minify-js:7:9a3ccf40e4ac57198f0918a028922a17 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-4 ns-subject page-Wikipedia_Accueil skin-vector action-submit vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="ff">
+        <span dir="auto">
+          Ta?tagol Wikipedia:Accueil (ta?re)
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Diw fayde:					
+          <a href="#mw-navigation">
+            peeragol
+          </a>
+          , 					
+          <a href="#p-search">
+            ?a??itugol
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <div id="mw-anon-preview-warning">
+            <i>
+              Vous n’êtes pas identifié(e). Sauvegarder enregistrera votre adresse IP dans l’historique des modifications de la page.
+            </i>
+          </div>
+          <div id="wikiPreview" class="ontop">
+            <div class="previewnote">
+              <h2 id="mw-previewheader">
+                Yiytindo
+              </h2>
+              <p>
+                <b>
+                  Rappelez-vous que ce n'est qu'une prévisualisation.
+                </b>
+                
+Vos modifications n'ont pas encore été enregistrées ! 
+                <span class="mw-continue-editing">
+                  <a href="#editform">
+                    ? Aller à la zone de modification
+                  </a>
+                </span>
+              </p>
+              <hr/>
+            </div>
+            <div lang="ff" dir="ltr" class="mw-content-ltr">
+              <h2>
+                <span class="mw-headline" id=".5Ben.5D_Change_to_wiki_account_system_and_account_renaming">
+                  [en] Change to wiki account system and account renaming
+                </span>
+              </h2>
+              <div class="mw-content-ltr">
+                <p>
+                  Some accounts will soon be renamed due to a technical change that the developer team at Wikimedia are making. 
+                  <a href="//meta.wikimedia.org/wiki/Single_User_Login_finalisation_announcement" class="extiw" title="m:Single User Login finalisation announcement">
+                    More details on Meta
+                  </a>
+                  .
+                </p>
+                <p>
+                  <small>
+                    (Distributed via 
+                    <a href="//meta.wikimedia.org/wiki/global_message_delivery" class="extiw" title="m:global message delivery">
+                      global message delivery
+                    </a>
+                     30 See?to 2013 ? 03:34 (UTC). Wrong page? 
+                    <a href="//meta.wikimedia.org/wiki/Distribution_list/Global_message_delivery" class="extiw" title="m:Distribution list/Global message delivery">
+                      Correct it here
+                    </a>
+                    .)
+                  </small>
+                </p>
+              </div>
+              <!-- 
+NewPP limit report
+Parsed by mw1164
+CPU time usage: 0.048 seconds
+Real time usage: 0.056 seconds
+Preprocessor visited node count: 3/1000000
+Preprocessor generated node count: 14/1500000
+Post?expand include size: 0/2048000 bytes
+Template argument size: 0/2048000 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/500
+-->            </div>
+          </div>
+          <form id="editform" name="editform" method="post" action="/w/index.php?title=Wikipedia:Accueil&amp;action=submit" enctype="multipart/form-data">
+            <div id="antispam-container" style="display: none;">
+              <label for="wpAntiSpam">
+                Vérification anti-pourriel.
+Ne 
+                <b>
+                  RIEN
+                </b>
+                 inscrire ici?!
+              </label>
+              <input type="text" name="wpAntispam" id="wpAntispam" value=""/>
+            </div>
+            <input type="hidden" value="58" name="wpSection"/>
+            <input type="hidden" value="20140611183658" name="wpStarttime"/>
+            <input type="hidden" value="20140523213000" name="wpEdittime"/>
+            <input type="hidden" value="" name="wpScrolltop" id="wpScrolltop"/>
+            <input type="hidden" value="9b3e4af590c5bff61dd0c9c809aca5b3" name="wpAutoSummary"/>
+            <input type="hidden" value="0" name="oldid"/>
+            <input type="hidden" value="text/x-wiki" name="format"/>
+            <input type="hidden" value="wikitext" name="model"/>
+            <div class="wikiEditor-oldToolbar">
+              <div id="toolbar">
+              </div>
+            </div>
+            <textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="ff" dir="ltr" name="wpTextbox1">== [en] Change to wiki account system and account renaming ==
+
+&lt;div class=&quot;mw-content-ltr&quot;&gt;
+Some accounts will soon be renamed due to a technical change that the developer team at Wikimedia are making. [[m:Single User Login finalisation announcement|More details on Meta]].
+
+&lt;small&gt;(Distributed via [[m:global message delivery|global message delivery]] 30 See?to 2013 ? 03:34 (UTC). Wrong page? [[m:Distribution list/Global message delivery|Correct it here]].)&lt;/small&gt;
+&lt;/div&gt;
+&lt;!-- EdwardsBot 0437 --&gt;
+</textarea>            <div class="editOptions">
+              <span class="mw-summary" id="wpSummaryLabel">
+                <label for="wpSummary">
+                  Résumé :
+                </label>
+              </span>
+              <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Naatnu tonngol da??ol [b]" accesskey="b" value="coffee" name="wpSummary" type="text"/>
+              <div class="mw-summary-preview">
+                Aperçu du résumé : 
+                <span class="comment">
+                  (coffee)
+                </span>
+              </div>
+              <div class="editCheckboxes">
+              </div>
+              <div id="editpage-copywarn">
+                <p>
+                  En enregistrant les modifications, vous acceptez les 
+                  <a class="external text" href="https://wikimediafoundation.org/wiki/Conditions_d'utilisation">
+                    conditions d’utilisation
+                  </a>
+                   et vous acceptez de placer irrévocablement votre contribution sous 
+                  <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/">
+                    licence Creative Commons attribution – partage à l’identique 3.0
+                  </a>
+                   et 
+                  <a rel="nofollow" class="external text" href="https://www.gnu.org/copyleft/fdl.html">
+                    GFDL
+                  </a>
+                  .
+Vous acceptez qu’un hyperlien ou une URL est une attribution de paternité suffisante sous la licence Creative Commons.
+
+                </p>
+              </div>
+              <div class="editButtons">
+                <input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Danndu hello" accesskey="s" title="Danndu bayle maa [s]"/>
+                <input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Hollu jiytol" accesskey="p" title="Yiytindo bayle maa, tii?no huutoro ?uum hade maa danndude! [p]"/>
+                <input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Hollu bayle" accesskey="v" title="Affiche les modifications que vous avez apportées au texte [v]"/>
+                <span class="cancelLink">
+                  <a href="/wiki/Wikipedia:Accueil" title="Wikipedia:Accueil" id="mw-editform-cancel">
+                    Haaytu
+                  </a>
+                  <span class="mw-editButtons-pipe-separator">
+                     | 
+                  </span>
+                </span>
+                <span class="editHelp">
+                  <a target="helpwindow" href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Editing_pages">
+                    Ballal Ta?tagol
+                  </a>
+                   (udditata e henorde hesere)
+                </span>
+              </div>
+              <!-- editButtons -->              <span id="templatesandbox-editform">
+                <input id="wpTemplateSandboxTemplate" type="hidden" value="Wikipedia:Accueil" name="wpTemplateSandboxTemplate"/>
+                <input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/>
+              </span>
+            </div>
+            <!-- editOptions -->            <input type="hidden" value="+\" name="wpEditToken"/>
+            <div class="mw-editTools">
+            </div>
+            <div class="templatesUsed">
+            </div>
+            <div class="hiddencats">
+            </div>
+            <div class="limitreport">
+              <div class="mw-limitReportExplanation">
+                <p>
+                  Données d’optimisation de l’analyseur :
+
+                </p>
+              </div>
+              <div class="preview-limit-report-wrapper">
+                <table class="preview-limit-report wikitable">
+                  <tbody>
+                    <tr>
+                      <th>
+                        Temps CPU d’utilisation
+                      </th>
+                      <td>
+                        0.048 seconde
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Temps réel d’utilisation
+                      </th>
+                      <td>
+                        0.056 seconde
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Nombre de nœuds de préprocesseur visités
+                      </th>
+                      <td>
+                        3/1000000
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Nombre de nœuds de préprocesseur générés
+                      </th>
+                      <td>
+                        14/1500000
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Taille d’inclusion après expansion
+                      </th>
+                      <td>
+                        0/2048000 octets
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Taille de l’argument du modèle
+                      </th>
+                      <td>
+                        0/2048000 octets
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Plus grande profondeur d’expansion
+                      </th>
+                      <td>
+                        2/40
+                      </td>
+                    </tr>
+                    <tr>
+                      <th>
+                        Nombre de fonctions d’analyse coûteuses
+                      </th>
+                      <td>
+                        0/500
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </form>
+          <noscript>
+            <img src="//ff.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Ittaa ko to "
+          <a dir="ltr" href="http://ff.wikipedia.org/wiki/Wikipedia:Accueil">
+            http://ff.wikipedia.org/wiki/Wikipedia:Accueil
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Menu de navigation
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Kuutor?e maa keerii?e
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikipedia%3AAccueil&amp;type=signup">
+                Créer un compte
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikipedia%3AAccueil" title="A?a wasiyaa yo a se?o; kono wa??aaki [o]" accesskey="o">
+                Se connecter
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Boowal in?e
+            </h3>
+            <ul>
+              <li id="ca-nstab-project" class="selected">
+                <span>
+                  <a href="/wiki/Wikipedia:Accueil" title="Yiyto hello e??oore ngoo [a]" accesskey="a">
+                    Hello e??oore
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Discussion_Wikipedia:Accueil" title="Yeewtere ba?te hello loowdi ngoo [t]" accesskey="t">
+                    Kaldigal
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Lomtoo?e
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Jiyte
+            </h3>
+            <ul>
+              <li id="ca-view">
+                <span>
+                  <a href="/wiki/Wikipedia:Accueil">
+                    Tar
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit" class="selected">
+                <span>
+                  <a href="/w/index.php?title=Wikipedia:Accueil&amp;action=edit" title="A?a waawi ta?taade ngoo hello. Tii?no huutoro buto? yiytindo oo hade maa danndude">
+                    Ta?to
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Wikipedia:Accueil&amp;action=history" title="Baylitte ?ennu?e e  ngoo hello [h]" accesskey="h">
+                    Yiyto aslol
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Ba?e
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Yiylo
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Rechercher" title="Yiylo e Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Spécial:Recherche" name="title"/>
+                <input type="submit" name="fulltext" value="Yiylo" title="Yiylo ndii loowdi e kelle ?ee" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Tar" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/ff/b/bc/Wiki.png);" href="/wiki/Hello_ja%C9%93%C9%93orgo" title="Yillo hello ja??orgo ngoo">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Peeragol
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Hello_ja%C9%93%C9%93orgo" title="Yillo hello ja??orgo ngoo [z]" accesskey="z">
+                  Hello ja??orgo
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Damugal_renndo" title="Ba?te e??oore ndee, hol ko mbaaw-?aa wa?de, hol to njiytataa ge?e">
+                  Ja??ogol renndo
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Doggol bayle cakkitii?e e Wiki hee [r]" accesskey="r">
+                  Wailitooji kesi
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Loow hello hawraango [x]" accesskey="x">
+                  ?erewol kawral
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Ko ?oo yiytetee">
+                  Ballal
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ff.wikipedia.org&amp;uselang=ff" title="Aidez-nous">
+                  Dokkal
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Wakannde gollir?e
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikipedia:Accueil" title="Doggol kelle Wiki jokkaa?e ?oo ?ee fof [j]" accesskey="j">
+                  Ko jokkii ?oo
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikipedia:Accueil" title="Bayle cakkitii?e e kelle jokkaa?e e ngoo hello [k]" accesskey="k">
+                  Bayle to??ii?e ?ee
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Doggol kelle keerii?e fof [q]" accesskey="q">
+                  Kelle keerii?e
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Wikipedia:Accueil&amp;action=info">
+                  Information sur la page
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q16503" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">
+                  Élément sur Wikidata
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            ?em?e go?e
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-ab">
+                <a href="//ab.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0:%D0%90%D1%84%D0%BE%D1%80%D1%83%D0%BC" title="??????????:?????? — abkhaze" lang="ab" hreflang="ab">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-af">
+                <a href="//af.wikipedia.org/wiki/Wikipedia:Geselshoekie" title="Wikipedia:Geselshoekie — afrikaans" lang="af" hreflang="af">
+                  Afrikaans
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ak">
+                <a href="//ak.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — Akaan" lang="ak" hreflang="ak">
+                  Akan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-als">
+                <a href="//als.wikipedia.org/wiki/Wikipedia:Stammtisch" title="Wikipedia:Stammtisch — Alemannisch" lang="als" hreflang="als">
+                  Alemannisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-an">
+                <a href="//an.wikipedia.org/wiki/Wikipedia:Tabierna" title="Wikipedia:Tabierna — aragonais" lang="an" hreflang="an">
+                  Aragonés
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ang">
+                <a href="//ang.wikipedia.org/wiki/Wikip%C7%A3dia:Se_%C3%9Eorpes_Wella" title="Wikip?dia:Se Þorpes Wella — ancien anglais" lang="ang" hreflang="ang">
+                  Ænglisc
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86" title="?????????:??????? — Aarabeere" lang="ar" hreflang="ar">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-arc">
+                <a href="//arc.wikipedia.org/wiki/%DC%98%DC%9D%DC%A9%DC%9D%DC%A6%DC%95%DC%9D%DC%90:%DC%AC%DC%AA%DC%A5%DC%90_%DC%95%DC%9F%DC%A2%DC%AB%DC%90" title="????????:???? ????? — araméen" lang="arc" hreflang="arc">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-arz">
+                <a href="//arz.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D8%A7%D9%84%D9%88%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D9%87" title="?????????:????? ???????? — Egyptian Spoken Arabic" lang="arz" hreflang="arz">
+                  ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-as">
+                <a href="//as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A7%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%B0_%E0%A6%9A%27%E0%A7%B0%E0%A6%BE" title="???????????:????? ?'?? — assamais" lang="as" hreflang="as">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ast">
+                <a href="//ast.wikipedia.org/wiki/Uiquipedia:Chigre" title="Uiquipedia:Chigre — asturien" lang="ast" hreflang="ast">
+                  Asturianu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bar">
+                <a href="//bar.wikipedia.org/wiki/Wikipedia:Stammtisch" title="Wikipedia:Stammtisch — Bavarian" lang="bar" hreflang="bar">
+                  Boarisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bat-smg">
+                <a href="//bat-smg.wikipedia.org/wiki/Vikiped%C4%97j%C4%97:Aptar%C4%97m%C4%81" title="Vikiped?j?:Aptar?m? — Samogitian" lang="bat-smg" hreflang="bat-smg">
+                  Žemait?ška
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bjn">
+                <a href="//bjn.wikipedia.org/wiki/Wikipidia:Warung_Kupi" title="Wikipidia:Warung Kupi — Banjar" lang="bjn" hreflang="bjn">
+                  Bahasa Banjar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bm">
+                <a href="//bm.wikipedia.org/wiki/Wikipedia:Le_lavoir" title="Wikipedia:Le lavoir — bambara" lang="bm" hreflang="bm">
+                  Bamanankan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bn">
+                <a href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B8%E0%A6%AD%E0%A6%BE" title="???????????:?????????? ????????? — Bengali" lang="bn" hreflang="bn">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-br">
+                <a href="//br.wikipedia.org/wiki/Wikipedia:Kumuniezh/An_davarn" title="Wikipedia:Kumuniezh/An davarn — breton" lang="br" hreflang="br">
+                  Brezhoneg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bs">
+                <a href="//bs.wikipedia.org/wiki/Wikipedia:%C4%8Car%C5%A1ija" title="Wikipedia:?aršija — bosniaque" lang="bs" hreflang="bs">
+                  Bosanski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bug">
+                <a href="//bug.wikipedia.org/wiki/Wikipedia:Warung_Kopi" title="Wikipedia:Warung Kopi — bugi" lang="bug" hreflang="bug">
+                  ?? ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="//ca.wikipedia.org/wiki/Viquip%C3%A8dia:La_taverna" title="Viquipèdia:La taverna — catalan" lang="ca" hreflang="ca">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cbk-zam">
+                <a href="//cbk-zam.wikipedia.org/wiki/Wikipedia:Tambayan_De_Los_Chavacanos" title="Wikipedia:Tambayan De Los Chavacanos — Chavacano de Zamboanga" lang="cbk-zam" hreflang="cbk-zam">
+                  Chavacano de Zamboanga
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cdo">
+                <a href="//cdo.wikipedia.org/wiki/Wikipedia:Du%C3%A2i_ch%C3%A9u_%C3%A2" title="Wikipedia:Duâi chéu â — Min Dong Chinese" lang="cdo" hreflang="cdo">
+                  Mìng-d??ng-ng??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ceb">
+                <a href="//ceb.wikipedia.org/wiki/Wikipedia:Tubaan" title="Wikipedia:Tubaan — cebuano" lang="ceb" hreflang="ceb">
+                  Cebuano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-chr">
+                <a href="//chr.wikipedia.org/wiki/%E1%8F%AB%E1%8E%A9%E1%8F%87%E1%8F%97%E1%8F%AF:%E1%8E%BE%E1%8E%A5_%E1%8F%84%E1%8E%BE%E1%8F%93%E1%8E%B8_%E1%8E%BE%E1%8E%BF%E1%8E%A2" title="?????:?? ???? ??? — cherokee" lang="chr" hreflang="chr">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ckb">
+                <a href="//ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7:%D8%AF%DB%8C%D9%88%DB%95%D8%AE%D8%A7%D9%86" title="?????????:??????? — sorani" lang="ckb" hreflang="ckb">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-crh">
+                <a href="//crh.wikipedia.org/wiki/Vikipediya:Meydan" title="Vikipediya:Meydan — turc de Crimée" lang="crh" hreflang="crh">
+                  Q?r?mtatarca
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="//cs.wikipedia.org/wiki/Wikipedie:Pod_l%C3%ADpou" title="Wikipedie:Pod lípou — Cekkere" lang="cs" hreflang="cs">
+                  ?eština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-csb">
+                <a href="//csb.wikipedia.org/wiki/Wiki:Karczma" title="Wiki:Karczma — kachoube" lang="csb" hreflang="csb">
+                  Kaszëbsczi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cv">
+                <a href="//cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9A%D0%B0%D0%BD%D0%B0%D1%88%D0%BB%D1%83" title="????????:??????? — tchouvache" lang="cv" hreflang="cv">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cy">
+                <a href="//cy.wikipedia.org/wiki/Wicipedia:Y_Caffi" title="Wicipedia:Y Caffi — gallois" lang="cy" hreflang="cy">
+                  Cymraeg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-da">
+                <a href="//da.wikipedia.org/wiki/Wikipedia:Landsbybr%C3%B8nden" title="Wikipedia:Landsbybrønden — danois" lang="da" hreflang="da">
+                  Dansk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café — Docceere" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-dsb">
+                <a href="//dsb.wikipedia.org/wiki/Wikipedija:Portal" title="Wikipedija:Portal — bas-sorabe" lang="dsb" hreflang="dsb">
+                  Dolnoserbski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-el">
+                <a href="//el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%91%CE%B3%CE%BF%CF%81%CE%AC" title="???????????:????? — Gerke" lang="el" hreflang="el">
+                  ????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-en">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Village_pump" title="Wikipedia:Village pump — Engeleere" lang="en" hreflang="en">
+                  English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eo">
+                <a href="//eo.wikipedia.org/wiki/Vikipedio:Diskutejo" title="Vikipedio:Diskutejo — espéranto" lang="eo" hreflang="eo">
+                  Esperanto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café — Español" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-et">
+                <a href="//et.wikipedia.org/wiki/Vikipeedia:%C3%9Cldine_arutelu" title="Vikipeedia:Üldine arutelu — estonien" lang="et" hreflang="et">
+                  Eesti
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-eu">
+                <a href="//eu.wikipedia.org/wiki/Wikipedia:Txokoa" title="Wikipedia:Txokoa — basque" lang="eu" hreflang="eu">
+                  Euskara
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="//fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%82%D9%87%D9%88%D9%87%E2%80%8C%D8%AE%D8%A7%D9%86%D9%87" title="?????????:????????? — Perseere" lang="fa" hreflang="fa">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Wikipedia:Kahvihuone" title="Wikipedia:Kahvihuone — finnois" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fiu-vro">
+                <a href="//fiu-vro.wikipedia.org/wiki/Wikipedia:Arotus%C3%B5tar%C3%B5" title="Wikipedia:Arotusõtarõ — Võro" lang="fiu-vro" hreflang="fiu-vro">
+                  Võro
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fo">
+                <a href="//fo.wikipedia.org/wiki/Wikipedia:Undirh%C3%BAsi%C3%B0" title="Wikipedia:Undirhúsið — féroïen" lang="fo" hreflang="fo">
+                  Føroyskt
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Wikip%C3%A9dia:Le_Bistro" title="Wikipédia:Le Bistro — Farayseere" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-frp">
+                <a href="//frp.wikipedia.org/wiki/Vouiquip%C3%A8dia:Lo_C%C3%A2f%C3%A8_du_Vel%C3%A2jo" title="Vouiquipèdia:Lo Câfè du Velâjo — Franco-Provençal" lang="frp" hreflang="frp">
+                  Arpetan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-frr">
+                <a href="//frr.wikipedia.org/wiki/Wikipedia:Krouf" title="Wikipedia:Krouf — frison du Nord" lang="frr" hreflang="frr">
+                  Nordfriisk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fur">
+                <a href="//fur.wikipedia.org/wiki/Vichipedie:Ostarie" title="Vichipedie:Ostarie — frioulan" lang="fur" hreflang="fur">
+                  Furlan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fy">
+                <a href="//fy.wikipedia.org/wiki/Wikipedy:Oerlisside" title="Wikipedy:Oerlisside — frison occidental" lang="fy" hreflang="fy">
+                  Frysk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ga">
+                <a href="//ga.wikipedia.org/wiki/Vicip%C3%A9id:Halla_baile" title="Vicipéid:Halla baile — irlandais" lang="ga" hreflang="ga">
+                  Gaeilge
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gd">
+                <a href="//gd.wikipedia.org/wiki/Uicipeid:Talla_a%27_Bhaile" title="Uicipeid:Talla a' Bhaile — gaélique écossais" lang="gd" hreflang="gd">
+                  Gàidhlig
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gl">
+                <a href="//gl.wikipedia.org/wiki/Wikipedia:A_Taberna" title="Wikipedia:A Taberna — galicien" lang="gl" hreflang="gl">
+                  Galego
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gn">
+                <a href="//gn.wikipedia.org/wiki/Vikipet%C3%A3_myangek%C3%B5i:Tekohapegua" title="Vikipetã myangekõi:Tekohapegua — guarani" lang="gn" hreflang="gn">
+                  Avañe'?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-got">
+                <a href="//got.wikipedia.org/wiki/Wikipedia:%F0%90%8C%B1%F0%90%8C%B0%F0%90%8C%BF%F0%90%8D%82%F0%90%8C%B2%F0%90%8D%83_%F0%90%8C%B2%F0%90%8C%B0%F0%90%8D%85%F0%90%8C%B9" title="Wikipedia:?????? ???? — gotique" lang="got" hreflang="got">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gu">
+                <a href="//gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AA%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE:%E0%AA%9A%E0%AB%8B%E0%AA%A4%E0%AA%B0%E0%AB%8B" title="??????????:????? — gujarati" lang="gu" hreflang="gu">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ha">
+                <a href="//ha.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — Hawsa?koore" lang="ha" hreflang="ha">
+                  Hausa
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hak">
+                <a href="//hak.wikipedia.org/wiki/Wikipedia:Chh%C3%A2m-si%C3%B2ng" title="Wikipedia:Chhâm-siòng — Hakka" lang="hak" hreflang="hak">
+                  ???/Hak-kâ-ngî
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="//he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%9E%D7%96%D7%A0%D7%95%D7%9F" title="????????:????? — hébreu" lang="he" hreflang="he">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hi">
+                <a href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%9A%E0%A5%8C%E0%A4%AA%E0%A4%BE%E0%A4%B2" title="??????????:????? — Hinndi" lang="hi" hreflang="hi">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hr">
+                <a href="//hr.wikipedia.org/wiki/Wikipedija:Kafi%C4%87" title="Wikipedija:Kafi? — croate" lang="hr" hreflang="hr">
+                  Hrvatski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hsb">
+                <a href="//hsb.wikipedia.org/wiki/Wikipedija:Kor%C4%8Dma" title="Wikipedija:Kor?ma — haut-sorabe" lang="hsb" hreflang="hsb">
+                  Hornjoserbsce
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hu">
+                <a href="//hu.wikipedia.org/wiki/Wikip%C3%A9dia:Kocsmafal" title="Wikipédia:Kocsmafal — Hongariire" lang="hu" hreflang="hu">
+                  Magyar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hy">
+                <a href="//hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1:%D4%BD%D5%B8%D6%80%D5%B0%D6%80%D5%A4%D5%A1%D6%80%D5%A1%D5%B6" title="?????????:?????????? — arménien" lang="hy" hreflang="hy">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ia">
+                <a href="//ia.wikipedia.org/wiki/Wikipedia:Taverna" title="Wikipedia:Taverna — interlingua" lang="ia" hreflang="ia">
+                  Interlingua
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-id">
+                <a href="//id.wikipedia.org/wiki/Wikipedia:Warung_Kopi" title="Wikipedia:Warung Kopi — Endonesiire" lang="id" hreflang="id">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ie">
+                <a href="//ie.wikipedia.org/wiki/Wikipedia:Li_Trincatoria" title="Wikipedia:Li Trincatoria — interlingue" lang="ie" hreflang="ie">
+                  Interlingue
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ik">
+                <a href="//ik.wikipedia.org/wiki/Wikipedia:Qargi" title="Wikipedia:Qargi — inupiaq" lang="ik" hreflang="ik">
+                  Iñupiak
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ilo">
+                <a href="//ilo.wikipedia.org/wiki/Wikipedia:Dap-ayan" title="Wikipedia:Dap-ayan — ilokano" lang="ilo" hreflang="ilo">
+                  Ilokano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-is">
+                <a href="//is.wikipedia.org/wiki/Wikipedia:Potturinn" title="Wikipedia:Potturinn — islandais" lang="is" hreflang="is">
+                  Íslenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Wikipedia:Bar" title="Wikipedia:Bar — Italiyeere" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-iu">
+                <a href="//iu.wikipedia.org/wiki/%E1%90%85%E1%90%83%E1%91%AD%E1%90%B1%E1%91%8E%E1%90%8A:%E1%90%B9%E1%95%90%E1%93%82%E1%96%85" title="??????:???? — inuktitut" lang="iu" hreflang="iu">
+                  ??????/inuktitut
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="//ja.wikipedia.org/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="Wikipedia:??? — Saponeere" lang="ja" hreflang="ja">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-jv">
+                <a href="//jv.wikipedia.org/wiki/Wikipedia:Warung_Kopi" title="Wikipedia:Warung Kopi — Sawaneere" lang="jv" hreflang="jv">
+                  Basa Jawa
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ka">
+                <a href="//ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%A4%E1%83%9D%E1%83%A0%E1%83%A3%E1%83%9B%E1%83%98" title="?????????:?????? — géorgien" lang="ka" hreflang="ka">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kab">
+                <a href="//kab.wikipedia.org/wiki/Wikipedia:Tajma%C9%9Bt" title="Wikipedia:Tajma?t — kabyle" lang="kab" hreflang="kab">
+                  Taqbaylit
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ki">
+                <a href="//ki.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — kikuyu" lang="ki" hreflang="ki">
+                  G?k?y?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kk">
+                <a href="//kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="?????????:????? — kazakh" lang="kk" hreflang="kk">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kl">
+                <a href="//kl.wikipedia.org/wiki/Wikipedia:Katersortarfik" title="Wikipedia:Katersortarfik — groenlandais" lang="kl" hreflang="kl">
+                  Kalaallisut
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kn">
+                <a href="//kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%AA%E0%B3%80%E0%B2%A1%E0%B2%BF%E0%B2%AF:%E0%B2%85%E0%B2%B0%E0%B2%B3%E0%B2%BF_%E0%B2%95%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B3%86" title="?????????:???? ????? — kannada" lang="kn" hreflang="kn">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="//ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EB%9E%91%EB%B0%A9" title="????:??? — Koreere" lang="ko" hreflang="ko">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-krc">
+                <a href="//krc.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="?????????:????? — karatchaï balkar" lang="krc" hreflang="krc">
+                  ????????-???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ksh">
+                <a href="//ksh.wikipedia.org/wiki/Wikipedia:Op_dr_Eck" title="Wikipedia:Op dr Eck — francique ripuaire" lang="ksh" hreflang="ksh">
+                  Ripoarisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ku">
+                <a href="//ku.wikipedia.org/wiki/W%C3%AEk%C3%AEpediya:D%C3%AEwan" title="Wîkîpediya:Dîwan — kurde" lang="ku" hreflang="ku">
+                  Kurdî
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-kw">
+                <a href="//kw.wikipedia.org/wiki/Wikipedia:An_tavern" title="Wikipedia:An tavern — cornique" lang="kw" hreflang="kw">
+                  Kernowek
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-la">
+                <a href="//la.wikipedia.org/wiki/Vicipaedia:Taberna" title="Vicipaedia:Taberna — latin" lang="la" hreflang="la">
+                  Latina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lb">
+                <a href="//lb.wikipedia.org/wiki/Wikipedia:De_Staminee" title="Wikipedia:De Staminee — luxembourgeois" lang="lb" hreflang="lb">
+                  Lëtzebuergesch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lbe">
+                <a href="//lbe.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="?????????:?????? ?????????? — ?????" lang="lbe" hreflang="lbe">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lg">
+                <a href="//lg.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — ganda" lang="lg" hreflang="lg">
+                  Luganda
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-li">
+                <a href="//li.wikipedia.org/wiki/Wikipedia:De_kaffee" title="Wikipedia:De kaffee — limbourgeois" lang="li" hreflang="li">
+                  Limburgs
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lmo">
+                <a href="//lmo.wikipedia.org/wiki/Wikipedia:Purtaal_da_cum%C3%BCnitaa" title="Wikipedia:Purtaal da cumünitaa — lumbaart" lang="lmo" hreflang="lmo">
+                  Lumbaart
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ln">
+                <a href="//ln.wikipedia.org/wiki/Wikipedia:B%C3%ADs%C3%B3_na_b%C3%ADs%C3%B3" title="Wikipedia:Bísó na bísó — lingala" lang="ln" hreflang="ln">
+                  Lingála
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lo">
+                <a href="//lo.wikipedia.org/wiki/%E0%BA%A7%E0%BA%B4%E0%BA%81%E0%BA%B4%E0%BA%9E%E0%BA%B5%E0%BB%80%E0%BA%94%E0%BA%8D:Village_pump" title="?????????:Village pump — lao" lang="lo" hreflang="lo">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lt">
+                <a href="//lt.wikipedia.org/wiki/Vikipedija:Forumas" title="Vikipedija:Forumas — lituanien" lang="lt" hreflang="lt">
+                  Lietuvi?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ltg">
+                <a href="//ltg.wikipedia.org/wiki/Vikipedeja:D%C5%ABmu_meits" title="Vikipedeja:D?mu meits — Latgalian" lang="ltg" hreflang="ltg">
+                  Latga?u
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lv">
+                <a href="//lv.wikipedia.org/wiki/Vikip%C4%93dija:Kopienas_port%C4%81ls" title="Vikip?dija:Kopienas port?ls — letton" lang="lv" hreflang="lv">
+                  Latviešu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-map-bms">
+                <a href="//map-bms.wikipedia.org/wiki/Wikipedia:Dopokan" title="Wikipedia:Dopokan — Basa Banyumasan" lang="map-bms" hreflang="map-bms">
+                  Basa Banyumasan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mg">
+                <a href="//mg.wikipedia.org/wiki/Wikipedia:Dinika" title="Wikipedia:Dinika — malgache" lang="mg" hreflang="mg">
+                  Malagasy
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mi">
+                <a href="//mi.wikipedia.org/wiki/Wikipedia:K%C5%8Drero" title="Wikipedia:K?rero — maori" lang="mi" hreflang="mi">
+                  M?ori
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-min">
+                <a href="//min.wikipedia.org/wiki/Wikipedia:Kadai_Kopi" title="Wikipedia:Kadai Kopi — minangkabau" lang="min" hreflang="min">
+                  Baso Minangkabau
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mk">
+                <a href="//mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A1%D0%B5%D0%BB%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%88%D0%BC%D0%B0" title="??????????:?????? ????? — macédonien" lang="mk" hreflang="mk">
+                  ??????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ml">
+                <a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF:%E0%B4%AA%E0%B4%9E%E0%B5%8D%E0%B4%9A%E0%B4%BE%E0%B4%AF%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8D" title="???????????:?????????? — malayalam" lang="ml" hreflang="ml">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mn">
+                <a href="//mn.wikipedia.org/wiki/Wikipedia:%D0%A5%D1%83%D1%80%D0%B0%D0%BB" title="Wikipedia:????? — mongol" lang="mn" hreflang="mn">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mr">
+                <a href="//mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%9A%E0%A4%BE%E0%A4%B5%E0%A4%A1%E0%A5%80/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%97%E0%A4%A4%E0%A5%80" title="??????????:?????/?????? — marathe" lang="mr" hreflang="mr">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ms">
+                <a href="//ms.wikipedia.org/wiki/Wikipedia:Kedai_Kopi" title="Wikipedia:Kedai Kopi — Malayeere" lang="ms" hreflang="ms">
+                  Bahasa Melayu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-mt">
+                <a href="//mt.wikipedia.org/wiki/Wikipedija:Pjazza" title="Wikipedija:Pjazza — maltais" lang="mt" hreflang="mt">
+                  Malti
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-na">
+                <a href="//na.wikipedia.org/wiki/Wikipedia:Domaneab" title="Wikipedia:Domaneab — nauruan" lang="na" hreflang="na">
+                  Dorerin Naoero
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nah">
+                <a href="//nah.wikipedia.org/wiki/Huiquipedia:Tlecuitl" title="Huiquipedia:Tlecuitl — N?huatl" lang="nah" hreflang="nah">
+                  N?huatl
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nap">
+                <a href="//nap.wikipedia.org/wiki/Wikipedia:C%C3%ACrculo" title="Wikipedia:Cìrculo — napolitain" lang="nap" hreflang="nap">
+                  Napulitano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nds">
+                <a href="//nds.wikipedia.org/wiki/Wikipedia:Ik_bruuk_H%C3%BClp" title="Wikipedia:Ik bruuk Hülp — bas-allemand" lang="nds" hreflang="nds">
+                  Plattdüütsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nds-nl">
+                <a href="//nds-nl.wikipedia.org/wiki/Wikipedie:Praothoek" title="Wikipedie:Praothoek — Low Saxon (Netherlands)" lang="nds-NL" hreflang="nds-NL">
+                  Nedersaksies
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ne">
+                <a href="//ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%9A%E0%A5%8C%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A5%80" title="??????????:?????? — Nepaaleere" lang="ne" hreflang="ne">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="//nl.wikipedia.org/wiki/Wikipedia:De_kroeg" title="Wikipedia:De kroeg — Dacceere" lang="nl" hreflang="nl">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nn">
+                <a href="//nn.wikipedia.org/wiki/Wikipedia:Samfunnshuset" title="Wikipedia:Samfunnshuset — norvégien nynorsk" lang="nn" hreflang="nn">
+                  Norsk nynorsk
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="//no.wikipedia.org/wiki/Wikipedia:Tinget" title="Wikipedia:Tinget — norvégien" lang="no" hreflang="no">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ny">
+                <a href="//ny.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — nyanja" lang="ny" hreflang="ny">
+                  Chi-Chewa
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-oc">
+                <a href="//oc.wikipedia.org/wiki/Wikip%C3%A8dia:La_tav%C3%A8rna" title="Wikipèdia:La tavèrna — occitan" lang="oc" hreflang="oc">
+                  Occitan
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-os">
+                <a href="//os.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9D%D1%8B%D1%85%D0%B0%D1%81" title="????????:????? — ossète" lang="os" hreflang="os">
+                  ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pdc">
+                <a href="//pdc.wikipedia.org/wiki/Wikipedia:Gmeeschafts-Portal" title="Wikipedia:Gmeeschafts-Portal — Deitsch" lang="pdc" hreflang="pdc">
+                  Deitsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pfl">
+                <a href="//pfl.wikipedia.org/wiki/Wikipedia:Schdammdisch" title="Wikipedia:Schdammdisch — Pälzisch" lang="pfl" hreflang="pfl">
+                  Pälzisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pih">
+                <a href="//pih.wikipedia.org/wiki/Wikipedia:Trii%27nohlij" title="Wikipedia:Trii'nohlij — Norfuk / Pitkern" lang="pih" hreflang="pih">
+                  Norfuk / Pitkern
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="//pl.wikipedia.org/wiki/Wikipedia:Kawiarenka_pod_Weso%C5%82ym_Encyklopedyst%C4%85" title="Wikipedia:Kawiarenka pod Weso?ym Encyklopedyst? — Poloneere" lang="pl" hreflang="pl">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pnt">
+                <a href="//pnt.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%91%CE%B3%CE%BF%CF%81%CE%AC" title="???????????:????? — Pontic" lang="pnt" hreflang="pnt">
+                  ????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="//pt.wikipedia.org/wiki/Wikip%C3%A9dia:Esplanada" title="Wikipédia:Esplanada — Purtugeere" lang="pt" hreflang="pt">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-rm">
+                <a href="//rm.wikipedia.org/wiki/Wikipedia:La_pinta" title="Wikipedia:La pinta — romanche" lang="rm" hreflang="rm">
+                  Rumantsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-rmy">
+                <a href="//rmy.wikipedia.org/wiki/Vikipidiya:Maladipnasko_than_-_%E0%A4%AE%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%AA%E0%A5%8D%E0%A4%A8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8B_%E0%A4%A5%E0%A4%BE%E0%A4%A8" title="Vikipidiya:Maladipnasko than - ?????????????? ??? — Romani" lang="rmy" hreflang="rmy">
+                  Romani
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-rn">
+                <a href="//rn.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — roundi" lang="rn" hreflang="rn">
+                  Kirundi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ro">
+                <a href="//ro.wikipedia.org/wiki/Wikipedia:Cafenea" title="Wikipedia:Cafenea — Romaneere" lang="ro" hreflang="ro">
+                  Român?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-roa-rup">
+                <a href="//roa-rup.wikipedia.org/wiki/Wikipedia:F%C3%A3nt%C3%A3n%C3%A3" title="Wikipedia:Fãntãnã — Aromanian" lang="roa-rup" hreflang="roa-rup">
+                  Armãneashce
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="?????????:????? — Riis" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-rue">
+                <a href="//rue.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D0%BA%D0%BE%D0%BC%D1%83%D0%BD%D1%96%D1%82%D1%8B" title="?????????:?????? ???????? — Rusyn" lang="rue" hreflang="rue">
+                  ??????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sa">
+                <a href="//sa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%AA%E0%A4%AE%E0%A5%8D" title="??????????:???????????? — sanskrit" lang="sa" hreflang="sa">
+                  ?????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sah">
+                <a href="//sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BF%D0%B8%D1%8D%D0%B4%D1%8C%D0%B8%D0%B9%D1%8D:%D0%9A%D1%8D%D0%BF%D1%81%D1%8D%D1%82%D1%8D%D1%80_%D1%81%D0%B8%D1%80" title="????????????:???????? ??? — iakoute" lang="sah" hreflang="sah">
+                  ???? ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sc">
+                <a href="//sc.wikipedia.org/wiki/Wikipedia:Tzilleri" title="Wikipedia:Tzilleri — sarde" lang="sc" hreflang="sc">
+                  Sardu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-scn">
+                <a href="//scn.wikipedia.org/wiki/Wikipedia:Circulu" title="Wikipedia:Circulu — sicilien" lang="scn" hreflang="scn">
+                  Sicilianu
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sco">
+                <a href="//sco.wikipedia.org/wiki/Wikipedia:Mercat_Cross" title="Wikipedia:Mercat Cross — écossais" lang="sco" hreflang="sco">
+                  Scots
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-se">
+                <a href="//se.wikipedia.org/wiki/Wikipedia:G%C3%A1ffestohpu" title="Wikipedia:Gáffestohpu — sami du Nord" lang="se" hreflang="se">
+                  Sámegiella
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sg">
+                <a href="//sg.wikipedia.org/wiki/Wikipedia:Da_t%C3%AE_lisoro" title="Wikipedia:Da tî lisoro — sangho" lang="sg" hreflang="sg">
+                  Sängö
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sh">
+                <a href="//sh.wikipedia.org/wiki/Wikipedia:Pijaca-%D0%9F%D0%B8%D1%98%D0%B0%D1%86%D0%B0" title="Wikipedia:Pijaca-?????? — serbo-croate" lang="sh" hreflang="sh">
+                  Srpskohrvatski / ??????????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-si">
+                <a href="//si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B7%92_%E0%B6%9A%E0%B6%A9%E0%B7%9A" title="??????????:???? ??? — cinghalais" lang="si" hreflang="si">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-simple">
+                <a href="//simple.wikipedia.org/wiki/Wikipedia:Simple_talk" title="Wikipedia:Simple talk — Simple English" lang="simple" hreflang="simple">
+                  Simple English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sk">
+                <a href="//sk.wikipedia.org/wiki/Wikip%C3%A9dia:Kr%C4%8Dma" title="Wikipédia:Kr?ma — slovaque" lang="sk" hreflang="sk">
+                  Sloven?ina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sl">
+                <a href="//sl.wikipedia.org/wiki/Wikipedija:Pod_lipo" title="Wikipedija:Pod lipo — slovène" lang="sl" hreflang="sl">
+                  Slovenš?ina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sm">
+                <a href="//sm.wikipedia.org/wiki/Wikipedia:Puso_o_le_%CA%BBa%CA%BBai" title="Wikipedia:Puso o le ?a?ai — samoan" lang="sm" hreflang="sm">
+                  Gagana Samoa
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sn">
+                <a href="//sn.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — shona" lang="sn" hreflang="sn">
+                  ChiShona
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-so">
+                <a href="//so.wikipedia.org/wiki/Wikipedia:Goob" title="Wikipedia:Goob — Somalii" lang="so" hreflang="so">
+                  Soomaaliga
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sq">
+                <a href="//sq.wikipedia.org/wiki/Wikipedia:Kuvendi" title="Wikipedia:Kuvendi — albanais" lang="sq" hreflang="sq">
+                  Shqip
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sr">
+                <a href="//sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%A2%D1%80%D0%B3" title="??????????:??? — serbe" lang="sr" hreflang="sr">
+                  ?????? / srpski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-srn">
+                <a href="//srn.wikipedia.org/wiki/Wikipedia:Singi_nanga_Spoto_Uku" title="Wikipedia:Singi nanga Spoto Uku — sranan tongo" lang="srn" hreflang="srn">
+                  Sranantongo
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ss">
+                <a href="//ss.wikipedia.org/wiki/Wikipedia:Likhefi_leinthanethi" title="Wikipedia:Likhefi leinthanethi — swati" lang="ss" hreflang="ss">
+                  SiSwati
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-st">
+                <a href="//st.wikipedia.org/wiki/Wikipedia:Potjho_e_kopano" title="Wikipedia:Potjho e kopano — sesotho" lang="st" hreflang="st">
+                  Sesotho
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-su">
+                <a href="//su.wikipedia.org/wiki/Wikipedia:Sawala" title="Wikipedia:Sawala — soundanais" lang="su" hreflang="su">
+                  Basa Sunda
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Wikipedia:Bybrunnen" title="Wikipedia:Bybrunnen — Sweedeere" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sw">
+                <a href="//sw.wikipedia.org/wiki/Wikipedia:Jumuia" title="Wikipedia:Jumuia — swahili" lang="sw" hreflang="sw">
+                  Kiswahili
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-szl">
+                <a href="//szl.wikipedia.org/wiki/Wikipedyjo:Sztamtisz" title="Wikipedyjo:Sztamtisz — Silesian" lang="szl" hreflang="szl">
+                  ?l?nski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ta">
+                <a href="//ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%86%E0%AE%B2%E0%AE%AE%E0%AE%B0%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%9F%E0%AE%BF" title="??????????????:????????? — Tamil" lang="ta" hreflang="ta">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-te">
+                <a href="//te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B0%E0%B0%9A%E0%B1%8D%E0%B0%9A%E0%B0%AC%E0%B0%82%E0%B0%A1" title="??????????:??????? — télougou" lang="te" hreflang="te">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tet">
+                <a href="//tet.wikipedia.org/wiki/Wikipedia:Kaf%C3%A9" title="Wikipedia:Kafé — tetum" lang="tet" hreflang="tet">
+                  Tetun
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tg">
+                <a href="//tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0:%D2%9A%D0%B0%D2%B3%D0%B2%D0%B0%D1%85%D0%BE%D0%BD%D0%B0" title="?????????:????????? — tadjik" lang="tg" hreflang="tg">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-th">
+                <a href="//th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99" title="??????????:????????? — Taay" lang="th" hreflang="th">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tl">
+                <a href="//tl.wikipedia.org/wiki/Wikipedia:Kapihan" title="Wikipedia:Kapihan — tagalog" lang="tl" hreflang="tl">
+                  Tagalog
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tr">
+                <a href="//tr.wikipedia.org/wiki/Vikipedi:K%C3%B6y_%C3%A7e%C5%9Fmesi" title="Vikipedi:Köy çe?mesi — Turkeere" lang="tr" hreflang="tr">
+                  Türkçe
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tum">
+                <a href="//tum.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — tumbuka" lang="tum" hreflang="tum">
+                  ChiTumbuka
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-tw">
+                <a href="//tw.wikipedia.org/wiki/Wikipedia:Community_Portal" title="Wikipedia:Community Portal — twi" lang="tw" hreflang="tw">
+                  Twi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="//uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0" title="?????????:?????? — Ukereneere" lang="uk" hreflang="uk">
+                  ??????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ur">
+                <a href="//ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7:%D8%AF%DB%8C%D9%88%D8%A7%D9%86_%D8%B9%D8%A7%D9%85" title="?????????:????? ??? — Urdu" lang="ur" hreflang="ur">
+                  ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uz">
+                <a href="//uz.wikipedia.org/wiki/Vikipediya:Forum" title="Vikipediya:Forum — ouzbek" lang="uz" hreflang="uz">
+                  O?zbekcha
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vec">
+                <a href="//vec.wikipedia.org/wiki/Wikipedia:Ci%C3%A0co%C5%82e" title="Wikipedia:Ciàco?e — vèneto" lang="vec" hreflang="vec">
+                  Vèneto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="//vi.wikipedia.org/wiki/Wikipedia:Th%E1%BA%A3o_lu%E1%BA%ADn" title="Wikipedia:Th?o lu?n — Wiyetnameere" lang="vi" hreflang="vi">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vls">
+                <a href="//vls.wikipedia.org/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café — West-Vlams" lang="vls" hreflang="vls">
+                  West-Vlams
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vo">
+                <a href="//vo.wikipedia.org/wiki/V%C3%BCkiped:Kafetar" title="Vükiped:Kafetar — volapuk" lang="vo" hreflang="vo">
+                  Volapük
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-wa">
+                <a href="//wa.wikipedia.org/wiki/Wikipedia:C%C3%A5baret" title="Wikipedia:Cåbaret — wallon" lang="wa" hreflang="wa">
+                  Walon
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-war">
+                <a href="//war.wikipedia.org/wiki/Wikipedia:Harampangan" title="Wikipedia:Harampangan — waray" lang="war" hreflang="war">
+                  Winaray
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-wo">
+                <a href="//wo.wikipedia.org/wiki/Wikipedia:P%C3%A9nc_mi" title="Wikipedia:Pénc mi — wolof" lang="wo" hreflang="wo">
+                  Wolof
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-wuu">
+                <a href="//wuu.wikipedia.org/wiki/Wikipedia:%E7%BA%A2%E8%8C%B6%E5%9D%8A" title="Wikipedia:??? — Wu" lang="wuu" hreflang="wuu">
+                  ??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-yi">
+                <a href="//yi.wikipedia.org/wiki/%D7%B0%D7%99%D7%A7%D7%99%D7%A4%D6%BC%D7%A2%D7%93%D7%99%D7%A2:%D7%A7%D7%90%D7%95%D7%95%D7%A2_%D7%A9%D7%98%D7%99%D7%91%D7%9C" title="??????????:????? ????? — yiddish" lang="yi" hreflang="yi">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-yo">
+                <a href="//yo.wikipedia.org/wiki/Wikipedia:Ab%E1%BA%B9%CC%81_igi" title="Wikipedia:Ab?? igi — Yorrubaa" lang="yo" hreflang="yo">
+                  Yorùbá
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zea">
+                <a href="//zea.wikipedia.org/wiki/Wikipedia:Durpsuus" title="Wikipedia:Durpsuus — Zeeuws" lang="zea" hreflang="zea">
+                  Zeêuws
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="//zh.wikipedia.org/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="Wikipedia:???? — Sinuwaare" lang="zh" hreflang="zh">
+                  ??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-classical">
+                <a href="//zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E6%9C%83%E9%A4%A8" title="????:?? — Classical Chinese" lang="zh-classical" hreflang="zh-classical">
+                  ??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-min-nan">
+                <a href="//zh-min-nan.wikipedia.org/wiki/Wikipedia:Chhi%C5%AB-%C3%A1-kha" title="Wikipedia:Chhi?-á-kha — Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">
+                  Bân-lâm-gú
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-yue">
+                <a href="//zh-yue.wikipedia.org/wiki/Wikipedia:%E5%9F%8E%E5%B8%82%E8%AB%96%E5%A3%87" title="Wikipedia:???? — Cantonese" lang="zh-yue" hreflang="zh-yue">
+                  ??
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/Wikipedia:Dawirgol_suturo" title="Wikipedia:Dawirgol suturo">
+            Dawirgol suturo
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:Ba%C9%97te" title="Wikipedia:Ba?te">
+            Ba?te Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:Deentine_kuu%C9%93tidin%C9%97e" title="Wikipedia:Deentine kuu?tidin?e">
+            Deentine
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Développeurs
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//ff.m.wikipedia.org/w/index.php?title=Wikipedia:Accueil&amp;wpAntispam=&amp;wpSection=58&amp;wpStarttime=20140611183658&amp;wpEdittime=20140523213000&amp;wpScrolltop=&amp;wpAutoSummary=9b3e4af590c5bff61dd0c9c809aca5b3&amp;oldid=0&amp;format=text%2Fx-wiki&amp;model=wikitext&amp;wpTextbox1=%3D%3D+%5Ben%5D+Change+to+wiki+account+system+and+account+renaming+%3D%3D%0D%0A%0D%0A%3Cdiv+class%3D%22mw-content-ltr%22%3E%0D%0ASome+accounts+will+soon+be+renamed+due+to+a+technical+change+that+the+developer+team+at+Wikimedia+are+making.+%5B%5Bm%3ASingle+User+Login+finalisation+announcement%7CMore+details+on+Meta%5D%5D.%0D%0A%0D%0A%3Csmall%3E%28Distributed+via+%5B%5Bm%3Aglobal+message+delivery%7Cglobal+message+delivery%5D%5D+30+See%3Fto+2013+%EF%BF%BD+03%3A34+%28UTC%29.+Wrong+page%3F+%5B%5Bm%3ADistribution+list%2FGlobal+message+delivery%7CCorrect+it+here%5D%5D.%29%3C%2Fsmall%3E%0D%0A%3C%2Fdiv%3E%0D%0A%3C%21--+EdwardsBot+0437+--%3E%0D%0A&amp;wpSummary=coffee&amp;wpPreview=Hollu+jiytol&amp;wpTemplateSandboxTemplate=Wikipedia%3AAccueil&amp;wpTemplateSandboxPage=&amp;wpEditToken=%2B%5C&amp;action=submit" class="noprint stopMobileRedirectToggle">
+            Affichage mobile
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.action.edit.editWarning","ext.math.editbutton.enabler","mediawiki.action.edit.collapsibleFooter","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_bold.png","Texte gras","'''","'''","Binndol ?uutol","mw-editbutton-bold");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_italic.png","Binndol italic","''","''","Binndol italic","mw-editbutton-italic");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_link.png","Lien interne","[[","]]","Titre du lien","mw-editbutton-link");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_extlink.png","Jokkol boowbowal (siiftor pu??ol http://)","[","]","http://www.yeru.com tiitoonde jokkol","mw-editbutton-extlink");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_headline.png","Sous-titre niveau 2","\n== "," ==\n","Binndol tiitoonde","mw-editbutton-headline");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_image.png","Fiilde soomtoraande","[[Fichier:","]]","Exemple.jpg","mw-editbutton-image");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_media.png","Lien vers un fichier média","[[Média:","]]","Exemple.ogg","mw-editbutton-media");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_nowiki.png","Faalkiso mbaydingol wiki","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Naatnu binndol ngol mbaydinaaka","mw-editbutton-nowiki");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_sig.png","Ciifol maa kañum e ñalngu","--~~~~","","","mw-editbutton-signature");mw.toolbar.addButton("//bits.wikimedia.org/static-1.24wmf7/skins/common/images/button_hr.png","Diidol lelingol (huutoro see?a)","\n----\n","","","mw-editbutton-hr");
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/ff.wikipedia.org/load.php?debug=false&amp;lang=ff&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":719,"wgHostname":"mw1164"});
+}
+//]]>
+    </script>
+  </body>
+</html>

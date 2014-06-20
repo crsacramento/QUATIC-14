@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      shirt - Search results - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=shirt&amp;fulltext=Search"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.special%2Cui%7Cmediawiki.special.search%7Cmediawiki.ui.button%7Cmw.PopUpMediaTransform%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Special:Search","wgTitle":"Search","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Special:Search","wgIsProbablyEditable":false,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns--1 ns-special mw-special-Search page-Special_Search skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Search results
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <div class="mw-specialpage-summary">
+            <p>
+              For search options, see 
+              <a href="/wiki/Help:Searching" title="Help:Searching">
+                Help:Searching
+              </a>
+              . To change the 
+              <a href="/wiki/Wikipedia:Namespace" title="Wikipedia:Namespace">
+                namespaces
+              </a>
+               you search in by default, set 
+              <a href="/wiki/Special:Preferences#mw-prefsection-searchoptions" title="Special:Preferences">
+                your search preferences
+              </a>
+              .
+
+            </p>
+          </div>
+          <form id="search" method="get" action="/w/index.php">
+            <div id="mw-search-top-table">
+              <input type="hidden" value="Special:Search" name="title"/>
+              <input type="hidden" value="default" name="profile"/>
+              <input id="searchText" size="50" autofocus="" class="mw-ui-input" type="search" value="shirt" name="search"/>
+              <input type="hidden" value="Search" name="fulltext"/>
+              <input type="submit" value="Search" class="mw-ui-button mw-ui-progressive"/>
+            </div>
+            <div class="mw-search-formheader">
+              <div class="search-types">
+                <ul>
+                  <li class="current">
+                    <a href="/w/index.php?title=Special:Search&amp;search=shirt&amp;fulltext=Search&amp;profile=default" title="Search in (Article)">
+                      Content pages
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=shirt&amp;fulltext=Search&amp;profile=images" title="Search for files">
+                      Multimedia
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=shirt&amp;fulltext=Search&amp;profile=all" title="Search all of content (including talk pages)">
+                      Everything
+                    </a>
+                  </li>
+                  <li class="normal">
+                    <a href="/w/index.php?title=Special:Search&amp;search=shirt&amp;fulltext=Search&amp;profile=advanced" title="Search in custom namespaces">
+                      Advanced
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div class="results-info">
+                <ul>
+                  <li>
+                    Results 
+                    <b>
+                      1–50
+                    </b>
+                     of 
+                    <b>
+                      29,079
+                    </b>
+                     for 
+                    <b>
+                      shirt
+                    </b>
+                  </li>
+                </ul>
+              </div>
+              <div style="clear:both">
+              </div>
+            </div>
+          </form>
+          <div class="searchresults">
+            <p class="mw-search-createlink">
+              <b>
+                There is a page named "
+                <a href="/wiki/Shirt" title="Shirt">
+                  Shirt
+                </a>
+                " on Wikipedia
+              </b>
+            </p>
+            <ul class="mw-search-results">
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shirt" title="Shirt">
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a cloth garment for the upper body.  Originally an undergarment  worn exclusively by men, it has become, in American English , a 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  17 KB (2,574 words) - 00:36, 3 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/T-shirt" title="T-shirt">
+                    T-
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   (or T 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , tee-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , or tee) is a style of 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   .  A T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  's defining characteristic is the T shape made with the body and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  19 KB (2,732 words) - 15:48, 2 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Dress_shirt" title="Dress shirt">
+                    Dress 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , button 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , dress 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , button-front, button-front 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , or button-up 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a garment with a collar , and a full-length  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  22 KB (3,493 words) - 23:06, 5 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Kit_(association_football)" title="Kit (association football)">
+                    Kit (association football)
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Shirt_sponsor" title="Shirt sponsor">
+                      <span class="searchmatch">
+                        Shirt
+                      </span>
+                       sponsor
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  Individual competitions may stipulate further restrictions, such as regulating the size of logos displayed on 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   and stating that, in  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  50 KB (7,535 words) - 10:40, 5 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Number_(sports)" title="Number (sports)">
+                    Number (sports)
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Shirt_number" title="Shirt number">
+                      <span class="searchmatch">
+                        Shirt
+                      </span>
+                       number
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  In team  sports, the number, often referred to as the uniform number, squad number, jersey number, 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   number, sweater number, or similar 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  44 KB (7,023 words) - 01:25, 3 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Jersey_(clothing)" title="Jersey (clothing)">
+                    Jersey (clothing)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Alternatively, a jersey as used in sport  is a 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    worn by a member of a team, typically depicting the athlete 's name and team number  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (447 words) - 12:24, 8 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Squad_number_(association_football)" title="Squad number (association football)">
+                    Squad number (association football)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Second-choice goalkeeper wears, on many occasions, 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   number 12, which is the first 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   of the second line up, or number 13.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  29 KB (4,203 words) - 15:02, 9 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Hockey_jersey" title="Hockey jersey">
+                    Hockey jersey
+                  </a>
+                </div>
+                <div class="searchresult">
+                  National Hockey League (NHL) sweaters | NHL uniform date July 2009 date July 2009 File:Maillot EDF avant. jpg | Front of the France  national 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (389 words) - 01:48, 14 May 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Polo_shirt" title="Polo shirt">
+                    Polo 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A polo 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , also known as a golf 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   and tennis 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , is a form of 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   with a collar, a placket  with typically two or three buttons 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  12 KB (1,702 words) - 02:53, 3 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Aloha_shirt" title="Aloha shirt">
+                    Aloha 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Aloha 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , commonly referred to as a Hawaiian 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , is a style of dress 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   originating in Hawaii .  It is currently the premier  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  16 KB (2,312 words) - 20:03, 5 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Sleeveless_shirt" title="Sleeveless shirt">
+                    Sleeveless 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A sleeveless 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    manufactured without sleeve s, or one whose sleeves have been cut off.  Sleeveless 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   are worn by either 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (950 words) - 09:39, 12 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Poet_shirt" title="Poet shirt">
+                    Poet 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A poet 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   (also known as a poet blouse or pirate 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  ) is a type of 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    made as a loose-fitting blouse  with full bishop sleeves ,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (691 words) - 22:00, 1 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Rugby_shirt" title="Rugby shirt">
+                    Rugby 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A rugby 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , often referred to as a rugby jersey  or jumper is a 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    worn by players of rugby union  or rugby league .  It usually has 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  4 KB (559 words) - 13:55, 5 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shirt_Tales" title="Shirt Tales">
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     Tales
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   Tales are characters that were created in 1980 by greeting card designer Janet Elizabeth Manco and were featured on Hallmark Cards   
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  11 KB (1,383 words) - 01:57, 30 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Grandfather_shirt" title="Grandfather shirt">
+                    Grandfather 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A Grandfather 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   or Granddad 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a long-sleeved flannel  or brushed cotton  collarless 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   worn throughout Ireland .  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  2 KB (211 words) - 16:14, 12 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shirt_stud" title="Shirt stud">
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     stud
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   stud is a decorative fastener  that fits onto a buttonhole  on the front of a pleat ed 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   , or onto the starched bib of a stiff- 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  1 KB (216 words) - 23:22, 14 March 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Bench_shirt" title="Bench shirt">
+                    Bench 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A bench 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a stiff supportive 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   , used to improve performance in the bench press , most often in powerlifting  competitions.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (343 words) - 20:31, 28 November 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shirt_of_Nessus" title="Shirt of Nessus">
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     of Nessus
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   of Nessus, Tunic of Nessus, Nessus-robe, or Nessus' 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   in Greek mythology  was the poisoned 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   that killed Heracles .  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  11 KB (1,715 words) - 12:25, 28 November 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Collar_(clothing)" title="Collar (clothing)">
+                    Collar (clothing)
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Shirt_collar" title="Shirt collar">
+                      <span class="searchmatch">
+                        Shirt
+                      </span>
+                       collar
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  In clothing , a collar is the part of a 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   , dress , coat  or blouse  that fastens around or frames the neck .  Among clothing  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  19 KB (2,540 words) - 22:41, 27 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Red_Shirts_(Southern_United_States)" title="Red Shirts (Southern United States)">
+                    Red 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                     (Southern United States)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Red 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   or Redshirts of the Southern United States  were European-American  paramilitary  groups that were active in the late 19th  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  24 KB (3,460 words) - 16:57, 14 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Iron_shirt" title="Iron shirt">
+                    Iron 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Iron 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   (traditional Chinese: ?  ? ; simplified Chinese: ?  ? ; pinyin: ti? sh?n; Cantonese: tit1 saam3) is a form of hard  style  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (737 words) - 13:04, 2 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Shirt_stays" title="Shirt stays">
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     stays
+                  </a>
+                </div>
+                <div class="searchresult">
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   stays (or 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   garters) are elastic  straps that connect the bottom of a dress 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    to the socks or feet.  There are two main  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  1 KB (192 words) - 11:49, 23 April 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Ghost_shirt" title="Ghost shirt">
+                    Ghost 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Ghost 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   are 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   or other clothing items created by Ghost dance rs and thought to be imbued with spiritual powers. Ghost 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                  ,  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  2 KB (340 words) - 02:40, 6 January 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Gold_shirts" title="Gold shirts">
+                    Gold 
+                    <span class="searchmatch">
+                      shirts
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  better known as the Gold 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   (Camisas Doradas), was a Mexican  fascist  paramilitary organization in the 1930s. History: The group was  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (416 words) - 04:22, 24 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Crop_top" title="Crop top">
+                    Crop top
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Belly_shirt" title="Belly shirt">
+                      Belly 
+                      <span class="searchmatch">
+                        shirt
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  A crop top (also cropped top, belly 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , half 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , midriff 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , midriff top, tummy top, short 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  , and cutoff 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  ) is a T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  7 KB (982 words) - 21:04, 9 June 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Henley_shirt" title="Henley shirt">
+                    Henley 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A Henley 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a collarless men's pullover 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   , characterized by a 10 | cm | in | adj mid | long placket  beneath the round neckline 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  2 KB (284 words) - 04:09, 12 January 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Kariyushi_shirt" title="Kariyushi shirt">
+                    Kariyushi 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Kariyushi 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   (Okinawan  ????, meaning "harmony" or "happiness") is a style of dress 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   originating in Okinawa , similar to an  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (980 words) - 12:14, 10 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Red_Shirt_(Oglala)" title="Red Shirt (Oglala)">
+                    Red 
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     (Oglala)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  One account is that Red 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   is the son of a white man and a Lakota mother Another account, by Red 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                  , is that he was the son of a  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  33 KB (5,361 words) - 02:54, 20 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Wet_T-shirt_contest" title="Wet T-shirt contest">
+                    Wet T-
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                     contest
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A wet T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   contest is an exhibitionistic  competition  typically featuring young women contestants at a nightclub, bar, or resort.  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  7 KB (1,066 words) - 19:14, 26 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Madiba_shirt" title="Madiba shirt">
+                    Madiba 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A Madiba 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a batik  silk  
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   , usually adorned in a bright and colourful print.  nickname for batik 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   in South Africa , being  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  1 KB (175 words) - 13:56, 23 January 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Bowling_shirt" title="Bowling shirt">
+                    Bowling 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A bowling 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a men's 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   that resembles an aloha 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    in construction, but not appearance, typically being more conservative and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  791 B (114 words) - 08:21, 29 February 2012
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/The_Puffy_Shirt" title="The Puffy Shirt">
+                    The Puffy 
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  "The Puffy 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                  " is the second episode of the fifth season  of the American  NBC  sitcom  Seinfeld .  It was the 66th episode and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (807 words) - 00:31, 25 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Yellow_Shirts" title="Yellow Shirts">
+                    Yellow 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Yellow 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   may refer to: People's Alliance for Democracy  or Yellow 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                  , a Thai movement protesting against Thaksin Shinawatra  and  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  407 B (57 words) - 16:32, 4 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Blue_Shirts_Society" title="Blue Shirts Society">
+                    Blue 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                     Society
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Blue 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   Society (???, commonly abbreviated as BSS) also known as the Society of Practice of the Three Principles of the People  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  31 KB (5,114 words) - 09:12, 19 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Crazy_Shirts" title="Crazy Shirts">
+                    Crazy 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Established in 1964, Honolulu -based Crazy 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   is among the first companies in the Hawaiian Islands  to design, manufacture and sell T- 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  12 KB (1,751 words) - 21:04, 29 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/T-Shirt_(song)" title="T-Shirt (song)">
+                    T-
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     (song)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  "T-
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                  " is the first solo single released by Barbadian  singer Shontelle  from her album Shontelligence  (2008).  It is her second  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  8 KB (1,129 words) - 21:53, 25 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Camp_shirt" title="Camp shirt">
+                    Camp 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A camp 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a loose, straight-cut, short-sleeved 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    or blouse  with a simple placket front opening and a "camp collar" - a one-piece 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  1 KB (158 words) - 22:40, 12 March 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Blue_Shirts" title="Blue Shirts">
+                    Blue 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The term "Blue 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                  ", when used by itself, can refer to several organizations, mostly fascist organizations found in the 1920s and 1930s. 
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  1 KB (135 words) - 02:25, 17 February 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/The_Shirts" title="The Shirts">
+                    The 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   are a New York -based American  power pop  band , which was formed in 1975.  The band’s early existence (1975 to 1981) was  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (1,113 words) - 14:45, 17 October 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Waving_the_bloody_shirt" title="Waving the bloody shirt">
+                    Waving the bloody 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  In the history of the United States , "waving the bloody 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  " refers to the practice of politicians making reference to the blood of  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  2 KB (278 words) - 03:20, 18 November 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Ringer_T-shirt" title="Ringer T-shirt">
+                    Ringer T-
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A ringer T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    in which the jersey 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   fabric is one color, but the ribbing used for the collar and the sleeve bands are  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  925 B (154 words) - 17:48, 20 August 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Concert_T-shirt" title="Concert T-shirt">
+                    Concert T-
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A concert T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    that is associated with a concert  or a concert tour , usually rock  or metal . Band s and musical groups  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (519 words) - 23:09, 29 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Garibaldi_shirt" title="Garibaldi shirt">
+                    Garibaldi 
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A Garibaldi 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   (also called "Garibaldi jacket" or "Camicia rossa") was a woman's fashion, a red wool 
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   named after the Italian  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  4 KB (557 words) - 13:36, 29 June 2013
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Ten_Shekel_Shirt" title="Ten Shekel Shirt">
+                    Ten Shekel 
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Ten Shekel 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   is a rock band based in New Haven, CT .  The band was founded by Lamont Hiebert , and currently consists of Hiebert along  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (326 words) - 03:14, 28 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Red_Shirts_(film)" title="Red Shirts (film)">
+                    Red 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                     (film)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  Red 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   (Italian:Camicie rosse) is a 1952 French-Italian historical  drama film directed by Goffredo Alessandrini  and Francesco Rosi   
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  3 KB (307 words) - 23:11, 24 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Printed_T-shirt" title="Printed T-shirt">
+                    Printed T-
+                    <span class="searchmatch">
+                      shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  A Printed T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   is a T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                    bearing a design, image or lettering on it.  Various types of printed T-
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   exist. File:T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (861 words) - 23:08, 29 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Red_Shirts_(Mexico)" title="Red Shirts (Mexico)">
+                    Red 
+                    <span class="searchmatch">
+                      Shirts
+                    </span>
+                     (Mexico)
+                  </a>
+                </div>
+                <div class="searchresult">
+                  The Red 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                   (Camisas Rojas) were a paramilitary organization, existing in the 1930s, founded by the virulently anti-Catholic , atheist  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  8 KB (1,102 words) - 21:03, 13 January 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/Silver_Legion_of_America" title="Silver Legion of America">
+                    Silver Legion of America
+                  </a>
+                  <span class="searchalttitle">
+                    (redirect from 
+                    <a href="/wiki/Silver_Shirts" title="Silver Shirts">
+                      Silver 
+                      <span class="searchmatch">
+                        Shirts
+                      </span>
+                    </a>
+                    )
+                  </span>
+                </div>
+                <div class="searchresult">
+                  The Silver Legion of America, commonly known as the Silver 
+                  <span class="searchmatch">
+                    Shirts
+                  </span>
+                  , was an underground American  fascist  organization founded by William  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (861 words) - 22:35, 24 April 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/T-Shirt_Hell" title="T-Shirt Hell">
+                    T-
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                     Hell
+                  </a>
+                </div>
+                <div class="searchresult">
+                  T-
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   Hell is a website that sells humor T-
+                  <span class="searchmatch">
+                    shirt
+                  </span>
+                   s.  The company is known for producing 
+                  <span class="searchmatch">
+                    shirts
+                  </span>
+                   that cause controversy due to the  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  6 KB (875 words) - 04:05, 26 May 2014
+                </div>
+              </li>
+              <li>
+                <div class="mw-search-result-heading">
+                  <a href="/wiki/State_Shirt" title="State Shirt">
+                    State 
+                    <span class="searchmatch">
+                      Shirt
+                    </span>
+                  </a>
+                </div>
+                <div class="searchresult">
+                  State 
+                  <span class="searchmatch">
+                    Shirt
+                  </span>
+                   is Ethan Tufts, an American  songwriter, composer and multi-instrumentalist from Easthampton, Massachusetts .  He is known for  
+                  <b>
+                    ...
+                  </b>
+                </div>
+                <div class="mw-search-result-data">
+                  5 KB (602 words) - 15:26, 18 July 2013
+                </div>
+              </li>
+            </ul>
+          </div>
+          <p class="mw-search-pager-bottom">
+            View (previous 50 |  
+            <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=50&amp;profile=default&amp;search=shirt" title="Next 50 results" class="mw-nextlink">
+              next 50
+            </a>
+            ) (
+            <a href="/w/index.php?title=Special:Search&amp;limit=20&amp;offset=0&amp;profile=default&amp;search=shirt" title="Show 20 results per page" class="mw-numlink">
+              20
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=50&amp;offset=0&amp;profile=default&amp;search=shirt" title="Show 50 results per page" class="mw-numlink">
+              50
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=100&amp;offset=0&amp;profile=default&amp;search=shirt" title="Show 100 results per page" class="mw-numlink">
+              100
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=250&amp;offset=0&amp;profile=default&amp;search=shirt" title="Show 250 results per page" class="mw-numlink">
+              250
+            </a>
+             | 
+            <a href="/w/index.php?title=Special:Search&amp;limit=500&amp;offset=0&amp;profile=default&amp;search=shirt" title="Show 500 results per page" class="mw-numlink">
+              500
+            </a>
+            )
+          </p>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/wiki/Special:Search">
+            http://en.wikipedia.org/wiki/Special:Search
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=profile%3Ddefault%26search%3Dshirt%26fulltext%3DSearch&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Special%3ASearch&amp;returntoquery=profile%3Ddefault%26search%3Dshirt%26fulltext%3DSearch" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span>
+                  <a href="/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=shirt&amp;fulltext=Search" title="This is a special page which you cannot edit">
+                    Special page
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" value="shirt" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Special:Search&amp;profile=default&amp;search=shirt&amp;fulltext=Search&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">
+                  Printable version
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Special:Search&amp;profile=default&amp;search=shirt&amp;fulltext=Search" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"mw.PopUpMediaTransform":"loading","site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mw.PopUpMediaTransform&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.special.search","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":539,"wgHostname":"mw1168"});
+}
+//]]>
+    </script>
+  </body>
+</html>

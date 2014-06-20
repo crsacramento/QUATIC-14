@@ -1,0 +1,7 @@
+URL:http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q
+RATIOTOTAL:1.2548460913017352
+RATIOPREVIOUS:-250.085
+SELENIUMSTEP:9
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=channels-search-field and @class=yt-uix-form-input-text search-field and @name=query and @type=text]
+INPUT-PATTERN-TEXTBOX://input[@id=channels-search-field and @class=yt-uix-form-input-text search-field and @name=query and @type=text]
+INPUT-PATTERN-TEXT:dress

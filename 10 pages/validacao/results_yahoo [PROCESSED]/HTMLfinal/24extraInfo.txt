@@ -1,0 +1,7 @@
+URL:https://video.search.yahoo.com/
+RATIOTOTAL:2.7866325250315778
+RATIOPREVIOUS:-124.836
+SELENIUMSTEP:34
+SEARCH-WORD-IN-URL
+INPUT-PATTERN-TEXTBOX://input[@id=input-id-phoneNumber and @class=phone-number-input and @name=phoneNumber and @type=text]
+INPUT-PATTERN-TEXT:36

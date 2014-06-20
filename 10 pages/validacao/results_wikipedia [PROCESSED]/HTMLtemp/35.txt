@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="eo" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Uzanto:Ri?o - Vikipedio
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" type="application/x-wiki" title="Redakti" href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;action=edit"/>
+    <link rel="edit" title="Redakti" href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipedio (eo)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//eo.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Vikipedio Atom-fonto" href="/w/index.php?title=Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj&amp;feed=atom"/>
+    <link rel="canonical" href="http://eo.wikipedia.org/wiki/Uzanto:Ri%C5%9Do"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=ext.gadget.EksteraLigilo%2CRekta-ligilo-al-Komunejo%2CniceInfoboxes%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eowiki:resourceloader:filter:minify-css:7:1df466fa735460dde8a1e61910156041 */
+    </style>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"Uzanto:Ri?o","wgTitle":"Ri?o","wgCurRevisionId":5357468,"wgRevisionId":5357468,"wgArticleId":354364,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","a?gusto","septembro","oktobro","novembro","decembro"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","Maj","Jun","Jul","A?g","Sep","Okt","Nov","Dec"],"wgRelevantPageName":"Uzanto:Ri?o","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRelevantUserName":"Ri?o","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"eo","pageLanguageDir":"ltr","svgMaxSize":2048},"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"Esperanto","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"mathJax":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,
+"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"","language":"eo","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-niceInfoboxes":1,"gadget-EksteraLigilo":1,"gadget-Rekta-ligilo-al-Komunejo":1,"gadget-PropraProvejo":1,"variant":"eo"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: eowiki:resourceloader:filter:minify-js:7:15e0f428c30ffb944b12fc38457a891c */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-2 ns-subject page-Uzanto_Ri?o skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="eo">
+        <span dir="auto">
+          Uzanto:Ri?o
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          El Vikipedio, la libera enciklopedio
+        </div>
+        <div id="contentSub">
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Saltu al:					
+          <a href="#mw-navigation">
+            navigado
+          </a>
+          , 					
+          <a href="#p-search">
+            ser?o
+          </a>
+        </div>
+        <div id="mw-content-text" lang="eo" dir="ltr" class="mw-content-ltr">
+          <p>
+            Mi estas pensiulo (iama 
+            <a href="/w/index.php?title=Tipografo&amp;action=edit&amp;redlink=1" class="new" title="Tipografo (pa?o ne ekzistas)">
+              tipografo
+            </a>
+             kaj 
+            <a href="/w/index.php?title=Korektisto&amp;action=edit&amp;redlink=1" class="new" title="Korektisto (pa?o ne ekzistas)">
+              korektisto
+            </a>
+             en 
+            <a href="/wiki/Presejo" title="Presejo" class="mw-redirect">
+              presejo
+            </a>
+            ), lernis esperanton en la 1960-aj jaroj kaj lo?as en 
+            <a href="/wiki/Ne%C5%AD%C5%9Datelo" title="Ne??atelo">
+              Ne??atelo
+            </a>
+             (
+            <a href="/wiki/Svislando" title="Svislando">
+              Svislando
+            </a>
+            ). Mia gepatra lingvo estas la 
+            <a href="/wiki/Germana" title="Germana" class="mw-redirect">
+              germana
+            </a>
+             (
+            <a href="/wiki/Alemana" title="Alemana" class="mw-redirect">
+              alemana
+            </a>
+            ) kaj mi havas bonajn sciojn de la 
+            <a href="/wiki/Franca" title="Franca" class="mw-redirect">
+              franca
+            </a>
+             lingvo. De la jaro 2008 mi nur sporade kontribuis al Vikipedio. Mia blogo trovi?as en 
+            <a rel="nofollow" class="external free" href="http://www.ipernity.com/home/risho">
+              http://www.ipernity.com/home/risho
+            </a>
+             --
+            <strong class="selflink">
+              Ri?o
+            </strong>
+             (
+            <a href="/wiki/Uzanto-Diskuto:Ri%C5%9Do" title="Uzanto-Diskuto:Ri?o">
+              diskuto
+            </a>
+            ) 17:15, 1 Dec. 2013 (UTC)
+          </p>
+          <!-- 
+NewPP limit report
+Parsed by mw1097
+CPU time usage: 0.016 seconds
+Real time usage: 0.028 seconds
+Preprocessor visited node count: 1/1000000
+Preprocessor generated node count: 4/1500000
+Post?expand include size: 0/2048000 bytes
+Template argument size: 0/2048000 bytes
+Highest expansion depth: 1/40
+Expensive parser function count: 0/500
+-->          <!-- Saved in parser cache with key eowiki:pcache:idhash:354364-0!*!0!*!*!*!* and timestamp 20140609233317 and revision id 5357468
+ -->          <noscript>
+            <img src="//eo.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						El?utita el  "
+          <a dir="ltr" href="http://eo.wikipedia.org/w/index.php?title=Uzanto:Ri?o&amp;oldid=5357468">
+            http://eo.wikipedia.org/w/index.php?title=Uzanto:Ri?o&amp;oldid=5357468
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigacia menuo
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personaj iloj
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Uzanto%3ARi%C5%9Do&amp;type=signup">
+                Krei novan konton
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Uzanto%3ARi%C5%9Do" title="Vi estas invitita ensaluti, tamen ne estas devige. [o]" accesskey="o">
+                Ensaluti
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Nomspacoj
+            </h3>
+            <ul>
+              <li id="ca-nstab-user" class="selected">
+                <span>
+                  <a href="/wiki/Uzanto:Ri%C5%9Do" title="Vidi la personan pa?on de la uzanto [c]" accesskey="c">
+                    Vikipediista pa?o
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Uzanto-Diskuto:Ri%C5%9Do" title="Diskuto pri la artikolo [t]" accesskey="t">
+                    Diskuto
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variantoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Vidoj
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Uzanto:Ri%C5%9Do">
+                    Legi
+                  </a>
+                </span>
+              </li>
+              <li id="ca-ve-edit">
+                <span>
+                  <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;veaction=edit" title="Redakti tiun ?i pa?on per VidRedaktilo [v]" accesskey="v">
+                    Redakti
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit" class=" collapsible">
+                <span>
+                  <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;action=edit" title="Vi povas redakti tiun ?i pa?on. Bv uzi la anta?vidbutonon anta? ol konservi. [e]" accesskey="e">
+                    Redakti fonton
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;action=history" title="Anta?aj versioj de tiu ?i pa?o. [h]" accesskey="h">
+                    Vidi historion
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Agoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Ser?i
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Ser?i" title="Traser?u ?i tiun vikion [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Speciala?o:Ser?i" name="title"/>
+                <input type="submit" name="fulltext" value="Ser?i" title="Ser?i la pa?ojn por ?i tiu teksto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Ek!" title="Iru al pa?o kun ?i preciza nomo se ?i ekzistas" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/eo/b/bc/Wiki.png);" href="/wiki/Vikipedio:%C4%88efpa%C4%9Do" title="?efpa?o">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigado
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-desciption">
+                <a href="/wiki/Vikipedio:%C4%88efpa%C4%9Do">
+                  ?efpa?o
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Portalo:Komunumo" title="Pri la projekto, kion vi povas fari, kie vi povas trovi ion">
+                  Komunuma portalo
+                </a>
+              </li>
+              <li id="n-villagepump">
+                <a href="/wiki/Vikipedio:Diskutejo">
+                  Diskutejo
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Vikipedio:Aktuala%C4%B5oj" title="Trovi fonajn informojn pri nunaj eventoj">
+                  Aktuala?oj
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj" title="Listo de la lastaj ?an?oj en la vikio. [r]" accesskey="r">
+                  Lastaj ?an?oj
+                </a>
+              </li>
+              <li id="n-newpages">
+                <a href="/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj">
+                  Novaj pa?oj
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Speciala%C4%B5o:Hazarda_pa%C4%9Do" title="Iri al hazarda pa?o [x]" accesskey="x">
+                  Hazarda pa?o
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="/wiki/Helpo:Enhavo" title="Ser?opa?o.">
+                  Helpo
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_eo.wikipedia.org&amp;uselang=eo" title="Subteni nin per mono">
+                  Donaci
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Printi/eksporti
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Speciala%C4%B5o:Libro&amp;bookcmd=book_creator&amp;referer=Uzanto%3ARi%C5%9Do">
+                  Krei libron
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Speciala%C4%B5o:Libro&amp;bookcmd=render_article&amp;arttitle=Uzanto%3ARi%C5%9Do&amp;oldid=5357468&amp;writer=rl">
+                  El?uti kiel PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;printable=yes" title="Presebla versio de tiu ?i pa?o [p]" accesskey="p">
+                  Presebla versio
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Iloj
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Speciala%C4%B5o:Kio_ligas_%C4%89i_tien%3F/Uzanto:Ri%C5%9Do" title="Listo de ?iuj vikiaj pa?oj kiuj ligas ?i tien [j]" accesskey="j">
+                  Ligiloj ?i tien
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Speciala%C4%B5o:Rilataj_%C5%9Dan%C4%9Doj/Uzanto:Ri%C5%9Do" title="Lastaj ?an?oj en pa?oj kiuj ligas al tiu ?i pa?o [k]" accesskey="k">
+                  Rilataj pa?oj
+                </a>
+              </li>
+              <li id="t-contributions">
+                <a href="/wiki/Speciala%C4%B5o:Kontribuoj/Ri%C5%9Do" title="Rigardi la liston de kontribuoj de tiu ?i uzanto">
+                  Kontribuoj de uzanto
+                </a>
+              </li>
+              <li id="t-log">
+                <a href="/wiki/Speciala%C4%B5o:Protokolo/Ri%C5%9Do">
+                  Protokoloj
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Speciala%C4%B5o:Specialaj_pa%C4%9Doj" title="Listo de ?iuj specialaj pa?oj [q]" accesskey="q">
+                  Specialaj pa?oj
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;oldid=5357468" title="Por?iama ligilo al ?i versio de la pa?o">
+                  Konstanta ligilo
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Uzanto:Ri%C5%9Do&amp;action=info">
+                  Informoj pri la pa?o
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Aliaj lingvoj
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           ?i tiu pa?o estis lastafoje redaktita je 17:15, 1 Dec. 2013.
+        </li>
+        <li id="footer-info-copyright">
+          La teksto disponeblas la? la permesilo 
+          <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.eo">
+            Krea Komuna?o Atribuite-Samkondi?e 3.0 Neadaptita
+          </a>
+          ; eble aldonaj rajtigoj aplikeblas.
+Vidu la 
+          <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">
+            uzkondi?ojn
+          </a>
+           por detaloj.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/Vikipedio:Respekto_de_la_privateco" title="Vikipedio:Respekto de la privateco">
+            Regularo pri respekto de la privateco
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Vikipedio:Enkonduko" title="Vikipedio:Enkonduko">
+            Pri Vikipedio
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Vikipedio:Malgarantio" title="Vikipedio:Malgarantio">
+            Malgarantio
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//eo.m.wikipedia.org/wiki/Uzanto:Ri%C5%9Do" class="noprint stopMobileRedirectToggle">
+            Vidigo por porteblaj aparatoj
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.niceInfoboxes","ext.gadget.EksteraLigilo","ext.gadget.Rekta-ligilo-al-Komunejo","mw.MwEmbedSupport.style","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="/w/index.php?title=MediaWiki:Gadget-PropraProvejo.js&amp;action=raw&amp;ctype=text/javascript&amp;3589761">
+    </script>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":245,"wgHostname":"mw1044"});
+}
+//]]>
+    </script>
+  </body>
+</html>

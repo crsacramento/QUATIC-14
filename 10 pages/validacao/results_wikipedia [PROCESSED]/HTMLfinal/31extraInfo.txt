@@ -1,0 +1,4 @@
+URL:http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj
+RATIOTOTAL:0.5038888308832205
+RATIOPREVIOUS:-36.539
+SELENIUMSTEP:34

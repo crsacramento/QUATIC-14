@@ -1,0 +1,4 @@
+URL:https://www.facebook.com/login/?next=%2Froadmap%2F
+RATIOTOTAL:2.0953748897447797
+RATIOPREVIOUS:-97.192
+SELENIUMSTEP:30

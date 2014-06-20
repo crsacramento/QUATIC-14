@@ -1,0 +1,4 @@
+URL:http://www.ebay.com/sch/allcategories/all-categories?_trksid=m570.l3694
+RATIOTOTAL:0.7569490221714977
+RATIOPREVIOUS:104.011
+SELENIUMSTEP:51

@@ -1,0 +1,68 @@
+open 
+clickLink pageChange
+clickLink pageChange
+type 
+clickSubmit pageChange
+selectSearch 
+clickSubmit pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+typeInput 
+open 
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+typeInput 
+clickSubmit pageChange
+clickLink pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+typeUsername 
+typePassword 
+clickOption 
+clickSubmit pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+open 
+clickLink pageChange
+typeUsername 
+clickSubmit pageChange
+open 
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+typeInput 
+clickSubmit pageChange
+clickLink pageChange
+typeNumberInput 
+clickSubmit pageChange
+clickLink pageChange
+clickLink pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+clickLink pageChange
+open 
+open 

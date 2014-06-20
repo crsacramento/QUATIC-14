@@ -1,0 +1,6 @@
+URL:https://shine.yahoo.com/horoscope/
+RATIOTOTAL:3.184231632065083
+RATIOPREVIOUS:-282.822
+SELENIUMSTEP:55
+INPUT-PATTERN-TEXTBOX://input[@id=mobile-rec and @name=mobileNumber_alt and @type=text]
+INPUT-PATTERN-TEXT:54

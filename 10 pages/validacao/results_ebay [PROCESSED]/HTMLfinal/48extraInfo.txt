@@ -1,0 +1,6 @@
+URL:http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+RATIOTOTAL:1.865723121621726
+RATIOPREVIOUS:-169.051
+SELENIUMSTEP:57
+INPUT-PATTERN-TEXTBOX://input[@id=w1-43-_enter_val and @title=Increase max bid and @type=text]
+INPUT-PATTERN-TEXT:curtains

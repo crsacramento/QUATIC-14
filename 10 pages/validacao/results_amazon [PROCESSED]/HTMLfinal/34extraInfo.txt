@@ -1,0 +1,4 @@
+URL:http://www.amazon.com/mobile-apps/b/ref=sa_menu_adr_app?ie=UTF8&node=2350149011
+RATIOTOTAL:3.572715920837527
+RATIOPREVIOUS:376.733
+SELENIUMSTEP:42

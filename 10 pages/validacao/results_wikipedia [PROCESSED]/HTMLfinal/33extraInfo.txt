@@ -1,0 +1,4 @@
+URL:http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj
+RATIOTOTAL:0.4199627916373616
+RATIOPREVIOUS:100.825
+SELENIUMSTEP:36

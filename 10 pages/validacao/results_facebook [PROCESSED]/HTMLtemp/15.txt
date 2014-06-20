@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" id="facebook" class="no_js">
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+function envFlush(a){function b(c){for(var d in a)c[d]=a[d];}if(window.requireLazy){window.requireLazy(['Env'],b);}else{Env=window.Env||{};b(Env);}}envFlush({"ajaxpipe_token":"AXivryZi-fRxy-0d","lhsh":"fAQEZK0qQ"});
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+CavalryLogger=false;
+//]]>
+    </script>
+    <meta name="referrer" content="default" id="meta_referrer"/>
+    <title id="pageTitle">
+      Places Directory | Facebook
+    </title>
+  </head>
+  <body class="directory UIPage_LoggedOut hasSmurfbar hasSmurfbarLoggedOut hasPrivacyLite win Locale_en_US" dir="ltr">
+    <noscript>
+      <meta http-equiv="X-Frame-Options" content="DENY"/>
+    </noscript>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yM/r/Zphb4EajBIA.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y4/r/z81ZKys6Pt-.css"/>
+    <link type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/R1MFdu7VFim.css"/>
+    <script src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/Y2FrUqV_MzK.js" crossorigin="anonymous">
+    </script>
+    <link rel="shortcut icon" href="https://fbstatic-a.akamaihd.net/rsrc.php/yV/r/hzMapiNYYpW.ico"/>
+    <script>
+//<![CDATA[
+(require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig",[],{"incorporateQuicklingFragment":true,"hashtagRedirect":true},137],["BootloaderConfig",[],{},329],["CurrentUserInitialData",[],{"id":"0","account_id":"0","is_employee":false,"is_gray":false},270],["SiteData",[],{"revision":1284666,"tier":"","push_phase":"V3","pkg_cohort":"EXP1:DEFAULT","vip":"31.13.91.97"},317],["DTSGInitialData",[],{},258],["ISB",[],{},330],["LSD",[],{"token":"AVrDiL6Q"},323],["BanzaiConfig",[],{"EXPIRY":86400000,"MAX_SIZE":10000,"MAX_WAIT":150000,"RESTORE_WAIT":150000,"blacklist":["time_spent"],"gks":{"adapterhooks":true,"boosted_pagelikes":true,"boosted_website":true,"boosted_posts":true,"jslogger":true,"miny_compression":true,"pages_client_logging":true,"time_spent_bit_array":true,"time_spent_debug":true,"useraction":true,"videos":true,"visibility_tracking":true,"vitals":true}},7],["AsyncRequestConfig",[],{"retryOnNetworkError":"1"},328],["TrackingConfig",[],{"domain":"https:\/\/pixel.facebook.com"},325],["ErrorSignalConfig",[],{"uri":"https:\/\/error.facebook.com\/common\/scribe_endpoint.php"},319],["InitialServerTime",[],{"serverTime":1402502721000},204],["FbtLogger",[],{"logger":null},288],["UFIConstants",[],{"UFIActionType":{"COMMENT_LIKE":"fa-type:comment-like","COMMENT_SET_SPAM":"fa-type:mark-spam","DELETE_COMMENT":"fa-type:delete-comment","DISABLE_COMMENTS":"fa-type:disable-comments","LIVE_DELETE_COMMENT":"fa-type:live-delete-comment","LIKE_ACTION":"fa-type:like","SUBSCRIBE_ACTION":"fa-type:subscribe","REMOVE_PREVIEW":"fa-type:remove-preview","MARK_COMMENT_SPAM":"fa-type:mark-spam","CONFIRM_COMMENT_REMOVAL":"fa-type:confirm-remove","TRANSLATE_COMMENT":"fa-type:translate-comment","COMMENT_LIKECOUNT_UPDATE":"fa-type:comment-likecount-update","GIFT_SUGGESTION":"fa-type:gift-suggestion"},"UFICommentOrderingMode":{"CHRONOLOGICAL":"chronological","RANKED_THREADED":"ranked_threaded","TOPLEVEL":"toplevel","RECENT_ACTIVITY":"recent_activity","FEATURED":"featured","UNSUPPORTED":"unsupported"},"UFIFeedbackSourceType":{"PROFILE":0,"NEWS_FEED":1,"OBJECT":2,"MOBILE":3,"EMAIL":4,"PROFILE_APPROVAL":10,"TICKER":12,"NONE":13,"INTERN":14,"ADS":15,"EVENT_GOING_FLYOUT":16,"PHOTOS_SNOWLIFT":17,"NOTIFICATION_FLYOUT":18,"LOCAL_FEED":19},"UFIPayloadSourceType":{"UNKNOWN":0,"INITIAL_SERVER":1,"LIVE_SEND":2,"USER_ACTION":3,"ENDPOINT_LIKE":10,"ENDPOINT_COMMENT_LIKE":11,"ENDPOINT_ADD_COMMENT":12,"ENDPOINT_EDIT_COMMENT":13,"ENDPOINT_DELETE_COMMENT":14,"ENDPOINT_COMMENT_SPAM":16,"ENDPOINT_REMOVE_PREVIEW":17,"ENDPOINT_ID_COMMENT_FETCH":18,"ENDPOINT_COMMENT_FETCH":19,"ENDPOINT_TRANSLATE_COMMENT":20,"ENDPOINT_BAN":21,"ENDPOINT_SUBSCRIBE":22,"ENDPOINT_COMMENT_LIKECOUNT_UPDATE":23,"ENDPOINT_DISABLE_COMMENTS":24,"ENDPOINT_ACTOR_CHANGE":25},"UFIStatus":{"DELETED":"status:deleted","SPAM":"status:spam","SPAM_DISPLAY":"status:spam-display","LIVE_DELETED":"status:live-deleted","FAILED_ADD":"status:failed-add","FAILED_EDIT":"status:failed-edit","PENDING_EDIT":"status:pending-edit"},"attachmentTruncationLength":80,"commentTruncationLength":420,"commentTruncationMaxLines":3,"commentTruncationPercent":0.6,"commentURLTruncationLength":60,"defaultPageSize":50,"infiniteScrollRangeForQANDAPermalinks":1000,"minCommentsForOrderingModeSelector":2,"unavailableCommentKey":"unavailable_comment_key"},240],["ProfilePicCropViewerGating",[],{"viewer":false,"zoomcrop":false},404]]);new (require("ServerJS"))().handle({"require":[["markJSEnabled"],["lowerDomain"],["URLFragmentPrelude"],["Primer"],["Bootloader"]]});
+//]]>
+    </script>
+    <div class="_li">
+      <div id="pagelet_bluebar" data-referrer="pagelet_bluebar">
+        <div id="blueBarHolder">
+          <div id="blueBar" class="aboveSidebar">
+            <div>
+              <div class="loggedout_menubar_container">
+                <div class="clearfix loggedout_menubar">
+                  <a class="lfloat _ohe" href="/" title="Go to Facebook Home">
+                    <i class="fb_logo img sp_6y74ue sx_1668ad">
+                      <u>
+                        Facebook logo
+                      </u>
+                    </i>
+                  </a>
+                  <div class="menu_login_container rfloat _ohf">
+                    <form id="login_form" action="https://www.facebook.com/login.php?login_attempt=1" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)">
+                      <input type="hidden" name="lsd" value="AVrDiL6Q" autocomplete="off"/>
+                      <table cellspacing="0">
+                        <tbody>
+                          <tr>
+                            <td class="html7magic">
+                              <label for="email">
+                                Email or Phone
+                              </label>
+                            </td>
+                            <td class="html7magic">
+                              <label for="pass">
+                                Password
+                              </label>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <input type="text" class="inputtext" name="email" id="email" value="" tabindex="1"/>
+                            </td>
+                            <td>
+                              <input type="password" class="inputtext" name="pass" id="pass" tabindex="2"/>
+                            </td>
+                            <td>
+                              <label class="uiButton uiButtonConfirm" id="loginbutton" for="u_0_0">
+                                <input value="Log In" tabindex="4" type="submit" id="u_0_0"/>
+                              </label>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td class="login_form_label_field">
+                              <div>
+                                <div class="uiInputLabel clearfix uiInputLabelLegacy">
+                                  <input id="persist_box" type="checkbox" name="persistent" value="1" checked="1" class="uiInputLabelInput uiInputLabelCheckbox"/>
+                                  <label for="persist_box" class="uiInputLabelLabel">
+                                    Keep me logged in
+                                  </label>
+                                </div>
+                                <input type="hidden" name="default_persistent" value="1"/>
+                              </div>
+                            </td>
+                            <td class="login_form_label_field">
+                              <a rel="nofollow" href="https://www.facebook.com/recover/initiate">
+                                Forgot your password?
+                              </a>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <input type="hidden" autocomplete="off" name="timezone" value="" id="u_0_1"/>
+                      <input type="hidden" name="lgnrnd" value="090521_st-f"/>
+                      <input type="hidden" id="lgnjs" name="lgnjs" value="n"/>
+                      <input type="hidden" autocomplete="off" id="locale" name="locale" value="en_US"/>
+                      <input type="hidden" autocomplete="off" name="next" value="https://www.facebook.com/directory/places/"/>
+                    </form>
+                  </div>
+                </div>
+              </div>
+              <div class="signupBanner">
+                <div class="signup_bar_container">
+                  <div class="signup_box clearfix">
+                    <span class="signup_box_content">
+                      <a class="_42ft _42fu signup_btn selected _42gz _42gy" role="button" href="/r.php?locale=en_US">
+                        Sign Up
+                      </a>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="globalContainer" class="uiContextualLayerParent">
+        <div id="content" class="fb_content clearfix">
+          <div class="UIFullPage_Container">
+            <div>
+              <div class="content clearfix">
+                <div class="header">
+                  <h2>
+                    Browse Places
+                  </h2>
+                  <p>
+                    Places allows you to see where your friends are and share your location in the real world. When you use Places, you'll be able to see if any of your friends are currently checked in nearby and connect with them easily. You can check into nearby Places to tell your friends where you are, tag your friends in the Places you visit, and view comments your friends have made about the Places you visit. Use Places to experience connecting with people on Facebook in a completely new way.
+                  </p>
+                </div>
+                <div class="dh_search">
+                  <form method="get" action="/search.php" name="search_form_id" id="search_form_id" onsubmit="return Event.__inlineSubmit(this,event)">
+                    <input type="hidden" autocomplete="off" id="o" name="o" value="65"/>
+                    <input type="hidden" autocomplete="off" id="init" name="init" value="dir"/>
+                    <input type="text" class="inputtext DOMControl_placeholder" title="Search for places" placeholder="Search for places" autosave="com.facebook.com.facebook.search." id="q_dashboard" name="q" value="Search for places" results="10"/>
+                    <a onclick="$('search_form_id').submit();return false;" class="inputsubmit">
+                      Search
+                    </a>
+                  </form>
+                </div>
+              </div>
+              <div class="tabs clearfix">
+                <center>
+                  <div class="left_tabs">
+                    <ul class="toggle_tabs" id="toggle_tabs_unused">
+                      <li class="first ">
+                        <a href="https://www.facebook.com/directory/people/">
+                          People
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.facebook.com/directory/pages/">
+                          Pages
+                        </a>
+                      </li>
+                      <li>
+                        <a class="selected" href="https://www.facebook.com/directory/places/">
+                          Places
+                        </a>
+                      </li>
+                      <li class="last ">
+                        <a href="https://www.facebook.com/directory/topics/">
+                          Topics
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </center>
+              </div>
+              <div class="alphabet_list clearfix">
+                <a href="https://www.facebook.com/directory/places/A">
+                  A
+                </a>
+                <a href="https://www.facebook.com/directory/places/B">
+                  B
+                </a>
+                <a href="https://www.facebook.com/directory/places/C">
+                  C
+                </a>
+                <a href="https://www.facebook.com/directory/places/D">
+                  D
+                </a>
+                <a href="https://www.facebook.com/directory/places/E">
+                  E
+                </a>
+                <a href="https://www.facebook.com/directory/places/F">
+                  F
+                </a>
+                <a href="https://www.facebook.com/directory/places/G">
+                  G
+                </a>
+                <a href="https://www.facebook.com/directory/places/H">
+                  H
+                </a>
+                <a href="https://www.facebook.com/directory/places/I">
+                  I
+                </a>
+                <a href="https://www.facebook.com/directory/places/J">
+                  J
+                </a>
+                <a href="https://www.facebook.com/directory/places/K">
+                  K
+                </a>
+                <a href="https://www.facebook.com/directory/places/L">
+                  L
+                </a>
+                <a href="https://www.facebook.com/directory/places/M">
+                  M
+                </a>
+                <a href="https://www.facebook.com/directory/places/N">
+                  N
+                </a>
+                <a href="https://www.facebook.com/directory/places/O">
+                  O
+                </a>
+                <a href="https://www.facebook.com/directory/places/P">
+                  P
+                </a>
+                <a href="https://www.facebook.com/directory/places/Q">
+                  Q
+                </a>
+                <a href="https://www.facebook.com/directory/places/R">
+                  R
+                </a>
+                <a href="https://www.facebook.com/directory/places/S">
+                  S
+                </a>
+                <a href="https://www.facebook.com/directory/places/T">
+                  T
+                </a>
+                <a href="https://www.facebook.com/directory/places/U">
+                  U
+                </a>
+                <a href="https://www.facebook.com/directory/places/V">
+                  V
+                </a>
+                <a href="https://www.facebook.com/directory/places/W">
+                  W
+                </a>
+                <a href="https://www.facebook.com/directory/places/X">
+                  X
+                </a>
+                <a href="https://www.facebook.com/directory/places/Y">
+                  Y
+                </a>
+                <a href="https://www.facebook.com/directory/places/Z">
+                  Z
+                </a>
+                <a href="https://www.facebook.com/directory/places/others">
+                  @
+                </a>
+              </div>
+              <div class="mvm pvs phm fbDirectoryBoxHeader clearfix uiBoxLightblue noborder">
+                <span class="fwb">
+                  Places with Most Check-ins
+                </span>
+              </div>
+              <table class="uiGrid _51mz mam" cellspacing="0" cellpadding="0">
+                <tbody>
+                  <tr class="_51mx">
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Bangkok-Thailand/110585945628334" title="Bangkok, Thailand">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCVEC43PjEHU3xp&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9f%2FBangkok_montage_2.jpg%2F720px-Bangkok_montage_2.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Bangkok-Thailand/110585945628334" title="Bangkok, Thailand">
+                                  Bangkok, Thailand
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/São-Paulo-Brazil/112047398814697" title="São Paulo, Brazil">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAwkwmW4cjDa5pt&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FMontagem_Sampa.jpg%2F720px-Montagem_Sampa.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/São-Paulo-Brazil/112047398814697" title="São Paulo, Brazil">
+                                  São Paulo, Brazil
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/New-York-New-York/108424279189115" title="New York, New York">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDTB7kkPyPB1BaL&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9d%2FNYC_Montage_2014_4_-_Jleon.jpg%2F720px-NYC_Montage_2014_4_-_Jleon.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/New-York-New-York/108424279189115" title="New York, New York">
+                                  New York, New York
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page _51mw">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Rio-de-Janeiro-Rio-de-Janeiro/110346955653479" title="Rio de Janeiro, Rio de Janeiro">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDumnHdoGJtHf1h&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F94%2FMontagem_RJ.jpg%2F720px-Montagem_RJ.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Rio-de-Janeiro-Rio-de-Janeiro/110346955653479" title="Rio de Janeiro, Rio de Janeiro">
+                                  Rio de Janeiro, Rio de Janeiro
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="_51mx">
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Mexico-City-Mexico/114897945188014" title="Mexico City, Mexico">
+                          <img class="img" src="https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Mexico-City-Mexico/114897945188014" title="Mexico City, Mexico">
+                                  Mexico City, Mexico
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Santiago-Chile/112371848779363" title="Santiago, Chile">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDS2gJnf9TbCoqC&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4b%2FSantiago_de_chile_collage.png%2F720px-Santiago_de_chile_collage.png&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Santiago-Chile/112371848779363" title="Santiago, Chile">
+                                  Santiago, Chile
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Bogotá-Colombia/102194039822307" title="Bogotá, Colombia">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAbM6bxt5hOciJr&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fbb%2FBOGOTA_LEGAL_2.png&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Bogotá-Colombia/102194039822307" title="Bogotá, Colombia">
+                                  Bogotá, Colombia
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page _51mw">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Buenos-Aires-Argentina/106423786059675" title="Buenos Aires, Argentina">
+                          <img class="img" src="https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/y5/r/j258ei8TIHu.png" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Buenos-Aires-Argentina/106423786059675" title="Buenos Aires, Argentina">
+                                  Buenos Aires, Argentina
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="_51mx">
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Istanbul-Turkey/106012156106461" title="Istanbul, Turkey">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCdm850HDvrON0A&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fba%2FIstanbul_collage_5j.jpg%2F720px-Istanbul_collage_5j.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Istanbul-Turkey/106012156106461" title="Istanbul, Turkey">
+                                  Istanbul, Turkey
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Los-Angeles-California/110970792260960" title="Los Angeles, California">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDgXkbyrHGsldw4&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd2%2FNew_LA_Infobox_Pic_Montage_5.jpg%2F720px-New_LA_Infobox_Pic_Montage_5.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Los-Angeles-California/110970792260960" title="Los Angeles, California">
+                                  Los Angeles, California
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Taipei-Taiwan/110765362279102" title="Taipei, Taiwan">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCJGi3hFOJDtdUU&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fd9%2FTaipei_City_montage.PNG&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Taipei-Taiwan/110765362279102" title="Taipei, Taiwan">
+                                  Taipei, Taiwan
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page _51mw">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/London-United-Kingdom/106078429431815" title="London, United Kingdom">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQD7SAVqUg_Sj0mY&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FLondon_collage.jpg%2F720px-London_collage.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/London-United-Kingdom/106078429431815" title="London, United Kingdom">
+                                  London, United Kingdom
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="_51mx">
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Chicago-Illinois/108659242498155" title="Chicago, Illinois">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDcdE9Pfe-aJMzu&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FChicago_montage1.jpg%2F720px-Chicago_montage1.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Chicago-Illinois/108659242498155" title="Chicago, Illinois">
+                                  Chicago, Illinois
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Cairo-Egypt/115351105145884" title="Cairo, Egypt">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDYiH0-qX2DxSsp&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fdb%2FCairo_Montage.png&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Cairo-Egypt/115351105145884" title="Cairo, Egypt">
+                                  Cairo, Egypt
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Jakarta-Indonesia/102173726491792" title="Jakarta, Indonesia">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBcdJ_6UwiuHgxP&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb7%2FJakarta_Pictures-4.jpg%2F720px-Jakarta_Pictures-4.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Jakarta-Indonesia/102173726491792" title="Jakarta, Indonesia">
+                                  Jakarta, Indonesia
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page _51mw">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Monterrey-Nuevo-Leon-Mexico/110852402276862" title="Monterrey, Nuevo Leon, Mexico">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBFaIF-jAjkBeFw&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5a%2FMonterrey_skyline.jpg%2F720px-Monterrey_skyline.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Monterrey-Nuevo-Leon-Mexico/110852402276862" title="Monterrey, Nuevo Leon, Mexico">
+                                  Monterrey, Nuevo Leon, Mexico
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="_51mx">
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Paris-France/110774245616525" title="Paris, France">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQC5_lJ31J_UoRrr&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F69%2FParis_montage2.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Paris-France/110774245616525" title="Paris, France">
+                                  Paris, France
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Houston-Texas/115963528414384" title="Houston, Texas">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQB49RpMZKR4qoBq&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F78%2FHouston_montage.jpg%2F720px-Houston_montage.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Houston-Texas/115963528414384" title="Houston, Texas">
+                                  Houston, Texas
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Seoul-Korea/108259475871818" title="Seoul, Korea">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQC6Nll73ZIhsmUy&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F7b%2FSeoul_montage_2013.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Seoul-Korea/108259475871818" title="Seoul, Korea">
+                                  Seoul, Korea
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="_51m- pvs phm top_page _51mw">
+                      <div class="clearfix">
+                        <a class="_8o _8t lfloat _ohe" href="http://www.facebook.com/pages/Kuala-Lumpur-Malaysia/106031246101831" title="Kuala Lumpur, Malaysia">
+                          <img class="img" src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQC6D63SH3az9QKQ&amp;w=50&amp;h=50&amp;url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F11%2FKL_Composite2.jpg%2F720px-KL_Composite2.jpg&amp;crop&amp;fallback=hub_city&amp;prefix=q" alt=""/>
+                        </a>
+                        <div class="_42ef">
+                          <div class="_6a">
+                            <div class="_6a _6b" style="height:50px">
+                            </div>
+                            <div class="_6a _6b">
+                              <strong>
+                                <a href="http://www.facebook.com/pages/Kuala-Lumpur-Malaysia/106031246101831" title="Kuala Lumpur, Malaysia">
+                                  Kuala Lumpur, Malaysia
+                                </a>
+                              </strong>
+                              <div class="fsm fwn fcg">
+                                City
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div id="pageFooter" data-referrer="page_footer">
+          <div id="contentCurve">
+          </div>
+          <div role="contentinfo" aria-label="Facebook site links">
+            <table class="uiGrid _51mz navigationGrid" cellspacing="0" cellpadding="0">
+              <tbody>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/mobile/?ref=pf" title="Check out Facebook Mobile.">
+                      Mobile
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/find-friends?ref=pf" title="Find anyone on the web.">
+                      Find Friends
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/badges/?ref=pf" title="Embed a Facebook badge on your website.">
+                      Badges
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/people/" title="Browse our people directory.">
+                      People
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/pages/" title="Browse our pages directory.">
+                      Pages
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/?ref=pf" title="Check out Facebook App Center.">
+                      Apps
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/category/games/?ref=pf" title="Check out Facebook games.">
+                      Games
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/appcenter/category/music/?ref=pf" title="Check out Facebook music apps.">
+                      Music
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm _51mw">
+                    <a href="https://www.facebook.com/directory/places/" title="Browse our places directory.">
+                      Locations
+                    </a>
+                  </td>
+                </tr>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/directory/topics/" title="Browse our topics directory.">
+                      Topics
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/facebook" accesskey="8" title="Read our blog, discover the resource center, and find job opportunities.">
+                      About
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;extra_1=auto" title="Advertise on Facebook.">
+                      Create Ad
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/pages/create/?ref_type=sitefooter" title="Create a Page">
+                      Create Page
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://developers.facebook.com/?ref=pf" title="Develop on our platform.">
+                      Developers
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/careers/?ref=pf" title="Make your next career move to our awesome company.">
+                      Careers
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/privacy/explanation" title="Learn about your privacy and Facebook.">
+                      Privacy
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/help/cookies/?ref=sitefooter" title="Learn about cookies and Facebook.">
+                      Cookies
+                    </a>
+                  </td>
+                  <td class="_51m- hLeft plm _51mw">
+                    <a href="https://www.facebook.com/policies/?ref=pf" accesskey="9" title="Review our terms and policies.">
+                      Terms
+                    </a>
+                  </td>
+                </tr>
+                <tr class="_51mx">
+                  <td class="_51m- hLeft plm">
+                    <a href="https://www.facebook.com/help/?ref=pf" accesskey="0" title="Visit our Help Center.">
+                      Help
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="mvl copyright">
+            <div class="fsm fwn fcg">
+              <span>
+                 Facebook © 2014
+              </span>
+               · 
+              <a rel="dialog" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fwww.facebook.com%2Fdirectory%2Fplaces%2F&amp;source=TOP_LOCALES_DIALOG" title="Use Facebook in another language." href="#" role="button">
+                English (US)
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.setResourceMap({"sHbuT":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yU\/r\/VxoEQY95NVQ.js"},"UExPv":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/aVF4BM6mZgd.js"},"uMuQj":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/7Smy_9II-h4.js"},"7ri7K":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/Dk5l_0AM6pU.js"},"10YBP":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/666vFvS5bsg.js"},"GyTe8":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/d3oHfFTjMrF.js"},"4vv8\/":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/JvK_C44obT2.js"},"lVN3A":{"type":"css","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yM\/r\/Zphb4EajBIA.css"},"2WAx+":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/z81ZKys6Pt-.css"},"kOqgl":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yS\/r\/R1MFdu7VFim.css"},"u83\/z":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yZ\/r\/_IR47lpowJx.js"},"IIpqr":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yf\/r\/QpS3zNUyIcr.js"},"20549":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yl\/r\/LddpQe84y-k.js"},"cAkXN":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yR\/r\/IQc0ALCNDHy.js"},"oE4Do":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/obqKRvJtthA.js"},"cNca2":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/yuKCSDDP1tN.js"},"eSsTp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/cA7YZkcazFe.js"},"FpRg9":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y-\/r\/efgtCrFQb-F.css"},"ek\/pL":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/wDl9iKxsXOx.js"},"SJ9r4":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yj\/r\/HWGtGWP2veC.js"},"YQVa9":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y5\/r\/IB1VnQIQ_22.js"},"bWGwo":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yH\/r\/Fh6r2WRl-P7.js"},"7eBNu":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/ye\/r\/t0Rw1g13Lp3.js"},"u1oj6":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yv\/r\/uLODvZG9ZZl.js"},"VDymv":{"type":"css","permanent":1,"crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yg\/r\/dtxPl8Fd0D2.css"},"wxq+C":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y0\/r\/tOS_Qf118Dl.js"},"Rs18G":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yI\/r\/iqqxHqHkZcL.js"},"6AU0l":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yX\/r\/uAtB4Wsl2Sl.js"},"AtxWD":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/7CgwFzKxrCs.js"},"zyFOp":{"type":"js","crossOrigin":1,"src":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yT\/r\/Ri9nQJbah9T.js"}});if (true) {Bootloader.enableBootload({"React":{"resources":["u83\/z","sHbuT"],"module":true},"ExceptionDialog":{"resources":["sHbuT","u83\/z","2WAx+","UExPv","IIpqr","20549"],"module":true},"AsyncDOM":{"resources":["sHbuT","cAkXN"],"module":true},"ConfirmationDialog":{"resources":["sHbuT","2WAx+","u83\/z","oE4Do"],"module":true},"Dialog":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"ErrorSignal":{"resources":["sHbuT","cNca2"],"module":true},"Event":{"resources":["sHbuT"],"module":true},"AsyncDialog":{"resources":["sHbuT","u83\/z","2WAx+","GyTe8"],"module":true},"AsyncRequest":{"resources":["sHbuT"],"module":true},"PhotoSnowlift":{"resources":["eSsTp","sHbuT","u83\/z","2WAx+","FpRg9","GyTe8","ek\/pL","SJ9r4","YQVa9","UExPv"],"module":true},"PhotoTagger":{"resources":["sHbuT","u83\/z","2WAx+","bWGwo","7eBNu","UExPv","eSsTp","ek\/pL"],"module":true},"Live":{"resources":["sHbuT","cAkXN"],"module":true},"PhotoTagApproval":{"resources":["sHbuT","ek\/pL","7eBNu"],"module":true},"PhotoTags":{"resources":["sHbuT","ek\/pL","2WAx+","7eBNu"],"module":true},"TagTokenizer":{"resources":["sHbuT","SJ9r4","2WAx+","u1oj6","7eBNu","u83\/z","UExPv"],"module":true},"css:fb-photos-snowlift-fullscreen-css":{"resources":["VDymv"]},"SnowliftPicCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","7eBNu","UExPv","wxq+C"],"module":true},"PhotosButtonTooltips":{"resources":["sHbuT","2WAx+","u83\/z","Rs18G"],"module":true},"VideoRotate":{"resources":["sHbuT","u83\/z","2WAx+","6AU0l"],"module":true},"AsyncResponse":{"resources":["sHbuT"],"module":true},"PhotoPermalinkCropper":{"resources":["sHbuT","u83\/z","2WAx+","eSsTp","ek\/pL","FpRg9","GyTe8","bWGwo","7eBNu","UExPv"],"module":true},"PhotoInlineEditor":{"resources":["sHbuT","u83\/z","eSsTp","2WAx+","ek\/pL","GyTe8","bWGwo","7eBNu","UExPv","u1oj6","SJ9r4","AtxWD"],"module":true},"Form":{"resources":["sHbuT","2WAx+"],"module":true},"SpotlightShareViewer":{"resources":["sHbuT","GyTe8","zyFOp"],"module":true},"Toggler":{"resources":["sHbuT","u83\/z","2WAx+"],"module":true},"Tooltip":{"resources":["sHbuT","2WAx+","u83\/z"],"module":true},"DOM":{"resources":["sHbuT"],"module":true},"Input":{"resources":["sHbuT","2WAx+"],"module":true},"trackReferrer":{"resources":[],"module":true},"DimensionTracking":{"resources":["sHbuT","GyTe8"],"module":true},"HighContrastMode":{"resources":["sHbuT","GyTe8"],"module":true},"DetectBrokenProxyCache":{"resources":["sHbuT","GyTe8"],"module":true}});}});
+requireLazy(["ix"], function(ix) {ix.add({"\/images\/ads\/cropper\/drag.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y8\/r\/Xm0cn_J9DFi.png","width":12,"height":12},"\/images\/mobile\/glyph\/error-solid_white_s.png":{"sprited":false,"uri":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yC\/r\/35yKOCwEEZ2.png","width":12,"height":12}});});
+//]]>
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["sHbuT","UExPv","uMuQj","7ri7K","10YBP","GyTe8","4vv8\/"]);});
+//]]>
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+
+requireLazy(["Bootloader"], function(Bootloader) {Bootloader.configurePage(["lVN3A","2WAx+","kOqgl"]);});
+
+(require("ServerJSDefine")).handleDefines([["EagleEyeConfig",[],{"seed":"0d4u","sessionStorage":1},294],["TimeSpentConfig",[],{"0_delay":0,"0_timeout":8,"delay":200000,"timeout":64},142],["ImmediateActiveSecondsConfig",[],{"sampling_rate":0},423]]);require("InitialJSLoader").handleServerJS({"elements":[["m_0_1","login_form",2],["m_0_2","loginbutton",2],["m_0_0","u_0_1",2],["m_0_3","login_form",2]],"require":[["PlaceholderListener"],["PlaceholderOnsubmitFormListener"],["Intl","setPhonologicalRules",[],[{"meta":{"\/_B\/":"([.,!?\\s]|^)","\/_E\/":"([.,!?\\s]|$)"},"patterns":{"\/\u0001(.*)('|&#039;)s\u0001(?:'|&#039;)s(.*)\/":"\u0001$1$2s\u0001$3","\/_\u0001([^\u0001]*)\u0001\/e":"mb_strtolower(\"\u0001$1\u0001\")","\/\\^\\x01([^\\x01])(?=[^\\x01]*\\x01)\/e":"mb_strtoupper(\"\u0001$1\")","\/_\u0001([^\u0001]*)\u0001\/":"javascript"}}]],["PostLoadJS","loadAndRequire",[],["DimensionTracking"]],["PostLoadJS","loadAndCall",[],["HighContrastMode","init",[{"isHCM":false,"spacerImage":"https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/y4\/r\/-PAXP-deijE.gif"}]]],["PostLoadJS","loadAndCall",[],["DetectBrokenProxyCache","run",[0,"c_user"]]],["ScriptPath","set",[],["\/directory\/index.php","a1f3c513","9a18184a"]],["NoscriptOverride","redirectToJSPage",[],["https:\/\/www.facebook.com\/directory\/places\/"]],["ClickRefLogger"],["userAction","setUATypeConfig",[],[{"ua:e":false}]],["ScriptPathState","setUserURISampleRate",[],[0.0002]],["userAction","setCustomSampleConfig",[],[{"ua:n":{"test":{"ua_id":{"test":true}}},"ua:i":{"snowlift":{"action":{"open":true,"close":true}},"snowflake":{"action":{"open":true,"close":true}},"canvas":{"action":{"mouseover":true,"mouseout":true}}}}]],["UserActionHistory"],["ScriptPathLogger","startLogging",[],[]],["TimeSpentBitArrayLogger","init",[],[]],["ModuleErrorLogger","init",[],[]],["AsyncRequestNectarLogging"],["TimezoneAutoset","setInputValue",["m_0_0"],[{"__m":"m_0_0"},1402502721]],["LoginFormController","init",["m_0_1","m_0_2"],[{"__m":"m_0_1"},{"__m":"m_0_2"},null]],["FlipDirectionOnKeypress"]]});
+
+onloadRegister_DEPRECATED(function (){window.loading_page_chrome = true;});
+onloadRegister_DEPRECATED(function (){try { $("email").focus(); } catch (_ignore) { }});
+onloadRegister_DEPRECATED(function (){window.loading_page_chrome = false;});
+
+//]]>
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+URL:https://login.yahoo.com/config/login?.src=ymbr&.intl=us&.lang=en-US&.done=https://login.yahoo.com/%3f.src=ym%26.intl=us%26.lang=en-US%26.done=http%3a//mail.yahoo.com
+RATIOTOTAL:0.0970940215194631
+RATIOPREVIOUS:0.92
+SELENIUMSTEP:29

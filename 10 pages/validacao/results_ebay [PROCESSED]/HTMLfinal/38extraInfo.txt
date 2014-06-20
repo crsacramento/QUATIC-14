@@ -1,0 +1,6 @@
+URL:http://www.ebay.com/sch/allcategories/all-categories/?_rdc=1
+RATIOTOTAL:0.7569611493313644
+RATIOPREVIOUS:104.01
+SELENIUMSTEP:46
+INPUT-PATTERN-TEXTBOX://input[@id=q and @class=srch-str and @name=q and @type=text and @onfocus=this.value='']
+INPUT-PATTERN-TEXT:username

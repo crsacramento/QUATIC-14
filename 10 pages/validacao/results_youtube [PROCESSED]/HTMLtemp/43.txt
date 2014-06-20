@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" data-cast-api-enabled="true">
+  <head>
+    <script>
+//<![CDATA[
+var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, n) {ytcsi.gt(n).span[l] = (typeof s == 'number') ? s :+new Date() - ytcsi.data_.tick[l];},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;}};ytcsi.perf = window.performance || window.mozPerformance ||window.msPerformance || window.webkitPerformance;ytcsi.tick('_start', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);if (document.webkitVisibilityState == 'prerender') {ytcsi.info('prerender', 1);document.addEventListener('webkitvisibilitychange', function() {ytcsi.tick('_start');}, false);}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (element.className.match(/(^| )yt-can-buffer( |$)/)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+    (function(){function b(k,g){var a,d;g?a=!0:document.getElementById("c4-custom-tab-iframe")?(document.body.className+=" exp-wider-browse",a=!0):a=!1;a?(a=1056,d=1262):(a=951,d=1136);var c=(window.innerWidth||document.documentElement.clientWidth)-21-50;1251<=(window.innerWidth||document.documentElement.clientWidth)&&k&&(c-=230);return c>=d?"content-snap-width-3":c>=a?"content-snap-width-2":"content-snap-width-1"};function e(k,g,a,d){var c=document.getElementsByTagName("html")[0],h=[c.className];k&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(h.push("guide-pinned"),g&&h.push("show-guide"));a&&h.push(" ",b(g,d));c.className=h.join(" ")}var f=["yt","www","masthead","sizing","runBeforeBodyIsReady"],l=this;f[0]in l||!l.execScript||l.execScript("var "+f[0]);for(var m;f.length&&(m=f.shift());)f.length||void 0===e?l[m]?l=l[m]:l=l[m]={}:l[m]=e;})();
+yt.www.masthead.sizing.runBeforeBodyIsReady(false,true,false,false);
+  
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflKNUgKf.js" name="www-scheduler">
+    </script>
+    <script>
+//<![CDATA[
+var ytimg = {};ytimg.count = 1;ytimg.preload = function(src) {var img = new Image();var count = ++ytimg.count;ytimg[count] = img;img.onload = img.onerror = function() {delete ytimg[count];};img.src = src;};
+//]]>
+    </script>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-core-vfldcTd0v.css" name="www-core"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("ce", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    ytimg.preload("http:\/\/r2---sn-4jjo-apne.googlevideo.com\/crossdomain.xml");
+    ytimg.preload("http:\/\/r2---sn-4jjo-apne.googlevideo.com\/generate_204");
+  
+//]]>
+    </script>
+    <title>
+      Ozone Edge 2014 - Designer Tech Talk - YouTube
+    </title>
+    <link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=en_US" title="YouTube Video Search"/>
+    <link rel="shortcut icon" href="http://s.ytimg.com/yts/img/favicon-vfldLzJxy.ico" type="image/x-icon"/>
+    <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vflWoMFGx.png" sizes="32x32"/>
+    <link rel="canonical" href="http://www.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <link rel="alternate" media="handheld" href="http://m.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <link rel="shortlink" href="http://youtu.be/RaFgBeHa3iY"/>
+    <meta name="title" content="Ozone Edge 2014 - Designer Tech Talk"/>
+    <meta name="description" content="Seven World Champions Later the Edge Legacy Continues...Ozone Kite Designer Rob Whittall talks through the design and tech features of the new Edge 2014 http..."/>
+    <meta name="keywords" content="www.flyozone.com, ozone kites, fly ozone, ozone edge, ozone 2014, edge 2014, free ride, kitesurfing, kitesurf, kiterace, kite board racing, edge race kite, o..."/>
+    <link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?format=json&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRaFgBeHa3iY" title="Ozone Edge 2014 - Designer Tech Talk"/>
+    <link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?format=xml&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRaFgBeHa3iY" title="Ozone Edge 2014 - Designer Tech Talk"/>
+    <meta property="og:site_name" content="YouTube"/>
+    <meta property="og:url" content="http://www.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <meta property="og:title" content="Ozone Edge 2014 - Designer Tech Talk"/>
+    <meta property="og:image" content="http://i1.ytimg.com/vi/RaFgBeHa3iY/maxresdefault.jpg"/>
+    <meta property="og:description" content="Seven World Champions Later the Edge Legacy Continues...Ozone Kite Designer Rob Whittall talks through the design and tech features of the new Edge 2014 http..."/>
+    <meta property="al:ios:app_store_id" content="544007664"/>
+    <meta property="al:ios:app_name" content="YouTube"/>
+    <meta property="al:ios:url" content="vnd.youtube://watch/RaFgBeHa3iY"/>
+    <meta property="al:android:url" content="http://www.youtube.com/watch?v=RaFgBeHa3iY&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="al:android:app_name" content="YouTube"/>
+    <meta property="al:android:package" content="com.google.android.youtube"/>
+    <meta property="al:web:url" content="http://www.youtube.com/watch?v=RaFgBeHa3iY&amp;set%28%5B%27feature%27%2C+%27applinks%27%5D%29="/>
+    <meta property="og:type" content="video"/>
+    <meta property="og:video" content="http://www.youtube.com/v/RaFgBeHa3iY?version=3&amp;autohide=1"/>
+    <meta property="og:video:type" content="application/x-shockwave-flash"/>
+    <meta property="og:video:width" content="1280"/>
+    <meta property="og:video:height" content="720"/>
+    <meta property="fb:app_id" content="87741124305"/>
+    <meta name="twitter:card" content="player"/>
+    <meta name="twitter:site" content="@youtube"/>
+    <meta name="twitter:url" content="http://www.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <meta name="twitter:title" content="Ozone Edge 2014 - Designer Tech Talk"/>
+    <meta name="twitter:description" content="Seven World Champions Later the Edge Legacy Continues...Ozone Kite Designer Rob Whittall talks through the design and tech features of the new Edge 2014 http..."/>
+    <meta name="twitter:image" content="http://i1.ytimg.com/vi/RaFgBeHa3iY/maxresdefault.jpg"/>
+    <meta name="twitter:app:name:iphone" content="YouTube"/>
+    <meta name="twitter:app:id:iphone" content="544007664"/>
+    <meta name="twitter:app:name:ipad" content="YouTube"/>
+    <meta name="twitter:app:id:ipad" content="544007664"/>
+    <meta name="twitter:app:url:iphone" content="vnd.youtube://watch/RaFgBeHa3iY"/>
+    <meta name="twitter:app:url:ipad" content="vnd.youtube://watch/RaFgBeHa3iY"/>
+    <meta name="twitter:app:name:googleplay" content="YouTube"/>
+    <meta name="twitter:app:id:googleplay" content="com.google.android.youtube"/>
+    <meta name="twitter:app:url:googleplay" content="http://www.youtube.com/watch?v=RaFgBeHa3iY"/>
+    <meta name="twitter:player" content="https://www.youtube.com/embed/RaFgBeHa3iY"/>
+    <meta name="twitter:player:width" content="1280"/>
+    <meta name="twitter:player:height" content="720"/>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-pageframe-vflPXdM4J.css" name="www-pageframe"/>
+    <link rel="stylesheet" href="http://s.ytimg.com/yts/cssbin/www-watch-transcript-vflp-Zp3x.css" name="www-watch-transcript"/>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cl", null, '');}
+//]]>
+    </script>
+  </head>
+  <body dir="ltr" class="  ltr  ie ie8     site-center-aligned site-as-giant-card sitewide-ticker-visible appbar-hidden     not-nirvana-dogfood  not-watch8    delayed-frame-styles-not-in  " id="body">
+    <div id="body-container">
+      <form name="logoutForm" method="POST" action="/logout">
+        <input type="hidden" name="action_logout" value="1"/>
+      </form>
+      <div id="masthead-positioner">
+        <div id="ticker" class="cookie-alert">
+          <div id="ticker-inner" class="yt-base-gutter">
+            <img class="ticker-icon" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt=""/>
+            <div class="ticker-content">
+              
+
+            Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+            
+              <span>
+                <a href="/redirect?q=https%3A%2F%2Fwww.google.com%2Fintl%2Fen%2Fpolicies%2Ftechnologies%2Fcookies&amp;event=gcookie&amp;usg=Y47905-KCVaXRQN63Q_3VjwtMnU=" target="_blank">
+                  Learn more
+                </a>
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary yt-uix-close" type="button" onclick="yt.www.masthead.dismissCookieAlert();;return false;" data-close-parent-id="ticker">
+                  <span class="yt-uix-button-content">
+                    Got it
+ 
+                  </span>
+                </button>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div id="yt-masthead-container" class="yt-grid-box yt-base-gutter">
+          <div id="yt-masthead" class="">
+            <div class="yt-masthead-logo-container ">
+              <a id="logo-container" href="/" title="YouTube home" class="    
+">
+                <img id="logo" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+                <span class="content-region">
+                  PT
+                </span>
+              </a>
+              <div id="appbar-guide-button-container">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Guide">
+                  <span class="yt-uix-button-icon-wrapper">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-appbar-guide"/>
+                  </span>
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                </button>
+                <div id="appbar-guide-button-notification-check" class="yt-valign">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="appbar-guide-notification-icon yt-valign-content"/>
+                </div>
+              </div>
+              <div id="appbar-main-guide-notification-container">
+              </div>
+            </div>
+            <div id="yt-masthead-signin">
+              <span id="appbar-onebar-upload-group" class="yt-uix-button-group">
+                <a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=mhsb" id="upload-btn">
+                  <span class="yt-uix-button-content">
+                    Upload 
+                  </span>
+                </a>
+              </span>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute('href');return false;" href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dsign_in_button%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3">
+                <span class="yt-uix-button-content">
+                  Sign in 
+                </span>
+              </button>
+            </div>
+            <div id="yt-masthead-content">
+              <form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (_gel('masthead-search-term').value == '') return false;">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;" dir="ltr" tabindex="2" id="search-btn">
+                  <span class="yt-uix-button-content">
+                    Search 
+                  </span>
+                </button>
+                <div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr">
+                  <label>
+                    <input id="masthead-search-term" autocomplete="off" class="search-term yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" title="Search"/>
+                  </label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div id="masthead-appbar-container" class="clearfix">
+          <div id="masthead-appbar">
+            <div id="appbar-content" class="">
+            </div>
+          </div>
+        </div>
+        <iframe id="masthead-ie-mask">
+        </iframe>
+      </div>
+      <div id="masthead-positioner-height-offset">
+      </div>
+      <div id="page-container">
+        <div id="page" class="  watch      watch-non-stage-mode   clearfix">
+          <div id="guide" class="yt-scrollbar">
+            <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor">
+              <div id="guide-container">
+                <div class="guide-module-content guide-module-loading">
+                  <p class="yt-spinner">
+                    <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                    <span class="yt-spinner-message">
+                      
+Loading...
+    
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="alerts" class="content-alignment">
+            <div class="yt-alert yt-alert-default yt-alert-info hid " id="old-browser-alert">
+              <div class="yt-alert-icon">
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="icon master-sprite" alt="Alert icon"/>
+              </div>
+              <div class="yt-alert-buttons">
+                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick="yt.net.cookies.set('hideOldBrowserBox', 'true', 604800);;return false;" data-close-parent-class="yt-alert">
+                  <span class="yt-uix-button-content">
+                    Close 
+                  </span>
+                </button>
+              </div>
+              <div class="yt-alert-content" role="alert">
+              </div>
+            </div>
+            <script>
+//<![CDATA[
+
+    if (!navigator.userAgent.match(/Trident\/\d\.\d/)) {
+      document.getElementById('old-browser-alert').style.display = 'block';
+    }
+  
+//]]>
+            </script>
+          </div>
+          <div id="header">
+          </div>
+          <div id="player" class="      watch-small  ">
+            <div id="theater-background">
+            </div>
+            <div id="player-mole-container">
+              <div id="playlist" class="playlist">
+              </div>
+              <div id="player-unavailable" class="    hid    player-width player-height    player-unavailable ">
+                <img class="icon meh" src="//s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-icon="//s.ytimg.com/yts/img/meh7-vflGevej7.png" alt=""/>
+                <div class="content">
+                  <h1 id="unavailable-message" class="message">
+                    
+            This video is unavailable.
+    
+                  </h1>
+                  <div id="unavailable-submessage" class="submessage">
+                  </div>
+                </div>
+              </div>
+              <div id="player-api" class="player-width player-height off-screen-target player-api">
+              </div>
+              <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}
+//]]>
+              </script>
+              <script>
+//<![CDATA[
+var ytplayer = ytplayer || {};ytplayer.config = {"assets": {"css": "\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css", "js": "\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js", "html": "\/html5_player_template"}, "params": {"allowfullscreen": "true", "allowscriptaccess": "always", "bgcolor": "#000000"}, "url_v9as2": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "url_v8": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/cps.swf", "min_version": "8.0.0", "html5": false, "attrs": {"id": "movie_player"}, "args": {"fmt_list": "22\/1280x720\/9\/0\/115,43\/640x360\/99\/0\/0,18\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0,36\/320x240\/99\/1\/0,17\/176x144\/99\/1\/0", "video_id": "RaFgBeHa3iY", "cc_module": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/subtitle_module.swf", "cbrver": "8.0", "cc_asr": 1, "vq": "auto", "account_playback_token": "QUFFLUhqbW5HZ0hta2tzVGFlRDdPTldaRG5Ga2tsODBtd3xBQ3Jtc0tuZkF2dlJ0LVZ4ZEZFZ1JtcmRPY2lvVVpqNC1fM2N2b3JlSkJhQnJkRXFOdFY5ZlVlQVo1Y0Z5UVpyZm52YnBTa1NVcFJlS0VRdG8yOHF0TzZxdXNiMTRJQ3NvYldmbFgxOXVBZGFVUms0YW5lcnJzQQ==", "cosver": "6.0", "cr": "PT", "no_get_video_log": "1", "enablecsi": "1", "watermark": ",http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_watermark-vflHX6b6E.png,http:\/\/s.ytimg.com\/yts\/img\/watermark\/youtube_hd_watermark-vflAzLcD6.png", "loaderUrl": "http:\/\/www.youtube.com\/watch?v=RaFgBeHa3iY", "sw": "0.1", "cc_font": "Arial Unicode MS, arial, verdana, _sans", "cbr": "IE", "dashmpd": "http:\/\/manifest.googlevideo.com\/api\/manifest\/dash\/playback_host\/r2---sn-4jjo-apne.googlevideo.com\/upn\/EW2oTJYKevw\/source\/youtube\/ipbits\/0\/cmbypass\/yes\/ip\/193.136.33.197\/key\/yt5\/mws\/yes\/expire\/1402526696\/sver\/3\/signature\/ECF25F973030C6C50BC340BCECCF15863E00C100.72BA1C4A63FD0ECAB486A3F88336E451A97F2B55\/fexp\/900356%2C913434%2C923341%2C924203%2C930008%2C932617%2C934026%2C936118\/itag\/0\/as\/fmp4_audio_clear%2Cwebm_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm_sd_hd_clear\/id\/o-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs\/ms\/au\/mt\/1402505261\/sparams\/as%2Ccmbypass%2Cid%2Cip%2Cipbits%2Citag%2Cplayback_host%2Csource%2Cexpire\/mv\/m", "tmi": "1", "eventid": "eoiYU7SgGcLdigbUnoFQ", "keywords": "www.flyozone.com,ozone kites,fly ozone,ozone edge,ozone 2014,edge 2014,free ride,kitesurfing,kitesurf,kiterace,kite board racing,edge race kite,ozone race kite,flyozone,rob whittall,matt taggart,florian gruber,riccardo leccese", "referrer": "http:\/\/www.youtube.com\/watch?v=jFwlI-zlhEg", "dash": "1", "sdetail": "rv:jFwlI-zlhEg", "ucid": "UCcVH6sVIOOEgvKadeMwBY-g", "cc3_module": "1", "adaptive_fmts": "clen=46747596\u0026bitrate=2219278\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22\u0026itag=136\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.441%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D46747596%26expire%3D1402526696%26sver%3D3%26signature%3D681ED5F211273AEC0681B37A9C13C670D84F2A21.621F9AA48DFA507EA68EE580FB0BF8AD26D3BF5E%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D136%26lmt%3D1401117247105026%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401117247105026\u0026init=0-710\u0026size=1280x720\u0026index=711-1258,clen=28457288\u0026bitrate=1587730\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026itag=247\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.440%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D28457288%26expire%3D1402526696%26sver%3D3%26signature%3DF984154B8AF12A12F9FF131B14E644672A89A10D.30384AF8F8365A73944037D3C0CB080ED60B612A%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D247%26lmt%3D1399894459114177%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1399894459114177\u0026init=0-234\u0026size=1280x720\u0026index=235-976,clen=22310143\u0026bitrate=1117671\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026itag=135\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.441%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D22310143%26expire%3D1402526696%26sver%3D3%26signature%3D085136FF2A4FF44C411C51468993267DCCFBE0BF.9A1958A8FECD804388641D2D7CE8BAAAC25BFCF8%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D135%26lmt%3D1401116857879503%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401116857879503\u0026init=0-709\u0026size=854x480\u0026index=710-1257,clen=13738451\u0026bitrate=670682\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026itag=244\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.440%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D13738451%26expire%3D1402526696%26sver%3D3%26signature%3D06F48A592DA0F6CDC59070DF9FD38EAB998A0D61.5E10F1154EB61C5043904830B962537E55830DE7%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D244%26lmt%3D1399894438804199%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1399894438804199\u0026init=0-234\u0026size=854x480\u0026index=235-956,clen=11473510\u0026bitrate=610334\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22\u0026itag=134\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.441%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D11473510%26expire%3D1402526696%26sver%3D3%26signature%3D1D59424ACAEF327570E9EFBFD1FB741692E85AB4.E7604DE684BD11A95FDF6DEA6B11587BA620E616%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D134%26lmt%3D1401112129626244%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401112129626244\u0026init=0-709\u0026size=640x360\u0026index=710-1257,clen=7113758\u0026bitrate=357376\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026itag=243\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.440%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D7113758%26expire%3D1402526696%26sver%3D3%26signature%3D9ED9DD3B269DE3F500DA4D394A74933D4B8E25C8.64B83FE31FE28FCC6B57DB8E455B0B713AA7096B%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D243%26lmt%3D1399894728450151%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1399894728450151\u0026init=0-234\u0026size=640x360\u0026index=235-956,clen=7087595\u0026bitrate=255115\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d4015%22\u0026itag=133\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.441%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D7087595%26expire%3D1402526696%26sver%3D3%26signature%3D9DF594B326369E750392E5FFE13B7F1F009370DB.59407924F684067F5D6F36AC008E32752AEB6BF5%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D133%26lmt%3D1401112121941753%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401112121941753\u0026init=0-674\u0026size=426x240\u0026index=675-1222,clen=3701933\u0026bitrate=193121\u0026type=video%2Fwebm%3B+codecs%3D%22vp9%22\u0026itag=242\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.440%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D3701933%26expire%3D1402526696%26sver%3D3%26signature%3DA6C70C2E541A25083FC29BAF9DFD0C3DB8DD7A61.6456BE0C3029C160796C03D75876483FA3EE78C5%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D242%26lmt%3D1399893396035397%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1399893396035397\u0026init=0-233\u0026size=426x240\u0026index=234-955,clen=3190518\u0026bitrate=111931\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22\u0026itag=160\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.441%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D3190518%26expire%3D1402526696%26sver%3D3%26signature%3DC7C74278A697694F175745D2330C89D1CD59C26D.EFBA74AD2319756670BD0EA6F77E5F427CB93A2E%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D160%26lmt%3D1401112118986816%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401112118986816\u0026init=0-671\u0026size=256x144\u0026index=672-1219,clen=3717978\u0026bitrate=129462\u0026type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22\u0026itag=140\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.549%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D3717978%26expire%3D1402526696%26sver%3D3%26signature%3DAAD89F3C4EB404402C5BC83FA37A21DEC4B441EA.6672567C30C794BE4AF6000B2B49BD6851DA79CB%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D140%26lmt%3D1401112118364775%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1401112118364775\u0026init=0-591\u0026index=592-911,clen=3465795\u0026bitrate=138973\u0026type=audio%2Fwebm%3B+codecs%3D%22vorbis%22\u0026itag=171\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fdur%3D231.478%26ms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26gir%3Dyes%26mws%3Dyes%26clen%3D3465795%26expire%3D1402526696%26sver%3D3%26signature%3D37408C42D8590B303FCB054EA764A836A74AE097.F73E56347627690C6BDC2AE0087D0E8A4DC4459E%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D171%26lmt%3D1399893385613140%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D2nZ5eJNosno%26mt%3D1402505261%26sparams%3Dclen%252Cdur%252Cgir%252Cid%252Cip%252Cipbits%252Citag%252Clmt%252Csource%252Cupn%252Cexpire%26mv%3Dm\u0026lmt=1399893385613140\u0026init=0-4451\u0026index=4452-4856", "enablejsapi": 1, "idpj": "-6", "ttsurl": "http:\/\/www.youtube.com\/api\/timedtext?signature=C3F785777D5A89D422ADE363ED08549663F53AB4.C073D4A9078C8D1B57C19ADCF3C882AFB87C569D\u0026asr_langs=ru%2Cfr%2Cnl%2Cit%2Ces%2Cde%2Cko%2Cen%2Cja%2Cpt\u0026caps=asr\u0026v=RaFgBeHa3iY\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026expire=1402530538\u0026key=yttt1\u0026hl=en_US", "atc": "a=3\u0026b=dJWcb7n5nhPHO2Ya3Nagtk0OZuc\u0026c=1402505338\u0026d=1\u0026e=RaFgBeHa3iY\u0026c3a=11\u0026c1a=1\u0026hh=DEJffi83y_fSrKGowY6e14PwwVE", "hl": "en", "timestamp": 1402505338, "fexp": "900356,913434,923341,924203,930008,932617,934026,936118", "ptk": "youtube_none", "c": "WEB", "plid": "AAT7kjh-UPlTEigR", "title": "Ozone Edge 2014 - Designer Tech Talk", "ldpj": "-35", "sourceid": "yw", "length_seconds": 232, "host_language": "en", "pltype": "contentugc", "storyboard_spec": "http:\/\/i1.ytimg.com\/sb\/RaFgBeHa3iY\/storyboard3_L$L\/$N.jpg|48#27#100#10#10#0#default#870O-KO9XBeygxDmw7UCiwu0jUA|80#45#117#10#10#2000#M$M#ULwdJeaH-rX95XB6TET90NpDvBc|160#90#117#5#5#2000#M$M#wxaltrbE2o2L-OU-7RD3zuOe138", "t": "1", "url_encoded_fmt_stream_map": "fallback_host=tc.v22.cache6.googlevideo.com\u0026quality=hd720\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22\u0026itag=22\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ratebypass%3Dyes%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3D7466F498E737C7F4DA30821CFA4BFF34EAA88885.684DD6BDB13D83089BAE11B9249F53BC861D1B32%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D22%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26mv%3Dm,fallback_host=tc.v19.cache5.googlevideo.com\u0026quality=medium\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026itag=43\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ratebypass%3Dyes%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3DF546E454A02646761F2CB35B647C04B005C46EF4.8FCA9E7D2978CD796DC7B3513F4FB227378568E9%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D43%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26mv%3Dm,fallback_host=tc.v16.cache5.googlevideo.com\u0026quality=medium\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026itag=18\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ratebypass%3Dyes%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3D84CEBE70125E81FCFE0368E543D41D97076D1773.AE4F5240FB49606F0F50C003F8C46355A50B06DB%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D18%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Cratebypass%252Csource%252Cupn%252Cexpire%26mv%3Dm,fallback_host=tc.v18.cache5.googlevideo.com\u0026quality=small\u0026type=video%2Fx-flv\u0026itag=5\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3D8F6C047DEF3458EA415FCECF142B207BABF3A13F.3BD8A6FFFE39B94EB8DC9792CD285CFA44C50A39%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D5%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mv%3Dm,fallback_host=tc.v19.cache3.googlevideo.com\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=36\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3D813681BDF3FE03110914ECB371C104C316E6D57F.F5A492D53F59FF164CD1418CC05386E688551696%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D36%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mv%3Dm,fallback_host=tc.v13.cache8.googlevideo.com\u0026quality=small\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026itag=17\u0026url=http%3A%2F%2Fr2---sn-4jjo-apne.googlevideo.com%2Fvideoplayback%3Fms%3Dau%26source%3Dyoutube%26ipbits%3D0%26ip%3D193.136.33.197%26key%3Dyt5%26mws%3Dyes%26expire%3D1402526696%26sver%3D3%26signature%3D0C2599882939166FDA3EC8631229AAD14EBCF1C1.59A4662787977196FAE3914B7FF619BA3CF03999%26fexp%3D900356%252C913434%252C923341%252C924203%252C930008%252C932617%252C934026%252C936118%26itag%3D17%26id%3Do-AGo802EHTBQfM91IEVh1ij2KuCF8qDQQV6uGCAA1otJs%26upn%3D3OavaJfuFho%26mt%3D1402505261%26sparams%3Did%252Cip%252Cipbits%252Citag%252Csource%252Cupn%252Cexpire%26mv%3Dm", "loudness": -20.1590003967, "csi_page_type": "watch,watch7", "cos": "Windows", "rvs": "id=7Vc9Zbn7Sqg\u0026author=Diego+Barona\u0026title=FONE+KITEBOARDING+-+MATERIAL+2014\u0026length_seconds=1791\u0026session_data=feature%3Dendscreen,id=Tm5qzdmOmSw\u0026author=Cabrinha+Kitesurfing\u0026title=Hawaii%3A+A+Kitesurfing+Short+Film\u0026length_seconds=716\u0026session_data=feature%3Dendscreen,id=dUhznfdatmw\u0026author=flyozone\u0026title=Ozone+Chrono+-+Tips+and+Techniques\u0026length_seconds=829\u0026session_data=feature%3Dendscreen,id=U8GldO0Zndo\u0026author=Luc1motorsport\u0026title=%5BLUC1%5D+Winter+Training+2014\u0026length_seconds=653\u0026session_data=feature%3Dendscreen,id=7UokGS3Wkvw\u0026author=JNavas2\u0026title=Kiteboard+Racing+North+Americans%2C+June+7+2013\u0026length_seconds=627\u0026session_data=feature%3Dendscreen,id=Ywgync45Eis\u0026author=XTreme+Video\u0026title=Kitesurf+%7C+Tom%C2%B4s+kitchen+II\u0026length_seconds=332\u0026session_data=feature%3Dendscreen,id=QVVSEThrNT8\u0026author=Filip+Wirefors\u0026title=Kitesurfing+Dakhla+-+Marocko+-+2013\u0026length_seconds=470\u0026session_data=feature%3Dendscreen,id=iC3QYPURfVY\u0026author=Red+Bull\u0026title=Australia%27s+Longest+Kitesurfing+Race+-+Red+Bull+Lighthouse+to+Leighton+2012\u0026length_seconds=252\u0026session_data=feature%3Dendscreen,id=pPqZIsndedw\u0026author=Kiteboarding.com\u0026title=How+to%3A+Prolong+Kite+Life\u0026length_seconds=449\u0026session_data=feature%3Dendscreen,id=JOtNEzSZiks\u0026author=PKRAWorldTour\u0026title=Kiteboarding+Slalom+World+Cup+2013+in+Pingtan%2C+China+-+TT+RACE+AND+SLALOM\u0026length_seconds=312\u0026session_data=feature%3Dendscreen,id=sVVBohGNUM0\u0026author=flyozone\u0026title=Ozone+Chrono+-+Water+Self+Rescue\u0026length_seconds=150\u0026session_data=feature%3Dendscreen,id=tv9rgjgAHIQ\u0026author=flyozone\u0026title=Ozone+Chrono+-+Designer+Tech+Talk+-+High+Performance+De-Power+Foil+For+All+Surfaces\u0026length_seconds=202\u0026session_data=feature%3Dendscreen"}, "url": "http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf", "sts": 16225};(function() {var encoded = [];for (var key in ytplayer.config.args) {encoded.push(encodeURIComponent(key) + '=' + encodeURIComponent(ytplayer.config.args[key]));}var swf = "    \u003cobject classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\"\u003e\u003cparam name=\"movie\" value=\"http:\/\/s.ytimg.com\/yts\/swfbin\/player-vflmTHkPE\/watch_as3.swf\"\u003e\u003cparam name=\"flashvars\" value=\"__flashvars__\"\u003e\u003cparam name=\"allowfullscreen\" value=\"true\"\u003e\u003cparam name=\"allowscriptaccess\" value=\"always\"\u003e\u003cparam name=\"bgcolor\" value=\"#000000\"\u003e\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e\u003c\/object\u003e\n";swf = swf.replace('__flashvars__', encoded.join('&'));document.getElementById("player-api").innerHTML = swf;ytplayer.config.loaded = true}());
+//]]>
+              </script>
+              <div id="watch-timeline-mole-container" class="video-mole">
+              </div>
+            </div>
+            <div class="clear">
+            </div>
+          </div>
+          <div id="content" class="  content-alignment    yt-card ">
+            <div id="watch7-container" class="">
+              <div id="watch7-main-container">
+                <div id="watch7-main" class="clearfix">
+                  <div id="watch7-content" class="watch-content " itemscope="" itemid="" itemtype="http://schema.org/VideoObject">
+                    <link itemprop="url" href="http://www.youtube.com/watch?v=RaFgBeHa3iY"/>
+                    <meta itemprop="name" content="Ozone Edge 2014 - Designer Tech Talk"/>
+                    <meta itemprop="description" content="Seven World Champions Later the Edge Legacy Continues...Ozone Kite Designer Rob Whittall talks through the design and tech features of the new Edge 2014 http..."/>
+                    <meta itemprop="paid" content="False"/>
+                    <meta itemprop="channelId" content="UCcVH6sVIOOEgvKadeMwBY-g"/>
+                    <meta itemprop="videoId" content="RaFgBeHa3iY"/>
+                    <meta itemprop="duration" content="PT3M52S"/>
+                    <meta itemprop="unlisted" content="False"/>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="http://www.youtube.com/user/flyozone"/>
+                    </span>
+                    <span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+                      <link itemprop="url" href="https://plus.google.com/105160482438829204878"/>
+                    </span>
+                    <link itemprop="thumbnailUrl" href="http://i1.ytimg.com/vi/RaFgBeHa3iY/maxresdefault.jpg"/>
+                    <span itemprop="thumbnail" itemscope="" itemtype="http://schema.org/ImageObject">
+                      <link itemprop="url" href="http://i1.ytimg.com/vi/RaFgBeHa3iY/maxresdefault.jpg"/>
+                      <meta itemprop="width" content="1280"/>
+                      <meta itemprop="height" content="720"/>
+                    </span>
+                    <link itemprop="embedURL" href="https://www.youtube.com/embed/RaFgBeHa3iY"/>
+                    <meta itemprop="playerType" content="HTML5 Flash"/>
+                    <meta itemprop="width" content="1280"/>
+                    <meta itemprop="height" content="720"/>
+                    <meta itemprop="isFamilyFriendly" content="True"/>
+                    <meta itemprop="regionsAllowed" content="AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW"/>
+                    <div class="yt-uix-button-panel">
+                      <div id="watch7-headline" class="clearfix  yt-uix-expander yt-uix-expander-collapsed">
+                        <h1 id="watch-headline-title" class="yt">
+                          <span id="eow-title" class="watch-title  yt-uix-expander-head" dir="ltr" title="Ozone Edge 2014 - Designer Tech Talk">
+                            
+    Ozone Edge 2014 - Designer Tech Talk
+  
+                          </span>
+                        </h1>
+                      </div>
+                      <div id="watch7-user-header" class=" spf-nolink ">
+                        <a href="/channel/UCcVH6sVIOOEgvKadeMwBY-g" class="yt-user-photo  yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=watch">
+                          <span class="video-thumb  yt-thumb yt-thumb-48 g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                            <span class="yt-thumb-square">
+                              <span class="yt-thumb-clip">
+                                <img alt="flyozone" src="https://yt3.ggpht.com/-hnTecguJyrw/AAAAAAAAAAI/AAAAAAAAAAA/Z93zvDBR2JA/s88-c-k-no/photo.jpg" width="48" height="48"/>
+                                <span class="vertical-align">
+                                </span>
+                              </span>
+                            </span>
+                          </span>
+                        </a>
+                        <a href="/channel/UCcVH6sVIOOEgvKadeMwBY-g" class="g-hovercard yt-uix-sessionlink yt-user-name " data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=watch" dir="ltr" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="watch">
+                          flyozone
+                        </a>
+                        <span class="yt-user-separator">
+                          ·
+                        </span>
+                        <a class="yt-uix-sessionlink yt-user-videos" href="/channel/UCcVH6sVIOOEgvKadeMwBY-g/videos" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=watch">
+                          73 videos
+                        </a>
+                        <br/>
+                        <span id="watch7-subscription-container">
+                          <span class=" yt-uix-button-subscription-container with-preferences">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-subscribe-branded yt-uix-button-has-icon yt-uix-subscription-button yt-can-buffer" type="button" onclick=";return false;" aria-busy="false" aria-live="polite" aria-role="button" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=watch&amp;ved=CBgQmys" data-channel-external-id="UCcVH6sVIOOEgvKadeMwBY-g" data-style-type="branded" data-href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbEpSNmxWLUltRHhVOWxnRk1ZU2RBLW9OZENpQXxBQ3Jtc0tudmh4MmI1X3lGQkdob0EzdExEbHB5cm1WNGRGeVdoalA0MklJNnpSWmMwQXlVT2t3dWh5X0NvaUhnbDZUeVd0aHdKYm4yZm5LTHp5ZkZiaDRqT0ZHZVZBb0lsajRnbmE1SFhSMG81Sms3VFNPbFRqam5IRWdfam80dnRZNk45TzdFdGVGZVlUVGlxRXRvUGxWUkFFaHZKd0N0cjlNTFM3MjFKdi0xTmtlSUJodmVaUkJZR1RwTHV0ZlZlUlFYejkxQTVaaG8%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCcVH6sVIOOEgvKadeMwBY-g&amp;uilel=3">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscribe"/>
+                              </span>
+                              <span class="yt-uix-button-content">
+                                <span class="subscribe-label" aria-label="Subscribe">
+                                  Subscribe
+                                </span>
+                                <span class="subscribed-label" aria-label="Unsubscribe">
+                                  Subscribed
+                                </span>
+                                <span class="unsubscribe-label" aria-label="Unsubscribe">
+                                  Unsubscribe
+                                </span>
+                              </span>
+                            </button>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon yt-uix-subscription-preferences-button" type="button" onclick=";return false;" data-channel-external-id="UCcVH6sVIOOEgvKadeMwBY-g">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences"/>
+                              </span>
+                            </button>
+                            <span class="yt-subscription-button-subscriber-count-branded-horizontal" title="1,741">
+                              1,741
+                            </span>
+                            <span class="yt-subscription-button-disabled-mask" title="">
+                            </span>
+                            <div class="yt-uix-overlay " data-overlay-style="primary" data-overlay-shape="tiny">
+                              <div class="yt-dialog hid ">
+                                <div class="yt-dialog-base">
+                                  <span class="yt-dialog-align">
+                                  </span>
+                                  <div class="yt-dialog-fg">
+                                    <div class="yt-dialog-fg-content">
+                                      <div class="yt-dialog-header">
+                                        <h2 class="yt-dialog-title">
+                                          
+                        Subscription preferences
+
+
+                
+                                        </h2>
+                                      </div>
+                                      <div class="yt-dialog-loading">
+                                        <div class="yt-dialog-waiting-content">
+                                          <div class="yt-spinner-img">
+                                          </div>
+                                          <div class="yt-dialog-waiting-text">
+                                            Loading...
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-content">
+                                        <div class="subscription-preferences-overlay-content-container">
+                                          <div class="subscription-preferences-overlay-loading ">
+                                            <p class="yt-spinner">
+                                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                                              <span class="yt-spinner-message">
+                                                
+Loading...
+    
+                                              </span>
+                                            </p>
+                                          </div>
+                                          <div class="subscription-preferences-overlay-content">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="yt-dialog-working">
+                                        <div class="yt-dialog-working-overlay">
+                                        </div>
+                                        <div class="yt-dialog-working-bubble">
+                                          <div class="yt-dialog-waiting-content">
+                                            <div class="yt-spinner-img">
+                                            </div>
+                                            <div class="yt-dialog-waiting-text">
+                                              Working...
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </span>
+                        </span>
+                        <div id="watch7-views-info">
+                          <span class="watch-view-count">
+                            7,366
+                          </span>
+                          <div class="video-extras-sparkbars">
+                            <div class="video-extras-sparkbar-likes" style="width: 96.2962962963%">
+                            </div>
+                            <div class="video-extras-sparkbar-dislikes" style="width: 3.7037037037%">
+                            </div>
+                          </div>
+                          <span class="video-extras-likes-dislikes">
+                            <img class="icon-watch-stats-like" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Like"/>
+                            <span class="likes-count">
+                              26
+                            </span>
+                            
+
+       
+      
+                            <img class="icon-watch-stats-dislike" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Dislike"/>
+                            <span class="dislikes-count">
+                              1
+                            </span>
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-buttons" class="clearfix">
+                        <div id="watch7-sentiment-actions">
+                          <span id="watch-like-dislike-buttons" class="yt-uix-button-group " data-vote-state="2" data-button-toggle-group="optional">
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-like" title="" data-position="bottomright" data-unlike-tooltip="Unlike" data-force-position="true" data-like-tooltip="I like this" data-orientation="vertical" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-watch-like"/>
+                                </span>
+                                <span class="yt-uix-button-content">
+                                  Like 
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to like 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                    flyozone
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                            <span class="yt-uix-clickcard">
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" id="watch-dislike" title="I dislike this" data-position="bottomright" data-force-position="true" data-orientation="vertical" data-button-toggle="true">
+                                <span class="yt-uix-button-icon-wrapper">
+                                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="I dislike this" class="yt-uix-button-icon yt-uix-button-icon-watch-dislike"/>
+                                </span>
+                              </button>
+                              <div class="watch7-hovercard yt-uix-clickcard-content">
+                                <h3 class="watch7-hovercard-header">
+                                  Sign in to YouTube
+                                </h3>
+                                <div class="watch7-hovercard-message">
+                                  
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to dislike 
+                                  <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                    flyozone
+                                  </span>
+                                  's video.
+
+    
+                                </div>
+                                <ul class="watch7-hovercard-icon-strip clearfix">
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-youtube-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gplus-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-gmail-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-picasa-icon">
+                                    </div>
+                                  </li>
+                                  <li class="watch7-hovercard-icon">
+                                    <div class="watch7-hovercard-chrome-icon">
+                                    </div>
+                                  </li>
+                                </ul>
+                                <div class="watch7-hovercard-account-line">
+                                  <a href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ">
+                                    <span class="yt-uix-button-content">
+                                      Sign in 
+                                    </span>
+                                  </a>
+                                </div>
+                              </div>
+                            </span>
+                          </span>
+                        </div>
+                        <div id="watch7-secondary-actions" class="yt-uix-button-group" data-button-toggle-group="required">
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger  yt-uix-button-toggled yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-details" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                About 
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="" data-trigger-for="action-panel-share" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Share 
+                              </span>
+                            </button>
+                          </span>
+                          <span class="yt-uix-clickcard">
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text action-panel-trigger   yt-uix-clickcard-target yt-uix-tooltip" type="button" onclick=";return false;" title="" data-position="bottomleft" data-force-position="true" data-upsell="playlist" data-orientation="vertical" data-trigger-for="action-panel-none" data-button-toggle="true">
+                              <span class="yt-uix-button-content">
+                                Add to 
+                              </span>
+                            </button>
+                            <div class="watch7-hovercard yt-uix-clickcard-content">
+                              <h3 class="watch7-hovercard-header">
+                                Sign in to YouTube
+                              </h3>
+                              <div class="watch7-hovercard-message">
+                                
+      Sign in with your Google Account (YouTube, Google+, Gmail, Orkut, Picasa, or Chrome) to add 
+                                <span class="yt-user-name  g-hovercard" dir="ltr" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                  flyozone
+                                </span>
+                                's video to your playlist.
+
+    
+                              </div>
+                              <ul class="watch7-hovercard-icon-strip clearfix">
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-youtube-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gplus-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-gmail-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-picasa-icon">
+                                  </div>
+                                </li>
+                                <li class="watch7-hovercard-icon">
+                                  <div class="watch7-hovercard-chrome-icon">
+                                  </div>
+                                </li>
+                              </ul>
+                              <div class="watch7-hovercard-account-line">
+                                <a href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ">
+                                  <span class="yt-uix-button-content">
+                                    Sign in 
+                                  </span>
+                                </a>
+                              </div>
+                            </div>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Transcript" data-trigger-for="action-panel-transcript" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Transcript" class="yt-uix-button-icon yt-uix-button-icon-action-panel-transcript"/>
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Statistics" data-trigger-for="action-panel-stats" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Statistics" class="yt-uix-button-icon yt-uix-button-icon-action-panel-stats"/>
+                              </span>
+                            </button>
+                          </span>
+                          <span>
+                            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon action-panel-trigger   yt-uix-tooltip" type="button" onclick=";return false;" title="Report" data-trigger-for="action-panel-report" data-button-toggle="true">
+                              <span class="yt-uix-button-icon-wrapper">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Report" class="yt-uix-button-icon yt-uix-button-icon-action-panel-report"/>
+                              </span>
+                            </button>
+                          </span>
+                        </div>
+                      </div>
+                      <div id="watch7-action-panels" class="yt-uix-button-panel">
+                        <div id="action-panel-details" class="action-panel-content ">
+                          <div id="watch-description" class="yt-uix-expander yt-uix-expander-collapsed yt-uix-button-panel">
+                            <div id="watch-description-content">
+                              <div id="watch-description-clip">
+                                <p id="watch-uploader-info">
+                                  <strong>
+                                    Published on May 9, 2014
+                                  </strong>
+                                </p>
+                                <div id="watch-description-text">
+                                  <p id="eow-description">
+                                    Seven World Champions Later the Edge Legacy Continues...Ozone Kite Designer Rob Whittall talks through the design and tech features of the new Edge 2014
+                                    <br/>
+                                    <br/>
+                                    <a href="http://flyozone.com/kitesurf/en/products/kites/edge/info/" target="_blank" title="http://flyozone.com/kitesurf/en/products/kites/edge/info/" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">
+                                      http://flyozone.com/kitesurf/en/produ...
+                                    </a>
+                                  </p>
+                                </div>
+                                <div id="watch-description-extras">
+                                  <ul class="watch-extras-section">
+                                    <li>
+                                      <h4 class="title">
+                                        
+Category
+        
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-category">
+                                          <a href="/sports" class=" yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ">
+                                            Sports
+                                          </a>
+                                        </p>
+                                      </div>
+                                    </li>
+                                    <li>
+                                      <h4 class="title">
+                                        License
+                                      </h4>
+                                      <div class="content">
+                                        <p id="eow-reuse">
+                                          
+Standard YouTube License
+  
+                                        </p>
+                                      </div>
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                              <ul id="watch-description-extra-info">
+                              </ul>
+                            </div>
+                            <div id="watch-description-toggle" class="yt-uix-expander-head yt-uix-button-panel">
+                              <div id="watch-description-expand" class="expand">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show more 
+                                  </span>
+                                </button>
+                              </div>
+                              <div id="watch-description-collapse" class="collapse">
+                                <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text metadata-inline" type="button" onclick=";return false;">
+                                  <span class="yt-uix-button-content">
+                                    Show less 
+                                  </span>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div id="action-panel-share" class="action-panel-content hid">
+                          <div id="watch-actions-share-loading">
+                            <div class="action-panel-loading">
+                              <p class="yt-spinner">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                                <span class="yt-spinner-message">
+                                  
+Loading...
+    
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                          <div id="watch-actions-share-panel">
+                          </div>
+                        </div>
+                        <div id="action-panel-addto" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-transcript" class="action-panel-content hid">
+                          <div id="watch-actions-transcript-loading">
+                            <div class="action-panel-loading">
+                              <p class="yt-spinner">
+                                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                                <span class="yt-spinner-message">
+                                  
+Loading...
+    
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                          <div id="watch-actions-transcript" class="watch-actions-panel hid">
+                            <div id="caption-line-template" class="hid">
+                              <!--
+    <div class="caption-line-time">
+      <div class="caption-line-start">__start__</div>
+    </div>
+    <div class="editable-line-text">
+      <span class="editable-line-text-original">__original__</span>
+      <label class="editable-line-text-current hid">__current__</label>
+      <textarea class="editable-line-text-input hid">__input__</textarea>
+    </div>
+    -->                            </div>
+                            <div id="watch-transcript-container">
+                              <div id="watch-transcript-not-found" class="hid">
+                                
+The interactive transcript could not be loaded.
+      
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div id="action-panel-stats" class="action-panel-content hid">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-report" class="action-panel-content hid" data-auth-required="true">
+                          <div class="action-panel-loading">
+                            <p class="yt-spinner">
+                              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                              <span class="yt-spinner-message">
+                                
+Loading...
+    
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                        <div id="action-panel-login" class="action-panel-content hid">
+                          <div class="action-panel-login">
+                            <a href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3D__FEATURE__%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ">
+                              <span class="yt-uix-button-content">
+                                Sign in 
+                              </span>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="action-panel-ratings-disabled" class="action-panel-content hid">
+                          <div id="watch-actions-ratings-disabled" class="watch-actions-panel">
+                            <em>
+                              Ratings have been disabled for this video.
+                            </em>
+                          </div>
+                        </div>
+                        <div id="action-panel-rental-required" class="action-panel-content hid">
+                          <div id="watch-actions-rental-required" class="watch-actions-panel">
+                            <strong>
+                              Rating is available when the video has been rented.
+                            </strong>
+                          </div>
+                        </div>
+                        <div id="action-panel-error" class="action-panel-content hid">
+                          <div class="action-panel-error">
+                            
+      This feature is not available right now. Please try again later.
+    
+                          </div>
+                        </div>
+                        <div id="watch7-action-panel-footer">
+                          <hr class="yt-horizontal-rule "/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="cmt_iframe_holder" data-href="http://www.youtube.com/watch?v=RaFgBeHa3iY" data-viewtype="FILTERED" style="display: none;">
+                    </div>
+                    <div id="watch-discussion">
+                      <div class="comments-iframe-container">
+                        <div id="comments-test-iframe">
+                        </div>
+                        <div id="distiller-spinner" class="action-panel-loading">
+                          <p class="yt-spinner">
+                            <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+                            <span class="yt-spinner-message">
+                              
+Loading...
+    
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div id="watch7-sidebar" class="watch-sidebar">
+                    <div id="watch7-sidebar-playlist">
+                    </div>
+                    <div id="watch7-sidebar-contents" class="watch-sidebar-gutter ">
+                      <div id="watch7-sidebar-offer">
+                      </div>
+                      <div id="watch7-sidebar-discussion">
+                      </div>
+                      <div id="watch7-sidebar-ads">
+                      </div>
+                      <div id="watch7-sidebar-modules">
+                        <div class="watch-sidebar-section">
+                          <div class="watch-sidebar-body">
+                            <ul id="watch-related" class="video-list">
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=7Vc9Zbn7Sqg" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAMQzRooAA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="7Vc9Zbn7Sqg">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/7Vc9Zbn7Sqg/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      29:51
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="7Vc9Zbn7Sqg">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="FONE KITEBOARDING - MATERIAL 2014">
+                                    
+    FONE KITEBOARDING - MATERIAL 2014
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCX3rHSH22Vk_VYmeD-rpsdQ" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCX3rHSH22Vk_VYmeD-rpsdQ">
+                                          Diego Barona
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    2,762 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=Tm5qzdmOmSw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAQQzRooAQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Tm5qzdmOmSw">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/Tm5qzdmOmSw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      11:56
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Tm5qzdmOmSw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Hawaii: A Kitesurfing Short Film">
+                                    
+    Hawaii: A Kitesurfing Short Film
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCoL-NJ7mryhEKDl5tUJ_tUw" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCoL-NJ7mryhEKDl5tUJ_tUw">
+                                          Cabrinha Kitesurfing
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    26,404 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=dUhznfdatmw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=relmfu&amp;ved=CAUQzRooAg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="dUhznfdatmw">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/dUhznfdatmw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      13:49
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="dUhznfdatmw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Chrono - Tips and Techniques">
+                                    
+    Ozone Chrono - Tips and Techniques
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                          flyozone
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    10,644 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=U8GldO0Zndo" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAYQzRooAw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="U8GldO0Zndo">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/U8GldO0Zndo/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      10:53
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="U8GldO0Zndo">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="[LUC1] Winter Training 2014">
+                                    
+    [LUC1] Winter Training 2014
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCvpYLeYxWI6uDUwZj_Roocw" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCvpYLeYxWI6uDUwZj_Roocw">
+                                          Luc1motorsport
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    31,409 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=7UokGS3Wkvw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAcQzRooBA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="7UokGS3Wkvw">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/7UokGS3Wkvw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      10:27
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="7UokGS3Wkvw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Kiteboard Racing North Americans, June 7 2013">
+                                    
+    Kiteboard Racing North Americans, June 7 2013
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC5wLSD_i4SwcgiBENqJ2b_g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC5wLSD_i4SwcgiBENqJ2b_g">
+                                          JNavas2
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    6,206 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=Ywgync45Eis" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAgQzRooBQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="Ywgync45Eis">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/Ywgync45Eis/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      5:32
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Ywgync45Eis">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Kitesurf | Tom´s kitchen II">
+                                    
+    Kitesurf | Tom´s kitchen II
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcxTKPM6zJ1jYCIEbfcGghw" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcxTKPM6zJ1jYCIEbfcGghw">
+                                          XTreme Video
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    50,986 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=QVVSEThrNT8" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAkQzRooBg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="QVVSEThrNT8">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/QVVSEThrNT8/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      7:50
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="QVVSEThrNT8">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Kitesurfing Dakhla - Marocko - 2013">
+                                    
+    Kitesurfing Dakhla - Marocko - 2013
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCG-ivU_XCCyDU6zAwadxR-g" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCG-ivU_XCCyDU6zAwadxR-g">
+                                          Filip Wirefors
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    75,628 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=iC3QYPURfVY" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAoQzRooBw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="iC3QYPURfVY">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/iC3QYPURfVY/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:12
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="iC3QYPURfVY">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Australia's Longest Kitesurfing Race - Red Bull Lighthouse to Leighton 2012">
+                                    
+    Australia's Longest Kitesurfing Race - Red Bull Lighthouse to Leighton 2012
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCblfuW_4rakIf2h6aqANefA" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCblfuW_4rakIf2h6aqANefA">
+                                          Red Bull
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    62,580 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=pPqZIsndedw" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAsQzRooCA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="pPqZIsndedw">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/pPqZIsndedw/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      7:29
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="pPqZIsndedw">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="How to: Prolong Kite Life">
+                                    
+    How to: Prolong Kite Life
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC1aUDQkCmBcWqPWpM4r2Rmg" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC1aUDQkCmBcWqPWpM4r2Rmg">
+                                          Kiteboarding.com
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    6,673 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=JOtNEzSZiks" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CAwQzRooCQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="JOtNEzSZiks">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/JOtNEzSZiks/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      5:12
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="JOtNEzSZiks">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Kiteboarding Slalom World Cup 2013 in Pingtan, China - TT RACE AND SLALOM">
+                                    
+    Kiteboarding Slalom World Cup 2013 in Pingtan, China - TT RACE AND SLALOM
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCP3bCLN5Lv79Al8VqgAampg" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCP3bCLN5Lv79Al8VqgAampg">
+                                          PKRAWorldTour
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    4,405 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=sVVBohGNUM0" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=relmfu&amp;ved=CA0QzRooCg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="sVVBohGNUM0">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/sVVBohGNUM0/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:30
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="sVVBohGNUM0">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Chrono - Water Self Rescue">
+                                    
+    Ozone Chrono - Water Self Rescue
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                          flyozone
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    2,991 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=tv9rgjgAHIQ" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=relmfu&amp;ved=CA4QzRooCw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="tv9rgjgAHIQ">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/tv9rgjgAHIQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:22
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="tv9rgjgAHIQ">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Chrono - Designer Tech Talk - High Performance De-Power Foil For All Surfaces">
+                                    
+    Ozone Chrono - Designer Tech Talk - High Performance De-Power Foil For All Surfaces
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                          flyozone
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    9,940 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=dRtmntmZncs" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CA8QzRooDA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="dRtmntmZncs">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/dRtmntmZncs/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      2:22
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="dRtmntmZncs">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Chrono 18m Flysurfer 21m">
+                                    
+    Ozone Chrono 18m Flysurfer 21m
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCt34wtxomw_THG8_J0MTEsg" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCt34wtxomw_THG8_J0MTEsg">
+                                          MyLifeinJapan09
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,114 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=NjVQ2vkZvmI" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CBAQzRooDQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="NjVQ2vkZvmI">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/NjVQ2vkZvmI/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:16
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="NjVQ2vkZvmI">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="2014 Ozone REO">
+                                    
+    2014 Ozone REO
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UC1aUDQkCmBcWqPWpM4r2Rmg" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UC1aUDQkCmBcWqPWpM4r2Rmg">
+                                          Kiteboarding.com
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    1,657 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=q1xJT9wFmto" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CBEQzRooDg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="q1xJT9wFmto">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/q1xJT9wFmto/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:39
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="q1xJT9wFmto">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ocean Rodeo Flite - Light Wind Kite, 30% Lighter!">
+                                    
+    Ocean Rodeo Flite - Light Wind Kite, 30% Lighter!
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCQvsO4qr-S6CmslPvSJFcHA" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCQvsO4qr-S6CmslPvSJFcHA">
+                                          Ocean Rodeo
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    4,292 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=hm7fTlJcN_Y" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=relmfu&amp;ved=CBIQzRooDw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hm7fTlJcN_Y">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/hm7fTlJcN_Y/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:12
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hm7fTlJcN_Y">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Catalyst 2014">
+                                    
+    Ozone Catalyst 2014
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                          flyozone
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    19,809 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=2jl59Qpvm18" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=relmfu&amp;ved=CBMQzRooEA">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="2jl59Qpvm18">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/2jl59Qpvm18/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:02
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="2jl59Qpvm18">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Ozone Edge - Devoted to Performance, Development and Design">
+                                    
+    Ozone Edge - Devoted to Performance, Development and Design
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g" data-name="relmfu">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcVH6sVIOOEgvKadeMwBY-g">
+                                          flyozone
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    21,528 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=gZlqEW9NsuU" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CBQQzRooEQ">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="gZlqEW9NsuU">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/gZlqEW9NsuU/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      3:19
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="gZlqEW9NsuU">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="BEST KITEBOARDING 2014 WET DREAMS - Präsentiert von MeinKite.de">
+                                    
+    BEST KITEBOARDING 2014 WET DREAMS - Präsentiert von MeinKite.de
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCK4BWymnaDThvK1IM29sDNA" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCK4BWymnaDThvK1IM29sDNA">
+                                          MeinKite.de
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    309,586 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=hHRjUcz6M-o" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CBUQzRooEg">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="hHRjUcz6M-o">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/hHRjUcz6M-o/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      4:32
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="hHRjUcz6M-o">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Tandem Kitesurfing - Double Pleasure - Kitesurf">
+                                    
+    Tandem Kitesurfing - Double Pleasure - Kitesurf
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCcxTKPM6zJ1jYCIEbfcGghw" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCcxTKPM6zJ1jYCIEbfcGghw">
+                                          XTreme Video
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    252,745 views
+                                  </span>
+                                </a>
+                              </li>
+                              <li class="video-list-item related-list-item">
+                                <a href="/watch?v=s8Pevl_BNxQ" class=" related-video yt-uix-sessionlink" data-sessionlink="ei=eoiYU7SgGcLdigbUnoFQ&amp;feature=related&amp;ved=CBYQzRooEw">
+                                  <span class="yt-uix-simple-thumb-wrap yt-uix-simple-thumb-related" data-vid="s8Pevl_BNxQ">
+                                    <img alt="Thumbnail" data-thumb="//i1.ytimg.com/vi/s8Pevl_BNxQ/default.jpg" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" width="120" height="90"/>
+                                    <span class="video-time">
+                                      13:02
+                                    </span>
+                                    <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" title="Watch Later" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="s8Pevl_BNxQ">
+                                      <span class="yt-uix-button-content">
+                                        <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Watch Later"/>
+                                      </span>
+                                      <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+                                    </button>
+                                  </span>
+                                  <span dir="ltr" class="title" title="Intro to Kiteboarding - Learn to Kiteboard - Trainer Kite Instructional Video">
+                                    
+    Intro to Kiteboarding - Learn to Kiteboard - Trainer Kite Instructional Video
+  
+                                  </span>
+                                  <span class="stat attribution">
+                                    <span class="g-hovercard" data-ytid="UCQvsO4qr-S6CmslPvSJFcHA" data-name="related">
+                                      
+        by 
+                                      <b>
+                                        <span class=" g-hovercard" data-ytid="UCQvsO4qr-S6CmslPvSJFcHA">
+                                          Ocean Rodeo
+                                        </span>
+                                      </b>
+                                    </span>
+                                  </span>
+                                  <span class="stat view-count">
+                                    406,644 views
+                                  </span>
+                                </a>
+                              </li>
+                              <div id="watch-more-related" class="hid">
+                                <li id="watch-more-related-loading">
+                                  
+Loading more suggestions...
+    
+                                </li>
+                              </div>
+                              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="watch-more-related-button" data-button-action="yt.www.watch.related.loadMore">
+                                <span class="yt-uix-button-content">
+                                  Load more suggestions 
+                                </span>
+                              </button>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="watch7-hidden-extras">
+                <div style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer-container" class="yt-base-gutter">
+      <div id="footer">
+        <div id="footer-main">
+          <div id="footer-logo">
+            <a href="/" title="YouTube home">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="YouTube home"/>
+            </a>
+          </div>
+          <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="language" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-icon-wrapper">
+                  <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-icon yt-uix-button-icon-footer-language"/>
+                </span>
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Language:
+  
+                  </span>
+                  
+  English
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="country" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Country:
+  
+                  </span>
+                  
+  Portugal
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+            <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-picker-position="footer" data-picker-key="safetymode" data-button-action="yt.www.picker.load" data-button-toggle="true">
+                <span class="yt-uix-button-content">
+                  <span class="yt-picker-button-label">
+                    
+Safety:
+    
+                  </span>
+                  
+Off
+ 
+                </span>
+                <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="yt-uix-button-arrow"/>
+              </button>
+            </li>
+          </ul>
+          <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" id="google-help" data-ghelp-tracking-param="" data-ghelp-anchor="google-help">
+            <span class="yt-uix-button-content">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" class="questionmark"/>
+              
+Help
+ 
+            </span>
+          </button>
+          <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+          <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+            <p class="yt-spinner">
+              <img src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="Loading icon" class="yt-spinner-img"/>
+              <span class="yt-spinner-message">
+                
+Loading...
+    
+              </span>
+            </p>
+          </div>
+        </div>
+        <div id="footer-links">
+          <ul id="footer-links-primary">
+            <li>
+              <a href="//www.youtube.com/yt/about/">
+                About
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/press/">
+                Press &amp; Blogs
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/copyright/">
+                Copyright
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/creators/">
+                Creators &amp; Partners
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/advertise/">
+                Advertising
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/dev/">
+                Developers
+              </a>
+            </li>
+            <li>
+              <a href="https://plus.google.com/+youtube" dir="ltr">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul id="footer-links-secondary">
+            <li>
+              <a href="/t/terms">
+                Terms
+              </a>
+            </li>
+            <li>
+              <a href="https://www.google.com/intl/en/policies/privacy/">
+                Privacy
+              </a>
+            </li>
+            <li>
+              <a href="//www.youtube.com/yt/policyandsafety/">
+                
+Policy &amp; Safety
+  
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube/?hl=en" onclick="return yt.www.feedback.start(59);" class="reportbug">
+                Send feedback
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Try something new!
+              </a>
+            </li>
+            <li/>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="yt-dialog hid " id="feed-privacy-lb">
+      <div class="yt-dialog-base">
+        <span class="yt-dialog-align">
+        </span>
+        <div class="yt-dialog-fg">
+          <div class="yt-dialog-fg-content">
+            <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+                <div class="yt-spinner-img">
+                </div>
+                <div class="yt-dialog-waiting-text">
+                  Loading...
+                </div>
+              </div>
+            </div>
+            <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+              </div>
+            </div>
+            <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay">
+              </div>
+              <div class="yt-dialog-working-bubble">
+                <div class="yt-dialog-waiting-content">
+                  <div class="yt-spinner-img">
+                  </div>
+                  <div class="yt-dialog-waiting-text">
+                    Working...
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="hid">
+      <div id="shared-addto-watch-later-login" class="hid">
+        <a href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;service=youtube&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dplaylist%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY&amp;uilel=3" class="sign-in-link">
+          Sign in
+        </a>
+         to add this to Watch Later
+
+    
+      </div>
+      <div id="yt-uix-videoactionmenu-menu">
+        <div class="hide-on-create-pl-panel">
+          <h3>
+            
+Add to
+      
+          </h3>
+        </div>
+        <div class="add-to-widget">
+        </div>
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("hr", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+var ytspf = ytspf || {};ytspf.enabled = false;
+//]]>
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/spf-vfl-JJ8Rx.js" name="spf">
+    </script>
+    <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/base.js" name="www/base">
+    </script>
+    <script>
+//<![CDATA[
+spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflOO0AKr/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/watch": "www/common", "www/videomanager": "www/common", "www/subscriptionmanager": "www/common", "www/results_starwars": "www/common", "www/results_star_trek": "www/common", "www/results": "www/common", "www/results_harlemshake": "www/common", "www/results_fibonacci": "www/common", "www/promo_join_network": "www/common", "www/legomap": "www/common", "www/feed": "www/common", "www/experiments": "www/common", "www/downloadreports": "www/common", "www/dashboard": "www/common", "www/channels": "www/common", "www/channels_accountupload": "www/common", "www/watch_webdrivertorso": "www/watch", "www/watch_videoshelf": "www/watch", "www/watch_twobillion": "www/watch", "www/watch_transcript": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_promos": "www/watch", "www/watch_missilecommand": "www/watch", "www/watch_live": "www/watch", "www/watch_editor": "www/watch", "www/watch_edit": "www/watch", "www/watch_commentsrealtime": "www/watch", "www/watch_commentsmoderation": "www/watch", "www/channels_edit": "www/channels"};spf.script.declare(ytdepmap);
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if (window.ytcsi) {window.ytcsi.tick("je", null, '');}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+    yt.setConfig({
+      'VIDEO_ID': "RaFgBeHa3iY",
+      'THUMB_NON_DELAY_LOAD_COUNT': 0,
+      'THUMB_LOADER_PAUSE_MS': 0,
+      'THUMB_LOADER_GROUP_PX': 400,
+      'THUMB_LOADER_IGNORE_FOLD': false,
+      'WAIT_TO_DELAYLOAD_FRAME_CSS': true,
+      'IS_UNAVAILABLE_PAGE': false,
+
+      'JS_PAGE_MODULES': [
+        'www/watch',
+          'www/watch_transcript',
+          'www/watch_missilecommand',
+        ''       ],
+
+
+      'REPORTVIDEO_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-reportvideo-vflYwgnUA.js",
+      'REPORTVIDEO_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-reportvideo-vfl4OZza8.css",
+
+
+
+
+      'WATCH_MISSILECOMMAND_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-watch-missilecommand-vflXSX6i0.js",
+      'WATCH_MISSILECOMMAND_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-watch-missile-command-vfl9eaIzr.css",
+
+
+      'ENABLE_AUTO_LARGE': true    });
+
+
+    yt.setConfig({'EMBED_HTML_TEMPLATE': "\u003ciframe width=\"__width__\" height=\"__height__\" src=\"__url__\" frameborder=\"0\" allowfullscreen\u003e\u003c\/iframe\u003e",'EMBED_HTML_URL': "\/\/www.youtube.com\/embed\/__videoid__",'FLASH_UPGRADE': "\u003cdiv class=\"yt-alert yt-alert-default yt-alert-error  yt-alert-player\"\u003e  \u003cdiv class=\"yt-alert-icon\"\u003e\n    \u003cimg s\u0072c=\"http:\/\/s.ytimg.com\/yts\/img\/pixel-vfl3z5WfW.gif\" class=\"icon master-sprite\" alt=\"Alert icon\"\u003e\n  \u003c\/div\u003e\n\u003cdiv class=\"yt-alert-buttons\"\u003e\u003c\/div\u003e\u003cdiv class=\"yt-alert-content\" role=\"alert\"\u003e    \u003cspan class=\"yt-alert-vertical-trick\"\u003e\u003c\/span\u003e\n    \u003cdiv class=\"yt-alert-message\"\u003e\n            You need to upgrade your Adobe Flash Player to watch this video. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eDownload it from Adobe.\u003c\/a\u003e\n    \u003c\/div\u003e\n\u003c\/div\u003e\u003c\/div\u003e",'PLAYER_FALLBACK': "The Adobe Flash Player or an HTML5 supported browser is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"\/html5\"\u003eLearn more about upgrading to an HTML5 browser\u003c\/a\u003e",'QUICKTIME_FALLBACK': "The Adobe Flash Player or QuickTime is required for video playback. \u003cbr\u003e \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eGet the latest Flash Player\u003c\/a\u003e \u003cbr\u003e \u003ca href=\"http:\/\/www.apple.com\/quicktime\/download\/\"\u003eGet the latest version of QuickTime\u003c\/a\u003e"});
+
+    yt.setConfig({
+      'TIMING_WFF': true,
+      'YPC_CAN_RATE_VIDEO': true,
+
+
+
+
+
+        'RELATED_PLAYER_ARGS': {"rvs": "id=7Vc9Zbn7Sqg\u0026author=Diego+Barona\u0026title=FONE+KITEBOARDING+-+MATERIAL+2014\u0026length_seconds=1791\u0026session_data=feature%3Dendscreen,id=Tm5qzdmOmSw\u0026author=Cabrinha+Kitesurfing\u0026title=Hawaii%3A+A+Kitesurfing+Short+Film\u0026length_seconds=716\u0026session_data=feature%3Dendscreen,id=dUhznfdatmw\u0026author=flyozone\u0026title=Ozone+Chrono+-+Tips+and+Techniques\u0026length_seconds=829\u0026session_data=feature%3Dendscreen,id=U8GldO0Zndo\u0026author=Luc1motorsport\u0026title=%5BLUC1%5D+Winter+Training+2014\u0026length_seconds=653\u0026session_data=feature%3Dendscreen,id=7UokGS3Wkvw\u0026author=JNavas2\u0026title=Kiteboard+Racing+North+Americans%2C+June+7+2013\u0026length_seconds=627\u0026session_data=feature%3Dendscreen,id=Ywgync45Eis\u0026author=XTreme+Video\u0026title=Kitesurf+%7C+Tom%C2%B4s+kitchen+II\u0026length_seconds=332\u0026session_data=feature%3Dendscreen,id=QVVSEThrNT8\u0026author=Filip+Wirefors\u0026title=Kitesurfing+Dakhla+-+Marocko+-+2013\u0026length_seconds=470\u0026session_data=feature%3Dendscreen,id=iC3QYPURfVY\u0026author=Red+Bull\u0026title=Australia%27s+Longest+Kitesurfing+Race+-+Red+Bull+Lighthouse+to+Leighton+2012\u0026length_seconds=252\u0026session_data=feature%3Dendscreen,id=pPqZIsndedw\u0026author=Kiteboarding.com\u0026title=How+to%3A+Prolong+Kite+Life\u0026length_seconds=449\u0026session_data=feature%3Dendscreen,id=JOtNEzSZiks\u0026author=PKRAWorldTour\u0026title=Kiteboarding+Slalom+World+Cup+2013+in+Pingtan%2C+China+-+TT+RACE+AND+SLALOM\u0026length_seconds=312\u0026session_data=feature%3Dendscreen,id=sVVBohGNUM0\u0026author=flyozone\u0026title=Ozone+Chrono+-+Water+Self+Rescue\u0026length_seconds=150\u0026session_data=feature%3Dendscreen,id=tv9rgjgAHIQ\u0026author=flyozone\u0026title=Ozone+Chrono+-+Designer+Tech+Talk+-+High+Performance+De-Power+Foil+For+All+Surfaces\u0026length_seconds=202\u0026session_data=feature%3Dendscreen"},
+
+
+          'BG_P': "vqDRbkV91SHSmqPgvYC\/eSYOFVLXagcgsGO\/af0GAUEZfDDP6iTzjmLfpnlArUj6y7zMsqAopzK6PujtdGg5gb\/ar76xUdIQjNMO6pTV2bDsB5sJxIzc8ua5lRC6G6arw6zBRxiNqKSwW6v9Lp7iuH2JfBvinvB4yUvx7a3SkL0\/\/72K7g5ZziquaUWVWYhoxbBUtmGFp2tRPExrP5Uh\/ujz9K6qVYBPHGSnwaBDVP0S+b\/ijsrCUE\/MRWP9sjOK92QIz32Z6+kSVoYty\/N7iakHg24APRzYd9vO1IiCNFNfd7BB8N2U2dZ8suoaG7aiusVpKlBlfE\/GSIV8ZzjHEJiSaprD+nHj7tRp7r67npV4cexKdT\/NLjTRmYs1mYlFkRfw+awtnbV6Gb2hutRM5aLUjTCzdfx6pT6xN0dKQjEIpJCaa7TEbhy9I8NvRWx2SZTSmDYEpHpH6TRId+G1u1WatZcb0nXejyiIB+Iq6K81k5B+6Z3XqZrnX7IF1UhrN0norT8MFwEnOeh3k28xo\/gpS2gFG6zybtTNFZD\/soNwvJVHxuuBoZ3IwHJMx9KloAwjmEHbZzXgEbt+u11szBjkwJN+x1fOEFptGR+I2WpslFajtMeX1SLtJ9qR1nijceM9nu0wD78R7NG\/LVYHKi0Ho8i78qbFB5xH\/XhL+rrIMGrknV\/EEsH04bXOZ4A\/eExIu7VFhuG8AE1lHqsPv6r8E79qdX6irTBbCO3Ed17MvYBo+2dwJ3ceWgv39XbnywiCl9qL0wiGESng0MOCtNYNMBqYpVMQeVbUbYlLPiDseLR4INXrdPIyjMqUk+RZ5RXPAcJ2u1fUl8\/kY+ZTT\/b2qPhOhIgM\/xq2kXvnnGGl89ABuErNutKF9X3MexP6M9\/A+JDQie1g5IkWekSMews+0S8BbAyK9N\/GRuiilvZ9s4cnY3KN0EZZuUmoqoOh34\/9\/YTZFrCpPd8gAh1HMnpdANNeqtHZHDNZB6ce5DQ3LxErHETRioVN7cLNg4qfSsw5KW+QVFtvlX6eG2rOgwMMyJugcLAEVm7sgpDb+62b878U4w2eJjI44ftR2lGJNcT9IuOuScg0MvoWIofjGH195t1W\/8Vn3Z3GVSkAIQvoHsRjkVtm1k78crCAHo4NtlPrD2nMBl3UccH0dgTClwwABJh7yveotCDHqsFFj7Fo2Pnl4ZZktxleWTeEibU4zSG4xQTCtVr1GWsdZKth67Tlhi7Znd\/z85CnBhqD9atYww3qHSJWlNfznaPqRdjEcgJBlAXS6VXKtLgOR8U7UZsjtII24CxxysSL2ynn2S5nYGF+PRZBlBaK\/EjvN\/T5\/R6RIQFxN3655+\/M0b3gvdRX0\/MHS48RMAKDRvcv4NRgTo9G6487NsftGKgFDSOIiJm11gWC03\/PkCa1UMADPMDndu9eVFvJ1j0C25X7GNR7NemenV4OwqA0pBBT3PU5oaoA39a9xsNyYaIOMztYhio23xlQUTX5HTuf\/VFnVfLMI\/c1u9UhUar2ONrD+GQVAuO1wQUJqH2RUOkZv7j7CSqr8s\/S9gFvc8JRHfh9leYA9psOId4d8nMqmCDYT2kHXdIZmYEsvKfy7IMp6SmBPTtNVR6l77rwdCb6JJhfQh\/Et2Jm3I7QnbjAIDPfIRfMP0mpTpnipdQGB3tw3GhJt8ABS81cBCtZXAlPoEtWeBHXK0dOjOGLFG9\/ms\/hT2y9KUYpS1ulZMNx\/b5xoBuKkq+xTeiy3wmPXKBnjFvWtCXnWcoWwVFH\/cQiK1enDHNKU68tMcrtUR2HB8RnnFEv2aDQnEvTUYfFM7Gs8T\/AcjcIIIKX5i9fHqFeWOONTDHul1RYJ7BMFj09jCvewXAx7qpKZgfEhUaRaCHMGyBkwGbzoUfSLiwR6D9M1UUfRc2HjXYnmDyXHtgTtR\/2aIAQcdV8nG1tDaXHzZZqKJJYDuszFxciKHaS9Y5D63UoRdbQFX40VVOHsbM\/+60zCsVoy0qbFdD8JrU36tbpJJI2ZC33UK8+3Fyz7SNu7ehbUs+5GRyZyU9wwtpDW1VA8kFtxtrIcB0kPRBogPDcmbf\/AhxZzd5G3BlJFCB+1Pwe7wu4ZfbYvMKmPmed00p8TXC0qge9O0dUzwh0cE6lTF379P00r0qu4GkmWSSqRTGv+60wWk04MhHZiwnnJeeFE6WdmPklVFWRxCbB2kZH+\/ufvR4e32RGopXEv+xWx5GhLHFBLhBMV6\/LT8HX2DKhZazyf4QnBH5hdW5upJ1KOD2z22WGUGLL5GnvVmmjXxHy6Inbbdp1D43KXvKwhs94EwZx7BEHvtcxeKe3KEUtE6M+WqBPMQ6\/fPl9wFoIAi2cUVXC6OO6Rd994ys1MKUZWWk0HUhX06d2tsgUXKQhj\/CMo3kX6s7t+TnibyEZb\/RlIyRDaVfYeFMWKMMf4Jg1lW0iJ0uGGbpDOIueqbLjBirR\/GAJVZCRtnEYGt7mXfIKEhGgDziQHTZAMyHpNEpbpzLTdz36ilWP2Y3WKOkXPic5XtUkzQ1EThBH6z98eUqDq8UR0g254cI+AOK1Yp00rAsGiXpSuhvuducK4XKMEUyU4MgWZS+JMc1UWqrb35iw3xR3+eXcnMDzhuW4+5347K4wodG10fd6NCTi8K+TkL1CwZLECm565ZupFKcyzCVjHaHAh6lrPnFfQshV+r7fcPtysJ4qg3M8DwOY8TOGLop07VEySrzX1YZqB3waeA04NQhrPlvYlI1f0DNIW1lJDWT0EwTgSS+\/BeAl+Ox9qSAwbJg9DYlKt7NvkmzRkg1OP5rd6WgDeIWpjqkjNfoJ\/3O9IYjXb0csVh+aCg2K4Xv7hl99I4rca92E\/Ya0jFdqNZ\/hxvCwzA5Qry0SDbK44c9adlQST5czNNe2KtFmlzZ1CMZwLhnHJVLiwou8kozJUMxw7xYcF7mukEw2L1CmLLIA1IDayuggRaxgNRqEgEh8aW6Sn7zhI0iCT0A3dWqHmj+A7+XwG0SVygUVAmUDMWidSPB8ZTRkbLMwig0efUg0kGupVoaI0wYAk\/jssNQ\/NjH40EOYaEvDVUywSSV1jirKBVGvO+cw+WWM2RjfNLr\/iqNRyuehPgnCGTDJOWdjTkvNzL2U4q+JmhrrJBVwDX+8tXK2eBz1BFgb1aVF+zZLr1FRhvcB3p4jahnH4UX+GhIgTH6sW9FwW0cFvZJg5cZd3AOfJOwpQiNcrKQJiDD7VnluK6k7Al1SSI8KfW9d47z8xx5UwGU3UesZRXuFUKdwErghY\/7Xl+BNuMoRUSXUrMhdWjd1XUI5165C2qJgUgLujYV2E7Ewzi\/QjowkuqipdU9B7r0O5CwWNeYvGSs5O51V0SGNplEzLvyCsiQ24tJts043W8zws1ER7ZhQgIrIiRv+aviWHUtvI09rMPKHRsJ\/uXphNI119\/e7fw0jj6Hs0cWXW9U1YH4pHI2vPfI0QvEEFK137E6CUt8m6KKsPIWXdd\/f+vsfH\/IXPy\/wkLX4z3x\/kApK4uh0TQoOKfI\/fmuQQHQZbFOW7SZu5BEQPoY8+wFqwaBup24GrUUUxhunQe3hNyy+eeqVo3tRSTxiZeSu7m9B2y8bEKf4hmbZi1gUVXBQDOCvmGe\/127yOO\/n9e4+KJye+FRaqhHQI4FqqDQYDENxKxrUA8cWVXbfF0hs3GhNNcIaZh6Gwup\/GghHeXFWHUPvPtqJgM69IF3X2LODlhsM8z9a4BS\/ScGDUAAfm7TQJfqHwdya1QaZ\/dZx3YSKJWN9L8IId9od3+iL2udAWGPgy3bFHZVkw8d2vXoJcVz5DPzLvViBHH6k6m0zCqPt3u87dNX3JhlPCP4N0Uqn10LyXuSyuEmZs87j5XT+7AsnAcmQakRoqd\/fTJXTCPxzGWpodWKaWlZY25SzD9ovG+CJlZYPThuEN9DW7E19vyZPKIO8wRFMM9wCM\/6MkfNRwexPTRp5pVYx\/mLMnVcxPztSQ\/VCyex\/bMtSUthyi+7CSUJKbyqkYB83+hjzam5VpulF+MfkP03zR4HBVecZ\/0OGWSyPPd5UBjLQmca58seHjlhDnT1djTgxdZn0Vb47k6JNausMkEaBZm\/Huc54n5ByrdiThpYpN+9VAm12vJazhAKO8IiG1NtpsfrYDJZrdZCsp\/dX0iNNyIcG67NWdDpmEi8tc4y44sVgVC7uJfW+iX\/uMUOsoY4wwgazNBRNzngBjJQt\/rO4\/LTvlfbUvOyZKZYvGsgiOviQhIs4x3DgV7yyRHYXVPCLvxWVZ364Beo1ZSnwxxn5cJXktoj6jLG\/8mkSZQAmuwecxtrqqSV18hdrg63tzKnw77uxhwgXjDQ+Xf4jI7OJ0urW9t6oznjJZL\/pUH56BdDxnIq1y5geCbklHpGzzNTD6GeTNbzm\/6m+jGtwOmoEEb6j4mjXwvRxRT9WSm5Cl2o+QE\/mYMuaADU6moH9p3bkmiuJBS9Pk2398k9P3aUoOC+e2tAggcioWTJ1Is\/JcixSsiwMb+mcOpfCKw8Eyi69X1WcXmZ9Y4lOOplMSqn30VLL\/M4F5dJk2uBNHoTuRSNColf78R7Bo27WxDmIJHKdA96EqC1kwcXLvDR4CxEgac\/40ONqn+4Y3bp\/Er47QRaNXkyaF8zgKlqf5tnxDnR67MUuOk1h+IgBX\/fAVRnQL3ohaqq6wz5Xy4g7sQj6ePayh+QXkG3kEcoc4GPvBjvGxTkz6DwMxGpo5zsmOV+bk4AbZGlwjoSpS6556PN73GUmgMaYi0l00tbXLlTIpMRZH5jydngsbiNmjKxsCyRsbpdj1JamExu1QeV6dszM1hjX2JGK0br7MsaD+HaXu0FFxMQWYPd63dODlWyfb8CIQGyk4XUxP8GZg69xfHpEAxS6yWmCVk9HmYIFYBNC4Xjer7hD9Ut5pb5irlHQQSb1kKdPv1Aep56k9ZXisUzN9bxqynMqrk\/oV3NVdqPGvSvt+IOUGtzz+775gi+LqElXw98AKKZ9Jjky5LX9vx30v5C3PduNcIUptQF56bsDi1kSfS2WbtvPBRkxSTl8pP+nWKREWag+rhtKJEpUIfdDiJHuEi4E70HQbIQS6Gt7p4ARbwJtRYr0e5UZcSrT3rKJIOWdaxVDdYTHLLNK7AHuuAE5claKqpnZY3VXhmxzOWfiJzRRv+clUv5YDb7E9PkMAKS7\/ItqqKntHULnRnQIxafR\/K98FzkmGpxIB2rQW11SLUmU8pmQ1Wd3Tup6nPnOChIjHqCteL5yks8ZQUxM+6SSMFST+8T7A15qu\/aD0v4h9CEaLrHZGYMOnKt582fzGYaAvL1Zia2yGWUqlT\/c9n2ZbJ3fxqzj6Crl7rOC6TtvatKOHX\/q1sE+JccKFvDRJIpknQMObSLFky8E6LAkQql1GoqnWZubLwQ6qFxTeivBoWvEAwen4vyWuG8otuq4TjbCil824aAy3w+J+fwrpww7MXAhwpWzDUcRrqEMd6VL1ZGz0sbhYGXAnz4e00rQqPkL+CcWudjLJm3hmHTD2dka5yMq4zJBzpFtQHZl9p6zMOjDEXU7mmnVRfXwLykhiJeVgl32QxZGnhLQ27NnEIAdZqVZIKkSpZl2gJsyvMpfMMqPLrZltt\/vvOx\/YSb+ytp\/0aRqu0GmFut0KXiY1Qrc9VP5jprd5AVn8176h9tXuJZLN11yYNJcDoYqC85k13j5Lu5GevdFPK\/LA8VDZqxqStcLk5RBnJGcHVes6mElJ2KDl9n44LEqU0Mfq777pttRQUn+jL\/BA7S9xS5JhcoOCkoZLb\/k5QPCG5iqSgNJnbHmqkX2oknex5vv6SZjC3uaq4gNTL1vgRwcHqW\/PLIbinITU1IRWKwfRL5o5cNojnQdO45DYpsMEEmsoK6YKQfJiTyjBjCFE9c7mWLDkHlPral0gfb2JSa+T+t6hYSNa1MOza4zqxsClrS6higsHPUpF+GE7Z+u20o86YZbkTPAIyl6r5GUPVPddcsRVK5kfLJfWhGCYWxbvjNTa+LJlLe+SOiOS806gkB\/ccjpCyivanuTLNObVGlfVyb81oF7AeNcYzDm2GEPOAQC01s6LDJxi+3mM3NREVdDPitX\/GFQWvJNodsWZfkliCDwywjlLcb8Txb5xX0LG1m6MwOG7Am1SV\/9tCV0bak8eXk5TXG6VVZmiwTzggq2I\/7UT2zo91rxJyi09VLfKtiyKS\/koNQNU8ELmMTzNf2mHg4udg\/w9fmnmKu6ZhdxRB82nPIZcd1xYYgO7ablOpmlvtQd2atiTykcSngPwPYhKZKdZ7QhqXrPWSjWVbrhXy8iPAAggQXZR4G0\/gQxUWIIetwNCiALW3wFnnGQCVbteUZmH6Uc0BAb3aXogKb\/ENT\/BDCp422DhW4RlonEMXJNLXijDwhyUU\/146T7YM6sDGCd78XM3Z+NomjmIXnW3hAismrB42Ulq2UxDdBrIDyNRBsdw0bUAt04dgO\/\/H1brzOT1xS\/N1OOQswJyy\/srWAIqrJTxHVOyxtH\/L277srlpg3VSaMQ9UhoEF\/byarwIpxiZhfbzfXxHPaPh7ntVCTWJmgSjRgN7UTHrSCCsecJzrH6T\/OCBf1pKnOwEoekZBWUw+LYaiLj++4JNkg9c4FmJ3gyAVBY5evGChdPwuzIkUvSiaDek+8U0ssdn+xzkx8N1UzZC6ZN3hUpHtiYl5ddxafLtXDaOu6WGWoatO\/pQWzi3WNQfYMVqRSd9VIccxDnB8a8XkdVanEkjpihwjziYpDRX2APP48Kbm\/bcOPlUlSMxaOOWeAwovW6iGD2DIIIF82iUvR1z\/vp2AKGz3fH6wjgXba0DRxyb5fO8IMjbubcW0MKJE1IWoY6zwb9iCtZIBNP729KG2pZs9HPSGhWxKsG2WHHwPdmp2hcsFeKacLZQImj3yQUQZe0vP1W6ojF+yicOqQjIk8WwM4MczjcniXJxMS1zFmgCMk+ZUJ15fqnyfvS1Cd+uMpp6k6cYNOETQjb+sgBlvay1dGkfaf+NgjtPn8H75EkrvoCpQz+HViMPjMxKVon5D09kou4D38+j8QRJFoFe\/9y5nFYyb8ALzP\/OmzT2X2ovVSLmVKMbV9ROvGfXMT1qpSgyVjk9hn2x4jK3nXhaRXQ1Nr4WiO3e5i5JXkwLYubqIux2vLe\/ofJiYmpeqhN\/\/aakfgjayXszZD1wNwzztEtSyKSVt7IjNOUOy\/D6noUb3FSVUSBi519D8YHlxcW6TdGtfxyTtTe73z15KVTI2jiA0mqyQVyn90QxVmL69dGz1EFya\/VQSj3EXTyObO90NL2ZaiMfg\/nwbzRbl2LxGu04O\/KxUgA1EGTXzcZRO6oO4nErLdnAlckdXYm+cFS3l909jiFJYDT2rzSJR5qMHZO1\/\/QSW2KuqRDck\/CEIypE7wlpj52\/B5Hbq6IIgU93FxA6kGr0YemdxuCKvaKL+HBeYjScWNgdply7NYNChOK9gSh\/zHKZpFQpVEf1L+Y1aDnc+CBwAsms1XkHCAJQwVW6dtEOTKzJP7ndSinpsk9Hn\/mlIqqPsDm2UFiCbdfUI99w4MSNPBT5U2004WYipSMOg4Sb2qhhdvFchh0Ccfdn33hO\/MWyrvBw4wk4TfOQ7GDtMjyrGPRo\/SQrgsj1fMDPQ8p8f\/3V2sMTvtF+oeb3h1\/UAIPvboovu1\/eeV+zC+U7t\/WiMbQQ3y+Yk\/XKLWXNUGuGzc\/Eme0nm+JwUsVxCq8bsuOBEh67MgzPwYD2blCSRYw3bLLjjHFHi4SXAzYB3MTVTKm+0+4eh\/VRfigDN3JGmqG2KQtrHXffXTXD4zjVr3J5p0jjRpgOWVhsjoTjzCFE\/XZLcg1jezTDBa9TwzTfjibBkcNBWHjs9pNUa0VAIsXdBsdvFqMH3P92G+MLMel+5pO31xFlvboANfX55s1aw624jrWvvV1o5jsrE1gRITOGLe4q0fHcpk5x+0ISzMCbKKs8nLza09y46eOwcsPwVcsfX4OMlzOPU+HUWzeyIfKMjwjSrBOFkwJRn7esXy98IqdrnZkkNUd9Q9vGYG9f8dsZetSIJfEgv6QqfCXnEzLnNSvOpT+ZZUu3sU3plphEprP9pf9+oRTCySQRK93uZq9E\/pq+b2eGJ4vdlndfigRZj0xZlR\/OjlTQTc1ykoZ3FfyBtmH11bSj+nQvuD2D6J6Ar6zJPT7U6ZSzlgJBWEJ1SbboZLVOGptMs281pn1igekpYoZMD\/KzNMnkjXJ6t8mA3wT8H4Un8T3\/WadgZ3rW+zE0nUVilxNaBFB3zRZ1U0EcfXO\/aoI2QXCjpPTHlE05wmpfQPHlkC55uWdaQlvZ9\/8tpdFMhkLaVjOJbE2+Xfbvj2XRUeZ1p+Z\/NfnjQ3tL99vGoCquoAYXDFvXoxqGgswH64blawp90AsL5AJnSB1G2hSbmKIHbFnMgllvGURs3dQbgJld9gJfgHlZ7QkFNFAfFnqQ+c3guAdOtxAFev1D4NFe4Y5iHnYusMN2qEdJwilvR0MOPtiWBSkODGS8b3A+3\/MgunOtuCu8lJerrxYpEsvECJL8ip01YuHQ3esmkp9mkpndw9Xd9IzQci9x97oZFUeycQcpVyjqshBYs0tQMKS0lKYyAoY8fm2VpmENe7B8rvlyaLYrICoY7jViPDktCRfmkdLGtXTpF4dY0SMACmf5KkzwvyhZJKp67UezIuWjCQ6DCqhhqlH4ZV0W\/mvC1WA3ly7vAJcKwOyWk1F4TMBb6C6DfPH4TkE1HSItwvZsOrFpoqQXfNXNyRNsvnsjl2xQ3bRZIb2cndsWcYszVfITIc78FSSl86mEOoBxrnn4oYixHqKph6oPOawlJCJ04GI0ewTxQhhbjnKV4SerhXY8w2MQYEEfBtKFw7ZdAlM8pCs7xhkGC9Zv2+uN0RsPAvcDYIqTJM+rYh96oDe1ixz5bO\/7X\/TeelCNLDWHgpTG+hD+RO+EqaNgtNPhHYgWycjL4WlT6VkZdhzJCOZuHesTt2+kdMd76PxiSeKRmEbvbdaHfoj6YHUji3heoVV67NKG8pFAsP2FzZUplZKfr7UdkuXGo+VeOQSK1ru+2clykEgTFW8sOjU\/h5KjSyEOEgTbl+rNlWY\/GT\/ODeu\/7muYgTavFWr6v7uZh5Ngb02VOcspOnnpvbXX2z1tu5Y\/l82qgKT90G4OuaNu1Az9PeCq6JPH3UyfT+cL1+ncbjj9QGS6bpPjoYT3qgTzbXLS8fCDKYwlpK0qDLw9juuP8Ytv\/fRVIFbaAp6tSR\/+MlwcFkXG\/bjqhxIw9B9jba7TjyGinvEIJzU1AJcD61qs03+W6wmQlWqLI9UcJFz86iVvM\/3lgjkrhNRAQyGrNljLOYUvS5kTOeTtu\/3D3yfhEoPQeWU68AO2qKjMA6CPtZ7v5q0pH5LsmcO3iv5vcABwVF6HTl30nsaT5qpLcCDQmB62LD4hpNKUNB3PZyiVDtOfEQxp1FBI4oXTBZ+ZCxNYtPycuH9TNc\/PaMzl393Lehn86EK8i7HNN5G9alENSDn1qDm02c0U\/L36jhtXTVUWDL8qQcYPPVXZ1SuCLYE+CHEHdUGJIBKQA8+uO8vOsT\/KVo9\/pFqq6J\/VhBAQ5Ct6ZGE1uizBhCa8hSNshmu\/RrOB5KcTIqEaC7tPEe96wjy4iupaa6Zuiq4keoamudG02kmoBmKSG9yviGJJ7Ug\/BPNrcHSYQTJeTrwn7Yj2s22wj80zPzIoa8NHqVIVOGYED7iyh+D59TGWqKNo7s0gfVFR+H48s457ADz+VzjYxlAdKrJ9A8jcl7X+5kN1qMcQTiZI5wmQ7sMyLgY9iZQgRRU9M6oIZFESMWq6oFFEOIohfczauIQi6Nsyr8R8gxhab2r\/gKkhUFiWKTyc\/cPiL29kprbb9SU4iACzmQrPQYP0oO9teeATgmUk1JPIDXok41RSMpFhouySsjb1b7AzjLcNN7cu4+VVMn+VMuuOH2BMywWwvQA2ESgLgviFcGfsaVam82tPQ5ns81oxYYfV6QBR2Nor\/gU7uyuGdf8oVx3V+C\/2bjj2\/mZg0ntgbooRdXNf97wRm6IybDMDlC3qA==",
+          'BG_IU': "\/\/www.google.com\/js\/bg\/mh9BvXvsxoRt2VwDBqXIVelkjjJrqSBaZhfLksfh10Q.js",
+
+      'HL_LOCALE': "en_US",
+
+      'TTS_URL': "http:\/\/www.youtube.com\/api\/timedtext?signature=C3F785777D5A89D422ADE363ED08549663F53AB4.C073D4A9078C8D1B57C19ADCF3C882AFB87C569D\u0026asr_langs=ru%2Cfr%2Cnl%2Cit%2Ces%2Cde%2Cko%2Cen%2Cja%2Cpt\u0026caps=asr\u0026v=RaFgBeHa3iY\u0026sparams=asr_langs%2Ccaps%2Cv%2Cexpire\u0026expire=1402530538\u0026key=yttt1\u0026hl=en_US",
+      'JS_DELAY_LOAD': 0,
+      'LIST_AUTO_PLAY_VALUE': 1,
+      'SHUFFLE_VALUE': 0,
+      'SKIP_RELATED_ADS': false,
+      'SKIP_TO_NEXT_VIDEO': false,
+      'SPF_PREFETCH': false,
+      'SPF_PREFETCH_MAX': 0,
+      'ALLOW_RATINGS': true,
+      'RESUME_COOKIE_NAME': null,
+      'LIST_END_TIME': null,
+      'CONVERSION_CONFIG_DICT': {},
+      'RESOLUTION_TRACKING_ENABLED': false,
+      'MEMORY_TRACKING_ENABLED': false,
+      'NAVIGATION_TRACKING_ENABLED': false,
+      'WATCH_LEGAL_TEXT_ENABLE_AUTOSCROLL': true,
+      'SHARE_ON_VIDEO_END': true,
+      'SHARE_ON_VIDEO_START': false,
+      'ADS_DATA': {"log_pyv": false, "show_pyv": false, "use_gut": false, "show_afv": false, "show_companion": false, "show_afc": false, "check_status": false, "show_instream": false},
+      'PLAYBACK_ID': "AAT7kjh-UPlTEigR",
+      'IS_ACTIVE_LIVE_VIDEO': false,
+      'IS_DISTILLER': true,
+      'SHARE_CAPTION': null,
+      'SHARE_REFERER': ""
+    });
+
+    yt.setMsg({
+        'HTML5_SUBS_ASR': "automatic captions",
+      'LOADING': "Loading..."    });
+
+
+      yt.setMsg({
+    'UNBLOCK_USER': "Are you sure you want to unblock this user?",
+    'BLOCK_USER': "Are you sure you want to block this user?"
+  });
+  yt.setConfig('BLOCK_USER_AJAX_XSRF', 'QUFFLUhqbVhRaFBOV1BIWmRkS0c5R1NfeWw1NTFtSHB5d3xBQ3Jtc0tuUVpXLVRlYndZM3BnRkY2NXY2aEc3R2hHMVRiV2wtbWlXV1piRU9Xb3Q2QkI1am5CdER5cnJJOGFEdkdfY3lRbEVaRnNkWUptRkg0NEVtUzdKbEJfVG9HX2trSGJPWHA3ckMtMHplZ1dEV2ttSVVNYVVHbGxmUXlKN1VnYVA1V0taMGV0RThYeU5BQTdvS3JjZ2VSYlZJb291M0E=');
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "en_US",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+
+      
+      yt.setConfig('DISTILLER_CONFIG', {"signin_url": "https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026passive=true\u0026service=youtube\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dcomments%26hl%3Den%26next%3D%252Fwatch%253Fv%253DRaFgBeHa3iY\u0026uilel=3", "video_id": "RaFgBeHa3iY", "query": "http:\/\/www.youtube.com\/watch?v=RaFgBeHa3iY", "owner_id": "cVH6sVIOOEgvKadeMwBY-g", "page_size": null, "privacy_setting": "PUBLIC", "reauth": false, "channel_id": "UCcVH6sVIOOEgvKadeMwBY-g", "host_override": "https:\/\/plus.googleapis.com"});
+
+
+  
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+yt.setConfig({'EVENT_ID': "eoiYU7SgGcLdigbUnoFQ",'PAGE_NAME': "watch",'LOGGED_IN': false,'SESSION_INDEX': null,'FORMATS_FILE_SIZE_JS': ["%s B", "%s KB", "%s MB", "%s GB", "%s TB"],'DELEGATED_SESSION_ID': null,'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_HINT_PARAMS': "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.TY07tiUU0tE.O\/m=__features__\/rt=j\/d=1\/rs=AItRSTNfGmB_-do3YO3g20AHt3L6itPzpQ",'GAPI_LOCALE': "en_US",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "Cgs5Smk3eXd6MmdKcw%3D%3D",'APIARY_HOST': "",'APIARY_HOST_FIRSTPARTY': "",'INNERTUBE_CONTEXT_HL': "en",'INNERTUBE_CONTEXT_GL': "PT",'INNERTUBE_CONTEXT_CLIENT_VERSION': "20140603",'INNERTUBE_API_KEY': "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflJ-fDqc.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflOO0AKr\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vfloTNTLX.css",'GUIDE_DELAY_LOAD': true,'GUIDE_DELAYLOADED_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-guide-vfl672lIU.css",'PREFETCH_CSS_RESOURCES' : ["http:\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflfEIY97.css",''         ],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-en_US-vflIpxel5.js",''         ],'SAFETY_MODE_PENDING': false,'LOCAL_DATE_TIME_CONFIG': {"formatWeekdayShortTime": "EE h:mm a", "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "weekdays": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "formatLongDate": "MMMM d, yyyy h:mm a", "shortMonths": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "shortWeekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "amPms": ["AM", "PM"], "formatLongDateOnly": "MMMM d, yyyy", "formatShortDate": "MMM d, yyyy"},'PAGE_CL': 68561176,'PAGE_BUILD_TIMESTAMP': "Wed Jun  4 13:21:47 2014 (1401913307)",'PLAYER_PERSISTENCE_REFACTOR': true,'FEEDBACK_BUCKET_ID': "Watch",'FEEDBACK_LOCALE_LANGUAGE': "en",'FEEDBACK_LOCALE_EXTRAS': {"logged_in": false, "is_partner": "", "guide_subs": "NA", "is_branded": "", "experiments": "900356,901812,902022,906001,906957,911507,912714,912909,913434,918119,918121,919389,920605,921410,921905,922316,922804,923341,924203,927006,927616,927881,927906,929237,930008,930819,931020,931339,931341,931943,931950,931967,931970,931978,932617,933218,934026,934113,935707,936118,937003,937803,937817,938006,938626,938632,938639,938664,938667,938675,939201,941414,943301,943407,944702,945114,946801", "accept_language": "en-us"}});yt.setMsg({'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Added",'ADDTO_WATCH_LATER_ERROR': "Error",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Added",'ADDTO_WATCH_QUEUE_ERROR': "Error",'ADDTO_TV_QUEUE': "TV Queue"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbVhRaFBOV1BIWmRkS0c5R1NfeWw1NTFtSHB5d3xBQ3Jtc0tuUVpXLVRlYndZM3BnRkY2NXY2aEc3R2hHMVRiV2wtbWlXV1piRU9Xb3Q2QkI1am5CdER5cnJJOGFEdkdfY3lRbEVaRnNkWUptRkg0NEVtUzdKbEJfVG9HX2trSGJPWHA3ckMtMHplZ1dEV2ttSVVNYVVHbGxmUXlKN1VnYVA1V0taMGV0RThYeU5BQTdvS3JjZ2VSYlZJb291M0E=",
+    'XSRF_REDIRECT_TOKEN': "dhJQHHFmlMA1Z7_aVxUKGlAe9XR8MTQwMjU5MTczOEAxNDAyNTA1MzM4",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "http:\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vflc4nA10.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vfl1kVl-L.js",'SBOX_SETTINGS': {"REQUEST_DOMAIN": "pt", "HAS_ON_SCREEN_KEYBOARD": false, "PSUGGEST_TOKEN": null, "EXPERIMENT_ID": -1, "REQUEST_LANGUAGE": "en", "SESSION_INDEX": null},'SBOX_LABELS': {"SUGGESTION_DISMISSED_LABEL": "Suggestion dismissed", "SUGGESTION_DISMISS_LABEL": "Dismiss"}});  yt.setConfig({
+    'YPC_LOADER_ENABLED': true,
+    'YPC_LOADER_CONFIGS': "\/ypc_config_ajax",
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vfl_e-1q2.js",
+    'YPC_LOADER_CSS': "http:\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflZOrvGI.css",
+    'YPC_LOADER_CALLBACKS': ['yt.www.ypc.checkout.init', 'yt.www.ypc.subscription.init']
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "watch");
+ytcsi.span('st', 159);yt.setConfig({'TIMING_ACTION': "watch,watch7",'TIMING_INFO': {"e": "900356,913434,923341,924203,930008,932617,934026,936118", "yt_lt": "cold", "yt_ad": 0, "yt_pl": 0, "yt_li": 0, "yt_ref": "watch", "yt_spf": 0, "ei": "eoiYU7SgGcLdigbUnoFQ"}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbVhRaFBOV1BIWmRkS0c5R1NfeWw1NTFtSHB5d3xBQ3Jtc0tuUVpXLVRlYndZM3BnRkY2NXY2aEc3R2hHMVRiV2wtbWlXV1piRU9Xb3Q2QkI1am5CdER5cnJJOGFEdkdfY3lRbEVaRnNkWUptRkg0NEVtUzdKbEJfVG9HX2trSGJPWHA3ckMtMHplZ1dEV2ttSVVNYVVHbGxmUXlKN1VnYVA1V0taMGV0RThYeU5BQTdvS3JjZ2VSYlZJb291M0E=",
+    'XSRF_REDIRECT_TOKEN': "dhJQHHFmlMA1Z7_aVxUKGlAe9XR8MTQwMjU5MTczOEAxNDAyNTA1MzM4",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}
+//]]>
+    </script>
+  </body>
+</html>

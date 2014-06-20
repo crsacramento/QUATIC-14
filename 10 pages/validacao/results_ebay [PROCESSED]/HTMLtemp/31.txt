@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no,maximum-scale=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>
+      Reset your password
+    </title>
+    <link href="https://secureir.ebaystatic.com/header/css/all.min?combo=90&amp;ds=3&amp;siteid=900&amp;factor=GHCOLL&amp;app=RAPTOR&amp;secure=1&amp;rvr=s45m&amp;lng=en-US&amp;h=9082" type="text/css" rel="stylesheet" secure="true"/>
+    <link href="https://secureir.ebaystatic.com/z/2g/kcrumyudzeyjpfykswt1ilyiz.css?dataUri=true" type="text/css" rel="stylesheet" secure="true"/>
+    <script src="https://secureir.ebaystatic.com/z/qn/gobd5x0xha5hdlfhjnaibh0ny.js" type="text/javascript" secure="true">
+    </script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <div id="ebaylogo">
+          <link rel="stylesheet" type="text/css" href="https://secureir.ebaystatic.com/header/css/glb.ielt9?combo=90&amp;ds=3&amp;siteid=900&amp;rvr=1.0.0&amp;factor=GHCOLL&amp;app=RAPTOR&amp;secure=1&amp;lng=en-US&amp;h=9083"/>
+          <div class="gh-acc-exp-div">
+            <a id="gh-hdn-stm" class="gh-acc-a" href="#mainContent">
+              Skip to main content
+            </a>
+          </div>
+          <div id="gh" class="gh-flex gh-w gh-minH gh-site-900">
+            <table class="gh-tbl">
+              <tbody>
+                <tr>
+                  <td class="gh-td">
+                    <a id="gh-la" _sp="m570.l2586" class="iclg" href="http://www.ebay.com">
+                      eBay
+                      <img width="117" height="120" id="gh-logo" src="https://secureir.ebaystatic.com/pictures/aw/pics/globalheader/spr14.png" alt="" style="clip:rect(47px, 118px, 95px, 0px); position:absolute; top:-47px;left:0"/>
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <!--ts:2014.06.02.17:30-->          <!--rq:-->        </div>
+        <h1>
+          
+				Reset your password
+        </h1>
+        <noscript>
+          <div class="pdt10">
+            <div class="sm-co sm-er">
+              <i class="gspr icer"/>
+              <p>
+                
+						You must have Java Script enabled to register. 
+                <a href="http://pages.ebay.com/help/account/errors.html" target="_blank">
+                  Learn how to enable
+							Java Script.
+                  <b class="g-hdn">
+                     - opens in a new window or tab
+                  </b>
+                </a>
+              </p>
+            </div>
+          </div>
+        </noscript>
+      </header>
+      <p class="clear">
+      </p>
+      <div class="sm-co sm-al">
+        <i class="gspr icmal banner-icon"/>
+        <p class="sm-md">
+          To protect the security and privacy of our customers, we’re asking all eBay users to reset their passwords on or after May 21, 2014.
+          <span id="learnMore">
+            If you already reset your password and forgot it, please follow the reset process below. 
+            <a href="http://www.ebay.com/reset">
+              Learn more
+            </a>
+          </span>
+        </p>
+      </div>
+      <section class="content">
+        <form id="enterUserInfoForm" action="/EnterUserInfo" method="post">
+          <input type="hidden" name="ru" value="http%3A%2F%2Fmy.ebay.com%2Fws%2FeBayISAPI.dll%3FMyEbayBeta%26MyeBay%3D%26guest%3D1"/>
+          <input type="hidden" name="clientapptype" value="19"/>
+          <input type="hidden" name="reqinput" id="reqinput" value="dfa7ff20fc387fa73e323d23c4a2aec024b28c8bc245dc5bc72af64f45cbfde6"/>
+          <input type="hidden" name="__HPAB_token_text__" id="__HPAB_token_text__" value=""/>
+          <input type="hidden" name="__HPAB_token_string__" id="__HPAB_token_string__" value=""/>
+          <input id="captchaToken" type="hidden" name="captchaToken" value=""/>
+          <input id="captchaImgUrl" type="hidden" name="captchaStatus" value=""/>
+          <div id="webtitle">
+            <h5>
+              Enter your registered eBay email. If you don't remember your registered eBay email, enter your user ID.
+            </h5>
+          </div>
+          <div id="mobtitle">
+            <h5>
+              
+						Enter your email address or user ID
+            </h5>
+          </div>
+          <div style="height: 12px;">
+          </div>
+          <input id="input" name="input" value="username" type="text" autocorrect="off" autocapitalize="off" size="40" maxlength="64" autocomplete="off"/>
+          <section class="primsecbtns">
+            <button class="btn btn-prim full-btn" type="submit" value="Continue" name="submitBtn">
+              
+								Continue
+            </button>
+          </section>
+          <div style="height: 30px;">
+          </div>
+        </form>
+      </section>
+      <div id="glbfooter" class="gh-w gf-min">
+        <div>
+          <div id="rtm_html_1650" style="height:0px;display:none;">
+          </div>
+          <div id="rtm_html_1651" style="height:0px;display:none;">
+          </div>
+        </div>
+        <h2 class="gh-ar-hdn">
+          Additional site navigation
+        </h2>
+        <div id="gf-t-box">
+          <table class="gf-t">
+            <tbody>
+              <tr valign="top">
+                <td class="gf-legal">
+                  Copyright © 1995-2014 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay 
+                  <a _sp="m571.l2612" href="http://pages.ebay.com/help/policies/user-agreement.html?rt=nc">
+                    User Agreement
+                  </a>
+                   and 
+                  <a _sp="m571.l2613" href="http://pages.ebay.com/help/policies/privacy-policy.html?rt=nc">
+                    Privacy Policy
+                  </a>
+                  .
+                </td>
+                <td nowrap="" align="center">
+                  <a title="Verify site's TRUSTe certificate" _exsp="m571.l3946" href="https://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.ebay.com">
+                    <img alt="TRUSTe Site Validation" id="gf-truste" src="https://secureir.ebaystatic.com/pictures/aw/pics/s.gif" height="36" width="92"/>
+                  </a>
+                  <a title="Verify site's SSL certificate" _exsp="m571.l3943" onclick="this.href='https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;lang=en&amp;dn='+location.host;return true;" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.EBAY.COM&amp;lang=en">
+                    <img alt="Norton Secured - powered by Verisign" id="gf-norton" src="https://secureir.ebaystatic.com/pictures/aw/pics/s.gif" height="36" width="61"/>
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div id="cobrandFooter">
+        </div>
+      </div>
+      <!--ts:2014.06.02.17:31-->      <!--rq:-->      <div id="mobfooter" class="gf-legal">
+        
+			Copyright © 1995-2014 eBay Inc
+      </div>
+      <script type="text/javascript">
+//<![CDATA[
+
+			$(document).ready(
+					function() {						
+						$('form').submit(
+								function() {
+									$(this).find("button[type='submit']").attr(
+											'disabled', 'disabled').addClass(
+											'btn-d');
+									return true;
+								});
+
+						$('#refreshCaptcha').click(
+								function() {
+									$('#capt_if').attr('src',
+											$('#captchaImgUrl').val());
+								});
+
+						$('#enterUserInfoForm input[type=text]').first()
+								.focus();
+
+						if ($('#captchaStatus').val() == 'Invalid') {
+
+							$('#captchaErrMsg').show();
+							$('#captchaErrImg').show();
+						}
+					});
+		
+//]]>
+      </script>
+    </div>
+    <img src="https://rover.ebay.com/roversync/?site=0&amp;stg=1&amp;mpt=1401978708724"/>
+  </body>
+</html>

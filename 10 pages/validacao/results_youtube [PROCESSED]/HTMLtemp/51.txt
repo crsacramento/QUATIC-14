@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <script>
+//<![CDATA[
+
+for(var a=["article","footer","nav","figure","figcaption"],b=0;b<a.length;b++)document.createElement(a[b]);window._gaq=window._gaq||[];
+    
+//]]>
+    </script>
+    <title>
+      
+      Centre de drets d'autor de YouTube - YouTube
+    
+    </title>
+    <meta content="YouTube" name="author"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700&amp;lang=ca" rel="stylesheet" title="Obre el full d'estils Sans"/>
+    <link href="/yt/css/www-copyright.css" rel="stylesheet" title=""/>
+  </head>
+  <body class="ltr" dir="ltr">
+    <div id="page">
+      <div id="masthead-container">
+        <div id="masthead">
+          <div id="masthead-root">
+            <a href="//www.youtube.com/" id="masthead-logo" title="Pàgina d'inici de YouTube">
+              <img alt="Pàgina d'inici de YouTube" src="/yt/img/logo_hh.png"/>
+            </a>
+            <form action="//www.youtube.com/results" autocomplete="on" class="search-form" id="masthead-search" method="get" name="masthead-search">
+              <button aria-pressed="false" class="search-button yt-uix-button yt-uix-button-default" dir="ltr" id="search-btn" role="button" tabindex="2" type="submit">
+                <span class="yt-uix-button-content">
+                  Cerca
+                </span>
+              </button>
+              <label id="masthead-search-term">
+                <input class="search-term" name="search_query" tabindex="1" title="Cerca" type="text" value=""/>
+              </label>
+            </form>
+            <div id="masthead-utility">
+              <a class="yt-uix-button yt-uix-button-default" href="//www.youtube.com/my_videos_upload">
+                <span class="yt-uix-button-content">
+                  Penja
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="" id="yt-microsite">
+        <div class="" id="yt-main-nav-container">
+          <nav id="yt-main-nav">
+            <nav id="yt-microsite-nav">
+              <a href="/yt/about/ca/">
+                Informació
+              </a>
+              <a href="/yt/press/ca/">
+                Premsa
+              </a>
+              <a class="active" href="/yt/copyright/ca/">
+                Drets d'autor
+              </a>
+              <a href="/yt/policyandsafety/ca/">
+                Seguretat
+              </a>
+              <a href="/yt/creators/">
+                Creadors
+              </a>
+              <a href="/yt/advertise/">
+                Publicitat
+              </a>
+              <a href="/yt/dev/ca/">
+                Desenvolupadors
+              </a>
+              <a href="//support.google.com/youtube">
+                Ajuda
+              </a>
+            </nav>
+          </nav>
+        </div>
+        <div id="yt-microsite-header">
+          <div id="yt-microsite-header-illustration">
+            <div class="yt-js-video yt-copyright-video" data-video-height="290" data-video-video-id="OQVHWsTHcoc" data-video-width="460" id="yt-video-1">
+            </div>
+          </div>
+          <div id="yt-microsite-header-promo">
+            <h2>
+              
+              Els drets d'autor a YouTube
+            
+            </h2>
+            <p>
+              
+              Els drets d'autor són un tema important per a tota la comunitat de YouTube. A les
+              seccions següents, trobaràs accés a la informació i a les eines que necessites per
+              gestionar els teus drets a la plataforma YouTube i obtindràs més informació sobre com
+              es respecten els drets d'altres autors.
+            
+            </p>
+            <div class="yt-copyright-index-anchors">
+              <ul>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-manage-content">
+                      Gestió del teu contingut a
+                  YouTube
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-support">
+                      Assistència i resolució de problemes
+                  sobre drets d'autor
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  <strong>
+                    <a href="#yt-copyright-education">
+                      Més informació sobre els drets
+                  d'autor
+                    </a>
+                  </strong>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="yt-horizontal-rule">
+          <span class="first">
+          </span>
+          <span class="second">
+          </span>
+          <span class="third">
+          </span>
+        </div>
+        <div id="yt-microsite-features">
+          <h2 id="yt-copyright-manage-content">
+            
+            Gestió del teu contingut a YouTube
+          
+          </h2>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              Si vols enviar una notificació d'una presumpta infracció dels drets d'autor, obtenir
+              informació sobre què pots fer si creus que el teu vídeo s'ha eliminat per error o
+              obtenir informació sobre com s'impugna una coincidència de Content ID, els recursos
+              següents t'ajudaran a informar-te dels nostres senzills processos de gestió de drets.
+            
+            </p>
+          </div>
+          <ul class="yt-tile-static yt-copyright-feature">
+            <li class="yt-copyright-feature-item">
+              <a href="copyright-complaint.html">
+                <img alt="Notificacions d'infracció dels drets d'autor" src="/yt/copyright/media/images/copyright-index-submit.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="copyright-complaint.html">
+                    Envia una notificació d'infracció dels drets
+                  d'autor
+                  </a>
+                </h3>
+                <p>
+                  
+                  Sol·licita l'eliminació d'un ús no autoritzat de la teva obra original.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item">
+              <a href="retractions.html">
+                <img alt="Retractacions" src="/yt/copyright/media/images/copyright-index-dispute.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="counter-notification.html">
+                    Envia una notificació de desacord
+                  </a>
+                </h3>
+                <p>
+                  
+                  Sol·licita que es restableixi un vídeo que s'ha eliminat de manera incorrecta de
+                  YouTube per infracció dels drets d'autor.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item yt-copyright-feature-item-bottom">
+              <a href="copyright-disputes.html">
+                <img alt="Conflictes de drets d'autor" src="/yt/copyright/media/images/copyright-index-retract.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="retractions.html">
+                    Retira una reclamació per infracció dels drets
+                  d'autor
+                  </a>
+                </h3>
+                <p>
+                  
+                  Cancel·la o retira una sol·licitud de retirada que tu o la teva empresa hàgiu
+                  enviat a YouTube.
+                
+                </p>
+              </div>
+            </li>
+            <li class="yt-copyright-feature-item yt-copyright-feature-item-bottom">
+              <a href="content-id-disputes.html">
+                <img alt="Identificació de contingut" src="/yt/copyright/media/images/copyright-index-contentid.png"/>
+              </a>
+              <div class="yt-copyright-feature-description">
+                <h3>
+                  <a href="//support.google.com/youtube/answer/2797454">
+                    Impugna una reclamació de
+                  Content ID
+                  </a>
+                </h3>
+                <p>
+                  
+                  Impugna una reclamació de Content ID que s'hagi fet contra el teu vídeo i que
+                  creguis que és errònia.
+                
+                </p>
+              </div>
+            </li>
+          </ul>
+          <div>
+            <h2 id="yt-copyright-support">
+              
+              Assistència i resolució de problemes sobre drets d'autor
+            
+            </h2>
+          </div>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              Hi ha molta informació sobre els drets d'autor. Si vols obtenir ajuda per
+              diagnosticar un problema amb els drets d'autor, els recursos següents són el millor
+              punt de partida. Si la teva pregunta no es respon aquí, cerca-la al nostre Centre
+              d'ajuda, on trobaràs informació addicional.
+            
+            </p>
+          </div>
+          <div class="yt-tile-static yt-copyright-feature">
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="Què li ha passat al meu vídeo?" src="/yt/copyright/media/images/copyright-index-whathappened.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/troubleshooter/4440751">
+                      Com pots
+                    determinar què ha passat amb el teu vídeo
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Aprèn a diferenciar una reclamació de Content ID d'una retirada per infracció
+                    dels drets d'autor.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="Per què he rebut un toc d'atenció al compte?" src="/yt/copyright/media/images/copyright-index-strikeonaccount.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/?p=c_strike_basics">
+                      Informació bàsica
+                    sobre els tocs d'atenció per infracció dels drets d'autor
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Si has rebut un toc d'atenció per drets d'autor, esbrina per què ha passat i
+                    quina és la millor manera de resoldre'l.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="Què és la identificació de contingut?" src="/yt/copyright/media/images/copyright-index-whatscontentid.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/6013276">
+                      Què és una reclamació de
+                    Content ID?
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Informa't sobre una de les maneres que tenim a Youtube per detectar material
+                    protegit per drets d'autor i sobre què pots fer si reps una reclamació.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="Funcions perdudes" src="/yt/copyright/media/images/copyright-index-lostfeatures.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/2797387">
+                      Motius pels quals has
+                    perdut l'accés a una funció
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Algunes funcions de YouTube només estan disponibles si el compte està en bon
+                    estat pel que fa als drets d'autor.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li class="yt-copyright-feature-item">
+                <img alt="Quin és l'estat del meu compte?" src="/yt/copyright/media/images/copyright-index-accountstatus.png"/>
+                <div class="yt-copyright-feature-description">
+                  <h3>
+                    <a href="//support.google.com/youtube/answer/2797370">
+                      Funcionament de Content
+                    ID
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Obtingues més informació sobre Content ID, una eina que utilitzen els
+                    propietaris de contingut per identificar i reclamar el seu contingut en vídeos
+                    penjats a YouTube.
+                  
+                  </p>
+                </div>
+              </li>
+              <li class="yt-copyright-feature-item">
+                <img alt="Més funcions" src="/yt/copyright/media/images/copyright-index-morefeatures.png"/>
+                <div class="yt-copyright-feature-description yt-copyright-search">
+                  <h3>
+                    <a href="//youtube.com/features">
+                      Comprova l'estat del teu compte
+                    </a>
+                  </h3>
+                  <p>
+                    
+                    Comprova si el teu compte està en bon estat pel que fa als drets d'autor.
+                  
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <h2 id="yt-copyright-education">
+            
+            Més informació sobre els drets d'autor a YouTube
+          
+          </h2>
+          <div class="yt-copyright-section-description">
+            <p>
+              
+              Vols obtenir més informació dels drets d'autor? Aquests recursos t'ajudaran, tant si
+              cerques coneixements generals com si vols comprendre més en profunditat temes com ara
+              l'ús raonable.
+            
+            </p>
+          </div>
+          <ul class="yt-microsite-spotlight yt-microsite-framed">
+            <li class="yt-microsite-feature-item">
+              <img alt="Què són els drets d'autor?" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-whatiscopyright.png"/>
+              <h3>
+                <a href="what-is-copyright.html">
+                  Què són els drets d'autor?
+                </a>
+              </h3>
+              <p>
+                
+                Quin tipus de contingut està protegit pels drets d'autor? En què es diferencien els
+                drets d'autor d'altres formes de propietat
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item">
+              <img alt="Escola de drets d'autor" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-usingmaterial.png"/>
+              <h3>
+                <a href="fair-use.html">
+                  Què és l'ús raonable?
+                </a>
+              </h3>
+              <p>
+                
+                En certes circumstàncies, la llei permet utilitzar extractes de materials amb drets
+                d'autor.
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item">
+              <img alt="Creative Commons" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-creativecommons.png"/>
+              <h3>
+                <a href="creative-commons.html">
+                  Creative Commons
+                </a>
+              </h3>
+              <p>
+                
+                Obtingues informació sobre un tipus de llicència especial que permet reutilitzar el
+                contingut, si en segueixes les regles.
+              
+              </p>
+            </li>
+            <li class="yt-microsite-feature-item alternate">
+              <img alt="Ús de material amb drets d'autor" class="yt-copyright-feature-item-img" src="/yt/copyright/media/images/copyright-index-copyrightschool.png"/>
+              <h3>
+                <a href="faq.html">
+                  Preguntes més freqüents
+                </a>
+              </h3>
+              <p>
+                
+                Respostes a les preguntes més freqüents sobre els drets d'autor.
+              
+              </p>
+            </li>
+          </ul>
+        </div>
+        <div class="yt-js-sidebarscroll-footer" id="yt-microsite-footer">
+        </div>
+      </div>
+    </div>
+    <div class="footer-container footer-container-non-responsive">
+      <div>
+        <div class="footer-main">
+          <span class="footer-logo">
+            <a href="/">
+              <img alt="Pàgina d'inici de YouTube" src="/yt/img/logo_hh.png"/>
+            </a>
+          </span>
+          <button class="yt-uix-button yt-uix-button-default footer-language-selector-button" id="yt-js-footer-language-selector-button">
+            <span class="yt-uix-button-content">
+              Idioma:
+          català
+            </span>
+          </button>
+          <div class="footer-language-selector yt-hide yt-tile-static" id="yt-js-footer-language-selector">
+            <ul>
+              <li>
+                <a href="/yt/copyright/ar/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/bg/index.html">
+                  ?????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/bn/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <strong>
+                  Català
+                </strong>
+              </li>
+              <li>
+                <a href="/yt/copyright/cs/index.html">
+                  ?eština
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/da/index.html">
+                  Dansk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/de/index.html">
+                  Deutsch
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/el/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/index.html">
+                  English
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/en-GB/index.html">
+                  English (United Kingdom)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/es/index.html">
+                  Español
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/es-419/index.html">
+                  Español (Latinoamérica)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/et/index.html">
+                  Eesti
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/eu/index.html">
+                  Euskara
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fa/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/fi/index.html">
+                  Suomi
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fil/index.html">
+                  Filipino
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fr/index.html">
+                  Français
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/fr-CA/index.html">
+                  Français (Canada)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/gl/index.html">
+                  Galego
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/gu/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hi/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hr/index.html">
+                  Hrvatski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/hu/index.html">
+                  Magyar
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/id/index.html">
+                  Bahasa Indonesia
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/is/index.html">
+                  Íslenska
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/it/index.html">
+                  Italiano
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/iw/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ja/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/kn/index.html">
+                  ?????
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/ko/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/lt/index.html">
+                  Lietuvi?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/lv/index.html">
+                  Latviešu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ml/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/mr/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ms/index.html">
+                  Bahasa Melayu
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/nl/index.html">
+                  Nederlands
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/no/index.html">
+                  Norsk
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pl/index.html">
+                  Polski
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pt-BR/index.html">
+                  Português (Brasil)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/pt-PT/index.html">
+                  Português (Portugal)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ro/index.html">
+                  Român?
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ru/index.html">
+                  ???????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sk/index.html">
+                  Sloven?ina
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sl/index.html">
+                  Slovenš?ina
+                </a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <a href="/yt/copyright/sr/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/sv/index.html">
+                  Svenska
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ta/index.html">
+                  ?????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/te/index.html">
+                  ??????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/th/index.html">
+                  ???
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/tr/index.html">
+                  Türkçe
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/uk/index.html">
+                  ??????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/ur/index.html">
+                  ????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/vi/index.html">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-CN/index.html">
+                  ????????
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-HK/index.html">
+                  ?? (??)
+                </a>
+              </li>
+              <li>
+                <a href="/yt/copyright/zh-TW/index.html">
+                  ????????
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-secondary">
+          <ul class="footer-primary-info">
+            <li>
+              <a href="/yt/about/ca/">
+                Informació
+              </a>
+            </li>
+            <li>
+              <a href="/yt/press/ca/">
+                Premsa
+              </a>
+            </li>
+            <li>
+              <a href="/yt/copyright/ca/">
+                Drets d'autor
+              </a>
+            </li>
+            <li>
+              <a href="/yt/creators/">
+                Creadors
+              </a>
+            </li>
+            <li>
+              <a href="/yt/advertise/">
+                Publicitat
+              </a>
+            </li>
+            <li>
+              <a href="/yt/dev/ca/">
+                Desenvolupadors
+              </a>
+            </li>
+            <li>
+              <a href="//support.google.com/youtube">
+                Ajuda
+              </a>
+            </li>
+            <li>
+              <a href="//plus.google.com/+youtube">
+                +YouTube
+              </a>
+            </li>
+          </ul>
+          <ul class="footer-secondary-info">
+            <li>
+              <a href="/t/terms">
+                Condicions
+              </a>
+            </li>
+            <li>
+              <a href="/yt/policyandsafety/ca/">
+                Política i seguretat
+              </a>
+            </li>
+            <li>
+              <a href="//www.google.com/policies/privacy/">
+                Privadesa
+              </a>
+            </li>
+            <li>
+              <a href="/testtube">
+                Prova coses noves!
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="/yt/js/www-goro.min.js">
+    </script>
+    <script>
+//<![CDATA[
+
+yt.goro.core.analytics.push(
+          ['_setAccount', 'UA-38810586-1'],
+          ['_trackPageview']
+        );
+    
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+
+yt.goro.core.analytics.push(
+      ['_setAccount', 'UA-34311232-1'],
+      ['_setDomainName', 'youtube.com'],
+      ['_setAllowLinker', true],
+      ['_trackPageview']
+    );
+    
+//]]>
+    </script>
+    <script src="/yt/js/www-copyright.min.js">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License: Revision history - Wikipedia, the free encyclopedia
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="&quot;Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License&quot; Atom feed" href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;feed=atom&amp;action=history"/>
+    <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+    <link rel="canonical" href="http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=history"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.nolanglinks&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */
+    </style>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License","wgTitle":"Text of Creative Commons Attribution-ShareAlike 3.0 Unported License","wgCurRevisionId":602355710,"wgRevisionId":0,"wgArticleId":23238140,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"history","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License","wgIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgFlowTermsOfUseEdit":"By saving changes, you agree to our \u003Ca class=\"external text\" href=\"//wikimediafoundation.org/wiki/Terms_of_use\"\u003ETerms of Use\u003C/a\u003E and agree to irrevocably release your text under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"//creativecommons.org/licenses/by-sa/3.0\"\u003ECC BY-SA 3.0 License\u003C/a\u003E and \u003Ca class=\"external text\" href=\"//en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License\"\u003EGFDL\u003C/a\u003E","wgFlowTermsOfUseSummarize":"By clicking \"Summarize\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseCloseTopic":"By clicking \"Close topic\", you agree to the terms of use for this wiki.","wgFlowTermsOfUseReopenTopic":"By clicking \"Reopen topic\", you agree to the terms of use for this wiki.","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,
+"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":
+false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:369915ab579125627842c0da1e18ba20 */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-4 ns-subject page-Wikipedia_Text_of_Creative_Commons_Attribution-ShareAlike_3_0_Unported_License skin-vector action-history vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        <span dir="auto">
+          Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License: Revision history
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub">
+          <a href="/w/index.php?title=Special:Log&amp;page=Wikipedia%3AText+of+Creative+Commons+Attribution-ShareAlike+3.0+Unported+License" title="Special:Log">
+            View logs for this page
+          </a>
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Jump to:					
+          <a href="#mw-navigation">
+            navigation
+          </a>
+          , 					
+          <a href="#p-search">
+            search
+          </a>
+        </div>
+        <div id="mw-content-text">
+          <form action="/w/index.php" method="get" id="mw-history-searchform">
+            <fieldset id="mw-history-search">
+              <legend>
+                Browse history
+              </legend>
+              <input type="hidden" value="Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" name="title"/>
+              <input type="hidden" value="history" name="action"/>
+              <label for="year">
+                From year (and earlier):
+              </label>
+              <input id="year" maxlength="4" size="7" type="number" value="2014" name="year"/>
+              <label for="month">
+                From month (and earlier):
+              </label>
+              <select id="month" name="month" class="mw-month-selector">
+                <option value="-1" selected="selected">
+                  all
+                </option>
+                <option value="1">
+                  January
+                </option>
+                <option value="2">
+                  February
+                </option>
+                <option value="3">
+                  March
+                </option>
+                <option value="4">
+                  April
+                </option>
+                <option value="5">
+                  May
+                </option>
+                <option value="6">
+                  June
+                </option>
+                <option value="7">
+                  July
+                </option>
+                <option value="8">
+                  August
+                </option>
+                <option value="9">
+                  September
+                </option>
+                <option value="10">
+                  October
+                </option>
+                <option value="11">
+                  November
+                </option>
+                <option value="12">
+                  December
+                </option>
+              </select>
+               
+              <label for="tagfilter">
+                <a href="/wiki/Special:Tags" title="Special:Tags">
+                  Tag
+                </a>
+                 filter:
+              </label>
+               
+              <input name="tagfilter" size="20" value="" class="mw-tagfilter-input" id="tagfilter" type="text"/>
+               
+              <input type="submit" value="Go"/>
+            </fieldset>
+          </form>
+          <div class="mw-history-legend">
+            <div id="histlegend">
+              <span style="white-space:nowrap;">
+                For any version listed below, click on its date to view it.
+              </span>
+              <span style="white-space:nowrap;">
+                For more help, see 
+                <a href="/wiki/Help:Page_history" title="Help:Page history">
+                  Help:Page history
+                </a>
+                 and 
+                <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">
+                  Help:Edit summary
+                </a>
+                .
+              </span>
+              <br/>
+              <span style="white-space:nowrap;">
+                External tools: 
+                <a class="external text" href="//tools.wmflabs.org/xtools/articleinfo/index.php?article=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;lang=en&amp;wiki=wikipedia">
+                  Revision history statistics
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="http://wikipedia.ramselehof.de/wikiblame.php?lang=en&amp;article=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+                  Revision history search
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="//toolserver.org/~daniel/WikiSense/Contributors.php?wikilang=en&amp;wikifam=.wikipedia.org&amp;grouped=on&amp;page=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+                  Contributors
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a class="external text" href="//tools.wmflabs.org/usersearch/index.html?page=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+                  Edits by user
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=info#mw-pageinfo-watchers">
+                  Number of watchers
+                </a>
+                <b>
+                  ·
+                </b>
+              </span>
+              <span style="white-space:nowrap;">
+                <a rel="nofollow" class="external text" href="http://stats.grok.se/en/latest/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+                  Page view statistics
+                </a>
+              </span>
+              <hr/>
+              <span style="white-space:nowrap;">
+                (cur) = difference from current version,
+              </span>
+              <span style="white-space:nowrap;">
+                (prev) = difference from preceding version,
+              </span>
+              <span style="white-space:nowrap;">
+                 
+                <b>
+                  m
+                </b>
+                 = 
+                <a href="/wiki/Help:Minor_edit" title="Help:Minor edit">
+                  minor edit
+                </a>
+                , ? = 
+                <a href="/wiki/Help:Section#Section_editing" title="Help:Section">
+                  section edit
+                </a>
+                , ? = 
+                <a href="/wiki/Wikipedia:Automatic_edit_summaries" title="Wikipedia:Automatic edit summaries">
+                  automatic edit summary
+                </a>
+              </span>
+            </div>
+          </div>
+          <form action="/w/index.php" id="mw-history-compare">
+            <input type="hidden" value="Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" name="title"/>
+            <input type="hidden" value="historysubmit" name="action"/>
+            <div>
+              <input type="submit" value="Compare selected revisions" class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v"/>
+            </div>
+            <ul id="pagehistory">
+              <li>
+                <span class="mw-history-histlinks">
+                  (cur | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=554835301" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="602355710" style="visibility:hidden" name="oldid" id="mw-oldid-null"/>
+                <input type="radio" value="602355710" checked="checked" name="diff" id="mw-diff-602355710"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=602355710" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  02:06, 2 April 2014
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Jason_Quinn" title="User:Jason Quinn" class="mw-userlink">
+                    Jason Quinn
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Jason_Quinn" title="User talk:Jason Quinn">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Jason_Quinn" title="Special:Contributions/Jason Quinn">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,656 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-null" title="23,656 bytes after change">
+                  (0)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (the correct name is "CC BY-SA" (without a dash bewteen CC and CY))
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=554835301" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=554835301&amp;oldid=505139539" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="554835301" checked="checked" name="oldid" id="mw-oldid-554835301"/>
+                <input type="radio" value="554835301" name="diff" id="mw-diff-554835301"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=554835301" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  05:02, 13 May 2013
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Legoktm" title="User:Legoktm" class="mw-userlink">
+                    Legoktm
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Legoktm" title="User talk:Legoktm">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Legoktm" title="Special:Contributions/Legoktm">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,656 bytes)
+                </span>
+                <strong dir="ltr" class="mw-plusminus-neg" title="23,656 bytes after change">
+                  (-1,729)
+                </strong>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="/wiki/Wikipedia:WDATA" class="mw-redirect" title="Wikipedia:WDATA">
+                    WP:WDATA
+                  </a>
+                  )
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=505139539" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=505139539&amp;oldid=466849262" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="505139539" name="oldid" id="mw-oldid-505139539"/>
+                <input type="radio" value="505139539" name="diff" id="mw-diff-505139539"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=505139539" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  18:42, 31 July 2012
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Anomie" title="User:Anomie" class="mw-userlink">
+                    Anomie
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Anomie" title="User talk:Anomie">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Anomie" title="Special:Contributions/Anomie">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,385 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="25,385 bytes after change">
+                  (-1)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (update ar interwiki)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=466849262" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=466849262&amp;oldid=452145978" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="466849262" name="oldid" id="mw-oldid-466849262"/>
+                <input type="radio" value="466849262" name="diff" id="mw-diff-466849262"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=466849262" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  12:01, 20 December 2011
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Moonriddengirl" title="User:Moonriddengirl" class="mw-userlink">
+                    Moonriddengirl
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Moonriddengirl" title="User talk:Moonriddengirl">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Moonriddengirl" title="Special:Contributions/Moonriddengirl">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,386 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,386 bytes after change">
+                  (+166)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (interwiki link per talk page)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=452145978" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=452145978&amp;oldid=431145273" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="452145978" name="oldid" id="mw-oldid-452145978"/>
+                <input type="radio" value="452145978" name="diff" id="mw-diff-452145978"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=452145978" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  05:30, 24 September 2011
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Skier_Dude" title="User:Skier Dude" class="mw-userlink">
+                    Skier Dude
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Skier_Dude" title="User talk:Skier Dude">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Skier_Dude" title="Special:Contributions/Skier Dude">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,220 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,220 bytes after change">
+                  (+11)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (added {{clear}}  ln 4)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=431145273" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=431145273&amp;oldid=423510475" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="431145273" name="oldid" id="mw-oldid-431145273"/>
+                <input type="radio" value="431145273" name="diff" id="mw-diff-431145273"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=431145273" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  08:15, 27 May 2011
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:MSGJ" title="User:MSGJ" class="mw-userlink">
+                    MSGJ
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:MSGJ" title="User talk:MSGJ">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/MSGJ" title="Special:Contributions/MSGJ">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,209 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,209 bytes after change">
+                  (+24)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add navigational template, per request)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=423510475" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=423510475&amp;oldid=400414866" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="423510475" name="oldid" id="mw-oldid-423510475"/>
+                <input type="radio" value="423510475" name="diff" id="mw-diff-423510475"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=423510475" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  13:42, 11 April 2011
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:JohnCD" title="User:JohnCD" class="mw-userlink">
+                    JohnCD
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:JohnCD" title="User talk:JohnCD">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/JohnCD" title="Special:Contributions/JohnCD">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,185 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="25,185 bytes after change">
+                  (-1)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (typo)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=400414866" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=400414866&amp;oldid=381694592" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="400414866" name="oldid" id="mw-oldid-400414866"/>
+                <input type="radio" value="400414866" name="diff" id="mw-diff-400414866"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=400414866" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  01:41, 4 December 2010
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Decltype" title="User:Decltype" class="mw-userlink">
+                    Decltype
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Decltype" title="User talk:Decltype">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Decltype" title="Special:Contributions/Decltype">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,186 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,186 bytes after change">
+                  (+115)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (fr:, per edit request)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=381694592" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=381694592&amp;oldid=332092427" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="381694592" name="oldid" id="mw-oldid-381694592"/>
+                <input type="radio" value="381694592" name="diff" id="mw-diff-381694592"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=381694592" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  14:31, 29 August 2010
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:HJ_Mitchell" title="User:HJ Mitchell" class="mw-userlink">
+                    HJ Mitchell
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:HJ_Mitchell" title="User talk:HJ Mitchell">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/HJ_Mitchell" title="Special:Contributions/HJ Mitchell">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,071 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,071 bytes after change">
+                  (+107)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="//ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BA%D1%81%D1%82_%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B8_Creative_Commons_Attribution-ShareAlike_3.0_Unported" class="extiw" title="ru:?????????:????? ???????? Creative Commons Attribution-ShareAlike 3.0 Unported">
+                    ru:?????????:????? ???????? Creative Commons Attribution-ShareAlike 3.0 Unported
+                  </a>
+                  )
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=332092427" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=332092427&amp;oldid=328828167" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="332092427" name="oldid" id="mw-oldid-332092427"/>
+                <input type="radio" value="332092427" name="diff" id="mw-diff-332092427"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=332092427" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  18:46, 16 December 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dank" title="User:Dank" class="mw-userlink">
+                    Dank
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dank" title="User talk:Dank">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dank" title="Special:Contributions/Dank">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,964 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,964 bytes after change">
+                  (-83)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Please see discussions at 
+                  <a href="/wiki/Wikipedia_talk:POLICY#Tweak_to_list_of_legal_policies" class="mw-redirect" title="Wikipedia talk:POLICY">
+                    WT:POLICY#Tweak to list of legal policies
+                  </a>
+                   and 
+                  <a href="/wiki/Wikipedia_talk:Terms_of_use" title="Wikipedia talk:Terms of use">
+                    WT:Terms of use
+                  </a>
+                  .  The relevant policy page is now 
+                  <a href="/wiki/Wikipedia:Wikimedia_policy" title="Wikipedia:Wikimedia policy">
+                    WP:Wikimedia policy
+                  </a>
+                  )
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=328828167" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=328828167&amp;oldid=328807078" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="328828167" name="oldid" id="mw-oldid-328828167"/>
+                <input type="radio" value="328828167" name="diff" id="mw-diff-328828167"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=328828167" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  16:57, 30 November 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dank" title="User:Dank" class="mw-userlink">
+                    Dank
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dank" title="User talk:Dank">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dank" title="Special:Contributions/Dank">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,047 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,047 bytes after change">
+                  (+4)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (legal policy)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=328807078" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=328807078&amp;oldid=326435197" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="328807078" name="oldid" id="mw-oldid-328807078"/>
+                <input type="radio" value="328807078" name="diff" id="mw-diff-328807078"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=328807078" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  14:45, 30 November 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dank" title="User:Dank" class="mw-userlink">
+                    Dank
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dank" title="User talk:Dank">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dank" title="Special:Contributions/Dank">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,043 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,043 bytes after change">
+                  (+36)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Please see discussion at http://en.wikipedia.org/w/index.php?title=Wikipedia:Village_pump_%28policy%29&amp;oldid=328487825#Wikipedia_administrative_policy)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=326435197" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=326435197&amp;oldid=323606082" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="326435197" name="oldid" id="mw-oldid-326435197"/>
+                <input type="radio" value="326435197" name="diff" id="mw-diff-326435197"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=326435197" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  23:27, 17 November 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (25,007 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="25,007 bytes after change">
+                  (+56)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (subst {{section}})
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=323606082" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=323606082&amp;oldid=314036695" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="323606082" name="oldid" id="mw-oldid-323606082"/>
+                <input type="radio" value="323606082" name="diff" id="mw-diff-323606082"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=323606082" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  02:20, 3 November 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,951 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,951 bytes after change">
+                  (+89)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (+es interwiki, update vi)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=314036695" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=314036695&amp;oldid=314036250" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="314036695" name="oldid" id="mw-oldid-314036695"/>
+                <input type="radio" value="314036695" name="diff" id="mw-diff-314036695"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=314036695" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:17, 15 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:John_Vandenberg" title="User:John Vandenberg" class="mw-userlink">
+                    John Vandenberg
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:John_Vandenberg" title="User talk:John Vandenberg">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/John_Vandenberg" title="Special:Contributions/John Vandenberg">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,862 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,862 bytes after change">
+                  (-1)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (remove period in section header)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=314036250" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=314036250&amp;oldid=314035170" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="314036250" name="oldid" id="mw-oldid-314036250"/>
+                <input type="radio" value="314036250" name="diff" id="mw-diff-314036250"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=314036250" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:14, 15 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:John_Vandenberg" title="User:John Vandenberg" class="mw-userlink">
+                    John Vandenberg
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:John_Vandenberg" title="User talk:John Vandenberg">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/John_Vandenberg" title="Special:Contributions/John Vandenberg">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,863 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,863 bytes after change">
+                  (+288)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add ids)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=314035170" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=314035170&amp;oldid=314035069" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="314035170" name="oldid" id="mw-oldid-314035170"/>
+                <input type="radio" value="314035170" name="diff" id="mw-diff-314035170"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=314035170" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:04, 15 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:John_Vandenberg" title="User:John Vandenberg" class="mw-userlink">
+                    John Vandenberg
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:John_Vandenberg" title="User talk:John Vandenberg">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/John_Vandenberg" title="Special:Contributions/John Vandenberg">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,575 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,575 bytes after change">
+                  (+8)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (indent inner list)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=314035069" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=314035069&amp;oldid=314034511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="314035069" name="oldid" id="mw-oldid-314035069"/>
+                <input type="radio" value="314035069" name="diff" id="mw-diff-314035069"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=314035069" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:04, 15 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:John_Vandenberg" title="User:John Vandenberg" class="mw-userlink">
+                    John Vandenberg
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:John_Vandenberg" title="User talk:John Vandenberg">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/John_Vandenberg" title="Special:Contributions/John Vandenberg">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,567 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,567 bytes after change">
+                  (+12)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (format html)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=314034511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=314034511&amp;oldid=312011999" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="314034511" name="oldid" id="mw-oldid-314034511"/>
+                <input type="radio" value="314034511" name="diff" id="mw-diff-314034511"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=314034511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  03:59, 15 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:John_Vandenberg" title="User:John Vandenberg" class="mw-userlink">
+                    John Vandenberg
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:John_Vandenberg" title="User talk:John Vandenberg">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/John_Vandenberg" title="Special:Contributions/John Vandenberg">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,555 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,555 bytes after change">
+                  (+104)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add {{section|&lt;n&gt;}})
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=312011999" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=312011999&amp;oldid=310654311" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="312011999" name="oldid" id="mw-oldid-312011999"/>
+                <input type="radio" value="312011999" name="diff" id="mw-diff-312011999"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=312011999" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  14:19, 5 September 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,451 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,451 bytes after change">
+                  (-18)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (rm hide in print - no longer needed)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=310654311" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=310654311&amp;oldid=309298552" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="310654311" name="oldid" id="mw-oldid-310654311"/>
+                <input type="radio" value="310654311" name="diff" id="mw-diff-310654311"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=310654311" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  03:13, 29 August 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Art_LaPella" title="User:Art LaPella" class="mw-userlink">
+                    Art LaPella
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Art_LaPella" title="User talk:Art LaPella">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Art_LaPella" title="Special:Contributions/Art LaPella">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,469 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,469 bytes after change">
+                  (-14)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="/wiki/Wikipedia:AWB/T" class="mw-redirect" title="Wikipedia:AWB/T">
+                    Typo fixing
+                  </a>
+                   including 
+                  <a href="/wiki/Wikipedia:DASH" class="mw-redirect" title="Wikipedia:DASH">
+                    WP:DASH
+                  </a>
+                  , Replaced: —  ? — (7), using 
+                  <a href="/wiki/Wikipedia:AutoWikiBrowser" title="Wikipedia:AutoWikiBrowser">
+                    AWB
+                  </a>
+                  )
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=309298552" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=309298552&amp;oldid=307841386" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="309298552" name="oldid" id="mw-oldid-309298552"/>
+                <input type="radio" value="309298552" name="diff" id="mw-diff-309298552"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=309298552" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  19:29, 21 August 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Horologium" title="User:Horologium" class="mw-userlink">
+                    Horologium
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Horologium" title="User talk:Horologium">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Horologium" title="Special:Contributions/Horologium">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,483 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,483 bytes after change">
+                  (+133)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (added vietnamese wiki interwiki link.)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=307841386" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=307841386&amp;oldid=305043047" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="307841386" name="oldid" id="mw-oldid-307841386"/>
+                <input type="radio" value="307841386" name="diff" id="mw-diff-307841386"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=307841386" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  23:55, 13 August 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,350 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,350 bytes after change">
+                  (+86)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (+ja)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=305043047" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=305043047&amp;oldid=305041891" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="305043047" name="oldid" id="mw-oldid-305043047"/>
+                <input type="radio" value="305043047" name="diff" id="mw-diff-305043047"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=305043047" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  09:14, 30 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:R%27n%27B" title="User:R'n'B" class="mw-userlink">
+                    R'n'B
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:R%27n%27B" title="User talk:R'n'B">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/R%27n%27B" title="Special:Contributions/R'n'B">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,264 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,264 bytes after change">
+                  (-17)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="/wiki/Wikipedia:UNDO" class="mw-redirect" title="Wikipedia:UNDO">
+                    Undid
+                  </a>
+                   revision 305041891 by 
+                  <a href="/wiki/Special:Contributions/R%27n%27B" title="Special:Contributions/R'n'B">
+                    R'n'B
+                  </a>
+                   (
+                  <a href="/wiki/User_talk:R%27n%27B" title="User talk:R'n'B">
+                    talk
+                  </a>
+                  ))
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=305041891" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=305041891&amp;oldid=302507317" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="305041891" name="oldid" id="mw-oldid-305041891"/>
+                <input type="radio" value="305041891" name="diff" id="mw-diff-305041891"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=305041891" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  09:03, 30 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:R%27n%27B" title="User:R'n'B" class="mw-userlink">
+                    R'n'B
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:R%27n%27B" title="User talk:R'n'B">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/R%27n%27B" title="Special:Contributions/R'n'B">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,281 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,281 bytes after change">
+                  (+17)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Removed category 
+                  <a href="/wiki/Category:Wikipedia_policy" title="Category:Wikipedia policy">
+                    Wikipedia policy
+                  </a>
+                  ; Quick-adding category 
+                  <a href="/wiki/Category:Wikipedia_policies_and_guidelines" title="Category:Wikipedia policies and guidelines">
+                    Wikipedia policies and guidelines
+                  </a>
+                   (using 
+                  <a href="/wiki/Wikipedia:HOTCAT" class="mw-redirect" title="Wikipedia:HOTCAT">
+                    HotCat
+                  </a>
+                  ))
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=302507317" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=302507317&amp;oldid=300157511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="302507317" name="oldid" id="mw-oldid-302507317"/>
+                <input type="radio" value="302507317" name="diff" id="mw-diff-302507317"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=302507317" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  23:28, 16 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Cydebot" title="User:Cydebot" class="mw-userlink">
+                    Cydebot
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Cydebot" title="User talk:Cydebot">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Cydebot" title="Special:Contributions/Cydebot">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,264 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-neg" title="24,264 bytes after change">
+                  (-9)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Robot - Moving category Wikipedia official policy to Wikipedia policy per 
+                  <a href="/wiki/Wikipedia:CFD" class="mw-redirect" title="Wikipedia:CFD">
+                    CFD
+                  </a>
+                   at 
+                  <a href="/wiki/Wikipedia:Categories_for_discussion/Log/2009_July_5" title="Wikipedia:Categories for discussion/Log/2009 July 5">
+                    Wikipedia:Categories for discussion/Log/2009 July 5
+                  </a>
+                  .)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=300157511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=300157511&amp;oldid=300153636" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="300157511" name="oldid" id="mw-oldid-300157511"/>
+                <input type="radio" value="300157511" name="diff" id="mw-diff-300157511"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=300157511" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  01:45, 4 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (24,273 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="24,273 bytes after change">
+                  (+434)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (+ar, fa, simple, fi, zh interwikis (note that some of these aren't translated yet...))
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=300153636" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=300153636&amp;oldid=300116142" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="300153636" name="oldid" id="mw-oldid-300153636"/>
+                <input type="radio" value="300153636" name="diff" id="mw-diff-300153636"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=300153636" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  01:14, 4 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:RockMFR" title="User:RockMFR" class="mw-userlink">
+                    RockMFR
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:RockMFR" title="User talk:RockMFR">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/RockMFR" title="Special:Contributions/RockMFR">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,839 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,839 bytes after change">
+                  (+249)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (use same ordered list markup that is used at creativecommons)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=300116142" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=300116142&amp;oldid=300064285" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="300116142" name="oldid" id="mw-oldid-300116142"/>
+                <input type="radio" value="300116142" name="diff" id="mw-diff-300116142"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=300116142" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  21:03, 3 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:TheDJ" title="User:TheDJ" class="mw-userlink">
+                    TheDJ
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:TheDJ" title="User talk:TheDJ">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/TheDJ" title="Special:Contributions/TheDJ">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,590 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,590 bytes after change">
+                  (+103)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (iw:he)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=300064285" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=300064285&amp;oldid=299859645" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="300064285" name="oldid" id="mw-oldid-300064285"/>
+                <input type="radio" value="300064285" name="diff" id="mw-diff-300064285"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=300064285" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  15:33, 3 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:MSGJ" title="User:MSGJ" class="mw-userlink">
+                    MSGJ
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:MSGJ" title="User talk:MSGJ">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/MSGJ" title="Special:Contributions/MSGJ">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,487 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,487 bytes after change">
+                  (+147)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (+th)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=299859645" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=299859645&amp;oldid=299829689" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="299859645" name="oldid" id="mw-oldid-299859645"/>
+                <input type="radio" value="299859645" name="diff" id="mw-diff-299859645"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=299859645" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  09:58, 2 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Optimist_on_the_run" title="User:Optimist on the run" class="mw-userlink">
+                    Optimist on the run
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Optimist_on_the_run" title="User talk:Optimist on the run">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Optimist_on_the_run" title="Special:Contributions/Optimist on the run">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,340 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,340 bytes after change">
+                  (+81)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (+ interwiki)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=299829689" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=299829689&amp;oldid=298797184" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="299829689" name="oldid" id="mw-oldid-299829689"/>
+                <input type="radio" value="299829689" name="diff" id="mw-diff-299829689"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=299829689" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:46, 2 July 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Aervanath" title="User:Aervanath" class="mw-userlink">
+                    Aervanath
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Aervanath" title="User talk:Aervanath">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Aervanath" title="Special:Contributions/Aervanath">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,259 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,259 bytes after change">
+                  (+161)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add interwikis)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=298797184" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=298797184&amp;oldid=298796355" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="298797184" name="oldid" id="mw-oldid-298797184"/>
+                <input type="radio" value="298797184" name="diff" id="mw-diff-298797184"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=298797184" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  18:29, 26 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Aervanath" title="User:Aervanath" class="mw-userlink">
+                    Aervanath
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Aervanath" title="User talk:Aervanath">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Aervanath" title="Special:Contributions/Aervanath">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,098 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,098 bytes after change">
+                  (+66)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (finish conversion to lowercase letters instead of numbers)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=298796355" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=298796355&amp;oldid=298584334" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="298796355" name="oldid" id="mw-oldid-298796355"/>
+                <input type="radio" value="298796355" name="diff" id="mw-diff-298796355"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=298796355" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  18:24, 26 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Aervanath" title="User:Aervanath" class="mw-userlink">
+                    Aervanath
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Aervanath" title="User talk:Aervanath">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Aervanath" title="Special:Contributions/Aervanath">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (23,032 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="23,032 bytes after change">
+                  (+33)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (change all sub-sections to letters instead of numbers, to match the original at [http://creativecommons.org/licenses/by-sa/3.0/legalcode] and the internal references)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=298584334" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=298584334&amp;oldid=297087993" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="298584334" name="oldid" id="mw-oldid-298584334"/>
+                <input type="radio" value="298584334" name="diff" id="mw-diff-298584334"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=298584334" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  16:28, 25 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Optimist_on_the_run" title="User:Optimist on the run" class="mw-userlink">
+                    Optimist on the run
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Optimist_on_the_run" title="User talk:Optimist on the run">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Optimist_on_the_run" title="Special:Contributions/Optimist on the run">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (22,999 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="22,999 bytes after change">
+                  (+108)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (First of no doubt many interwikis)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=297087993" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=297087993&amp;oldid=296988443" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="297087993" name="oldid" id="mw-oldid-297087993"/>
+                <input type="radio" value="297087993" name="diff" id="mw-diff-297087993"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=297087993" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  03:20, 18 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:MBisanz" title="User:MBisanz" class="mw-userlink">
+                    MBisanz
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:MBisanz" title="User talk:MBisanz">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/MBisanz" title="Special:Contributions/MBisanz">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (22,891 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="22,891 bytes after change">
+                  (+52)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="/w/index.php?title=Category:Wikipedia_official_policy&amp;action=edit&amp;redlink=1" class="new" title="Category:Wikipedia official policy (page does not exist)">
+                    {{PAGENAME}}
+                  </a>
+                  )
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296988443" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=296988443&amp;oldid=296987996" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="296988443" name="oldid" id="mw-oldid-296988443"/>
+                <input type="radio" value="296988443" name="diff" id="mw-diff-296988443"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296988443" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  17:15, 17 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dragons_flight" title="User:Dragons flight" class="mw-userlink">
+                    Dragons flight
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dragons_flight" title="User talk:Dragons flight">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dragons_flight" title="Special:Contributions/Dragons flight">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (22,839 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="22,839 bytes after change">
+                  (+11)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (tweak formatting again)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296987996" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=296987996&amp;oldid=296987246" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="296987996" name="oldid" id="mw-oldid-296987996"/>
+                <input type="radio" value="296987996" name="diff" id="mw-diff-296987996"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296987996" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  17:13, 17 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dragons_flight" title="User:Dragons flight" class="mw-userlink">
+                    Dragons flight
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dragons_flight" title="User talk:Dragons flight">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dragons_flight" title="Special:Contributions/Dragons flight">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (22,828 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-pos" title="22,828 bytes after change">
+                  (+11)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add header for increased distinction fo where the real license starts)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296987246" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=296987246&amp;oldid=296692454" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="296987246" name="oldid" id="mw-oldid-296987246"/>
+                <input type="radio" value="296987246" name="diff" id="mw-diff-296987246"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296987246" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  17:08, 17 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Mike_Peel" title="User:Mike Peel" class="mw-userlink">
+                    Mike Peel
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Mike_Peel" title="User talk:Mike Peel">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Mike_Peel" title="Special:Contributions/Mike Peel">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (22,817 bytes)
+                </span>
+                <strong dir="ltr" class="mw-plusminus-pos" title="22,817 bytes after change">
+                  (+1,521)
+                </strong>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (add human readable summary)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296692454" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=296692454&amp;oldid=296692129" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="296692454" name="oldid" id="mw-oldid-296692454"/>
+                <input type="radio" value="296692454" name="diff" id="mw-diff-296692454"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296692454" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:50, 16 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dragons_flight" title="User:Dragons flight" class="mw-userlink">
+                    Dragons flight
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dragons_flight" title="User talk:Dragons flight">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dragons_flight" title="Special:Contributions/Dragons flight">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (21,296 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-null" title="21,296 bytes after change">
+                  (0)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (Protected Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License: it's the license ([edit=sysop] (indefinite) [move=sysop] (indefinite)))
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296692129" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | 
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=296692129&amp;oldid=296691983" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    prev
+                  </a>
+                  )
+                </span>
+                <input type="radio" value="296692129" name="oldid" id="mw-oldid-296692129"/>
+                <input type="radio" value="296692129" name="diff" id="mw-diff-296692129"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296692129" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:48, 16 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dragons_flight" title="User:Dragons flight" class="mw-userlink">
+                    Dragons flight
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dragons_flight" title="User talk:Dragons flight">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dragons_flight" title="Special:Contributions/Dragons flight">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <abbr class="minoredit" title="This is a minor edit">
+                  m
+                </abbr>
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (21,296 bytes)
+                </span>
+                <span dir="ltr" class="mw-plusminus-null" title="21,296 bytes after change">
+                  (0)
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (moved 
+                  <a href="/wiki/Wikipedia:Text_of_CC-BY-SA_3.0" class="mw-redirect" title="Wikipedia:Text of CC-BY-SA 3.0">
+                    Wikipedia:Text of CC-BY-SA 3.0
+                  </a>
+                   to 
+                  <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License
+                  </a>
+                  : crazy name)
+                </span>
+              </li>
+              <li>
+                <span class="mw-history-histlinks">
+                  (
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;diff=602355710&amp;oldid=296691983" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">
+                    cur
+                  </a>
+                   | prev)
+                </span>
+                <input type="radio" value="296691983" name="oldid" id="mw-oldid-296691983"/>
+                <input type="radio" value="296691983" name="diff" id="mw-diff-296691983"/>
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;oldid=296691983" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License" class="mw-changeslist-date">
+                  04:47, 16 June 2009
+                </a>
+                ? 
+                <span class="history-user">
+                  <a href="/wiki/User:Dragons_flight" title="User:Dragons flight" class="mw-userlink">
+                    Dragons flight
+                  </a>
+                  <span class="mw-usertoollinks">
+                    (
+                    <a href="/wiki/User_talk:Dragons_flight" title="User talk:Dragons flight">
+                      talk
+                    </a>
+                     | 
+                    <a href="/wiki/Special:Contributions/Dragons_flight" title="Special:Contributions/Dragons flight">
+                      contribs
+                    </a>
+                    )
+                  </span>
+                </span>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="history-size">
+                  (21,296 bytes)
+                </span>
+                <strong dir="ltr" class="mw-plusminus-pos" title="21,296 bytes after change">
+                  (+21,296)
+                </strong>
+                ? 
+                <span class="mw-changeslist-separator">
+                  . .
+                </span>
+                <span class="comment">
+                  (
+                  <a href="/wiki/Wikipedia:AES" class="mw-redirect" title="Wikipedia:AES">
+                    ?
+                  </a>
+                  Created page with '__NOTOC__ __NOEDITSECTION__ {{pp-protected|small=yes}} {{hide in print|{{shortcut|WP:CC-BY-SA}}}} {{ombox|image=none|text=CREATIVE COMMONS CORPORATION IS NOT A LAW ...')
+                </span>
+              </li>
+            </ul>
+            <div>
+              <input type="submit" value="Compare selected revisions" class="historysubmit mw-history-compareselectedversions-button" title="See the differences between the two selected revisions of this page [v]" accesskey="v"/>
+            </div>
+          </form>
+          <noscript>
+            <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						Retrieved from "
+          <a dir="ltr" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+            http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks catlinks-allhidden">
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigation menu
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personal tools
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AText+of+Creative+Commons+Attribution-ShareAlike+3.0+Unported+License&amp;returntoquery=action%3Dhistory&amp;type=signup">
+                Create account
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AText+of+Creative+Commons+Attribution-ShareAlike+3.0+Unported+License&amp;returntoquery=action%3Dhistory" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">
+                Log in
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Namespaces
+            </h3>
+            <ul>
+              <li id="ca-nstab-project" class="selected">
+                <span>
+                  <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="View the project page [c]" accesskey="c">
+                    Project page
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Wikipedia_talk:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Discussion about the content page [t]" accesskey="t">
+                    Talk
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variants
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Views
+            </h3>
+            <ul>
+              <li id="ca-view">
+                <span>
+                  <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">
+                    Read
+                  </a>
+                </span>
+              </li>
+              <li id="ca-viewsource">
+                <span>
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=edit" title="This page is protected.
+You can view its source [e]" accesskey="e">
+                    View source
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible selected">
+                <span>
+                  <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=history" title="Past versions of this page [h]" accesskey="h">
+                    View history
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Actions
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Search
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Special:Search" name="title"/>
+                <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigation
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">
+                  Main page
+                </a>
+              </li>
+              <li id="n-contents">
+                <a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">
+                  Contents
+                </a>
+              </li>
+              <li id="n-featuredcontent">
+                <a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">
+                  Featured content
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Portal:Current_events" title="Find background information on current events">
+                  Current events
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">
+                  Random article
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">
+                  Donate to Wikipedia
+                </a>
+              </li>
+              <li id="n-shoplink">
+                <a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">
+                  Wikimedia Shop
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+          <h3 id="p-interaction-label">
+            Interaction
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-help">
+                <a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">
+                  Help
+                </a>
+              </li>
+              <li id="n-aboutsite">
+                <a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">
+                  About Wikipedia
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">
+                  Community portal
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">
+                  Recent changes
+                </a>
+              </li>
+              <li id="n-contactpage">
+                <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+                  Contact page
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Tools
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Special:WhatLinksHere/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">
+                  What links here
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Special:RecentChangesLinked/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Recent changes in pages linked from this page [k]" accesskey="k">
+                  Related changes
+                </a>
+              </li>
+              <li id="feedlinks">
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;feed=atom&amp;action=history" id="feed-atom" rel="alternate" type="application/atom+xml" class="feedlink" title="Atom feed for this page">
+                  Atom
+                </a>
+              </li>
+              <li id="t-upload">
+                <a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">
+                  Upload file
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">
+                  Special pages
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=info">
+                  Page information
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Languages
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">
+            Privacy policy
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Wikipedia:About" title="Wikipedia:About">
+            About Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">
+            Disclaimers
+          </a>
+        </li>
+        <li id="footer-places-contact">
+          <a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">
+            Contact Wikipedia
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&amp;action=history" class="noprint stopMobileRedirectToggle">
+            Mobile view
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.action.history","mobile.desktop","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","mw.MwEmbedSupport.style","ext.gettingstarted.assignToken","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}
+//]]>
+    </script>
+    <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":472,"wgHostname":"mw1165"});
+}
+//]]>
+    </script>
+  </body>
+</html>

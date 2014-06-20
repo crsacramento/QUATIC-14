@@ -1,0 +1,6 @@
+URL:https://www.facebook.com/login.php?login_attempt=1
+RATIOTOTAL:1.2931964005657384
+RATIOPREVIOUS:-50.067
+SELENIUMSTEP:3
+INPUT-PATTERN-TEXTBOX://input[@id=u_0_3 and @class=inputtext _58mg _5dba DOMControl_placeholder and @name=lastname and @type=text]
+INPUT-PATTERN-TEXT:phone

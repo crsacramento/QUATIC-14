@@ -1,0 +1,11 @@
+URL:https://games.search.yahoo.com/search;_ylt=AwrBJR7jwphTrWQAR6DUwOZ_?p=banana&fr2=sb-top&fr=uh3_games_web_gs&type=2button
+RATIOTOTAL:0.3396398492042891
+RATIOPREVIOUS:0.119
+SELENIUMSTEP:12
+SEARCH-WORD-IN-URL
+FOUND SEARCH WITH TYPE text, CATEGORY p AND OPTION banana
+FOUND SEARCH WITH TYPE hidden, CATEGORY fr2 AND OPTION sb-top
+FOUND SEARCH WITH TYPE hidden, CATEGORY fr AND OPTION uh3_games_web_gs
+FOUND SEARCH WITH TYPE hidden, CATEGORY type AND OPTION 2button
+INPUT-PATTERN-TEXTBOX://input[@id=yschsp-bot and @class=sbq and @name=p and @type=text]
+INPUT-PATTERN-TEXT:computer

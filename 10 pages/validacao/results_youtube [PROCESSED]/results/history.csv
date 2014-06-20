@@ -1,0 +1,60 @@
+open	http://www.youtube.com/	EMPTY
+type	//input[@id=masthead-search-term and @class=search-term yt-uix-form-input-bidi and @name=search_query and @type=text]	banana
+clickAndWait	//button[@id=search-btn and @class=yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button and @type=submit and @onclick=if (_gel('masthead-search-term').value == '') return false; _gel('masthead-search').submit(); return false;;return true;]	EMPTY
+clickAndWait	//a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch?v=OCIa6kRuflI and contains(text(),'HEROBRINE É MEU PAI? Minecraft - Animação!')]	EMPTY
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCbTVTephX30ZhQF5zwFppBg]	EMPTY
+type	//input[@id=channels-search-field and @class=yt-uix-form-input-text search-field and @name=query and @type=text]	dress
+open	http://www.youtube.com/	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCp4nV-t5yhUQi0udCUxJR5Q and contains(text(),'bancodechile')]	EMPTY
+clickAndWait	//a[@class=spf-link branded-page-header-title-link yt-uix-sessionlink and @href=http://www.youtube.com/user/bancodechile and contains(text(),'bancodechile')]	EMPTY
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/videos and contains(text(),'Videos')]	EMPTY
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/bancodechile/about and contains(text(),'About')]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink and @href=http://www.youtube.com/user/mutualtv]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?type=0&video_ids=iswxUo2M_dQ%2CVuDWNROZkak%2CEswSH_Nnr4Y%2CglaELHPVotU%2CobTUbMJg9E4%2C3tctVS6d_3U%2CDsDPODaSdyc%2C0NG-u-1AqjE%2CXkzw4h42UmM%2Cuz8-JH2HkyY%2Cu4upIInbr1I%2Cpn4kFhz6UJI&more_url=&feature=c4-overview&index=4&title=N%C3%BAcleo+Emprendedor and contains(text(),'1:33')]	EMPTY
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&title=Sitio+Web+Mutual&more_url=&video_ids=_t0lVRrbdlc%2CT13r6hVzxcY%2CJ1yWCHPTr_k%2C5497Xnnm_7E%2CJC7yhI5pc84 and contains(text(),'Conoce nuestras Reuniones Online')]	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCeILz3rkFOSHjciZ9-B5qFQ and contains(text(),'mutualtv')]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?title=Popular+uploads&type=0&more_url=&feature=c4-overview-u&video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=3 and contains(text(),'1:31')]	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg and contains(text(),'OhlalaLingua')]	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/OhlalaLingua and contains(text(),'OhlalaLingua')]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?video_ids=q7qC1dG1hME%2CFjBhUN5shGU%2CNKa2vzQi-JM%2CuDABDXRp_EA%2CnhH51nv8k1Y%2CqU87zmhOXv0%2C8WnTgEzcqaw%2C5o1Q1lmqvGQ%2CWv27nbfpnsw%2C3wJcD3QkScg%2CGO3Q9ArHuX4%2CsKXRbP4D0hM&index=10&feature=c4-overview-u&type=0&more_url=&title=Popular+uploads and contains(text(),'Dialogos en frances : En el restaurante')]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-user-videos and @href=http://www.youtube.com/channel/UCqDuUyaumPuUCTkQZ2QvPZg/videos and contains(text(),'52 videos')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/t/terms and contains(text(),'Terms')]	EMPTY
+clickAndWait	//a[@id=upload-btn and @class=yt-uix-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default and @href=http://www.youtube.com/upload and contains(text(),'Upload')]	EMPTY
+type	//input[@id=Email and @name=Email and @type=email]	banana
+type	//input[@id=Passwd and @name=Passwd and @type=password]	apple
+click	//input[@id=PersistentCookie and @name=PersistentCookie and @type=checkbox]	EMPTY
+clickAndWait	//input[@id=signIn and @class=rc-button rc-button-submit and @name=signIn and @type=submit]	EMPTY
+open	http://www.youtube.com/	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=DZlUgkTGeAQ and contains(text(),'1:55')]	EMPTY
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UC8q4JKfDyFaqhvkj9XdfWbg]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch_videos?feature=c4-overview&type=0&index=1&video_ids=P5jLwakQYok%2Cf67mC1169Ko%2C58q2ROF_2ew%2CLGEwWMbly1E&title=Kata+by+tsuruhimeja&more_url= and contains(text(),'1:04')]	EMPTY
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=xAVjIIj2VG4 and contains(text(),'3:59 Master Ochi 8th Dan JKA teaches Kata Chinte by Bestshotokankarate 172,731 views')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/ and contains(text(),'About')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/zh-TW/index.html]	EMPTY
+type	//input[@class=search-term and @name=search_query and @type=text]	shirt
+clickAndWait	//button[@id=search-btn and @class=search-button yt-uix-button yt-uix-button-default and @type=submit]	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ and contains(text(),'Patagonia')]	EMPTY
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/about and contains(text(),'About')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/user/patagoniavideo]	EMPTY
+clickAndWait	//a[@class=g-hovercard yt-uix-sessionlink yt-user-name and @href=http://www.youtube.com/user/patagoniavideo and contains(text(),'Patagonia')]	EMPTY
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/playlists and contains(text(),'Playlists')]	EMPTY
+clickAndWait	//a[@class=yt-uix-button spf-nolink yt-uix-sessionlink yt-uix-button-epic-nav-item yt-uix-button-size-default and @href=http://www.youtube.com/user/patagoniavideo/videos and contains(text(),'Videos')]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=7tnzj_PE6lQ and contains(text(),'1:04')]	EMPTY
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCl3xZ-f3cQhOHvH6f-7-ssQ]	EMPTY
+clickAndWait	//a[@class=yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2 and @href=http://www.youtube.com/watch_videos?more_url=&feature=c4-overview&index=5&title=Surf&type=0&video_ids=05DbSNfzDG4%2CIiJsNqqYmvQ%2C-Qovbf0Zeq4%2C-ay31YOnJwA%2Ci2K08bdpe1U%2CtpMRxmtcjy0%2CydshhcofDjY%2CbvTswuSDz2A%2CgYEMwySLE7I%2Cjr1u-2BjbqM%2CapNmUbiRiIU%2CX4tp9VV4VEY and contains(text(),'Snow Kiting in Wyoming')]	EMPTY
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=jFwlI-zlhEg and contains(text(),'4:37 Ozone Frenzy 2011 by flyozone 42,324 views')]	EMPTY
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=RaFgBeHa3iY and contains(text(),'3:52 Ozone Edge 2014 - Designer Tech Talk by flyozone 6,931 views')]	EMPTY
+clickAndWait	//a[@class= related-video yt-uix-sessionlink and @href=http://www.youtube.com/watch?v=QVVSEThrNT8 and contains(text(),'7:50 Kitesurfing Dakhla - Marocko - 2013 by Filip Wirefors 75,628 views')]	EMPTY
+clickAndWait	//a[@class=yt-user-photo yt-uix-sessionlink and @href=http://www.youtube.com/channel/UCG-ivU_XCCyDU6zAwadxR-g]	EMPTY
+clickAndWait	//a[@id=logo-container and @href=http://www.youtube.com/ and contains(text(),'PT')]	EMPTY
+clickAndWait	//a[@class=guide-item yt-uix-sessionlink yt-valign spf-nolink and @href=http://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg]	EMPTY
+clickAndWait	//a[@class=ux-thumb-wrap yt-uix-sessionlink yt-fluid-thumb-link contains-addto and @href=http://www.youtube.com/watch?v=N01LOl-Q8EE&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'17:35')]	EMPTY
+clickAndWait	//a[@class=playlist-video clearfix spf-nolink and @href=http://www.youtube.com/watch?v=m8bLsOj2RXo&index=28&list=PLr1iU1vhVBhfypBb5PDq1ZYbgpAfly606 and contains(text(),'CUBE WORLD [HD+] #012 - Drei Helden jagen eine Mücke ? Let's Play Cube World by Gronkh')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/ and contains(text(),'Copyright')]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/ca/index.html]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/bn/index.html]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/copyright/it/index.html]	EMPTY
+clickAndWait	//a[@href=http://www.youtube.com/yt/about/it/ and contains(text(),'Informazioni')]	EMPTY

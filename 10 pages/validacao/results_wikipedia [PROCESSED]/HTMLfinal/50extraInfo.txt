@@ -1,0 +1,4 @@
+URL:http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF)
+RATIOTOTAL:1.3681990876983818
+RATIOPREVIOUS:-392.522
+SELENIUMSTEP:56

@@ -1,0 +1,6 @@
+URL:https://na.edit.yahoo.com/registration
+RATIOTOTAL:0.050151928540008515
+RATIOPREVIOUS:-1.737
+SELENIUMSTEP:43
+INPUT-PATTERN-TEXTBOX://input[@id=first-name and @name=firstname and @type=text]
+INPUT-PATTERN-TEXT:dress

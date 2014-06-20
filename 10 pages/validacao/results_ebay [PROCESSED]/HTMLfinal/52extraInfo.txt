@@ -1,0 +1,5 @@
+URL:http://www.ebay.com/itm/Parigi-Euro-Disney-7-giorni-in-villetta-4-stelle-4-5-persone-in-Stupendo-Resort/231244642716?hash=item35d741399c
+PRESENT-SORT-KEYWORD:sort
+RATIOTOTAL:3.0159478534962494
+RATIOPREVIOUS:621.852
+SELENIUMSTEP:62

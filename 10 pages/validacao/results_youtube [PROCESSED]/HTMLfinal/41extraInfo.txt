@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/watch?v=tpMRxmtcjy0&list=TLXvlcaaNngZeoLsM-junfYgDdF8vnBxAL
+RATIOTOTAL:1.3443964360839598
+RATIOPREVIOUS:-180.838
+SELENIUMSTEP:47

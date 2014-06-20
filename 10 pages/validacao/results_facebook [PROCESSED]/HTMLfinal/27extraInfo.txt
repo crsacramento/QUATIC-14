@@ -1,0 +1,4 @@
+URL:https://www.facebook.com/policies/?ref=pf
+RATIOTOTAL:0.7078946037080948
+RATIOPREVIOUS:6.858
+SELENIUMSTEP:34

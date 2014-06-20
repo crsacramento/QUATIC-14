@@ -1,0 +1,8 @@
+URL:http://www.youtube.com/results?search_query=shirt
+RATIOTOTAL:0.5016583079982762
+RATIOPREVIOUS:152.819
+SELENIUMSTEP:38
+POSSIBLE-SEARCH-TEXT-BOX://input[@class=search-term and @name=search_query and @type=text]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:shirt
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:40

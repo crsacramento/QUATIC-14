@@ -1,0 +1,4 @@
+URL:https://na.edit.yahoo.com/registration?.pd=ym_ver%253D0%2526c%253D%2526ivt%253D%2526sg%253D&intl=us&origIntl=&done=http%3A%2F%2Fmail.yahoo.com&src=ym&last=&partner=yahoo_default&wl=&wlcr=&_asdk_embedded=&create_alias=&.scrumb=&domain=&yahooid=&lang=en-US&fsredirect=1&fs=Dw55mKaHafC14Rw6SEAUL65.Yfi8zC8OJITigvknlj9a9Sh3ApQDH3a7d5MV0FOfcgLcv1sg
+RATIOTOTAL:1.36223178510041
+RATIOPREVIOUS:3.658
+SELENIUMSTEP:61

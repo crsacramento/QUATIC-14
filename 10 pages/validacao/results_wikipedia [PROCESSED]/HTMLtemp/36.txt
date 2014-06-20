@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="eo" dir="ltr" class="client-nojs">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>
+      Alemana lingvo - Vikipedio
+    </title>
+    <meta name="generator" content="MediaWiki 1.24wmf7"/>
+    <link rel="alternate" href="android-app://org.wikipedia/http/eo.m.wikipedia.org/wiki/Alemana_lingvo"/>
+    <link rel="alternate" type="application/x-wiki" title="Redakti" href="/w/index.php?title=Alemana_lingvo&amp;action=edit"/>
+    <link rel="edit" title="Redakti" href="/w/index.php?title=Alemana_lingvo&amp;action=edit"/>
+    <link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png"/>
+    <link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipedio (eo)"/>
+    <link rel="EditURI" type="application/rsd+xml" href="//eo.wikipedia.org/w/api.php?action=rsd"/>
+    <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+    <link rel="alternate" type="application/atom+xml" title="Vikipedio Atom-fonto" href="/w/index.php?title=Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj&amp;feed=atom"/>
+    <link rel="canonical" href="http://eo.wikipedia.org/wiki/Alemana_lingvo"/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.EksteraLigilo%2CRekta-ligilo-al-Komunejo%2CniceInfoboxes%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*"/>
+    <meta name="ResourceLoaderDynamicStyles" content=""/>
+    <link rel="stylesheet" href="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"/>
+    <style>
+      a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eowiki:resourceloader:filter:minify-css:7:1df466fa735460dde8a1e61910156041 */
+    </style>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alemana_lingvo","wgTitle":"Alemana lingvo","wgCurRevisionId":5476914,"wgRevisionId":5476914,"wgArticleId":25085,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Altgermana lingvaro","Germana lingvo","Lingvoj de Francio","Lingvoj de Svislando","Baden-Virtembergo","Alzaco","Lingvoj la? alfabeto"],"wgBreakFrames":false,"wgPageContentLanguage":"eo","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januaro","februaro","marto","aprilo","majo","junio","julio","a?gusto","septembro","oktobro","novembro","decembro"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","Maj","Jun","Jul","A?g","Sep","Okt","Nov","Dec"],"wgRelevantPageName":"Alemana_lingvo","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Alemana","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":false,"wgVisualEditor":{"isPageWatched":false,"magnifyClipIconURL":"//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png","pageLanguageCode":"eo","pageLanguageDir":"ltr","svgMaxSize":2048},"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"Esperanto","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":5476914,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q131339"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,
+"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"multimediaviewer-enable":true,"visualeditor-enable":1,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"mathJax":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-other":false,"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,
+"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"uls-preferences":"","language":"eo","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs828":false,"searchNs829":false,"gadget-niceInfoboxes":1,"gadget-EksteraLigilo":1,"gadget-Rekta-ligilo-al-Komunejo":1,"gadget-PropraProvejo":1,"variant":"eo"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: eowiki:resourceloader:filter:minify-js:7:15e0f428c30ffb944b12fc38457a891c */
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}
+//]]>
+    </script>
+    <link rel="dns-prefetch" href="//meta.wikimedia.org"/>
+  </head>
+  <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alemana_lingvo skin-vector action-view vector-animateLayout">
+    <div id="mw-page-base" class="noprint">
+    </div>
+    <div id="mw-head-base" class="noprint">
+    </div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top">
+      </a>
+      <div id="mw-js-message" style="display:none;">
+      </div>
+      <div id="siteNotice">
+        <!-- CentralNotice -->      </div>
+      <h1 id="firstHeading" class="firstHeading" lang="eo">
+        <span dir="auto">
+          Alemana lingvo
+        </span>
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">
+          El Vikipedio, la libera enciklopedio
+        </div>
+        <div id="contentSub">
+          (Alidirektita el 
+          <a href="/w/index.php?title=Alemana&amp;redirect=no" title="Alemana">
+            Alemana
+          </a>
+          )
+          <br/>
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          
+					Saltu al:					
+          <a href="#mw-navigation">
+            navigado
+          </a>
+          , 					
+          <a href="#p-search">
+            ser?o
+          </a>
+        </div>
+        <div id="mw-content-text" lang="eo" dir="ltr" class="mw-content-ltr">
+          <div class="thumb tright">
+            <div class="thumbinner" style="width:302px;">
+              <a href="/wiki/Dosiero:Alemannic-Dialects-Map-French.png" class="image">
+                <img alt="Alemannic-Dialects-Map-French.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alemannic-Dialects-Map-French.png/300px-Alemannic-Dialects-Map-French.png" width="300" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alemannic-Dialects-Map-French.png/450px-Alemannic-Dialects-Map-French.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Alemannic-Dialects-Map-French.png/600px-Alemannic-Dialects-Map-French.png 2x" data-file-width="1400" data-file-height="1000"/>
+              </a>
+              <div class="thumbcaption">
+                <div class="magnify">
+                  <a href="/wiki/Dosiero:Alemannic-Dialects-Map-French.png" class="internal" title="Pligrandigi">
+                    <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/magnify-clip.png" width="15" height="11" alt=""/>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p>
+            La 
+            <b>
+              alemana lingvo
+            </b>
+             (
+            <a href="/wiki/Internacia_Organizo_por_Normigado" title="Internacia Organizo por Normigado" class="mw-redirect">
+              ISO
+            </a>
+            -Kodo 
+            <a href="/wiki/ISO_639-3" title="ISO 639-3">
+              639-3
+            </a>
+            : 
+            <b>
+              <a href="/wiki/GSW" title="GSW" class="mw-redirect">
+                gsw
+              </a>
+            </b>
+            ) estas 
+            <a href="/wiki/Dialekto" title="Dialekto">
+              dialektaro
+            </a>
+             de la 
+            <a href="/wiki/Germana_lingvo" title="Germana lingvo">
+              germana lingvo
+            </a>
+            , parolata de 
+            <a href="/wiki/Alemanoj" title="Alemanoj">
+              alemanoj
+            </a>
+             en suda 
+            <a href="/wiki/Germanio" title="Germanio">
+              Germanio
+            </a>
+            , orienta 
+            <a href="/wiki/Francio" title="Francio">
+              Francio
+            </a>
+             (
+            <a href="/wiki/Alzaco" title="Alzaco">
+              Alzaco
+            </a>
+            ), 
+            <a href="/wiki/Svislando" title="Svislando">
+              Svislando
+            </a>
+            , 
+            <a href="/wiki/Li%C4%A5ten%C5%9Dtejno" title="Li?ten?tejno">
+              Li?ten?tejno
+            </a>
+             kaj en 
+            <a href="/wiki/Vorarlberg" title="Vorarlberg" class="mw-redirect">
+              Vorarlberg
+            </a>
+            , la plej okcidenta federacia lando de 
+            <a href="/wiki/A%C5%ADstrio" title="A?strio">
+              A?strio
+            </a>
+            . ?iaj regionaj formoj estas tre malsimilaj kaj ne ?iuj reciproke kompreneblaj.
+          </p>
+          <p>
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle">
+              <h2>
+                Enhavo
+              </h2>
+            </div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Enkonduko">
+                  <span class="tocnumber">
+                    1
+                  </span>
+                  <span class="toctext">
+                    Enkonduko
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Najbaraj_dialektdiferencoj">
+                  <span class="tocnumber">
+                    2
+                  </span>
+                  <span class="toctext">
+                    Najbaraj dialektdiferencoj
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-3">
+                <a href="#Uzo">
+                  <span class="tocnumber">
+                    3
+                  </span>
+                  <span class="toctext">
+                    Uzo
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-4">
+                <a href="#Varia.C4.B5o_de_la_germana_a.C5.AD_memstara_lingvo.3F">
+                  <span class="tocnumber">
+                    4
+                  </span>
+                  <span class="toctext">
+                    Varia?o de la germana a? memstara lingvo?
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-5">
+                <a href="#Kial_la_oficiala_svisa_politiko_konsideras_la_alemanan_dialekto_kaj_ne_lingvo.3F">
+                  <span class="tocnumber">
+                    5
+                  </span>
+                  <span class="toctext">
+                    Kial la oficiala svisa politiko konsideras la alemanan dialekto kaj ne lingvo?
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-6">
+                <a href="#Aliaj_projektoj">
+                  <span class="tocnumber">
+                    6
+                  </span>
+                  <span class="toctext">
+                    Aliaj projektoj
+                  </span>
+                </a>
+              </li>
+              <li class="toclevel-1 tocsection-7">
+                <a href="#Eksteraj_ligiloj">
+                  <span class="tocnumber">
+                    7
+                  </span>
+                  <span class="toctext">
+                    Eksteraj ligiloj
+                  </span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <p>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Enkonduko">
+              Enkonduko
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=1" title="Redakti sekcion: Enkonduko" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=1" title="Redakti sekcion: Enkonduko">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Dum ?is la komenci?o de la industrii?o praktike ?iu valo, vila?o kaj urbo havis sian propran kaj tipan dialekton, oni nuntempe observas, en Svislando kaj A?strio, ke en certaj grandregionoj la dialektoj alproksimi?as. Tio signifas unuflanke, ke la nombro de alemanaj dialekt-varia?oj en la lastaj jaroj draste malplii?is, dum aliflanke la grandregionaj varia?oj forti?is. Oni do hodia? (sen postulo esti kompleta) trovas la jenajn ?efdialektregionojn en 
+            <a href="/wiki/Alemanujo" title="Alemanujo" class="mw-redirect">
+              Alemanujo
+            </a>
+            : 
+            <a href="/wiki/Alzaco" title="Alzaco">
+              Alzaco
+            </a>
+            , 
+            <a href="/wiki/Baden-Virtembergo" title="Baden-Virtembergo">
+              Baden-Virtembergo
+            </a>
+            , 
+            <a href="/wiki/Bazelo" title="Bazelo">
+              Bazelo
+            </a>
+            , 
+            <a href="/wiki/Kantono_Berno" title="Kantono Berno">
+              Berno
+            </a>
+            , 
+            <a href="/wiki/Vorarlberg" title="Vorarlberg" class="mw-redirect">
+              Forarlbergo
+            </a>
+            , 
+            <a href="/wiki/Kantono_Grizono" title="Kantono Grizono">
+              Grizono
+            </a>
+            , 
+            <a href="/wiki/Kantono_Sankt-Galo" title="Kantono Sankt-Galo">
+              Sankt Galo
+            </a>
+            , 
+            <a href="/wiki/Distriktaro_%C5%9Cvabio" title="Distriktaro ?vabio">
+              ?vabio
+            </a>
+            , 
+            <a href="/wiki/Kantono_Valezo" title="Kantono Valezo">
+              Valezo
+            </a>
+             kaj 
+            <a href="/wiki/Kantono_Zuriko" title="Kantono Zuriko">
+              Zuriko
+            </a>
+            . En kelkaj geografie protektitaj valoj krome konservi?as apartaj variantoj kiel ekzemple la 
+            <i>
+              valeza
+            </i>
+             a? la 
+            <i>
+              togenburga
+            </i>
+            .
+          </p>
+          <p>
+            La alemanajn dialektojn en Svislando oni ofte grupigas sub la termino "
+            <a href="/wiki/Svisgermana_lingvo" title="Svisgermana lingvo">
+              svisgermana lingvo
+            </a>
+            ": Kvankam lingvistike ne ekzistas klara limo inter tiuj kaj la aliregionaj alemanaj dialektoj, ekzistas pragmatika diferenco: La 
+            <a href="/wiki/Svisgermanaj_dialektoj" title="Svisgermanaj dialektoj" class="mw-redirect">
+              svisgermanaj dialektoj
+            </a>
+             uzi?as en preska? ?iuj konversaciaj situacioj prefere ol la altgermana lingvo, dum en la cetera teritorio de la alemana lingvo la norma germana lingvo en tre multaj situacioj estas preferata al la loka alemana dialekto kaj en multaj lokoj preska? formortigis la alemanajn dialektojn.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Najbaraj_dialektdiferencoj">
+              Najbaraj dialektdiferencoj
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=2" title="Redakti sekcion: Najbaraj dialektdiferencoj" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=2" title="Redakti sekcion: Najbaraj dialektdiferencoj">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  superrejnalemane
+                </th>
+                <th>
+                  rejnfrankonie
+                </th>
+                <th>
+                  noto
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  pomo
+                </td>
+                <td>
+                  Apfel
+                </td>
+                <td>
+                  Apfel
+                </td>
+                <td>
+                  Appel
+                </td>
+                <td>
+                  Nur por partoj de la nordokc. parto
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  domo
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td>
+                  Huus
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td/>
+              </tr>
+            </tbody>
+          </table>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  superrejnalemane
+                </th>
+                <th>
+                  sudfrankonie
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  domo
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td>
+                  Hûs
+                </td>
+                <td>
+                  Haus
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  ?vabe
+                </th>
+                <th>
+                  sudfrankonie
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  bona
+                </td>
+                <td>
+                  gut
+                </td>
+                <td>
+                  guat
+                </td>
+                <td>
+                  gut
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  domo
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td>
+                  Hous
+                </td>
+                <td>
+                  Haus
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  ?vabe
+                </th>
+                <th>
+                  orientfrankonie
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  kolera
+                </td>
+                <td>
+                  böse
+                </td>
+                <td>
+                  bais
+                </td>
+                <td>
+                  bees
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  lar?a
+                </td>
+                <td>
+                  breit
+                </td>
+                <td>
+                  broat
+                </td>
+                <td>
+                  breit
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  domo
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td>
+                  Hous
+                </td>
+                <td>
+                  Haus
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  ?vabe
+                </th>
+                <th>
+                  bavare
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  al vi (pl.)
+                </td>
+                <td>
+                  euch
+                </td>
+                <td>
+                  ui
+                </td>
+                <td>
+                  enk
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  vi (pl.)
+                </td>
+                <td>
+                  ihr
+                </td>
+                <td>
+                  ui(r) / (d)iir
+                </td>
+                <td>
+                  ees
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  demandi
+                </td>
+                <td>
+                  fragen
+                </td>
+                <td>
+                  fragen
+                </td>
+                <td>
+                  frogen
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  turni
+                </td>
+                <td>
+                  drehen
+                </td>
+                <td>
+                  dräja
+                </td>
+                <td>
+                  draan
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table class="prettytable">
+            <tbody>
+              <tr>
+                <th>
+                  esperante
+                </th>
+                <th>
+                  normgermane
+                </th>
+                <th>
+                  malalt-/plejaltalemane
+                </th>
+                <th>
+                  bavare
+                </th>
+              </tr>
+              <tr>
+                <td>
+                  domo
+                </td>
+                <td>
+                  Haus
+                </td>
+                <td>
+                  Huus
+                </td>
+                <td>
+                  Haus
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <h2>
+            <span class="mw-headline" id="Uzo">
+              Uzo
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=3" title="Redakti sekcion: Uzo" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=3" title="Redakti sekcion: Uzo">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            En la historia respektive la hodia?a alemana lingvoregiono, kiu konincidas kun la sudokcidento de la germana lingvoteritorio lo?as ?irka? 10 milionoj da 
+            <a href="/wiki/Homo" title="Homo">
+              homoj
+            </a>
+            . 
+            <a href="/wiki/Alemanujo" title="Alemanujo" class="mw-redirect">
+              Alemanujo
+            </a>
+             (tio estas la teritorio, kie vivas la 
+            <a href="/wiki/Alemanoj" title="Alemanoj">
+              alemanoj
+            </a>
+             - ne temas pri politika unuo, kio ja ne ekzistas, ja fakte de post la malapero de la 
+            <a href="/w/index.php?title=Duklando_Alemanio&amp;action=edit&amp;redlink=1" class="new" title="Duklando Alemanio (pa?o ne ekzistas)">
+              Duklando Alemanio
+            </a>
+             konsistas el alemana 
+            <a href="/wiki/Svislando" title="Svislando">
+              Svislando
+            </a>
+            , 
+            <a href="/wiki/Li%C4%A5ten%C5%9Dtejno" title="Li?ten?tejno">
+              Li?ten?tejno
+            </a>
+            , 
+            <a href="/wiki/Vorarlberg" title="Vorarlberg" class="mw-redirect">
+              Vorarlberg
+            </a>
+            , 
+            <a href="/wiki/Alzaco" title="Alzaco">
+              Alzaco
+            </a>
+            , 
+            <a href="/wiki/Distriktaro_%C5%9Cvabio" title="Distriktaro ?vabio">
+              ?vabio
+            </a>
+             kaj 
+            <a href="/wiki/Baden-Virtembergo" title="Baden-Virtembergo">
+              Baden-Virtembergo
+            </a>
+            . La rolo de la alemana dialekto estas tre malsama en la diversaj alemanaj regionoj. En Germanio precipe en la plej nordaj partoj de Alemanujo la lingvo estas kvaza? nur sublingvo, kion oni parolas nur inter kamparanoj a? inter apartaj sociaj grupoj kaj precipe en familio. Ju pli suden oni venas, despli vivas la dialekto tamen kiel socie grava lingvo. En Svislando, Li?ten?tejno kaj Vorarlberg la alemana estas la ?iutage uzata ?efidiomo. En Svislando kaj Li?ten?tejno la alemana estas la plej uzata lingvo en radio, televido kaj anka? en la oficejo. En plej multaj svisaj lernejoj malgra? la oficiala ordono utiligi en la instruado la germanan, la plej multaj lecionoj okazas en la alemana, kaj tio validas e? ?is la universitata nivelo. La kutima interkonsento estas, ke oni en tiaj rondoj utiligu la alemanan dum neniu protestas, respektive ne ?eestas homoj, kiuj evidente ne komprenas ?in. En Alzaco la alemana estas la historia teritoria lingvo, sed pro la enmigro de franclingvanoj en Alzaco la alemanoj en tiu historie alemana provinco fari?is minoritato. En Alzaco la alemana estas hodia? akute minacita. Tio ?uldi?as unuflanke al la eksploda kresko de la alzacaj ?efurboj kiuj allogis amason da francaj laboristoj kaj aliflanke al la plurjardeka subprema kaj centrisma politiko de 
+            <a href="/wiki/Parizo" title="Parizo">
+              Parizo
+            </a>
+            . Krom kelkaj maljunuloj en Alzaco fakte en tuta Alemanujo ne ekzistas homoj, kiuj parolas nur la alemanan. Plej multaj samtempe parolas la germanan kaj la? situacio saltas de la alemana al la germana kaj reciproke. Fakte nur tial eblas kun germanoj la interkompreni?o. Kiam svisoj (kio ?is anta? malmultaj jaroj estis konsiderata mal?entila ago, sed en la nuna tempo pli kaj pli disvasti?as) parolas ne modifitan a? al fremduloj adaptitan alemanan dialekton, tiam germanoj sen konoj de la alemana restas absolute sen ?anco al kompreno. La fenomenon de tiu kvaza? dulingveco en Alemanujo oni nomas en la faka lingvo 
+            <a href="/wiki/Diglosio" title="Diglosio">
+              diglosion
+            </a>
+            .
+          </p>
+          <h2>
+            <span class="mw-headline" id="Varia.C4.B5o_de_la_germana_a.C5.AD_memstara_lingvo.3F">
+              Varia?o de la germana a? memstara lingvo?
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=4" title="Redakti sekcion: Varia?o de la germana a? memstara lingvo?" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=4" title="Redakti sekcion: Varia?o de la germana a? memstara lingvo?">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            La kompreneblo de alemana por 
+            <a href="/wiki/Germana_lingvo" title="Germana lingvo">
+              altgermanparolantoj
+            </a>
+             estas divers(mal)facila depende de la dialekto. Tial kelkaj 
+            <a href="/wiki/Lingvistiko" title="Lingvistiko" class="mw-redirect">
+              lingvistoj
+            </a>
+             kiu diferencigas la lingvojn ?efe la? la reciproka kompreneblo, konsideras la alemanan kiel memstara lingvo.
+          </p>
+          <p>
+            La uzo de la kriterio "reziproka kompreneblo" estas pridisputata ?ar la alemana kiel parto de la germanaj dialektoj sen limoj en aliajn germanajn dialektojn transiras. Pro tio la kompreneblo estas nur subjektiva faktoro dipende de a?o, lo?loko kaj persona fono de la koncernata persono. Dependas anka? kiel reciproka kompreneblo estas difinita. Oni povus tiel diferencigi plurajn alemanajn lingvojn memstarajn, ?ar la reciproka kompreneblo anka? ne estas garantiita inter ?iuj alemanaj dialektoj. ?enerale la kompreneblo de dialektoj kvaza? ?iam ne estas garantiita por homoj venantaj de aliaj dialektregionoj.
+          </p>
+          <p>
+            Oni povas fakte observi, ke kutime la lo?antoj de la najbaraj dialektregionoj povas reciproke interkompreni?i, dum ju pli granda estas la distanco, des malpi interkompreni?o eblas. Profesoro 
+            <i>
+              Meinrad Scheller
+            </i>
+             en prelegserio pri 
+            <a href="/wiki/%C4%9Cenerala_lingvistiko" title="?enerala lingvistiko" class="mw-redirect">
+              ?enerala lingvistiko
+            </a>
+             en la 
+            <a href="/w/index.php?title=Universitato_Zuriko&amp;action=edit&amp;redlink=1" class="new" title="Universitato Zuriko (pa?o ne ekzistas)">
+              Universitato Zuriko
+            </a>
+             kreis por ?i-tiu fenomeno la nocion "dialekta kontinuo". Dum zurikanoj kaj ?vaboj a? svaboj kaj hesoj unuflanke kaj nederlandanoj kaj platgermanoj aliflanke bone interkompreni?as, interkompreni?o inter hesoj kaj zurikanoj a? hesoj kaj holandlandanoj malfacilas, kaj interkompreni?o inter holandlandanoj kaj zurikanoj praktike maleblas.
+          </p>
+          <p>
+            Anstata? nur konsideri la interkompreni?on, kiu ne nur de objektiva sed anka? de multaj subjektivaj faktoroj dependas, alia grava kriterio ?u temas pri du dialektoj de sama lingvo a? sendependaj lingvoj, estas la kohereco de la gramatiko. Kaj ?i tie oni devas konstati, ke inter la nederlanda kaj la normgermana ekzistas relative granda kohereco gramatika, dum la alemana havas komplete malsaman gramatikan strukturon ol la germana. La verba sistemo de la alemana estas komplete alia: La germana konas ses tempoformojn, la alemana nur du, dum la alemana havas supinon, kiu entute mankas en la germana! La? gramatikaj vidpunktoj fari?as tute evidenta, ke la alemana estas memstara lingvo kaj ne simple dialekto de la germana. Se oni prenus ?iujn lingvajn kriteriojn, tiam oni fakte kun multe pli da pravo konsideru, ke hispana, kataluna kaj itala lingvoj estas dialektoj de la sama novlatina lingvo. Konkludo: Ke oni konsideras tiujn tri lingvojn kiel lingvoj dum oni diras, ke la alemana estas dialekto germana, estas pure politika afero, sed neniel lingvistika.
+          </p>
+          <p>
+            Ni do povas diri (por citi profesoron Meinrad Scheller dum la supre menciita prelego): 
+            <i>
+              "El politika vidpunkto la alemana estas germana dialekto, el lingvistika vidpunkto temas pri du sendependaj lingvoj, dum ?e la itala, hispana, kataluna kaj portugala estas ekzakte inverse."
+            </i>
+          </p>
+          <h2>
+            <span class="mw-headline" id="Kial_la_oficiala_svisa_politiko_konsideras_la_alemanan_dialekto_kaj_ne_lingvo.3F">
+              Kial la oficiala svisa politiko konsideras la alemanan dialekto kaj ne lingvo?
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=5" title="Redakti sekcion: Kial la oficiala svisa politiko konsideras la alemanan dialekto kaj ne lingvo?" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=5" title="Redakti sekcion: Kial la oficiala svisa politiko konsideras la alemanan dialekto kaj ne lingvo?">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <p>
+            Se oni prenas cinikan cita?on de studento de 
+            <a href="/wiki/Max_Weinreich" title="Max Weinreich">
+              Max Weinreich
+            </a>
+             "Lingvo estas dialekto kun armeo kaj milit?iparo", tiam oni devas konstati, ke ni havas en la kazo de la alemana la escepton de la regulo. La alemana ja kvaza? estas la nacia ?eflingvo de 
+            <a href="/wiki/Svislando" title="Svislando">
+              Svislando
+            </a>
+             kaj tie parolata de proksimume du trionoj de la lo?antaro. Kaj Svislando ja disponas fakte post 
+            <a href="/wiki/Rusio" title="Rusio">
+              Rusio
+            </a>
+             kaj 
+            <a href="/wiki/Francio" title="Francio">
+              Francio
+            </a>
+             pri la tria plej granda kaj forte armita 
+            <a href="/wiki/Svisa_armeo" title="Svisa armeo" class="mw-redirect">
+              armeo
+            </a>
+             de 
+            <a href="/wiki/E%C5%ADropo" title="E?ropo">
+              E?ropo
+            </a>
+            . La alemana (almena? la svisgermana) do estas la dialekto kun armeo ...
+          </p>
+          <p>
+            La respondo al la demando estas jena: En Svislando ekzistas granda nombro da dialektaj varia?oj de la alemana. Se oni volus oficialigi la alemanan anstata? la germanan kiel oficlingvon, tio ka?zus grandan konflikton. ?u oni adoptu la bernan a? ?u la zurikan varia?on ?ar tiuj du kun proksimume po 1,5 milionoj da parolantoj estas certe la plej gravaj. Sed tion apencelanoj, bazelanoj a? valezanoj certe neniam akceptus. La germana lingvo do rolas kvaza? la rolon de la skriba 
+            <a href="/wiki/Esperanto" title="Esperanto">
+              Esperanto
+            </a>
+             de alemana Svislando. Parolata la germana lingvo en Svislando ja praktike ne estas.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Aliaj_projektoj">
+              Aliaj projektoj
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=6" title="Redakti sekcion: Aliaj projektoj" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=6" title="Redakti sekcion: Aliaj projektoj">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="noprint" id="aliaj_projektoj" style="float: right; clear: right; width: 250px; border: 1px solid #aaa; padding: 4px; font-size: 90%; background: #f9f9f9;">
+            <ul class="noarchive">
+              <li class="commons">
+                <span class="plainlinks">
+                  <a class="external text" href="//commons.wikimedia.org/wiki/Category:Alemannic?uselang=eo">
+                    Alemana lingvo en la 
+                    <span>
+                      Vikimedia Komunejo
+                    </span>
+                  </a>
+                   (Multrimedaj datumoj)
+                </span>
+              </li>
+              <li class="commons">
+                <span class="plainlinks">
+                  <a class="external text" href="//commons.wikimedia.org/wiki/Category:Alemannic?uselang=eo">
+                    Kategorio Alemana lingvo en la 
+                    <span>
+                      Vikimedia Komunejo
+                    </span>
+                  </a>
+                   (Multrimedaj datumoj)
+                </span>
+              </li>
+            </ul>
+          </div>
+          <h2>
+            <span class="mw-headline" id="Eksteraj_ligiloj">
+              Eksteraj ligiloj
+            </span>
+            <span class="mw-editsection">
+              <span class="mw-editsection-bracket">
+                [
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit&amp;vesection=7" title="Redakti sekcion: Eksteraj ligiloj" class="mw-editsection-visualeditor">
+                redakti
+              </a>
+              <span class="mw-editsection-divider">
+                 | 
+              </span>
+              <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit&amp;section=7" title="Redakti sekcion: Eksteraj ligiloj">
+                redakti fonton
+              </a>
+              <span class="mw-editsection-bracket">
+                ]
+              </span>
+            </span>
+          </h2>
+          <div class="noprint" id="aliaj_projektoj" style="float: right; clear: right; width: 250px; border: 1px solid #aaa; padding: 4px; font-size: 90%; background: #f9f9f9;">
+            <ul class="noarchive">
+              <li class="commons">
+                <span class="plainlinks">
+                  <a class="external text" href="//commons.wikimedia.org/wiki/Category:Alemannic?uselang=eo">
+                    Kategorio Alemana lingvo en la 
+                    <span>
+                      Vikimedia Komunejo
+                    </span>
+                  </a>
+                   (Multrimedaj datumoj)
+                </span>
+              </li>
+              <li class="wikipedia">
+                <a href="//als.wikipedia.org/wiki/" class="extiw" title="als:">
+                  <span>
+                    Vikipedio
+                  </span>
+                   en 
+                  <span>
+                    als:Vikipedio
+                  </span>
+                   en la alemana lingvo
+                </a>
+                 (Reta enciklopedio)
+              </li>
+            </ul>
+          </div>
+          <ul>
+            <li>
+              <a rel="nofollow" class="external text" href="http://www.alemannisch.de">
+                retejo de la societo de denaskaj alemanlingvanoj
+              </a>
+            </li>
+            <li>
+              <a rel="nofollow" class="external text" href="http://www.deheim.de">
+                vortaro kaj poemaro en la alemana lingvo
+              </a>
+            </li>
+          </ul>
+          <!-- 
+NewPP limit report
+Parsed by mw1209
+CPU time usage: 0.148 seconds
+Real time usage: 0.177 seconds
+Preprocessor visited node count: 188/1000000
+Preprocessor generated node count: 1416/1500000
+Post?expand include size: 2565/2048000 bytes
+Template argument size: 104/2048000 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+-->          <!-- Saved in parser cache with key eowiki:pcache:idhash:25085-0!*!0!!eo!4!* and timestamp 20140605224716 and revision id 5476914
+ -->          <noscript>
+            <img src="//eo.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;"/>
+          </noscript>
+        </div>
+        <div class="printfooter">
+          
+						El?utita el  "
+          <a dir="ltr" href="http://eo.wikipedia.org/w/index.php?title=Alemana_lingvo&amp;oldid=5476914">
+            http://eo.wikipedia.org/w/index.php?title=Alemana_lingvo&amp;oldid=5476914
+          </a>
+          "					
+        </div>
+        <div id="catlinks" class="catlinks">
+          <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+            <a href="/wiki/Speciala%C4%B5o:Kategorioj" title="Speciala?o:Kategorioj">
+              Kategorioj
+            </a>
+            : 
+            <ul>
+              <li>
+                <a href="/wiki/Kategorio:Altgermana_lingvaro" title="Kategorio:Altgermana lingvaro">
+                  Altgermana lingvaro
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Germana_lingvo" title="Kategorio:Germana lingvo">
+                  Germana lingvo
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Lingvoj_de_Francio" title="Kategorio:Lingvoj de Francio">
+                  Lingvoj de Francio
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Lingvoj_de_Svislando" title="Kategorio:Lingvoj de Svislando">
+                  Lingvoj de Svislando
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Baden-Virtembergo" title="Kategorio:Baden-Virtembergo">
+                  Baden-Virtembergo
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Alzaco" title="Kategorio:Alzaco">
+                  Alzaco
+                </a>
+              </li>
+              <li>
+                <a href="/wiki/Kategorio:Lingvoj_la%C5%AD_alfabeto" title="Kategorio:Lingvoj la? alfabeto">
+                  Lingvoj la? alfabeto
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="visualClear">
+        </div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>
+        Navigacia menuo
+      </h2>
+      <div id="mw-head">
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+          <h3 id="p-personal-label">
+            Personaj iloj
+          </h3>
+          <ul>
+            <li id="pt-createaccount">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Alemana+lingvo&amp;type=signup">
+                Krei novan konton
+              </a>
+            </li>
+            <li id="pt-login">
+              <a href="/w/index.php?title=Speciala%C4%B5o:Ensaluti&amp;returnto=Alemana+lingvo" title="Vi estas invitita ensaluti, tamen ne estas devige. [o]" accesskey="o">
+                Ensaluti
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+            <h3 id="p-namespaces-label">
+              Nomspacoj
+            </h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span>
+                  <a href="/wiki/Alemana_lingvo" title="Vidi la artikolon [c]" accesskey="c">
+                    Artikolo
+                  </a>
+                </span>
+              </li>
+              <li id="ca-talk">
+                <span>
+                  <a href="/wiki/Diskuto:Alemana_lingvo" title="Diskuto pri la artikolo [t]" accesskey="t">
+                    Diskuto
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            <h3 id="mw-vector-current-variant"/>
+            <h3 id="p-variants-label">
+              <span>
+                Variantoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+            <h3 id="p-views-label">
+              Vidoj
+            </h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span>
+                  <a href="/wiki/Alemana_lingvo">
+                    Legi
+                  </a>
+                </span>
+              </li>
+              <li id="ca-ve-edit">
+                <span>
+                  <a href="/w/index.php?title=Alemana_lingvo&amp;veaction=edit" title="Redakti tiun ?i pa?on per VidRedaktilo [v]" accesskey="v">
+                    Redakti
+                  </a>
+                </span>
+              </li>
+              <li id="ca-edit" class=" collapsible">
+                <span>
+                  <a href="/w/index.php?title=Alemana_lingvo&amp;action=edit" title="Vi povas redakti tiun ?i pa?on. Bv uzi la anta?vidbutonon anta? ol konservi. [e]" accesskey="e">
+                    Redakti fonton
+                  </a>
+                </span>
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span>
+                  <a href="/w/index.php?title=Alemana_lingvo&amp;action=history" title="Anta?aj versioj de tiu ?i pa?o. [h]" accesskey="h">
+                    Vidi historion
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </div>
+          <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            <h3 id="p-cactions-label">
+              <span>
+                Agoj
+              </span>
+              <a href="#">
+              </a>
+            </h3>
+            <div class="menu">
+              <ul>
+              </ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">
+                Ser?i
+              </label>
+            </h3>
+            <form action="/w/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input type="search" name="search" placeholder="Ser?i" title="Traser?u ?i tiun vikion [f]" accesskey="f" id="searchInput"/>
+                <input type="hidden" value="Speciala?o:Ser?i" name="title"/>
+                <input type="submit" name="fulltext" value="Ser?i" title="Ser?i la pa?ojn por ?i tiu teksto" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+                <input type="submit" name="go" value="Ek!" title="Iru al pa?o kun ?i preciza nomo se ?i ekzistas" id="searchButton" class="searchButton"/>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a style="background-image: url(//upload.wikimedia.org/wikipedia/eo/b/bc/Wiki.png);" href="/wiki/Vikipedio:%C4%88efpa%C4%9Do" title="?efpa?o">
+          </a>
+        </div>
+        <div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+          <h3 id="p-navigation-label">
+            Navigado
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-desciption">
+                <a href="/wiki/Vikipedio:%C4%88efpa%C4%9Do">
+                  ?efpa?o
+                </a>
+              </li>
+              <li id="n-portal">
+                <a href="/wiki/Portalo:Komunumo" title="Pri la projekto, kion vi povas fari, kie vi povas trovi ion">
+                  Komunuma portalo
+                </a>
+              </li>
+              <li id="n-villagepump">
+                <a href="/wiki/Vikipedio:Diskutejo">
+                  Diskutejo
+                </a>
+              </li>
+              <li id="n-currentevents">
+                <a href="/wiki/Vikipedio:Aktuala%C4%B5oj" title="Trovi fonajn informojn pri nunaj eventoj">
+                  Aktuala?oj
+                </a>
+              </li>
+              <li id="n-recentchanges">
+                <a href="/wiki/Speciala%C4%B5o:Lastaj_%C5%9Dan%C4%9Doj" title="Listo de la lastaj ?an?oj en la vikio. [r]" accesskey="r">
+                  Lastaj ?an?oj
+                </a>
+              </li>
+              <li id="n-newpages">
+                <a href="/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj">
+                  Novaj pa?oj
+                </a>
+              </li>
+              <li id="n-randompage">
+                <a href="/wiki/Speciala%C4%B5o:Hazarda_pa%C4%9Do" title="Iri al hazarda pa?o [x]" accesskey="x">
+                  Hazarda pa?o
+                </a>
+              </li>
+              <li id="n-help">
+                <a href="/wiki/Helpo:Enhavo" title="Ser?opa?o.">
+                  Helpo
+                </a>
+              </li>
+              <li id="n-sitesupport">
+                <a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_eo.wikipedia.org&amp;uselang=eo" title="Subteni nin per mono">
+                  Donaci
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+          <h3 id="p-coll-print_export-label">
+            Printi/eksporti
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="coll-create_a_book">
+                <a href="/w/index.php?title=Speciala%C4%B5o:Libro&amp;bookcmd=book_creator&amp;referer=Alemana+lingvo">
+                  Krei libron
+                </a>
+              </li>
+              <li id="coll-download-as-rl">
+                <a href="/w/index.php?title=Speciala%C4%B5o:Libro&amp;bookcmd=render_article&amp;arttitle=Alemana+lingvo&amp;oldid=5476914&amp;writer=rl">
+                  El?uti kiel PDF
+                </a>
+              </li>
+              <li id="t-print">
+                <a href="/w/index.php?title=Alemana_lingvo&amp;printable=yes" title="Presebla versio de tiu ?i pa?o [p]" accesskey="p">
+                  Presebla versio
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+          <h3 id="p-tb-label">
+            Iloj
+          </h3>
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a href="/wiki/Speciala%C4%B5o:Kio_ligas_%C4%89i_tien%3F/Alemana_lingvo" title="Listo de ?iuj vikiaj pa?oj kiuj ligas ?i tien [j]" accesskey="j">
+                  Ligiloj ?i tien
+                </a>
+              </li>
+              <li id="t-recentchangeslinked">
+                <a href="/wiki/Speciala%C4%B5o:Rilataj_%C5%9Dan%C4%9Doj/Alemana_lingvo" title="Lastaj ?an?oj en pa?oj kiuj ligas al tiu ?i pa?o [k]" accesskey="k">
+                  Rilataj pa?oj
+                </a>
+              </li>
+              <li id="t-specialpages">
+                <a href="/wiki/Speciala%C4%B5o:Specialaj_pa%C4%9Doj" title="Listo de ?iuj specialaj pa?oj [q]" accesskey="q">
+                  Specialaj pa?oj
+                </a>
+              </li>
+              <li id="t-permalink">
+                <a href="/w/index.php?title=Alemana_lingvo&amp;oldid=5476914" title="Por?iama ligilo al ?i versio de la pa?o">
+                  Konstanta ligilo
+                </a>
+              </li>
+              <li id="t-info">
+                <a href="/w/index.php?title=Alemana_lingvo&amp;action=info">
+                  Informoj pri la pa?o
+                </a>
+              </li>
+              <li id="t-wikibase">
+                <a href="//www.wikidata.org/wiki/Q131339" title="Ligilo al konektita datuma ero [g]" accesskey="g">
+                  Datuma ero
+                </a>
+              </li>
+              <li id="t-cite">
+                <a href="/w/index.php?title=Speciala%C4%B5o:Citi&amp;page=Alemana_lingvo&amp;id=5476914" title="Informoj pri tio, kiel oni citu ?i tiun pa?on">
+                  Citu ?i tiun artikolon
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+          <h3 id="p-lang-label">
+            Aliaj lingvoj
+          </h3>
+          <div class="body">
+            <ul>
+              <li class="interlanguage-link interwiki-af">
+                <a href="//af.wikipedia.org/wiki/Alemanniese_Duits" title="Alemanniese Duits — afrikansa" lang="af" hreflang="af">
+                  Afrikaans
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-als">
+                <a href="//als.wikipedia.org/wiki/Alemannisch" title="Alemannisch — Alemannisch" lang="als" hreflang="als">
+                  Alemannisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-am">
+                <a href="//am.wikipedia.org/wiki/%E1%8A%A0%E1%88%88%E1%88%9B%E1%8A%95%E1%8A%9B" title="????? — amhara" lang="am" hreflang="am">
+                  ????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-an">
+                <a href="//an.wikipedia.org/wiki/Alamanico" title="Alamanico — Aragonese" lang="an" hreflang="an">
+                  Aragonés
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ar">
+                <a href="//ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A7%D9%85%D8%A7%D9%86%D9%8A%D8%A9" title="???????? — araba" lang="ar" hreflang="ar">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bar">
+                <a href="//bar.wikipedia.org/wiki/Alemannisch" title="Alemannisch — Bavarian" lang="bar" hreflang="bar">
+                  Boarisch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-bg">
+                <a href="//bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82%D0%B8" title="????????? ???????? — bulgara" lang="bg" hreflang="bg">
+                  ?????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-br">
+                <a href="//br.wikipedia.org/wiki/Yezho%C3%B9_alemanek" title="Yezhoù alemanek — bretona" lang="br" hreflang="br">
+                  Brezhoneg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ca">
+                <a href="//ca.wikipedia.org/wiki/Alam%C3%A0nic" title="Alamànic — kataluna" lang="ca" hreflang="ca">
+                  Català
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cs">
+                <a href="//cs.wikipedia.org/wiki/Aleman%C5%A1tina" title="Alemanština — ?e?a" lang="cs" hreflang="cs">
+                  ?eština
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-cy">
+                <a href="//cy.wikipedia.org/wiki/Alemanneg" title="Alemanneg — kimra" lang="cy" hreflang="cy">
+                  Cymraeg
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-de">
+                <a href="//de.wikipedia.org/wiki/Alemannische_Dialekte" title="Alemannische Dialekte — germana" lang="de" hreflang="de">
+                  Deutsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-el">
+                <a href="//el.wikipedia.org/wiki/%CE%91%CE%BB%CE%B5%CE%BC%CE%B1%CE%BD%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B3%CE%BB%CF%8E%CF%83%CF%83%CE%B1" title="?????????? ?????? — greka" lang="el" hreflang="el">
+                  ????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-en">
+                <a href="//en.wikipedia.org/wiki/Alemannic_German" title="Alemannic German — angla" lang="en" hreflang="en">
+                  English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-es">
+                <a href="//es.wikipedia.org/wiki/Alem%C3%A1nico" title="Alemánico — hispana" lang="es" hreflang="es">
+                  Español
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fa">
+                <a href="//fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C%D8%B4" title="??????? — persa" lang="fa" hreflang="fa">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fi">
+                <a href="//fi.wikipedia.org/wiki/Alemannimurteet" title="Alemannimurteet — finna" lang="fi" hreflang="fi">
+                  Suomi
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-fr">
+                <a href="//fr.wikipedia.org/wiki/Al%C3%A9manique" title="Alémanique — franca" lang="fr" hreflang="fr">
+                  Français
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-gl">
+                <a href="//gl.wikipedia.org/wiki/Alem%C3%A1nico" title="Alemánico — galega" lang="gl" hreflang="gl">
+                  Galego
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-he">
+                <a href="//he.wikipedia.org/wiki/%D7%90%D7%9C%D7%9E%D7%90%D7%A0%D7%99%D7%AA" title="??????? — hebrea" lang="he" hreflang="he">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hr">
+                <a href="//hr.wikipedia.org/wiki/Alemanski_jezik" title="Alemanski jezik — kroata" lang="hr" hreflang="hr">
+                  Hrvatski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hu">
+                <a href="//hu.wikipedia.org/wiki/Alemann_nyelvj%C3%A1r%C3%A1s" title="Alemann nyelvjárás — hungara" lang="hu" hreflang="hu">
+                  Magyar
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-hy">
+                <a href="//hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A5%D5%B4%D5%A1%D5%B6%D5%A5%D6%80%D5%A5%D5%B6" title="?????????? — armena" lang="hy" hreflang="hy">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-is">
+                <a href="//is.wikipedia.org/wiki/Alemann%C3%ADska" title="Alemanníska — islanda" lang="is" hreflang="is">
+                  Íslenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-it">
+                <a href="//it.wikipedia.org/wiki/Tedesco_alemanno" title="Tedesco alemanno — itala" lang="it" hreflang="it">
+                  Italiano
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ja">
+                <a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%9E%E3%83%B3%E8%AA%9E" title="????? — japana" lang="ja" hreflang="ja">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ko">
+                <a href="//ko.wikipedia.org/wiki/%EC%95%8C%EB%A0%88%EB%A7%8C%EC%96%B4" title="???? — korea" lang="ko" hreflang="ko">
+                  ???
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-la">
+                <a href="//la.wikipedia.org/wiki/Dialecti_Alemannicae" title="Dialecti Alemannicae — latino" lang="la" hreflang="la">
+                  Latina
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lb">
+                <a href="//lb.wikipedia.org/wiki/Alemannesch" title="Alemannesch — luksemburga" lang="lb" hreflang="lb">
+                  Lëtzebuergesch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lij">
+                <a href="//lij.wikipedia.org/wiki/Tedesco_alemanno" title="Tedesco alemanno — Ligure" lang="lij" hreflang="lij">
+                  Ligure
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lmo">
+                <a href="//lmo.wikipedia.org/wiki/Lengua_todesca_alemanna" title="Lengua todesca alemanna — lumbaart" lang="lmo" hreflang="lmo">
+                  Lumbaart
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ln">
+                <a href="//ln.wikipedia.org/wiki/Lialemaniki" title="Lialemaniki — lingala" lang="ln" hreflang="ln">
+                  Lingála
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-lt">
+                <a href="//lt.wikipedia.org/wiki/Aleman%C5%B3_tarm%C4%97s" title="Aleman? tarm?s — litova" lang="lt" hreflang="lt">
+                  Lietuvi?
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-nl">
+                <a href="//nl.wikipedia.org/wiki/Alemannisch" title="Alemannisch — nederlanda" lang="nl" hreflang="nl">
+                  Nederlands
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-no">
+                <a href="//no.wikipedia.org/wiki/Alemannisk" title="Alemannisk — norvega" lang="no" hreflang="no">
+                  Norsk bokmål
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pl">
+                <a href="//pl.wikipedia.org/wiki/Dialekt_alema%C5%84ski" title="Dialekt alema?ski — pola" lang="pl" hreflang="pl">
+                  Polski
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pms">
+                <a href="//pms.wikipedia.org/wiki/Lenga_alem%C3%A0nica" title="Lenga alemànica — Piedmontese" lang="pms" hreflang="pms">
+                  Piemontèis
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pnb">
+                <a href="//pnb.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%86%DB%8C" title="????? — Western Punjabi" lang="pnb" hreflang="pnb">
+                  ??????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-pt">
+                <a href="//pt.wikipedia.org/wiki/Alem%C3%A3o_alem%C3%A2nico" title="Alemão alemânico — portugala" lang="pt" hreflang="pt">
+                  Português
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-rm">
+                <a href="//rm.wikipedia.org/wiki/Lingua_alemanna" title="Lingua alemanna — roman?a" lang="rm" hreflang="rm">
+                  Rumantsch
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ru">
+                <a href="//ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BC%D0%B0%D0%BD%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="??????????? ??????? — rusa" lang="ru" hreflang="ru">
+                  ???????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sco">
+                <a href="//sco.wikipedia.org/wiki/Alemannic_German" title="Alemannic German — Scots" lang="sco" hreflang="sco">
+                  Scots
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-simple">
+                <a href="//simple.wikipedia.org/wiki/Alemannic_German" title="Alemannic German — Simple English" lang="simple" hreflang="simple">
+                  Simple English
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sv">
+                <a href="//sv.wikipedia.org/wiki/Alemanniska" title="Alemanniska — sveda" lang="sv" hreflang="sv">
+                  Svenska
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-sw">
+                <a href="//sw.wikipedia.org/wiki/Kialemani" title="Kialemani — svahila" lang="sw" hreflang="sw">
+                  Kiswahili
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-ta">
+                <a href="//ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AF%87%E0%AE%AE%E0%AE%BE%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AF%81" title="????????? — tamila" lang="ta" hreflang="ta">
+                  ?????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-uk">
+                <a href="//uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B4%D1%96%D0%B0%D0%BB%D0%B5%D0%BA%D1%82" title="??????????? ??????? — ukraina" lang="uk" hreflang="uk">
+                  ??????????
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vec">
+                <a href="//vec.wikipedia.org/wiki/Todesco_a%C5%82eman" title="Todesco a?eman — vèneto" lang="vec" hreflang="vec">
+                  Vèneto
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-vi">
+                <a href="//vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Alemanni" title="Ti?ng Alemanni — vjetnama" lang="vi" hreflang="vi">
+                  Ti?ng Vi?t
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh">
+                <a href="//zh.wikipedia.org/wiki/%E9%98%BF%E5%8B%92%E6%9B%BC%E5%B0%BC%E8%AF%AD" title="????? — ?ina" lang="zh" hreflang="zh">
+                  ??
+                </a>
+              </li>
+              <li class="interlanguage-link interwiki-zh-min-nan">
+                <a href="//zh-min-nan.wikipedia.org/wiki/Aleman-g%C3%AD" title="Aleman-gí — Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">
+                  Bân-lâm-gú
+                </a>
+              </li>
+              <li class="uls-p-lang-dummy">
+                <a href="#">
+                </a>
+              </li>
+            </ul>
+            <div class="after-portlet after-portlet-lang">
+              <span class="wb-langlinks-edit wb-langlinks-link">
+                <a action="edit" href="//www.wikidata.org/wiki/Q131339#sitelinks-wikipedia" text="Redaktu ligilojn" title="Redaktu interlingvajn ligilojn" class="wbc-editpage">
+                  Redaktu ligilojn
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+           ?i tiu pa?o estis lastafoje redaktita je 22:36, 5 Jun. 2014.
+        </li>
+        <li id="footer-info-copyright">
+          La teksto disponeblas la? la permesilo 
+          <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.eo">
+            Krea Komuna?o Atribuite-Samkondi?e 3.0 Neadaptita
+          </a>
+          ; eble aldonaj rajtigoj aplikeblas.
+Vidu la 
+          <a href="https://wikimediafoundation.org/wiki/Terms_of_Use">
+            uzkondi?ojn
+          </a>
+           por detaloj.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/Vikipedio:Respekto_de_la_privateco" title="Vikipedio:Respekto de la privateco">
+            Regularo pri respekto de la privateco
+          </a>
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/Vikipedio:Enkonduko" title="Vikipedio:Enkonduko">
+            Pri Vikipedio
+          </a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a href="/wiki/Vikipedio:Malgarantio" title="Vikipedio:Malgarantio">
+            Malgarantio
+          </a>
+        </li>
+        <li id="footer-places-developers">
+          <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">
+            Developers
+          </a>
+        </li>
+        <li id="footer-places-mobileview">
+          <a href="//eo.m.wikipedia.org/wiki/Alemana_lingvo" class="noprint stopMobileRedirectToggle">
+            Vidigo por porteblaj aparatoj
+          </a>
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="//wikimediafoundation.org/">
+            <img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/>
+          </a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/">
+            <img src="//bits.wikimedia.org/static-1.24wmf7/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31"/>
+          </a>
+        </li>
+      </ul>
+      <div style="clear:both">
+      </div>
+    </div>
+    <script>
+//<![CDATA[
+/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}
+//]]>
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.loader.load(["mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.niceInfoboxes","ext.gadget.EksteraLigilo","ext.gadget.Rekta-ligilo-al-Komunejo","mw.MwEmbedSupport.style","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.flaggedRevs.advanced"],null,true);
+}
+//]]>
+    </script>
+    <script src="/w/index.php?title=MediaWiki:Gadget-PropraProvejo.js&amp;action=raw&amp;ctype=text/javascript&amp;3589761">
+    </script>
+    <script src="//bits.wikimedia.org/eo.wikipedia.org/load.php?debug=false&amp;lang=eo&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*">
+    </script>
+    <script>
+//<![CDATA[
+if(window.mw){
+mw.config.set({"wgBackendResponseTime":402,"wgHostname":"mw1084"});
+}
+//]]>
+    </script>
+  </body>
+</html>

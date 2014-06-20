@@ -1,0 +1,33 @@
+java.lang.RuntimeException: org.apache.http.client.ClientProtocolException
+	at com.gargoylesoftware.htmlunit.WebClient.download(WebClient.java:1969)
+	at com.gargoylesoftware.htmlunit.html.HtmlAnchor.doClickStateUpdate(HtmlAnchor.java:130)
+	at com.gargoylesoftware.htmlunit.html.HtmlAnchor.doClickStateUpdate(HtmlAnchor.java:140)
+	at com.gargoylesoftware.htmlunit.html.HtmlElement.click(HtmlElement.java:1258)
+	at com.gargoylesoftware.htmlunit.html.HtmlElement.click(HtmlElement.java:1205)
+	at org.openqa.selenium.htmlunit.HtmlUnitMouse.click(HtmlUnitMouse.java:75)
+	at org.openqa.selenium.htmlunit.HtmlUnitWebElement.click(HtmlUnitWebElement.java:155)
+	at site_accesser.WebsiteExplorer.processAnchorElements(WebsiteExplorer.java:645)
+	at site_accesser.WebsiteExplorer.exploreWebsite(WebsiteExplorer.java:598)
+	at main.ProcessStarter.startReverseEngineeringProcess(ProcessStarter.java:91)
+	at main.ProcessStarter.main(ProcessStarter.java:16)
+Caused by: org.apache.http.client.ClientProtocolException
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:867)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72)
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:167)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1281)
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1198)
+	at com.gargoylesoftware.htmlunit.WebClient.download(WebClient.java:1965)
+	... 10 more
+Caused by: org.apache.http.ProtocolException: The server failed to respond with a valid HTTP response
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:151)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260)
+	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:283)
+	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:251)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.receiveResponseHeader(ManagedClientConnectionImpl.java:197)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:682)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:486)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	... 15 more

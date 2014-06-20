@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/yt/about/zh-TW/index.html
+RATIOTOTAL:0.02533606858313597
+RATIOPREVIOUS:-0.796
+SELENIUMSTEP:36

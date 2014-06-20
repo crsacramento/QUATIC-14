@@ -1,0 +1,38 @@
+open 
+typeUsername 
+typePassword 
+clickCheckbox 
+clickSubmit pageChange
+open 
+clickCheckbox 
+typeInput 
+clickLink pageChange
+typeFirstName 
+typeEmail 
+typePassword 
+typeVerifyPassword 
+typeLastName 
+clickSubmit pageChange
+clickLink pageChange
+clickLogin pageChange
+clickLink pageChange
+typeInput 
+typeInput 
+typeInput 
+typeInput 
+typeInput 
+typeInput 
+selectUsername 
+open 
+typeInput 
+typeInput 
+typeInput 
+typeInput 
+typeLogin 
+open 
+open 
+open 
+open 
+open 
+open 
+open 

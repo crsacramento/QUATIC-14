@@ -1,0 +1,8 @@
+URL:http://www.youtube.com/results?search_query=banana
+RATIOTOTAL:1.3263073961270813
+RATIOPREVIOUS:-225.889
+SELENIUMSTEP:3
+POSSIBLE-SEARCH-TEXT-BOX://input[@id=masthead-search-term and @class=search-term yt-uix-form-input-bidi and @name=search_query and @type=text]
+POSSIBLE-SEARCH-KEYWORD-IN-URL:banana
+SEARCH-WORD-IN-URL
+NUMBER-OF-KEYWORD-IN-HTML:36

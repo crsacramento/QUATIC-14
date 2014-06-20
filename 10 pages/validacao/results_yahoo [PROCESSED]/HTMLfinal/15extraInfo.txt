@@ -1,0 +1,9 @@
+URL:http://video.search.yahoo.com/search/video?p=Search+videos&fr=yfp-vs-319
+RATIOTOTAL:3.2836337449483213
+RATIOPREVIOUS:-259.369
+SELENIUMSTEP:24
+SEARCH-WORD-IN-URL
+FOUND SEARCH WITH TYPE text, CATEGORY p AND OPTION Search+videos
+FOUND SEARCH WITH TYPE hidden, CATEGORY fr AND OPTION yfp-vs-319
+INPUT-PATTERN-TEXTBOX://input[@id=p_13838465-p and @class=input-query input-long med-large compact-input-enabled and @name=p and @type=text]
+INPUT-PATTERN-TEXT:banana

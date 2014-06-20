@@ -1,0 +1,4 @@
+URL:https://www.facebook.com/r.php?next=https%3A%2F%2Fwww.facebook.com%2Ffind-friends%3Fref%3Dpf&locale=en_US&display=page
+RATIOTOTAL:1.1416743836155794
+RATIOPREVIOUS:36.476
+SELENIUMSTEP:24

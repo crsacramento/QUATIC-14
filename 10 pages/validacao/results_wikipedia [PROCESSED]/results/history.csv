@@ -1,0 +1,58 @@
+open	http://en.wikipedia.org	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/1975_British_Grand_Prix and contains(text(),'1975 British Grand Prix')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Mario_Andretti and contains(text(),'Mario Andretti')]	EMPTY
+type	//input[@id=searchInput and @name=search and @type=search]	coffee
+clickAndWait	//input[@id=mw-searchButton and @class=searchButton mw-fallbackSearchButton and @name=fulltext and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Coffeemaker and contains(text(),'Coffeemaker')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Moka_pot and contains(text(),'Moka pot')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License and contains(text(),'Creative Commons Attribution-ShareAlike License')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history and contains(text(),'View history')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:Contributions/Aervanath and contains(text(),'contribs')]	EMPTY
+clickAndWait	//a[@id=feed-atom and @class=feedlink and @href=http://en.wikipedia.org/w/api.php?action=feedcontributions&user=Aervanath&feedformat=atom and @type=application/atom+xml and contains(text(),'Atom')]	EMPTY
+open	http://en.wikipedia.org	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Karachi and contains(text(),'Karachi')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Ibrahim_Ismail_Chundrigar_Road and contains(text(),'Ibrahim Ismail Chundrigar Road')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Create a book')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=start_book_creator&referer=Ibrahim+Ismail+Chundrigar+Road and contains(text(),'Start book creator')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Clifton_Beach,_Karachi and contains(text(),'Clifton Beach')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Category:Seaside_resorts_in_Pakistan and contains(text(),'Seaside resorts in Pakistan')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:SpecialPages and contains(text(),'Special pages')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:PasswordReset and contains(text(),'Reset password')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Portal:Featured_content and contains(text(),'Featured content')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_picture_candidates and contains(text(),'T')]	EMPTY
+type	//input[@class=searchboxInput and @name=search and @type=text]	sandals
+clickAndWait	//input[@class=searchboxSearchButton and @name=fulltext and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Special:Search]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/w/index.php?title=Special:Search&search=&fulltext=Search&profile=default and contains(text(),'Content pages')]	EMPTY
+type	//input[@id=searchText and @class=mw-ui-input and @name=search and @type=search]	shirt
+clickAndWait	//input[@class=mw-ui-button mw-ui-progressive and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Dress_shirt and contains(text(),'Dress shirt')]	EMPTY
+clickAndWait	//a[@class=mw-redirect and @href=http://en.wikipedia.org/wiki/Collar_stud and contains(text(),'collar studs')]	EMPTY
+clickAndWait	//a[@href=http://en.wikipedia.org/wiki/Help:Contents and contains(text(),'Help')]	EMPTY
+clickAndWait	//a[@href=http://nap.wikipedia.org/wiki/Wikipedia:Aj%C3%B9to and contains(text(),'Napulitano')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Helpo:Enhavo and contains(text(),'Esperanto')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj and contains(text(),'Korektado de ru?aj ligiloj')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Projekto:Korektado_de_ru%C4%9Daj_ligiloj/la%C5%AD_distanco/Esceptoj/O and contains(text(),'esceptoj')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Speciala%C4%B5o:Novaj_pa%C4%9Doj and contains(text(),'Novaj pa?oj')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/w/index.php?title=Aleksandr_Geljevi%C4%89_Dugin&action=history and contains(text(),'historio')]	EMPTY
+clickAndWait	//a[@class=mw-userlink and @href=http://eo.wikipedia.org/wiki/Uzanto:Ri%C5%9Do and contains(text(),'Ri?o')]	EMPTY
+clickAndWait	//a[@class=mw-redirect and @href=http://eo.wikipedia.org/wiki/Alemana and contains(text(),'alemana')]	EMPTY
+clickAndWait	//a[@href=http://eo.wikipedia.org/wiki/Francio and contains(text(),'Francio')]	EMPTY
+clickAndWait	//a[@href=http://frp.wikipedia.org/wiki/France and contains(text(),'Arpetan')]	EMPTY
+clickAndWait	//a[@href=http://or.wikipedia.org/wiki/%E0%AC%AB%E0%AD%8D%E0%AC%B0%E0%AC%BE%E0%AC%A8%E0%AD%8D%E0%AC%B8 and contains(text(),'?????')]	EMPTY
+clickAndWait	//a[@href=http://ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%86%D8%B3%D8%A7 and contains(text(),'???????')]	EMPTY
+clickAndWait	//a[@class=mw-redirect and @href=http://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9 and contains(text(),'??????????????')]	EMPTY
+clickAndWait	//a[@class=new and @href=http://ar.wikipedia.org/w/index.php?title=Alguerese&action=edit&redlink=1 and contains(text(),'Alguerese')]	EMPTY
+type	//input[@id=wpAntispam and @name=wpAntispam and @type=text]	shirt
+clickAndWait	//input[@id=wpSave and @name=wpSave and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86 and contains(text(),'???????')]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Fulfulde')]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/w/index.php?title=Wikipedia:Accueil&action=edit&section=58 and contains(text(),'ta?to')]	EMPTY
+type	//input[@id=wpSummary and @class=mw-summary and @name=wpSummary and @type=text]	coffee
+clickAndWait	//input[@id=wpPreview and @name=wpPreview and @type=submit]	EMPTY
+type	//textarea[@id=wpTextbox1 and @name=wpTextbox1]	banana
+clickAndWait	//input[@id=wpDiff and @name=wpDiff and @type=submit]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Wikipedia:Accueil and contains(text(),'Tar')]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'email')]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Envoyer_un_courriel/Keegan_(WMF) and contains(text(),'Hello heeriingo')]	EMPTY
+clickAndWait	//a[@href=http://ff.wikipedia.org/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales and contains(text(),'Kelle keerii?e')]	EMPTY

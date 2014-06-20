@@ -1,0 +1,4 @@
+URL:http://ar.wikipedia.org/w/index.php?title=Alguerese&action=edit&redlink=1
+RATIOTOTAL:1.2262079990992374
+RATIOPREVIOUS:-292.149
+SELENIUMSTEP:45

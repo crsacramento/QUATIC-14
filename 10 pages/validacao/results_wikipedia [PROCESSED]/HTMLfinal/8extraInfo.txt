@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/w/index.php?title=Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License&action=history
+RATIOTOTAL:0.6706175514150378
+RATIOPREVIOUS:62.064
+SELENIUMSTEP:9

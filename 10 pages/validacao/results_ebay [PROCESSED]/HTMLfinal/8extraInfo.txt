@@ -1,0 +1,4 @@
+URL:http://www.ebay.com/sch/ebayadvsearch/?rt=nc
+RATIOTOTAL:0.5979053629066774
+RATIOPREVIOUS:80.815
+SELENIUMSTEP:10

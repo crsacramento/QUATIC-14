@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Special:SpecialPages
+RATIOTOTAL:0.19687611859162416
+RATIOPREVIOUS:24.56
+SELENIUMSTEP:19

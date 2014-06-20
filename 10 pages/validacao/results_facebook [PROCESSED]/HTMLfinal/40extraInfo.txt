@@ -1,0 +1,4 @@
+URL:https://m.facebook.com/about/privacy/your-info-on-other?refid=69#platform
+RATIOTOTAL:0.37041794702030456
+RATIOPREVIOUS:-24.137
+SELENIUMSTEP:55

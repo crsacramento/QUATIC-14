@@ -1,0 +1,4 @@
+URL:http://en.wikipedia.org/wiki/Clifton_Beach,_Karachi
+RATIOTOTAL:0.3433436698768978
+RATIOPREVIOUS:-39.918
+SELENIUMSTEP:17

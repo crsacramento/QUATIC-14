@@ -1,0 +1,4 @@
+URL:https://login.yahoo.com/config/login?.src=ymbr&.intl=us&.lang=en-US&.done=https://login.yahoo.com/config/login%3f.src=ymbr%26.intl=us%26.lang=en-US%26.done=https%3a//login.yahoo.com/config/login%253f.src=ymbr%2526.intl=us%2526.lang=en-US%2526.done=https%253a//login.yahoo.com/config/login%25253f.src=ymbr%252526.intl=us%252526.lang=en-US%252526.done=https%25253a//edit.europe.yahoo.com/forgotroot%2525253fdone=http%252525253A%252525252F%252525252Fmail.yahoo.com%25252526src=ym%25252526partner=%25252526intl=us%25252526lang=en-US
+RATIOTOTAL:0.13447201931339528
+RATIOPREVIOUS:1.687
+SELENIUMSTEP:40

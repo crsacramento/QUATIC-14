@@ -1,0 +1,6 @@
+URL:http://finance.yahoo.com/lookup;_ylc=X3oDMTJiN2ZiM2ZzBGtleXcDRW50ZXIrY29tcGFueS90aWNrZXIEbWlkA21lZGlhcXVvdGVzc2VhcmNoBHNlYwNnZXRxdW90ZXNidG4Ec2xrA2xvb2t1cA--?s=Enter+company/ticker
+RATIOTOTAL:2.7384896638729934
+RATIOPREVIOUS:-364.667
+SELENIUMSTEP:3
+INPUT-PATTERN-TEXTBOX://input[@class=videos-input p-xs pt-s mt-xs fz-xs w-100 videos-input-inactive and @name=p and @type=text]
+INPUT-PATTERN-TEXT:coffee

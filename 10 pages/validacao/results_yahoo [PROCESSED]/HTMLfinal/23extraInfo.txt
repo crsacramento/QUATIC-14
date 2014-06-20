@@ -1,0 +1,4 @@
+URL:https://screen.yahoo.com/snl/black-jeopardy-055848289.html
+RATIOTOTAL:1.8575930453639449
+RATIOPREVIOUS:7.235
+SELENIUMSTEP:32

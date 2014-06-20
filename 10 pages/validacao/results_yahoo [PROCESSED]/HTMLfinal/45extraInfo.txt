@@ -1,0 +1,4 @@
+URL:https://login.yahoo.com/config/login?.src=ymbr&.intl=us&.lang=en-US&.done=https://na.edit.yahoo.com/registration%3f.pd=ym_ver%25253D0%252526c%25253D%252526ivt%25253D%252526sg%25253D%26intl=us%26origIntl=%26done=http%253A%252F%252Fmail.yahoo.com%26src=ym%26last=%26partner=yahoo_default%26wl=%26wlcr=%26_asdk_embedded=%26create_alias=%26.scrumb=%26domain=%26yahooid=%26lang=en-US%26fsredirect=1%26fs=Dw55mKaHafC14Rw6SEAUL65.Yfi8zC8OJITigvknlj9a9Sh3ApQDH3a7d5MV0FOfcgLcv1sg
+RATIOTOTAL:1.38730307712069
+RATIOPREVIOUS:1.553
+SELENIUMSTEP:62

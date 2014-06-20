@@ -1,0 +1,80 @@
+open 
+type 
+clickSubmit pageChange
+select 
+clickSubmit pageChange
+clickLink pageChange
+clickLink pageChange
+typeSearch 
+clickSubmit pageChange
+clickButtonLink pageChange
+type 
+clickSubmit pageChange
+type 
+open 
+typeSearch 
+clickSubmit pageChange
+clickLogin pageChange
+clickLogin pageChange
+typeLogin 
+typePassword 
+clickSubmit pageChange
+open 
+typeSearch 
+clickSubmit pageChange
+clickLink pageChange
+clickLanguageLink pageChange
+clickLanguageLink pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickHomeLink pageChange
+clickLink pageChange
+clickLink pageChange
+typeNumberInput 
+clickSubmit pageChange
+clickLanguageLink pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+typeFirstNameInput 
+clickSubmit pageChange
+clickLink pageChange
+typeNumberInput 
+open 
+typeLastNameInput 
+open 
+typeNumberInput 
+open 
+clickLink pageChange
+select 
+typeNumberInput 
+open 
+clickLink pageChange
+typeSearch 
+clickSubmit pageChange
+clickLink pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickLanguageLink pageChange
+select 
+clickLogin pageChange
+clickLogin pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickLanguageLink pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange
+clickLogin pageChange

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>
+      Tudu Lists
+    </title>
+    <meta http-equiv="content-type" content="text/javascript; charset=utf-8"/>
+    <meta http-equiv="content-script-type" content="text/javascript"/>
+    <meta name="Keywords" content="Tudu Lists, tudu, free, Open Source, todo, Todo List, Todo Lists, Sourceforge, Spring, Spring Framework, Java, J2EE, AJAX, DWR"/>
+    <meta name="Description" content="Tudu Lists is a free (non-commercial) on-line application for managing todo lists."/>
+    <link rel="shortcut icon" href="http://tudu.sourceforge.net/static/2.2/images/favicon.ico"/>
+    <link rel="icon" type="image/gif" href="http://tudu.sourceforge.net/static/2.2/images/animated_favicon.gif"/>
+    <link rel="stylesheet" type="text/css" href="http://tudu.sourceforge.net/static/2.2/css/global.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://tudu.sourceforge.net/static/2.2/css/tabs.css"/>
+    <link rel="stylesheet" type="text/css" media="all" href="http://tudu.sourceforge.net/static/2.2/css/calendar-blue.css" title="calendar-blue"/>
+    <script type="text/javascript">
+//<![CDATA[
+
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      var pageTracker = _gat._getTracker("UA-324138-4");
+      pageTracker._initData();
+      pageTracker._trackPageview();
+      function tracker(ajaxCall) { pageTracker._trackPageview(ajaxCall); }
+     
+//]]>
+    </script>
+    <script type="text/javascript" src="http://tudu.sourceforge.net/static/2.2/scripts/tabs.js">
+    </script>
+    <script type="text/javascript" src="http://tudu.sourceforge.net/static/2.2/scripts/scriptaculous/prototype.js">
+    </script>
+    <script type="text/javascript" src="http://tudu.sourceforge.net/static/2.2/scripts/scriptaculous/scriptaculous.js">
+    </script>
+  </head>
+  <body onload="initMenu();">
+    <table width="100%">
+      <tbody>
+        <tr>
+          <td width="152">
+            <a href="http://tudu.sourceforge.net">
+              <img src="http://tudu.sourceforge.net/static/2.2/images/tudu_logo.png" alt="Tudu Lists" width="150" height="30" border="0"/>
+            </a>
+          </td>
+          <td>
+            <ul class="menuList">
+              <li>
+                <a href="/tudu/welcome.action" title="Welcome">
+                  Welcome
+                </a>
+              </li>
+              <li>
+                <a href="/tudu/register.action" title="Register">
+                  Register
+                </a>
+              </li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <table align="center" id="page">
+      <tbody>
+        <tr>
+          <td>
+            <div id="title">
+              Tudu Lists v. 2.3
+            </div>
+          </td>
+          <td/>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <div id="content">
+              <h3>
+                Goodbye!
+              </h3>
+              <div align="center">
+                
+ You have left Tudu Lists.
+ 
+                <br/>
+                <br/>
+                <a href="/tudu/welcome.action">
+                  Click here if you want to reconnect
+                </a>
+              </div>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td id="sourceforge">
+            <a href="http://tudu.sourceforge.net">
+              <img src="http://sourceforge.net/sflogo.php?group_id=131842&amp;type=1" width="88" height="31" border="0" alt="SourceForge.net"/>
+            </a>
+          </td>
+          <td id="bug">
+            <img src="http://tudu.sourceforge.net/static/2.2/images/bug.png"/>
+             Did you find a bug? Thanks for 
+            <a href="http://sourceforge.net/tracker/?group_id=131842">
+              submitting it
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

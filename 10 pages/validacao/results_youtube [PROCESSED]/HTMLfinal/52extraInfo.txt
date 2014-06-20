@@ -1,0 +1,4 @@
+URL:http://www.youtube.com/yt/copyright/bn/index.html
+RATIOTOTAL:0.05121164395018802
+RATIOPREVIOUS:-0.776
+SELENIUMSTEP:58
